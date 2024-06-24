@@ -10,3 +10,6 @@ Then, we assign a hierarchy level (1-7) to the headings. The output can be used 
 </ul>
 
 Currently, we are adding all resources. Stay tuned for just a few days more!
+
+## License
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International license](LICENSE_DATA.md), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE).
