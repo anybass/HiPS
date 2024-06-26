@@ -25,7 +25,7 @@ You can find the dataset here:
 
 ### Pdfstructure
 1. Get the repo from here: [https://github.com/ChrizH/pdfstructure](https://github.com/ChrizH/pdfstructure)
-2. Replicate the folder structure from this repository, and insert the current code of pdfstructure in the folder: [./pdfstructure-master/pdfstructure/](./pdfstructure-master/pdfstructure/)
+2. Replicate the folder structure from this repository, and insert the current code of pdfstructure in the folder: [./pdfstructure-master/pdfstructure/](./pdfstructure-master/)
 3. Fix the bug that may still be in pdfminer (otherwise almost no PDF will process). Follow the instruction in [./pdfstructure-master/bugfixing_modification_in_pdfminer.txt](./pdfstructure-master/bugfixing_modification_in_pdfminer.txt).
 4. [extract_structure.ipynb](./pdfstructure-master/extract_structure.ipynb)
 
