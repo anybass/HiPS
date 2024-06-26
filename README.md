@@ -13,7 +13,7 @@ Here, you will find:
 
 ## Dataset
 You can find the dataset here:
-- The [Original PDF files](./data/PDFs/) (see [attribution](./data/data_sources.csv) ) and [license information]((LICENSE\_DATA.md)) 
+- The [Original PDF files](./data/PDFs/) (see [attribution](./data/data_sources.csv) ) and [license information](LICENSE_DATA.md) 
 - The [Ground Truth Dataset](./data/GT_TOCs/), with the following format:
   - Level, Heading, Page
     
