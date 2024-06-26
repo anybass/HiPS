@@ -1,0 +1,113 @@
+﻿1,The Role of the Patent System in Stimulating Innovation and Technology Transfer for Climate Change,1
+1,Acknowledgment,8
+1,Abstract,9
+1,Table of Contents,10
+1,I. Introduction,14
+2,A. Connecting IP with Climate Change,14
+2,B. Purpose of Research,14
+1,II. Defining Green Technology,16
+2,A. Green Technology,16
+3,1. What is Green Technology?,16
+3,2. Facts and Trends in Green Patent Filing,17
+3,3. Increasing Investment and Technology Transfer,19
+1,III. Background: International Legal Framework for Climate Change,22
+2,A. Green Technology Innovation and Diffusion under International Law,22
+3,1. Declaration of the UN Conference on the Human Environment (1972),22
+3,2. Agenda 21 (1992),22
+3,3. Convention on Biological Diversity (1993),22
+3,4. UN Framework Convention on Climate Change (1994),23
+4,a) Responsibility for Vulnerable Countries,24
+4,b) Push Factors,24
+4,c) Expert Group on Transfer of Technology,25
+4,d) Bali Action Plan and Technology Transfer,25
+4,e) Ad Hoc Working Group on Long-term Cooperative Action,25
+3,5. UN Convention to Combat Desertification (1996),27
+3,6. Kyoto Protocol (1997),27
+2,B. Compatibility with TRIPS Flexibilities,28
+3,"1. Technology Transfer Obligation under TRIPS Articles 7, 8(1) and 66(2)",28
+3,2. Exceptions to Rights under TRIPS Article 30,28
+3,3. Compulsory Licensing under TRIPS and Beyond,30
+4,a) For Public Health,30
+4,b) For Climate Change?,31
+1,IV. Role of the Patent System,34
+2,A. Role of Patent Law,34
+3,1. TRIPS Article 27(2) and Ordre Public,34
+3,2. Business Method Patents: Bilski and Carbon Trading Inventions,37
+3,3. Novelty and ‘Green’ Indication of a Known Substance,39
+3,4. Non-obviousness: KSR and Green Technology,40
+3,5. ‘Greenness’ and Utility Requirements,41
+2,B. Role of Patent Policy,42
+3,1. Activities by WIPO and Patent Offices,43
+4,a) World Intellectual Property Organization,43
+5,(1) Patent Cooperation Treaty,43
+5,(2) Patent Classification: Catchword Index for Environmentally Sound Technology,44
+5,(3) WIPO Development Agenda and Climate Change,44
+4,b) Fast-tracking Services,45
+5,(1) UK Intellectual Property Office: Green Channel,45
+5,(2) USPTO: Green Technology Pilot Program,46
+5,(3) Preferential Treatment for Patenting Green Inventions,46
+6,(a) Benefits of Early Patenting,46
+6,(b) Non-discrimination under TRIPS Article 27(1),48
+6,(c) Alternative: Verifying ‘Greenness’ Independent from Patent Grant,50
+4,c) Information Services,50
+5,(1) European Patent Office,51
+6,(a) Patents and Clean Energy Project,51
+6,(b) Classification Scheme for Clean Energy Technologies,52
+5,(2) Opportunities Provided by Patent Information,52
+5,(3) Licensing Best Practices,53
+1,V. Green Technology Transfer and IP,58
+2,A. Initiatives by IP Communities,58
+3,1. Eco-Patent Commons,58
+3,2. Japan Intellectual Property Association Proposal,59
+3,3. Open Innovation: GreenXchange,60
+2,B. IP Issues in Green Technology Transfer,61
+3,1. Effects of Non-assertion Commitments,61
+3,2. IP Ownership in R&D Collaboration,62
+3,3. Financing Innovation and Patenting Costs,63
+1,VI. Balancing IP and Competition,66
+2,A. Patent Litigation and Developments in Law and Practices,66
+3,1. GE’s ’039 Patent,66
+3,2. Patent Law and Practices,68
+2,B. Standardization and Patent Pooling,69
+3,1. Green Technology Standards and Patent Pools,69
+3,2. The Unocal Case: Abuse in Law of Environmental Standards,70
+3,3. Green Technology Standards and IP Policies,71
+1,VII. Conclusion,78
+1,List of Works Cited,80
+2,Articles,80
+2,Books,81
+2,Cases,82
+3,Europe:,82
+3,United States:,82
+2,Governmental, Non-Governmental or Inter-Governmental Sources:,83
+3,ANSI (American National Standards Institute):,83
+3,ASTM (American Society for Testing and Materials):,83
+3,AWEA (American Wind Energy Association):,83
+3,CBD:,83
+3,CENELEC (European Committee for Electrotechnical Standardization):,83
+3,EPO:,84
+3,IEC (International Electrotechnical Commission):,85
+3,IPCC:,85
+3,ISO:,85
+3,JPO:,85
+3,OECD:,85
+3,SAC (Standardization Administration of the People’s Republic of China):,85
+3,SEMI (Semiconductor Equipment and Materials International):,85
+3,SIPO:,86
+3,UKIPO:,86
+3,UN:,86
+3,UNFCCC:,86
+3,UNITAID:,87
+3,USEPA:,87
+3,USPTO:,87
+3,WIPO:,87
+3,World Bank:,88
+3,WTO:,88
+2,Reports:,88
+2,News media:,89
+3,Bloomberg:,89
+3,Reuters:,89
+3,The New York Times:,89
+3,Press Releases:,89
+2,The Internet, Electronic Media and Other Nonprint Resources:,90
+2,Other Unpublished or Forthcoming Sources:,90

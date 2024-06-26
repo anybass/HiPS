@@ -1,0 +1,169 @@
+﻿1,Reconsidering Constitutional Formation II Decisive Constitutional Normativity,1
+1,Studies in the History of Law and Justice,2
+1,Acknowledgements,7
+1,Contents,10
+1,A New Order of the Ages. Normativity and Precedence,12
+2,Contents,12
+2,Abstract,12
+2,1 Novus Ordo Seclorum,15
+2,2 Definitions of Normativity and Precedence,16
+2,3 The Constitutionality of the Colonies’ Legal Argumentation Conducting Their Case like a Common Law Litigation,20
+3,3.1 The British–American Discursive Common Law Community,22
+3,3.2 Customary Old Liberties Against Parliamentary Absoluteness,23
+4,3.2.1 American Sympathies for the Supremacy of Common Law,25
+4,3.2.2 Liberty Defending Common Law Versus Discretion Granting Executive from an American Perspective,30
+3,3.3 No Westminster Legislation on the Internal Colonial Polities,32
+4,3.3.1 Systematic Distinction of ‘Internal’ and ‘External’ Spheres of Colonial Government,33
+4,3.3.2 Specific Matters of the Colonies’ Own Nature Versus General Matters of the Empire,35
+3,3.4 Self-reliance of the British Imperial ‘Constitution’,36
+3,3.5 Legal Force of Custom in the Unsettled Connexion of the Colonies to Britain,41
+2,4 Establishing Constitution as Law,44
+3,4.1 Emergence of the Constituent American People,44
+4,4.1.1 Natural Law ‘Basis and Foundation of Government’,44
+4,4.1.2 Independence from Being Subjects of the ‘Same’ King,46
+4,4.1.3 Constitutional American People of the United Colonies (1776–8),47
+3,4.2 Constitution as Supreme Legal Codex for Central State Issues,51
+4,4.2.1 Focus on the Division of Sovereignty Between Union and Single States,51
+4,4.2.2 The Constitution as Guarantee for the Existence of the Union,52
+4,4.2.3 Constitutional Silence on Precedence,53
+3,4.3 Farewell to the Lockean ‘Inter legislatorem et populum nullus in terris est judex’,56
+2,5 Summary of Sections 3 and 4,60
+2,6 Legal Transition of Philosophical Truths,61
+3,6.1 Sieyès’ Constitutional Jury (jury constituionnaire),63
+4,6.1.1 Constitutional Debates of 2 and 18 Thermidor III (20 July and 5 August 1795),67
+5,‘Jury de Cassation’,69
+5,‘Jury de Proposition’,70
+5,‘Jury of Natural Equity’,73
+4,6.1.2 Communicative Implications of the Jury’s Attributions in the Thermidorian Constitutional Debates,73
+5,‘Jury de Cassation’,73
+5,‘Jury de Proposition’,75
+5,‘Jury of Natural Equity’,76
+3,6.2 Defeat of Sieyès’ Jury Proposal and Its Consequences on the French Constitutional Jurisdiction,79
+2,"7 Avenues of New Constitutional Research: Sketching Germany, 1848–9",82
+3,7.1 Juridification Matters in the Public Sphere Around the Constituent St. Paul’s Church Assembly,84
+3,7.2 Supremacy Matters in the Public Sphere Around the Constituent St. Paul’s Church Assembly,87
+3,7.3 Revision Matters in the Public Sphere Around the Constituent St. Paul’s Church Assembly,92
+2,8 Conclusion,96
+2,References,98
+1,The Development of Constitutional Precedence and the Constitutionalization of Individual Rights,109
+2,Contents,109
+2,Abstract,109
+2,1 Fundamental Laws and Fundamental Rights in the 17th and 18th Centuries and the Invention of the Word “Unconstitutional” in England,110
+2,2 The Dissociation of “Constitutional” from Legislative Power in North America and the “Constitutionalisation” of Individual Rights (Colonies and States up to 1787/88),113
+2,3 Fundamental or Paramount Law on the Federal Level in the United States: Marbury v. Madison 1803 and Obergefell v. Hodges 2015,117
+2,"4 Europe, “Constitutional Complaint” (Verfassungsbeschwerde) and “Individual Complaint” (Individualbeschwerde): Roots 1848 and 1867, Beginnings 1919/1920, Breakthrough After World War II",119
+2,References,121
+1,“To Which Constitution the Further Laws of the Present Sejm Have to Adhere to in All…” Constitutional Precedence of the 3 May System,123
+2,Contents,123
+2,Abstract,123
+2,1 Introduction,124
+2,2 A Note on Terminology,129
+2,3 Characteristic of the Sources,132
+2,4 French Inspirations of Polish Republicans: Drafts of Mably and Rousseau,134
+2,5 The Extraordinary Procedure for Enactment of the Constitution of 3 May: Oath on the Constitution,141
+3,5.1 First Constitutional Works,141
+3,5.2 Enactment of the Government Statute,144
+3,5.3 An Oath on the Constitution,147
+2,6 The Problem of the Supreme Law in the Time of the 3 May Debate,152
+3,6.1 Henrician Articles and Pacta Conventa,152
+3,6.2 Cardinal Laws in Polish Tradition and Legal System,155
+2,7 Relation Between the Constitution and the Ordinary Legislation: Nullification of the Law Contravening to the Constitution,163
+2,8 The Procedure of Constitutional Revision,170
+2,9 Summary,173
+2,10 Summary (Polish),176
+2,References,178
+1,The Codification of the Polish Substantial Criminal Law in the Sejm Debates 1818,183
+2,Contents,183
+2,Abstract,183
+2,1 Introduction,184
+2,2 The Origins of the 1815 Constitution of the Kingdom of Poland,185
+2,3 General Characteristics of the Constitution of 1815,194
+2,4 Regulations in the 1815 Constitution Concerning the Criminal Law,201
+2,5 The Enactment of the Polish Criminal Code of 1818,203
+2,6 The Evaluation of the Congruity of the Criminal Code of 1818 with the 1815 Constitution of the Kingdom of Poland,212
+2,7 Conclusions,215
+2,8 Summary (Polish),216
+2,References,217
+1,Constitutional Precedence and the Genesis of the Belgian Constitution of 1831,220
+2,Contents,220
+2,Abstract,220
+2,1 Introduction,221
+2,2 From Fundamental Law to Belgian Constitution,223
+3,2.1 The Fundamental Law and the Question of Royal Sovereignty,223
+3,2.2 ‘Constitutionals’ Versus ‘Ministerials’: Belgian Constitutional Opposition,229
+3,2.3 Towards a New Legal Order,239
+3,2.4 Constituent Power,245
+3,2.5 The Question of Constitutionality,247
+2,3 Precedence in the Belgian Constitution,251
+3,3.1 Differentiation from Normal Legislation,252
+3,3.2 The Oath on the Constitution,254
+3,3.3 Judicial Review,255
+2,4 Epilogue: Constitutional Discourse After 1831,257
+2,5 Summary (Dutch): Grondwettelijke Voorrang en het Ontstaan van de Belgische Grondwet van 1831,259
+2,6 Summary (French): La Primauté de La Constitution et La Genèse de La Constitution Belge de 1831,260
+2,References,261
+1,Inaugurating a Dutch Napoleon? Conservative Criticism of the 1815 Constitution of the United Kingdom of the Netherlands,266
+2,Contents,266
+2,Abstract,266
+2,1 Introduction,267
+2,2 The Dutch-Belgian Constitution of 1815,269
+2,3 International Context,272
+2,4 The Right to Declare War (Art. 57-58),273
+2,5 Leave Us as We Are: Jan-Jozef Raepsaet the Constitution as a Pactum,276
+2,6 Epilogue: The Eclipse of the Monarchical Principle,279
+2,References,281
+1,Constituent Power and Constitutionalism in 19th Century Norway,284
+2,Contents,284
+2,Abstract,284
+2,"1 What Is a Constitution? Delegation, Octroi or Contract?",285
+2,2 The Case of Norway,287
+2,3 Background: The Constituent Power and the Norwegian 1814 Constitution,288
+3,3.1 The 1814 Constitutional Assembly as the Embodiment of the Constituent Power,288
+3,3.2 International Context and Influences,291
+2,4 Context: The Constituent Power in Post 1814 Restoration Era Europe,292
+3,4.1 The Monarchical Principle and the Constituent Power,292
+3,4.2 The Monarchical Principle and the Separation of Powers,295
+2,5 Who is the Constituent Power? Norwegian Constitutionalism Contested 1824–1884,296
+3,5.1 The Monarchical Principle Introduced to Norway,296
+3,5.2 Contract or Delegation? Competing Views on the Constitution’s Character,300
+3,5.3 The Constituent Power as an Argument for Judicial Review,304
+3,5.4 The Royal Veto Put to the Test,308
+3,5.5 The Impeachment Case of 1883–1884,310
+3,5.6 The Constituent Power Decided,313
+2,6 Conclusion,314
+2,References,315
+2,Records of the Constitutional Assembly in 1814,317
+2,"Records of the Norwegian Parliament and Extraorinary Parliament, Royal Propositions",317
+2,Court Decisions,317
+2,Records of the Court of Impeachment in 1883–1884,318
+2,Treaties,318
+2,"Constitutions, Norway",318
+2,Constitutions,318
+1,In Keeping with the Spirit of the Albertine Statute—Constitutionalisation of the National Unification,320
+2,Contents,320
+2,Abstract,320
+2,1 Overview,321
+2,"2 Constitution, Charte and Statuto: Different Names for the Same Thing?",323
+2,3 Albertine Statute as Fundamental Law,325
+3,3.1 The Albertine Statute by Means of Its Preamble,326
+3,3.2 Constitutional/Unconstitutional Law in Parliamentary Acts,329
+2,4 Theories on Constitutional Revision,331
+3,4.1 Immutability of the Constitution and Constituent Power,332
+3,4.2 Omnipotence of Parliament,336
+3,4.3 Intermediate Theory,338
+2,5 Flexibility and Elasticity of the Constitution in the Legal Debate,340
+2,"6 Interpreting the Constitution: Letter of Statute, Customs and Practice",343
+2,7 National Unification by Constitutionalisation,345
+2,8 Epilogue,350
+2,9 Summary (Italian),352
+2,References,354
+1,Legal Hierarchies in the Works of Hans Kelsen and Adolf Julius Merkl,362
+2,Contents,362
+2,Abstract,362
+2,References,370
+1,"Appendix A Emmanuel Joseph Sieyès, Du Jury Constitutionnaire (an III) Presented on 18 Thermidor III (5 August 1795)",372
+1,"Appendix B Emmanuel Joseph Sieyès, Du Jury Constitutionnaire (an III) Presented on 18 Thermidor III (5 August 1795)",376
+1,"Appendix C Projet de Constitution pour le Royaume de Pologne, 1812",380
+1,"Appendix D Projet de Constitution pour le Royaume de Pologne, 1812 Draft of the Constitution of the Kingdom of Poland 1812",395
+1,About the Authors,412
+1,Index,415

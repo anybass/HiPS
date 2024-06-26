@@ -1,0 +1,207 @@
+﻿1,"Consumer Data Protection in Brazil, China and Germany",1
+2,Table of Contents,7
+2,Chapter 1 Study Structure,13
+3,A. Project Summary,13
+3,B. Research Activities,15
+3,C. General Overview of the Study,16
+2,"Chapter 2 Country Studies on Consumer Data Protection (Brazil, China, Germany) and International Initiatives",19
+3,A. Consumer Data Protection in Brazil (Prof. Dr. Danilo Doneda),19
+4,I. Introduction,19
+4,II. Overview and scope of legislation addressing consumer data protection,20
+5,1. Character of legislation,20
+5,2. General legal framework for consumer data protection,23
+5,3. Telecommunication,23
+5,4. Banks,24
+5,5. Media-related acts,24
+5,6. Specific acts for e-commerce,24
+4,III. Applicability of data protection acts,25
+4,IV. Definitions of consumer and data,26
+4,V. General guiding principles,28
+4,"VI. Collecting, storing and processing consumer data",30
+4,VII. Approaches to consent,30
+4,VIII. Publicity and transparency,31
+4,IX. Data security,32
+4,"X. Data control, data portability and the right to access, modify and delete collected data",32
+4,XI. Roles and responsibilities of intermediaries,33
+4,XII. Access to user data by third parties,34
+4,XIII. Provisions on data retention,34
+4,"XIV. Transfer of data on an international scale, transfer to third countries and requirements for data transfer outside the country",36
+4,XV. Enforcement,36
+5,1. Civil law,38
+5,2. Criminal law,39
+5,3. Administrative law,39
+4,XVI. Role of self-regulation and co-regulation,40
+3,B. Consumer Data Protection in China (Prof. Dr. Zhou Hanhua),41
+4,I. Introduction,41
+4,II. Overview and scope of legislation addressing consumer data protection,42
+5,1. Character of the legislation,42
+5,2. General legal framework for consumer data protection,47
+5,3. Telecommunication,50
+5,4. Banks,51
+5,5. Media-related acts,53
+5,6. Specific acts for e-commerce,54
+4,III. Applicability of data protection acts,55
+4,IV. Definition of consumer and data,56
+4,V. General guiding principles,57
+4,"VI. Collecting, storing and processing consumer data",59
+4,VII. Approaches to consent,60
+4,VIII. Publicity and transparency,62
+4,IX. Data security,63
+4,"X. Data control, data portability and the right to access, modify and delete collected data",64
+4,XI. Roles and responsibilities of intermediaries,65
+4,XII. Access to user data by third parties,68
+4,XIII. Provisions on data retention,69
+4,"XIV. Transfer of data on an international scale, transfer to third countries and requirements for data transfer outside the country",70
+4,XV. Enforcement,70
+5,1. Civil law,70
+5,2. Criminal law,72
+5,3. Administrative law,74
+4,XVI. Role of self-regulation and co-regulation,76
+3,C. Consumer Data Protection in Germany (Prof. Dr. Gerald Spindler),77
+4,I. Introduction,77
+4,II. Overview and scope of legislation addressing consumer data protection,78
+5,1. Character of the legislation,78
+5,2. General legal framework for consumer data protection,82
+5,3. Telecommunication,82
+5,4. Specific acts for e-commerce,82
+4,III. Applicability of data protection acts,83
+4,IV. Definitions of consumer and data,87
+5,1. Personal data under the Data Protection Directive,88
+6,a. Definition of personal data,88
+6,"b. Anonymized, pseudonymized and encrypted data",88
+6,c. Absolute and relative approach to the identifiablity of persons,89
+5,2. Personal data under the General Data Protection Regulation,94
+4,V. Basic concepts,97
+4,"VI. Collecting, storing and processing consumer data",100
+4,VII. Approaches to consent,101
+5,1. Informed consent according to the Data Protection Directive,102
+5,2. Informed consent and obligation of transparency under the General Data Protection Regulation,103
+4,VIII. Publicity and transparency,105
+5,1. Information,105
+5,2. Notification,106
+5,3. Privacy by design and default,106
+5,4. Privacy seal,107
+4,IX. Data security,108
+4,"X. Data control, data portability and the right to access, modify and delete data collected",109
+4,XI. Roles and responsibilities of intermediaries,110
+5,1. Controller and processor under the Data Protection Directive,111
+6,a. The controller,111
+6,b. Joint controlling,111
+6,c. Processing on behalf of the controller,113
+5,2. Controller and processor under the General Data Protection Regulation,118
+6,a. Rules for the controller,118
+6,b. Joint controllers,119
+6,c. Rules regarding the processor,119
+4,XII. Access to user data by third parties,121
+4,XIII. Provisions on data retention,121
+4,"XIV. Transfer of data on an international scale, transfer to third countries and requirements for data transfer outside the country",122
+5,1. By processor outside the EU/European Economic Area (EEA),122
+5,2. Data transfer to third countries,122
+6,a. Data Protection Directive,122
+6,b. General Data Protection Regulation,126
+6,c. Place of jurisdiction,129
+6,d. Third-country actions against data controllers,129
+4,XV. Enforcement,131
+5,1. Civil law,131
+5,2. Criminal law,132
+5,3. Administrative law,133
+5,4. The Data Protection Officer,134
+6,a. The position of the Data Protection Officer,135
+6,b. Rights and powers of the Data Protection Officer,136
+6,c. Independence of the Data Protection Officer and the special dismissal protection,136
+6,d. Status and duties of the Data Protection Officer towards the data protection supervisory authority,137
+6,e. The Data Protection Officer and the proposal for a General Data Protection Regulation,138
+4,XVI. Role of self-regulation and co-regulation,139
+3,D. Review of International Initiatives on Consumer Data Protection (Consumers International),140
+4,I. UN Guidelines for Consumer Protection,140
+4,II. OECD Guidelines,141
+4,III. The Global Privacy Enforcement Network (GPEN),147
+4,IV. Convention 108,151
+4,V. Regional Initiatives,153
+5,1. Asia Pacific Economic Cooperation (APEC),153
+5,2. Association of South East Asian Nations (ASEAN),155
+5,3. Economic Commission for Latin America and the Caribbean (ECLAC),156
+2,"Chapter 3 Law in Practice: Current Issues, Challenges and Case-Law for the Enforcement of Laws and Regulations on Consumer Data Protection",159
+3,A. Current Judicial and Administrative Issues of Consumer Data Protection in Brazil (Prof. Dr. Danilo Doneda),159
+4,I. Credit scoring,159
+5,1. Case,160
+5,2. Concept of credit scoring,161
+5,3. Credit risk assessment in general contracts,162
+5,4. Regulation of consumer credit databases in the Consumer Defense Code,162
+5,5. Positive Credit Information Law (Law No. 12.414 of 2011),163
+5,6. Legality of the credit scoring system,165
+5,7. Limitation: privacy and transparency,165
+5,8. Moral damages,166
+4,II. Consumer rights violations databases,166
+5,1. Sindec,166
+5,2. Consumidor.gov.br,167
+6,a. Wal-Mart,167
+6,b. Internet connection services,168
+3,B. Current Consumer Data Protection Issues Before Chinese Tribunals (Prof. Dr. Zhou Hanhua),169
+4,I. Civil claims,169
+5,1. Illegal collection and use of personal information,169
+5,2. Disclosure and illegal release of customers’ personal information,170
+6,Sun Weiguo v. China United Network Communications Limited Shanghai Branch,170
+6,Zheng Yang v. Tianjin Airline Ltd. and Zhejiang Taobao Ltd.,171
+6,Wang Jinlong v. Hanting Hotel Management Co. Ltd.,172
+6,Yan v. Sina and Baidu,173
+5,3. Sending electronic advertisements without customers’ prior consent,174
+5,4. The boundaries of the legal protection of privacy,175
+4,II. Criminal justice,176
+5,1. Acquiring personal information,176
+6,The Case of Lai Illegally Acquiring the Personal Information of Others,176
+6,The Case of Zhang 1 and Zhang Illegally Acquiring Mobile Phone Position Information,177,
+6,The Case of Xu Zeru Illegally Providing Citizens’ Personal Information,177
+6,The Case of Tan Haodong Illegally Acquiring Citizens’ Personal Information,178
+6,Analysis and Conclusion of Cases,178
+5,2. Selling and illegally providing citizens’ personal information,179
+6,The Case of Zhong Donghang Illegally Acquiring Citizens’ Personal Information,180
+6,The Case of Wang Selling Citizens’ Personal Information,180
+6,The Case of Chen Selling Citizens’ Personal Information,180
+6,Analysis and Conclusion of Cases,181
+5,3. Criminal means of illegally acquiring citizens’ personal information,181
+6,The Case of Zhang and Yang Illegally Acquiring Citizens’ Personal Information,182
+6,The Case of Wen Tao Illegally Acquiring Citizens’ Personal Information,182
+6,The Case of Yang and Xiao Illegally Acquiring Citizens’ Personal Information,182
+6,Analysis and Conclusion of Cases,183
+5,4. “Aggravated circumstances”,183
+4,III. Administrative enforcement of law,185
+3,C. Current Issues and Case Law Concerning Consumer Data Protection in Germany and Europe (Prof. Dr. Gerald Spindler),187
+4,I. Data protection in social networks,187
+4,II. Credit scoring,187
+4,III. Cloud computing,190
+4,IV. “Big data”,191
+4,V. Profiling,192
+4,VI. Unsolicited e-mails,195
+4,VII. Rating platforms,196
+4,VIII. The right to be forgotten,198
+4,IX. Data Retention,199
+3,D. Challenges of New Technologies for Consumer Data Protection (Privacy International with Consumers International),201
+4,I. Cloud Storage,202
+4,II. Cloud Computing,203
+4,III. Big data,203
+4,IV. Social Media,204
+4,V. Internet of Things,204
+4,"VI. Smart Cities, Buildings and People",204
+4,VII. Privacy friendly technologies,205
+4,VIII. Disk encryption,205
+4,IX. Browse configurations and Ad-blocks,205
+4,X. HTTPS/TLS,206
+4,XI. Virtual Private Networks (VPNs),206
+4,XII. The Onion Router (TOR),206
+4,XIII. Off the Record (OTR),207
+2,Chapter 4 Comparative Thematic Issues of Consumer Data Protection,209
+3,I. Fundamentals and the existing legal framework,209
+3,II. Applicability of data protection acts,210
+4,1. Applicability to cross-border cases,211
+4,2. Applicability on the national level,212
+3,III. Personal data,212
+3,IV. General guiding principles,213
+3,"V. Restrictions to the collection, processing and transfer of (consumer) data",217
+3,VI. Approaches towards the principle of consent,218
+3,VII. Transparency,219
+3,VIII. Responsibility,221
+3,IX. International transfer of data,224
+3,X. Data retention,224
+3,XI. Enforcement,225
+3,XII. Self-regulation and co-regulation,227

@@ -1,0 +1,380 @@
+﻿1,Intellectual Property in the Global Arena,4
+1,Preface,6
+1,Table of Contents,8
+1,Contributors,10
+1,Part 1: Foundations,12
+2,Foundations of Private International Law in Intellectual Property,14
+3,I. Introduction,14
+3,II. Intellectual Property: An Oscillating Concept,16
+3,III. Territoriality,18
+3,IV. Globalization and Intellectual Property,21
+3,V. Intellectual Property and Neighboring Categories of Law,22
+3,VI. A Survey of Choice-of-Law Principles,23
+4,1. Lex loci protectionis,23
+4,2. Lex originis,25
+4,3. Lex contractus,25
+4,4. Lex fori,28
+3,VII. Initial Ownership,29
+4,1. Positive Law,29
+4,2. Inconvenience of the lex loci protectionis,30
+4,3. The Solution: The lex contractus or Party Autonomy,32
+3,VIII. Multi-State Infringements,35
+4,1. Basic Principle: lex loci protectionis,35
+4,2. Unitary IP Rights,36
+4,3. Ubiquitous Infringements,38
+3,IX. Conclusion,39
+2,The ALI Principles: Intellectual Property in Transborder Litigation,42
+3,I. Introduction,42
+3,II. History and ambitions,43
+3,III. Jurisdiction,46
+4,1. Personal jurisdiction,46
+4,2. Subject matter jurisdiction,48
+4,3. Consolidation and coordination,50
+3,IV. Applicable Law,51
+4,1. Territoriality,51
+4,2. Title to IP rights,53
+4,3. Transfers and licenses,54
+3,V. Recognition and enforcement of foreign judgments,57
+4,1. Mandatory grounds to refuse recognition and enforcement,58
+4,2. Optional grounds to refuse recognition and enforcement,58
+3,VI. Conclusion,59
+2,Summary of Discussion on Foundations,60
+1,Part 2: Jurisdiction,62
+2,A Framework for International Enforcement of Territorial Rights: The CLIP Principles on Jurisdiction,64
+3,I. Introduction,64
+3,II. The past: Strict territoriality of intellectual property litigation,65
+3,III. The present: Rise and fall of cross-border enforcement under the Brussels regime,65
+3,IV. A (possible) future: The CLIP Principles,68
+4,1. General jurisdiction,69
+4,2. Exclusive jurisdiction,70
+4,3. Special jurisdiction,73
+5,a) Infringement,73
+5,b) Contractual claims,80
+5,c) Multiple defendants,82
+4,4. Prorogation of jurisdiction,84
+4,5. Provisional measures,84
+3,V. Conclusion,87
+2,Jurisdiction in Intellectual Property Cases: The Transparency Proposal,88
+3,I. Introduction,89
+3,"II. International Jurisdiction Concerning Existence, Registration, Validity, and Ownership of Intellectual Property Rights",90
+4,1. General Remarks,90
+4,2. The Current State of Japanese Law,91
+5,a) Actions Concerning Validity of IP Rights,91
+5,b) Actions Concerning Registration of IP Rights,93
+4,3. International Situation,94
+4,4. International Jurisdiction over Actions Concerning the Validity or Existence of IP Rights,97
+5,a) Actions Concerning the Validity of IP Rights,97
+5,b) Actions Concerning the Existence of IP Rights,99
+4,5. International Jurisdiction over Actions Concerning the Registration or Ownership of IP Rights,100
+5,a) Actions Concerning the Registration of IP Rights,100
+5,b) Actions Concerning the Ownership of IP Rights,101
+3,III. International Jurisdiction over Actions Concerning Intellectual Property Contracts,102
+4,1. General Remarks,102
+4,2. The Current State of Japanese Law,102
+4,3. International Situation,103
+4,4. International Jurisdiction over Actions Concerning Contracts Relating to IP Rights in the Transparency Proposal,103
+3,IV. International Jurisdiction and IP Infringement Claims,105
+4,1. Status Quo,105
+4,2. The Transparency Proposal,109
+3,V. Choice-of-Court Agreements,111
+4,1. General Remarks,111
+4,2. Choice-of-Court Agreements in Japan,111
+4,3. Foreign Law,114
+5,a) The 2005 Hague Choice of Court Convention,114
+5,b) Brussels I Regulation and the CLIP Principles,116
+5,c) The ALI Principles,117
+4,4. The Transparency Proposal,117
+3,VI. Exceptions Based on Public Interest Policy Considerations,118
+4,1. Status Quo,118
+4,2. The Transparency Proposal,119
+3,VII. Joinder of Claims in Intellectual Property Cases,120
+4,1. Objective Joinder (Paragraph 1),120
+5,a) Circumstances Where Objective Joinder Becomes an Issue in International Disputes on Intellectual Property,120
+5,b) Objective Joinder under the Current Law,121
+6,(1) Japan,121
+6,(2) Other countries,122
+5,c) Proposals for Conventions and Legislation,124
+5,d) Comments on the Transparency Proposal,126
+4,2. Subjective Joinder (Paragraph 2) and the “Spider in the Web” (Paragraph 3),129
+5,a) Circumstances Where a Subjective Joinder Becomes an Issue in International Disputes on Intellectual Property,129
+5,b) Subjective Joinder under the Current Law,130
+6,(1) Japan,130
+6,(2) Other Countries,132
+5,c) Proposals for Conventions and Legislation,135
+5,d) Comments on the Transparency Proposal,137
+6,(1) Subjective Joinder (Paragraph 2),137
+6,(2) “Spider in the Web” (Paragraph 3),137
+3,VIII. International Jurisdiction and Provisional Measures,139
+4,1. Circumstances Where Provisional Measures Become an Issue in International Disputes over Intellectual Property,139
+4,2. Jurisdiction to Order Provisional Measures under the Current Law,139
+5,a) Japan,139
+5,b) Other Countries,142
+4,3. Proposals for Conventions and Legislation,143
+4,4. Comments on the Transparency Proposal,145
+3,IX. Parallel Proceedings,147
+4,1. Circumstances Where International Parallel Litigation Becomes an Issue in International Disputes on Intellectual Property,147
+4,2. International Parallel Litigation under the Current Law,147
+5,a) Japan,147
+5,b) Other Countries,149
+4,3. Proposals for Conventions and Legislation,150
+4,4. Comments on the Transparency Proposal,153
+3,X. Concluding Remarks,156
+2,"Summary of Comments and Discussion on International Jurisdiction",157
+3,Comments made by Prof. Yuko Nishitani,157
+3,Discussion,161
+1,Part 3: Applicable Law,166
+2,Applicable Law under the CLIP Principles: A Pragmatic Revaluation of Territoriality,168
+3,I. Introduction,168
+3,II. Initial Ownership and Transferability,170
+4,1. Initial Ownership,170
+5,a) Copyright,171
+5,b) Registered rights,173
+4,2. Transferability,174
+4,3. Co-ownership,175
+3,III. Contracts and Related Questions,177
+4,1. Characterization,177
+4,2. Applicable Law in the Absence of Choice,178
+4,3. Employment Relationships,180
+4,4. Questions Not Dealt with in the Principles Regarding Contract Law,181
+3,IV. Infringement and Remedies,182
+4,1. Territoriality as the Basic Principle,182
+4,2. Deviations from the Principle,183
+5,a) De minimis rule,183
+5,b) Ubiquitous infringement,184
+5,c) Freedom of choice,187
+3,V. Conclusion,188
+2,Applicable Law to Exploitation of Intellectual Property Rights in the Transparency Proposal,190
+3,I. Introduction,192
+3,II. Applicable Law to Infringement of Intellectual Property Rights,192
+4,1. General Remarks,192
+4,2. Applicable Law in Intellectual Property Infringement,193
+5,a) Current Situation,193
+6,(1) Japanese Law,193
+7,(a) Patent Infringement,193
+7,(b) Copyright Infringement,195
+6,(2) Other Countries,195
+7,(a) Patent Infringement,195
+7,(b) Copyright Infringement,196
+5,b) Comments on the Transparency Proposal,196
+6,(1) Introduction,196
+6,(2) Applicable Law in Patent Infringement,199
+7,(a) Understanding of “Territoriality Principle”,199
+7,(b) What Is a “Result of Exploitation”?,200
+7,(c) Extraterritorial Application and Applicable Law,202
+7,(d) Some Considerations,203
+6,(3) Applicable Law in Copyright Infringement,203
+7,(a) The Meaning of Berne Convention Articles 5(2) and 6bis(3),203
+7,(b) “Place Where the Results Occur or Are to Occur” in Copyright Infringement,204
+7,(c) Treatment of Moral Rights,205
+6,(4) Provisional Conclusion,206
+6,(5) Other Issues in Intellectual Property Infringement,206
+7,(a) Infringement between Parties Having a Contractual Relationship,206
+7,(b) Liability of the “Intermediaries”,207
+3,III. Applicable Law in Ubiquitous Infringement,209
+4,1. Current Situation,209
+4,2. Comments on the Transparency Proposal,209
+5,a) Characteristics of “Ubiquitous Infringement”,209
+5,b) Considerations,210
+3,IV. Applicable Law in Unfair Competition,212
+4,1. Current Situation,212
+5,a) Japanese Law,212
+5,b) Other Countries,212
+4,2. Comments on the Transparency Proposal,213
+5,a) Introduction,213
+5,b) Considerations,213
+3,V. Change of Applicable Law by the Parties,214
+4,1. Current Situation,214
+5,a) Japanese Law,214
+5,b) Other Countries,215
+4,2. Comments on the Transparency Proposal,215
+5,a) Introduction,215
+5,b) Scope of Changes by the Parties,216
+3,"VI. Existence, Primary Ownership, Transferability, and Effects of Intellectual Property Rights",216
+4,1. Introduction,216
+4,2. Current Situation,217
+5,a) The Current State of Law in Japan,217
+6,(1) The Act,217
+6,(2) Supreme Court Precedents in Japan,217
+7,(a) Supreme Court Judgment in the Card Reader Case,218
+7,(b) Supreme Court Decision in the Hitachi Case,219
+5,b) Other Countries,220
+6,(1) The ALI Principles,220
+6,(2) The Waseda Project Proposal,221
+4,3. Comments on the Transparency Proposal,223
+5,a) Rationale,223
+5,b) Coverage,223
+4,4. Further Considerations,224
+5,a) Defense of Invalidity,224
+5,b) Where the Applicable Law Will Be Fragmented,225
+3,VII. Applicable Law to Contracts for the Transfer or Licensing of Intellectual Property Rights,226
+4,1. Introduction,226
+4,2. The Current State of Japanese Law Concerning the Applicable Law to Contracts,226
+4,3. Court Cases and Doctrines Concerning the Applicable Law to IP Contracts in Japan,229
+4,"4. ALI Principles, CLIP Principles, and Theories in EU",232
+5,a) Overview of the Current Discussion about the Applicable Law to Contracts Concerning Intellectual Property Rights in EU,232
+5,b) The ALI Principles,233
+5,c) CLIP Principles,233
+5,d) Waseda Project Proposal,233
+4,5. Comment on the Transparency Proposal,235
+3,VIII. Security Interests to Intellectual Property Rights,236
+3,IX. Concluding Remarks,237
+3,Appendix,238
+2,Summary of Comments and Discussion on Applicable Law,240
+3,Comments made by Prof. Mari Nagata,240
+3,Discussion,242
+1,Part 4: Recognition and Enforcement,248
+2,Recognition and Enforcement of Judgments in Intellectual Property Litigation: The CLIP Principles,250
+3,I. Significance of recognition and enforcement in IP Litigation,250
+3,II. Application of part 4 of the CLIP Principles,256
+4,1. Scope of application,256
+4,2. The issue of reciprocity,257
+4,3. Favor recognitionis,261
+3,III. Effects of judgments,262
+4,1. Judgment: Definition and classification,262
+4,2. Effects of judgments and consequences of recognition,264
+4,3. Res judicata and preclusive effects,265
+4,4. Scope of injunctions,271
+3,IV. Recognition and enforcement: procedural aspects,274
+3,V. Finality of the judgment and provisional measures,278
+3,VI. Verification of the jurisdiction of the rendering court,282
+4,1. Standard of review,282
+4,2. Exclusive jurisdiction,287
+4,3. Other provisions,290
+3,VII. Substantive public policy,291
+4,1. Scope and nature,291
+4,2. Punitive damages,294
+3,VIII. Procedural public policy,296
+3,IX. Other grounds for non-recognition,300
+2,Recognition and Enforcement of Foreign Judgments Relating to IP Rights and Unfair Competition,304
+3,I. Introduction,306
+3,II. Judgments and Provisional Measures of Foreign Courts,307
+4,1. Analysis of Situation,308
+5,a) Japanese Law,308
+5,"b) Model Law, etc.",311
+4,2. Comments,313
+5,a) “Judgment of a foreign court”,313
+5,b) Provisional Measures,314
+5,c) Judgments not “final and binding”,317
+3,III. Recognition and Enforcement of Final and Binding Judgments of Foreign Courts,318
+4,1. Indirect Jurisdiction,318
+5,a) Analysis of Situation,318
+6,(1) Japanese Law,318
+6,"(2) Model Law, etc.",320
+5,b) Comments,321
+6,(1) Standards for Indirect Jurisdiction,321
+6,(2) Purposes of the System of Recognition and Enforcement of Foreign Judgments,322
+4,2. Service,323
+5,a) Analysis of Situation,323
+6,(1) Japanese Law,323
+6,"(2) Model Law, etc.",324
+5,b) Comment,325
+4,3. Public Policy,326
+5,a) Analysis of Situation,326
+6,(1) Japanese Law,326
+6,"(2) Model Law, etc.",327
+5,b) Comments,329
+6,(1) Structure of the Proposal,329
+6,(2) Non-application of International Mandatory Rules of the Country that Granted the Right,331
+6,(3) Discrepancy with the Status of a Right in the Granting Country,333
+6,(4) A Proper Opportunity to Produce Allegations Concerning the Validity and Scope of a Right,334
+6,(5) Matters not to be Decided in Court Proceedings under the Law of theGranting Country,335
+6,(6) Territoriality Principle,335
+6,(7) Other factors,336
+4,4. International Parallel Litigation and Incompatible Japanese Judgments,336
+5,a) Analysis of Situation,336
+6,(1) Japanese Law,336
+6,"(2) Model Law, etc.",337
+5,b) Comments,337
+6,(1) Foreign Judgment Resulting from International Parallel Litigation,337
+6,(2) Foreign Judgment Incompatible with Japanese Judgment,338
+4,5. Reciprocity,339
+5,a) Analysis of Situation,339
+6,(1) Japanese Law,339
+6,"(2) Model Law, etc.",340
+5,b) Comment,341
+6,(1) Purpose,341
+6,(2) Standards for Reciprocity,341
+3,IV. Enforcement of Foreign Provisional Measures and Foreign Not “Final and Binding” Judgments,342
+4,1. Enforcement of Provisional measures,342
+5,a) Analysis of Situation,342
+6,(1) Japanese Law,342
+6,"(2) Model Law, etc.",342
+5,b) Comments,343
+6,(1) Purpose,343
+6,(2) Opportunity for a Hearing,343
+6,(3) Opportunity to State Opinion on the Validity of Rights,344
+6,(4) Provision of Security,345
+6,(5) Stay of Proceedings,345
+4,2. Enforcement of Foreign Not “Final and Binding” Judgment,346
+5,a) Analysis of Situation,346
+6,(1) Japanese Law,346
+6,"(2) Model Law, etc.",346
+5,b) Comments,346
+6,(1) Purpose,346
+6,(2) Provision of Security,347
+6,(3) Stay of Proceedings,347
+3,V. Effects of Foreign Judgments and Provisional Measures,348
+4,1. Analysis of Situation,348
+5,a) Japanese Law,348
+5,"b) Model Law, etc.",348
+4,2. Comments,349
+5,a) Effect of Judgments or Provisional Measures in Partial Recognition and Enforcement,349
+5,b) Effect of Foreign Judgments Confirming Invalidity of Rights,350
+5,c) Provision of Adequate Compensation where a Compulsory License is Granted,350
+3,VI. Concluding Remarks,350
+2,Summary of Comments and Discussion on Recognition and Enforcement,352
+3,Comments made by Prof. Toshiyuki Kono,352
+3,Discussion,354
+1,"Annex I",358
+2,Part I Definitions and Scope of the Principles,358
+2,Part II Jurisdiction,360
+3,Chapter 1 Personal Jurisdiction over the Defendant,360
+3,Chapter 2 Jurisdiction over the Subject Matter,363
+3,Chapter 3 Jurisdiction over Simplification: Coordinating Multiterritorial Actions,365
+2,Part III Applicable Law,369
+3,Chapter 1 In General,369
+3,Chapter 2 Title to and Transfer of Rights,370
+3,Chapter 3 Residual Principles Regarding Choice of Law,372
+2,Part IV Recognition and Enforcement of Foreign Judgments in Transnational Cases,373
+2,Chapter 1 In General,373
+2,Chapter 2 Remedies,375
+1,Annex II Principles for Conflict of Laws in Intellectual Property,376
+2,Draft CLIP Principles,379
+2,Preamble,381
+2,Part 1: Scope,383
+2,Part 2: Jurisdiction,383
+3,Section 1: General provisions,383
+3,Section 2: Special jurisdiction,384
+3,Section 3: Prorogation of jurisdiction,387
+3,Section 4: Exclusive jurisdiction,388
+3,"Section 5: Provisional, including protective, measures",388
+3,Section 6: Scope of injunctions,389
+3,Section 7: Coordination of proceedings,389
+2,Part 3: Applicable Law,392
+3,Section 1: General principles,392
+3,Section 2: Initial Ownership,392
+3,Section 3: Transferability,393
+3,Section 4: Co-ownership,393
+3,Section 5: Contracts and related questions,393
+3,Section 6: Infringement and remedies,397
+3,"Section 7: Limitations and exceptions, waivability",399
+3,Section 8: Supplementary provisions,399
+2,Part 4: Recognition and Enforcement,400
+3,Section 1: General rules,400
+3,Section 2: Verification of jurisdiction,401
+3,Section 3: Provisional and protective measures,402
+3,Section 4: Public policy,402
+3,Section 5: Other grounds for non-recognition of foreign judgments,403
+3,Section 6: Exclusion of substantive review,403
+3,Section 7: Procedure,404
+3,Section 8: Settlements,404
+1,"Annex III: Transparency Proposal on Jurisdiction, Choice of Law, Recognition and Enforcement of Foreign Judgments in Intellectual Property",405
+2,Scope,405
+2,Jurisdiction,405
+2,Coordination of proceedings,408
+2,Applicable law,409
+2,Recognition and Enforcement of Foreign Judgments,411
+1,Table of Principles,414
+2,ALI Principles,414
+2,CLIP Principles,414
+2,Principles of the Japanese Transparency Group,415

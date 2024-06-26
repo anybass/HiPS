@@ -1,0 +1,108 @@
+1,Analogy and Exemplary Reasoning in Legal Discourse,1
+1,Table of contents,6
+2,Introduction,8
+2,1. Imitation and analogy,14
+3,Abstract,14
+3,1 Introduction,14
+3,2 Two versions of exemplarism,15
+3,3 Exemplarity and virtue,17
+3,4 Models of exemplarity,20
+4,4.1 Real and fictional exempla,20
+4,4.2 Negative and positive exempla,21
+4,"4.3 Heroes, saints, sages, and the ordinary exempla",22
+4,4.4 Partial and complete exempla,23
+4,4.5 Exempla and other normative ideals,24
+3,5 Imitation as character development,24
+3,6 The role of exemplary judges in law,28
+4,6.1 Education and imitation,28
+4,6.2 Theorizing about excellence in adjudication,29
+4,6.3 The evolution of legal culture,30
+3,7 Conclusions,31
+3,About the author,32
+2,2. Indefeasible analogical argument,34
+3,Abstract,34
+3,1 The issue: are all analogical arguments defeasible?,34
+4,1.1 Deductivist and anti-deductivist accounts of analogical argument,34
+4,1.2 Prakken's version of anti-deductivism: anti-inferentialism,36
+3,2 The logic of exemplary reasoning,39
+4,2.1 Summary of features of analogical argument,39
+4,2.2 Structure of analogical argument,40
+4,"2.3 Simple example of argument by analogy, contract clause",41
+5,2.3.1 Analogical argument that the dog is included in the sale,41
+4,2.4 Argument by disanalogy and 'distinguishing as narrowing': summary of features of disanalogical argument,42
+4,2.5 Structure of disanalogical argument,43
+4,2.6 With the contract clause example (see above),43
+4,"2.7 Prakken's example, explained in my scheme",45
+3,3 Indefeasible analogical arguments,45
+4,"3.1 Validity, deduction, and defeasible argument",46
+4,"3.2 Indefeasible analogy, example: Frigaliment Importing Co. v. B.N.S. Intern. Sales Corp., 190 F. Supp. 116 (D. N.Y., 1960)",46
+3,4 How is indefeasible analogical argument possible?,48
+3,About the author,49
+2,3. Is analogy a form of legal reasoning?,50
+3,Abstract,50
+3,1 Neither two nor three,50
+3,2 A unifying view,57
+3,3 In defence of partial reducibility,62
+3,About the author,64
+2,4. Analogical reasoning and extensive interpretation,66
+3,Abstract,66
+3,1 Introduction,66
+3,2 The traditional standpoint,68
+3,"3 Different traits, and common ones",71
+3,4 The Vatican Radio Case,74
+4,4.1 On 'things',75
+4,4.2 On 'throwing',75
+3,5 Vagueness and the location problem,76
+3,6 Extension and tolerance,79
+3,7 Conclusions,84
+3,About the authors,87
+2,5. Analogy and balancing,88
+3,Abstract,88
+3,1 Three as the starting point for analogy and balancing,88
+3,2 Analogy step by step: some basic considerations on the sequence,89
+3,3 The same steps in the analogy of legal cases,91
+3,4 The partial reducibility thesis,92
+3,5 First problem: random weighting outcome,94
+3,6 Second problem: analogy covered by balancing,95
+3,7 Third problem: balancing irrelevant principles,95
+3,8 Fourth problem: not enough principles for balancing,96
+3,9 The background problem: analogy and balancing do not match,97
+3,10 A final remark,99
+3,About the author,100
+2,6. Analogy and balancing,102
+3,Abstract,102
+3,1 The partial reducibility thesis and the Alexian framework,102
+3,2 Duarte's objections,105
+3,3 Conclusion,107
+3,About the author,108
+2,7. Analogy and balancing once again,110
+3,Abstract,110
+3,1 The big picture of the disagreement,110
+3,2 The main doubt: a merely apparent disagreement?,112
+3,3 The details: two agreements and two disagreements,116
+3,4 Going a little bit further: the pertinence of balancing,119
+3,About the author,123
+2,8. Argument by analogy in the law,124
+3,Abstract,124
+3,About the author,136
+2,9. Undoing damage by analogy,138
+3,Abstract,138
+3,1 Introduction,138
+3,"2 Argument by analogy, precedent, paradigm, and metaphor: so many cases of coordinated hallucination",139
+3,3 Touching the void,145
+3,"4 The meaning of life, or in fact of everything",147
+3,"5 Undoing damage by analogy, as if nothing happened",151
+3,"6 Wrongful death, wrongful birth, wrongful life: priceless?",156
+3,7 Man from dog to God - not just so to say,161
+3,About the author,165
+2,10. Analogy in the strict liability rules in the Dutch Civil Code,166
+3,Abstract,166
+3,1 The Dutch Civil Code of 1992,166
+3,2 Analogy and the rules on strict liability,169
+3,3 Liability for animals,170
+3,4 Defective buildings and goods,173
+3,5 A comparative view,175
+3,6 Conclusion,175
+3,About the author,176
+2,Bibliography,178
+2,Index,190

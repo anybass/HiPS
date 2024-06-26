@@ -1,0 +1,167 @@
+﻿1,Patents and Public Health,1
+1,Acknowledgements,8
+1,Table of Contents,10
+1,List of Abbreviations,14
+1,Chapter 1 Introduction,18
+1,Chapter 2 Patents and society,20
+1,Chapter 3 The legalising policy thoughts in the Public Health Declaration,27
+1,Chapter 4 The circumstances leading up to the Public Health Declaration,30
+2,A. Introduction,30
+2,B. The events preceding the Public Health Declaration,31
+3,I. The GATT system and the Uruguay Round,31
+3,II. The implementation of the TRIPS Agreement,35
+1,Chapter 5 An analysis of the TRIPS Agreement,43
+2,A. Nature and scope of the TRIPS Agreement,43
+2,B. The object and purpose of the TRIPS Agreement,48
+3,I. An analysis of the preamble,49
+3,II. An analysis of Article 7 TRIPS,52
+3,III. An analysis of Article 8.1 TRIPS,54
+3,IV. An analysis of Article 8.2 TRIPS Agreement,57
+3,V. The influence of the international customary rule of interpretation on the object and purpose provisions,59
+3,VI. The role of ‘flexibility’ in the object and purposes of the TRIPS Agreement,61
+4,1. The flexibilities found in the object and purposes provisions,62
+4,2. The role of the object and purpose provisions in flexibilities found in other TRIPS provision,63
+4,3. The relevance given to the role of flexibility in the object and purpose provisions by the Member States,64
+3,VII. The role of health in the object and purpose of the TRIPS Agreement,66
+3,VIII. Other influences on the object and purpose of the TRIPS Agreement,69
+2,C. The material provisions of the TRIPS Agreement,70
+3,I. The subject matter of patents,70
+4,1. Article 27.1 of the TRIPS Agreement,71
+4,2. Article 27.2 of the TRIPS Agreement,72
+5,a) Commercial exploitation,73
+5,b) Necessity,76
+5,c) Discrimination and differentiation,82
+5,d) Implementation restrictions relating to the Article 27.2 exclusion,84
+4,3. Conclusion,85
+3,II. Rights conferred to the patent holder,86
+3,III. The withdrawal and limitation of rights conferred,87
+4,1. Revocation,88
+4,2. Limited exceptions,91
+4,3. Compulsory licenses,102
+5,a) General,102
+6,aa) The compulsory license system,102
+6,bb) Grounds for compulsory licenses,103
+6,cc) Discrimination,106
+6,dd) Causality approach,107
+6,ee) The relationship between Article 31 of the TRIPS Agreement and Article 5A(4) of the Paris Convention,108
+6,ff) Commercial use of compulsory licenses,109
+5,b) Article 31 (a),109
+5,"c) Article 31 (b), first sentence",111
+5,"d) Article 31 (b), second sentence",113
+6,aa) Extreme urgencies and national emergencies,114
+6,bb) Public non-commercial use,118
+5,e) Article 31 (c),122
+6,aa) Scope,122
+6,bb) Duration,124
+5,f) Article 31 (d),125
+5,g) Article 31 (e),127
+5,h) Article 31 (f),128
+5,i) Article 31 (g),132
+5,j) Article 31 (h),135
+5,k) Article 31 (i and j),142
+5,l) Article 31 (k),145
+5,m) Conclusion,145
+3,IV. Disclosure,146
+3,V. Exhaustion,150
+2,D. Conclusion,155
+1,Chapter 6 The Public Health Declaration,157
+2,A. The scope of the Public Health Declaration,157
+3,I. Clarification of the relationship between the TRIPS Agreement and public health,158
+3,II. Countries without domestic productions facilities,160
+3,III. The postponed implementation of certain TRIPS-obligations,161
+2,B. The legal status of the Public Health Declaration,162
+2,C. The effect of the Public Health Declaration on the TRIPS Agreement,164
+3,I. The scope and purpose,164
+4,1. The customary rules of interpretation,165
+4,2. The Public Health Declaration and Articles 7 and 8 of the TRIPS Agreement,166
+4,3. The Public Health Declaration and the right to health,168
+4,4. Conclusion,170
+3,II. The material obligations,170
+4,1. Exhaustion,170
+4,2. Compulsory licenses,171
+5,a) The flexibilities in paragraph 5 of the Public Health Declaration,172
+5,b) Paragraph 5(b) of the Public Health Declaration,173
+5,c) Paragraph 5(c) of the Public Health Declaration,175
+5,d) Subsequent developments,178
+5,e) Conclusion,179
+3,III. The extension of the transitional period for LDCs,179
+4,1. Paragraph 7 of the Public Health Declaration,179
+4,2. The TRIPS Council decision extending the transition period,183
+4,3. The General Council waiver of Article 70.9,184
+3,IV. Member States without domestic pharmaceutical production facilities,186
+1,Chapter 7 The solution to the paragraph 6 dilemma,187
+2,A. The identification of the paragraph 6 issues,187
+3,I. The scope of paragraph 6,187
+3,II. Manufacturing capacity,188
+3,III. Insufficient or no capacities,189
+3,IV. Pharmaceutical sector,189
+3,V. Effective use of the compulsory license system,190
+3,VI. Potential paragraph 6 solutions,190
+2,B. The 30 August 2003 decision,191
+3,I. The legal effect of the Decision and the Chairman’s Statement,192
+4,1. The waivers in the Decision,192
+4,2. The Decision’s moratorium,193
+4,3. The Chairman’s Statement,194
+3,II. The scope of the Decision,198
+3,III. The legal implications of the Decision,199
+4,1. The pharmaceutical product,199
+4,2. Eligible countries,202
+5,a) The exporting Member State,202
+5,b) The importing Member State,205
+5,c) Conclusion,211
+4,3. Safeguards,211
+5,a) Safeguards inherent to the system,212
+5,b) General safeguards,215
+4,4. Transfer of technology,217
+3,IV. Procedure for the adoption of a final solution,218
+2,C. Article 31 bis of the TRIPS Agreement,219
+1,Chapter 8 The realisation opportunities afforded by the Public Health Declaration,224
+2,A. Norway,224
+2,B. Canada,229
+2,C. The Netherlands,235
+2,D. India,237
+2,C. EC,239
+2,F. Related measures taken to reflect the Public Health Declaration,243
+3,I. International and multilateral policies and measures,243
+3,II. Bilateral policies and measures,243
+3,III. National policies and measures,246
+2,G. Conclusion,248
+1,Chapter 9 Definitive consequences of the Public Health Declaration,249
+1,Bibliography,252
+1,"Cited treaties, legislation and similar legal documents",263
+2,International Organisations,263
+2,United Nations,266
+2,WHO,266
+2,WIPO,266
+2,Bilateral Treaties,266
+2,National Legislation,267
+3,Canada,267
+3,China (PRC),267
+3,EC Official Documentation,267
+3,Germany,267
+3,Ghana,267
+3,India,267
+3,The Netherlands,268
+3,Norway,268
+3,South Africa,268
+3,Switzerland,268
+3,Tunisia,268
+3,United States,268
+3,Zimbabwe,268
+1,Cited cases,269
+2,EPO Board of Appeals,269
+2,GATT/WTO,269
+2,ICJ,270
+2,Permanent Court of International Justice,270
+2,National case law,271
+3,Canada,271
+3,Germany,271
+3,Bundesgerichtshof (BGH),271
+3,Bundespatentgericht (BPatG),271
+3,Japan,271
+3,UK,271
+3,US,271
+1,Annex I: Public Health Declaration,273
+1,Annex II: 30 August 2003 Decision,276
+1,Annex III: The Article 31 bis Amendment,283
+1,Annex IV: Examples of royalty rates in compulsory licensing & related cases,292

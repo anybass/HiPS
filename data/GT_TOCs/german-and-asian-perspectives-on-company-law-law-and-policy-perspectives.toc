@@ -1,0 +1,448 @@
+﻿1,German and Asian Perspectives on Company Law,4
+1,Preface,6
+1,Contents,8
+1,Abbreviations,10
+1,Introduction,14
+2,A Brief Guide to Japanese Company Law,16
+3,I. Introduction,16
+4,1. Organization Forms,16
+4,2. Company Law,17
+4,3. Securities Regulation,18
+4,4. Stock Exchange Rules,19
+3,II. Board Structure,20
+3,III. Groups of Companies,22
+3,IV. Recent Issues and Empirical Studies,23
+4,1. Defensive Measures against Hostile Takeovers,23
+4,2. Outside Directors,26
+4,3. Listing of Subsidiaries,28
+4,4. Shareholder Activism,30
+2,"A Guide to German Company Law for International Lawyers Distinctive Features, Particularities, Idiosyncrasies",32
+3,I. Legal Sources and Types of Business Organisations in Germany,33
+4,"1. No Code Unique, no Comprehensive Company Code, no Unitary Capital Company",33
+4,2. Multitude of Company Law Acts,35
+4,3. No Single Dominant Organisational Form,36
+5,a) Statistical Data,36
+5,b) Additional Explanations,37
+4,4. Popularity of Hybrid Business Organisations,40
+3,II. Main Players in Company Law,41
+4,1. The Legislator,41
+5,a) Stock Corporation Act,41
+5,b) Limited Liability Companies Act,43
+4,2. Specialised Courts,44
+4,3. Company Law Scholarship,45
+3,III. Distinctive Features of German Stock Corporation Law,48
+4,1. Interest of the Enterprise (“Unternehmensinteresse”),48
+4,2. Two-tier Board (“duale Führungsstruktur”) and Codetermination (“Mitbestimmung”),49
+4,3. Mandatory Nature of the Stock Corporation Act (“aktienrechtliche Satzungsstrenge”),50
+4,4. Fiduciary Duties of Shareholders (“mitgliedschaftliche Treuepflichten”),51
+4,5. Rescission Suits (“Beschlussmängelklagen”) as the Most Important Enforcement Mechanism,53
+4,6. Codified Law of Corporate Groups (“Konzernrecht”),54
+3,IV. Gradual Erosion of German Particularities in Company Law,55
+1,I. Directors’ Liability,58
+2,Directors’ Liability and Enforcement Mechanisms in Japan,60
+3,I. Theme,60
+3,II. Brief Introduction to Japanese Laws and Practices,61
+3,III. How Derivative Suits Operate: A Rough Comparison between the US and Japan,62
+4,1. Shareholder Suits in the US,62
+4,2. Derivative Suits in Japan,63
+4,3. Rough Comparison between the US and Japan,63
+3,IV. What Accounts for the Differences between the US and Japan,65
+4,1. Entry Cost,65
+4,2. Entry Barriers,66
+4,3. Involuntary Settlement,67
+4,4. Rules on Gathering Evidence,68
+4,5. Substantive Law,68
+3,V. Why Shareholders Sue,69
+3,VI. Other Findings,69
+3,VII. Derivative Suits in Japan: Policy Evaluation,74
+2,Corporate Opportunity Doctrine as a Basis for Directors’ Liability A New Statutory Experiment in Korea,76
+3,I. Introduction: Hypothetical Scenarios and Comparative Sketch,76
+3,II. Overview of Korean Corporate Law on Directors’ Duties and Liabilities,79
+4,1. Directors’ Duties,79
+5,a) Bases of Fiduciary Duties,79
+5,b) Duty of Care,79
+5,c) Duty of Loyalty,81
+4,2. Directors’ Liability,81
+5,a) Liability to the Company,81
+5,b) Liability to Third Parties,82
+5,c) Criminal Liability,82
+3,III. Two Cases before the Legislation,83
+4,1. Glovis Case,83
+4,2. Gwangju Shinsegae Case,85
+3,IV. New Legislation,87
+4,1. Art. 397-2 of the KCC,87
+4,2. Notes on Art. 397-2 of the KCC,88
+5,a) Scope of the Business Opportunity,88
+5,b) Typical Fact Patterns,89
+5,c) Approval Requirements,90
+5,d) Remedy,91
+3,V. Criticisms and Evaluation,91
+4,1. Criticisms,91
+4,2. Comments on this Criticism,92
+2,Ordinary Corporate Conduct Standard vs. Business Judgment Rule A Review of Case Rulings by Beijing Courts between 2005 and 2014,96
+3,I. Introduction,96
+3,II. The Question Stated,99
+4,1. Directors’ General Duties Under Chinese Law,99
+4,2. The Anglo-American Root of Directors’ General Duties in PRC Company Law,101
+4,3. Why Case Review?,102
+4,4. Sources of Cases,103
+3,III. Position of Beijing Courts Regarding Directors’ General Duties,104
+4,1. Key Elements of Directors’ Civil Liabilities for Breach of General Duties,105
+4,2. The Court’s Practices Regarding Standard of Duty of Diligence,107
+4,3. The Courts’ Position Regarding Duty of Loyalty,109
+3,IV. OCC Standard from a Comparative Law Perspective,110
+4,1. The Two-Part Test in UK and US,110
+5,a) English Law,110
+5,b) US Law,111
+4,2. Business Judgement Rule,112
+4,3. OCC vs. Business Judgment Rule,114
+4,4. OCC vs. Duty of Care,115
+3,V. Conclusion,116
+2,Directors’ Liability and Enforcement Mechanisms from the German Perspective General Structure and Key Issues,118
+3,I. Introductory Remarks,119
+3,II. Basic Legal Structure of Directors' Liability,121
+4,1. Non-Contractual and Mandatory Liability under § 93 AktG,121
+4,2. Basis of Liability: Breach of Directors’ Duties,121
+5,"a) Specifications of Directors’ Duties – Care, Loyalty and Legality",121
+5,b) The So-called Mortal Sins,122
+5,c) Individual Culpability,122
+4,3. Recognition of Directors’ Discretion (Safe Harbor),123
+5,a) Entrepreneurial Decision,124
+5,b) Acting for the Benefit of the Company,125
+5,c) No Evident Violation of Corporate Interests,125
+5,d) Adequate Information,125
+4,4. Burden of Proof: Breach of Duty and Causation,125
+4,5. Scope of Liability: Unlimited Liability for any Breach of Duty – No Privilege or Limitation in Statutory or Judge-Made Law,126
+4,"6. Limits to Liability through Disclaimers, Waivers (etc.) on the Part of the Corporation",127
+5,a) Ex Ante Disclaimer: Provisions in the Corporate Charter or in the Employment Contract,127
+5,b) Ex Ante Approval (by Shareholders or the Supervisory Board) of the Conduct Giving Rise to Liability,128
+5,c) Ex Post Measures: Waiver and Settlement,128
+5,d) Coverage of a Director’s (Personally Incurred) Penalties by the Corporation,129
+4,7. D&O Insurance,129
+4,8. Enforcement,130
+5,a) Enforcement by the Supervisory Board – Mandatory Enforcement Under the ARAG/Garmenbeck Doctrine,130
+5,b) Enforcement by Shareholders – Derivative Suits,131
+6,(1) Majority Initiative – Appointment of a Special Agent,131
+6,(2) Minority Initiative,131
+6,(3) Relevance of Derivative Suits,132
+4,9. Statute of Limitations,133
+3,III. Fundamental Issues Under Current Discussion – Key Arguments,133
+4,1. Duty of Legality,133
+5,a) Legal Source: Protection of the Infringed Law in Question (not Protection of the Corporation),133
+5,b) Adjustment for Profits,134
+5,c) Organizational Safeguards – Compliance Requirements,135
+4,2. Business Judgments – Protection of Directors’ Discretion,136
+5,a) Defining a “Safe Harbor” for Business Judgments – Limits to Legal Certainty,137
+5,b) Ex Ante Perspective and the Standard of Evidence,137
+5,c) The Function of Reasonable Information,138
+5,d) Discretion in Questions of Law – “Legal Judgments”,138
+4,3. Collective and Individual Responsibility,139
+5,a) Division of Functions and Individual Responsibility,140
+5,b) Responsibility for Participation in a Board Decision,140
+4,4. Privileges for Directors Resulting from General Principles and Judge-Made Law,141
+5,a) Application of the Doctrine of Employee Privilege,141
+5,b) Privilege Based on the Corporation's Duty of Loyalty,143
+5,c) Privilege with Regard to Fines Imposed Upon the Corporation,143
+5,d) The Unambiguous Denial of Any Privilege by the Positive Order of § 93 AktG,145
+4,5. Enforcement by the Supervisory Board,146
+5,a) Duty to Enforce Claims Against Directors (ARAG/Garmenbeck Case),146
+5,b) Duties and Discretion with Respect to Negotiating Settlements Concerning Director’s Liability,148
+3,IV. Conclusions,149
+1,II. Capital Maintenance,152
+2,Legal Capital in Japan and the Influence of German Law,154
+3,I. Introduction,154
+3,II. Legal Capital under Japanese Law,156
+4,1. Differences from German Law,156
+5,a) No Minimum Capital Requirement,156
+5,b) No Duty of Directors upon Loss of One Half of Legal Capital or Insolvency,156
+5,c) Calculation of the Amount of Legal Capital,157
+4,2. Commonalities with German Law,158
+5,a) Restrictions on Distributions to Shareholders,158
+5,b) Regulation of Contribution to Shares,159
+3,III. Paradigm Shift of 2005,159
+4,1. Traditional View,159
+4,2. Functional Approach of the Companies Act 2005,160
+4,3. Deregulation of Contributions to Shares,161
+5,a) Contributions in Cash,161
+5,b) Contributions in Kind,162
+5,c) Liability for Unpaid Shares,162
+4,4. Abolishing the Minimum Capital Requirement,163
+4,5. Any Effect on New Businesses?,165
+3,IV. Shareholder’s Liability for Undercapitalization,167
+4,1. Ex Post Liability for Lack of Adequate “Cushion”?,167
+4,2. Limited Liability and Incentive of Shareholders,168
+3,V. Conclusion: Future of Legal Capital in Japan,169
+2,Capital Maintenance,172
+3,I. The Function of Capital Maintenance in a Legal Capital Regime,172
+3,II. The Scope of the Capital Maintenance Rules,176
+4,1. Open Distributions Through Dividends or Share Repurchases,177
+4,2. Disguised Distributions,178
+5,a) The Concept of Disguised Distributions,178
+5,"b) Book Values, Market Values and Business Interests of the Company",178
+5,c) Examples,180
+6,(1) Company Loans to Shareholders,180
+6,(2) Collateral for Shareholder Loans,181
+6,(3) Assumption of Prospectus Liability in a Secondary Placement of Shares,181
+5,d) Disguised Distributions and Transactions with Shareholders in Their Capacity as a Third Party Distinguished,183
+6,(1) Nexus between Transaction and Shareholder Status,183
+6,(2) Claims of Investors Because of Fraud or Misrepresentation,184
+5,e) Disguised Distributions Involving Third Parties,186
+3,III. Legal Consequences of Violations of the Capital Maintenance Provisions,187
+3,IV. Intra-Group Transfers and Modifications of the Capital Maintenance Regime by the Law of Corporate Groups (Konzernrecht),188
+4,1. The Issue of Intra-Group Transfers,188
+4,2. The Transferee’s Liability Under Group Law,189
+5,a) The Bifurcated Statutory Groups of Companies Law Regime of the Aktiengesetz,189
+5,b) Enterprise Agreements and Capital Maintenance,189
+5,c) De Facto Control and Capital Maintenance,190
+3,V. Conclusion,192
+2,From Legal Capital to Subscribed Capital Capital Rule in China and its Economic Background,194
+3,I. Introduction,195
+3,II. China’s Economic Reform and its Impact on Corporate Law in China,196
+4,1. China’s Economic Transformation since the 1970s,196
+4,2. The Impact of the Economic Transformation on Corporate Law,197
+3,III. The Legal Capital Regime,198
+4,1. The Mandatory Minimal Registered Capital,198
+4,2. Restrictions on Change of Capital,199
+4,3. Distribution of Dividends and Other Payment by Company to Shareholders,199
+3,IV. Costs of the Legal Capital Regime,200
+4,1. Financial Costs,201
+4,2. Administrative Costs,202
+4,3. Costs of Rent-seeking Activities,203
+3,V. Subscribed Capital Regime: the 2013 Corporate Law Reform,204
+4,1. The Subscribed Capital Regime: Freedom of Contract,204
+4,2. Illegal Taking Back of Capital,205
+3,VI. Challenges of the “Thin” Capital Regime,206
+4,1. Abuse and Strategic Use Without Supplemental Institutions,207
+4,2. Distribution of Dividends,208
+4,3. Share Buy-back,210
+5,a) Limited Liability Company,210
+5,b) Joint Stock Company,211
+4,4. Change of Role of the Company Registrar,212
+3,VII. Conclusion,213
+1,III. The Role of Shareholders,214
+2,Gerald Spindler: The Role of Shareholders in Public Companies,216
+3,I. Introduction,216
+3,II. The General Framework for Shareholders’ Rights,218
+3,III. Right to Ask and Be Informed,219
+3,IV. Right to Cast a Vote,221
+3,V. Representation of Shareholders,222
+3,VI. Duties and responsibilities of shareholders,223
+4,1. Duties of Loyalty,223
+4,2. Misuse of Shareholder Rights,224
+3,VII. Institutional Shareholders,225
+3,VIII. Overcoming Rational Apathy?,226
+3,IX. Protection of Minorities,226
+3,X. Virtual General Meetings,227
+3,XI. Résumé,228
+2,Declining Relevance of Lawsuits on the Validity of Shareholder Resolution in Korea A Comparative Essay,230
+3,I. Introduction,231
+3,II. Some Background Information,232
+4,1. Korean Commercial Code,232
+4,2. Overwhelming Popularity of Corporation as a Form of Business,232
+4,3. Major Corporate Organs and the General Shareholders Meeting,233
+3,III. Historical Development of the Rules on SR Lawsuits,234
+4,1. General,234
+4,2. Development in Germany,235
+4,3. Development in Japan,235
+4,4. Development in Korea,236
+3,IV. SR Lawsuits in Korea: Law,237
+4,1. General,237
+4,2. Rescission Lawsuits,238
+5,a) Grounds for Rescission,238
+5,b) Limitations,238
+4,3. Nullity Lawsuits,239
+5,a) Grounds for Nullity,239
+5,b) Comparison with the Rescission Lawsuit,239
+4,4. Non-existence Lawsuit,239
+5,a) Grounds for Non-existence,239
+5,b) Comparison With Nullity Lawsuits,240
+5,c) Comparison With Rescission Lawsuits,240
+4,5. Procedural Provisions,240
+3,V. SR Lawsuits in Korea: Reality,241
+4,1. Some Statistics,241
+4,2. Relative Importance of SR Lawsuits,242
+4,3. Number of SR Lawsuits by Type of Lawsuits,243
+4,4. Prevalence of Non-existence Lawsuits,243
+4,5. Who Files an SR Lawsuit?,244
+4,6. Matters Disputed in SR Lawsuits,244
+3,VI. Comparative Analysis,245
+4,1. Dividing line Between Rescission and Nullity Lawsuits,245
+5,a) General,245
+5,b) Differences,246
+5,c) History,247
+5,d) Two Observations,247
+4,2. Effect of Pending SR Lawsuits,249
+4,3. Dealing with Abusive or Inefficient Lawsuits,250
+5,a) General,250
+5,b) Standing requirement for plaintiff,251
+5,c) Discretionary Dismissal,251
+5,d) Plaintiff’s Liability and Security Deposit,253
+4,4. SR Lawsuits as a Shareholder Remedy,253
+3,VII. Concluding Remarks,254
+2,The Role of Shareholders in Public Companies,256
+3,I. Introduction,256
+3,II. Shareholders’ Rights in Japanese and German Joint-stock Company Law,259
+4,1. Short History of Japanese Joint-stock Company Law,259
+4,2. Authority of Shareholders’ Meetings and Individual or Minority Shareholders’ Rights,261
+5,a) Japan,261
+5,b) Germany,263
+3,III. Limits of Shareholder Control and the Transformation of Corporate Governance in Japan and Germany,266
+4,1. Background,266
+4,2. Limits of Shareholder Control in Japan,270
+4,3. Limits of Shareholder Control and the Transformation in Germany,273
+3,IV. Measures to Enhance Shareholders’ Corporate Control,276
+4,1. Expectations of and Impediments to Effective Corporate Control by Shareholders,276
+4,2. Japan,278
+5,a) Voting Rights and Engagement,278
+5,b) Cross-shareholding,281
+4,3. Germany,282
+5,a) Voting Rights and Engagement,282
+5,b) Cross-shareholding,284
+3,V. Concluding Remarks,285
+1,IV. Groups of Companies,288
+2,Regulation of Corporate Groups in China,290
+3,I. Introduction to Corporate Groups in China,291
+4,1. The Legal Reform of the Company Law of 2013 to Aid the Growth of Corporate Groups,291
+4,2. Encouraging Policy by Chinese Governments,293
+4,3. Growing Number of Domestic and Multinational Corporate Groups,293
+3,II. The Pros and Cons of Corporate Groups,294
+4,1. Advantages of Corporate Groups,294
+4,2. Opportunism Arising from Corporate Groups,294
+4,3. The Right Attitude Towards the Corporate Groups,295
+3,III. The Regulatory Framework for Corporate Groups in China,296
+4,1. Company Law,296
+4,2. Securities Lawa,296
+4,3. Anti-trust Law,296
+4,4. Tax Law,297
+4,5. Accounting Law,297
+4,6. International Law,297
+4,7. Outlook on the Codification of Corporate Groups in China,298
+3,IV. Fiduciary Duty of Controlling Shareholders in Company Law,299
+4,1. Corporate Groups Are Governed by Company Law,299
+4,2. Shareholders’ Fiduciary Duty Under Art. 20 Company Law,299
+4,3. Controlling Shareholders’ Fiduciary Duty Under Art. 21 Company Law,300
+4,4. The Ideal Relationship Between the Parent Company and the Subsidiary,301
+3,V. Piercing the Corporate Veil in the Context of Corporate Group,301
+4,1. One Exception to the Principle of Shareholder’s Limited Liability,301
+4,2. Piercing the Corporate Veil as Legal Consequence for Shareholder Disregard for the Corporate Legal Personality,302
+4,3. Under-capitalization,303
+4,4. Commingling of Legal Personalities,303
+4,5. Piercing the Corporate Veil of a One-man Corporation,304
+4,6. The Relationship Between Art. 20 para. 3 and Art. 63 Company Law 2013,305
+3,VI. Protecting Subsidiaries’ Creditors under the Company Law,305
+4,1. Public Disclosure of Credit Information for Corporate Groups,305
+4,2. Outdated Beliefs on Registered Capital,306
+4,3. New Challenges for Due Diligence,306
+4,4. Valid and Adequate Collateral Measures,306
+4,5. Shareholder’s Liability for Breach of the Obligation to Contribute and Maintain Equity Capital,307
+4,6. Proactive Approach to Abuse of the One-man Corporation,307
+4,7. Mandatory Audit Requirement,307
+3,VII. Company Law Protection of Subsidiaries’ Minority Shareholders,308
+4,1. Direct Actions in Company Law,308
+4,2. Direct Actions Under the Securities Law,309
+4,3. Public Interest Litigation in the Securities Market,310
+4,4. Indirect Derivative Actions,311
+3,VIII. Social Responsibility of Corporate Groups,315
+4,1. Corporate Social Responsibility in Chinese Law,315
+4,2. ISO 26000:2010,315
+4,3. Justification for the Theory of Optimization of Profits,315
+4,4. Diversified Forms of Corporate Social Responsibility,317
+4,5. MNEs Need to Pay More Attention to Corporate Social Responsibility in the Chinese Market,317
+3,IX. Conclusion,318
+2,Corporate Groups in Korea Reconciliation of Individualism with Collectivism,320
+3,I. Introduction,320
+3,II. Shareholding Structure in Korean Corporate Groups,322
+3,III. Aspects of a Controlling Company,327
+4,1. How to Secure the Authority to Make Directions,327
+5,a) Management Agreement,328
+5,b) Inscription in the Articles of Incorporation or By-laws,329
+5,c) Combined Directorship,330
+5,d) Case Law on Wholly Owned Subsidiaries and Its Applicability,331
+5,e) Monitoring through Information Rights,332
+4,2. Protection of Minority Shareholders in the Controlling Company,332
+5,a) Sale of Business by the Controlling Company,333
+6,(1) German Case Law,333
+6,(2) Discussion in Korea,334
+5,b) Purchase of Business by a Controlling Company,335
+5,c) Double Derivative Action,336
+6,(1) Concept of Double Derivative Action and a Recent Supreme Court Case,336
+6,(2) Analysis,336
+5,d) Monitoring of the Subsidiary by Minority Shareholders in the Holding Company,337
+4,3. Preliminary Conclusion,338
+3,IV. Aspects of Dependent Company,338
+4,1. Duty of Directors in Dependent Company: Justification of Corporate Group Interests,338
+4,2. Procedural Requirements for a Transaction with the Controlling Company,340
+4,3. Protecting Stakeholders in the Dependent Company Through Shareholder Liability,342
+5,a) Piercing the Corporate Veil,342
+5,b) Shadow Director Liability,342
+4,4. Preliminary Conclusion,344
+3,V. Concluding Remarks,344
+2,Recht und Wirklichkeit der verbundenen Unternehmen in Japan,348
+3,I. Einleitung,348
+3,II. Die tatsächliche Situation verbundener Unternehmen in Japan,349
+4,1. Fakten zur Eigentumslage börsennotierter Aktiengesellschaften in Japan,349
+4,2. Fakten zu verbundenen Unternehmen in Japan,350
+5,a) Wechselseitige Beteiligungen,350
+5,b) Unternehmensgruppen,351
+5,c) Konzerne,353
+3,III. Zukünftige Regelungen verbundener Unternehmen in Japan,355
+4,1. Zukünftige gesetzliche Regelungen der wechselseitigen Beteiligungen,355
+4,2. Zukünftige gesetzliche Regelungen der Unternehmensgruppe,355
+4,3. Zukünftige gesetzliche Regelungen der Konzerne im Spiegel der aktuellen Rechtsprechung,356
+5,a) Konzernbildungskontrolle,356
+5,b) Die Konzernleitungspflichten in der japanischen Rechtsprechung,357
+5,c) Schutz der Gläubiger von Tochtergesellschaften,360
+5,d) Schutz der Minderheitsaktionäre einer Tochtergesellschaft,362
+3,IV. Thesen,365
+2,Do We Need a Law of Corporate Groups?,368
+3,I. Are Groups Different?,369
+4,1. The Controlling Shareholder May Pursue Third Party Interests,370
+4,2. Management May Not Prevail Against the Controlling Shareholder,370
+4,3. Creditors May Be More Exposed,371
+3,II. The Formation of a Corporate Group,371
+4,1. Purchase of Shares,371
+4,2. Carve-out of Assets,372
+3,III. The Management of a Corporate Group,373
+4,1. The Situation Without Group Law,373
+4,2. The Situation With Group Law,374
+5,a) “Enabling” Components,374
+5,b) Protective Components,375
+4,3. The Dual-track of German Corporate Group Law,375
+3,IV. The De Facto Group (“faktischer Konzern”),375
+4,1. The Concept of “Dependency”,375
+4,2. Enabling Component: Make Use of Influence But Compensate Within a Year,376
+5,a) Using Influence to the Disadvantage of the Dependent Subsidiary is Legal…,376
+5,b) Duties of Loyalty and Capital Maintenance Are Overruled…,377
+5,c) Management of the Subsidiary May Lawfully Abide by the Wishes of the Dominating Parent Company…,377
+5,d) … as Long as Compensation Is Granted Within a Year…,378
+5,e) … and the Parent’s Strategy Serves the Group Interest,379
+4,"3. Protective Component: Compensating the Company, Minority Shareholders and Creditors",379
+5,a) Compensation Given to the Company,379
+5,b) Compensation for Minority Shareholders and Creditors,381
+3,V. The Contractual Group (“Vertragskonzern”),382
+4,1. Concluding the Contract,382
+4,2. Enabling Components,382
+5,a) Profit Distribution Agreement,382
+5,b) Domination Agreement,383
+4,3. Protective Components,383
+5,a) Minority Shareholders,384
+5,b) Outside Creditors,384
+1,Contributors,386
+2,Andreas Cahn,386
+2,Ruoying Chen,386
+2,Moon-Hee Choi,386
+2,Kyung-Hoon Chun,387
+2,Holger Fleischer,387
+2,Gen Goto,387
+2,Hans C. Grigoleit,387
+2,Hideki Kanda,387
+2,Hiroyuki Kansaku,388
+2,Kon-Sik Kim,388
+2,Katja Langenbucher,388
+2,Junhai Liu,389
+2,Jianbo Lou,389
+2,Peter O. Mülbert,389
+2,Kenichi Osugi,389
+2,Hyeok Joon Rho,389
+2,Gerald Spindler,390
+2,Eiji Takahashi,390

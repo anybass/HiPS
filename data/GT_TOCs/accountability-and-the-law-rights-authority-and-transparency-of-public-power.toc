@@ -1,0 +1,117 @@
+﻿1,Accountability and the Law,2
+1,Comparative Constitutional Change,3
+1,Contents,6
+1,Contributors,8
+1,1 Introduction,12
+2,References,16
+1,Part I Law,18
+2,2 Accountability in the globalised digital age: online content moderation and hate speech in the European Union,20
+3,2.1 Introduction: a new accountability environment,20
+3,2.2 Digital constitutionalism and the regulatory shift,24
+3,2.3 Content moderation instruments and accountability,26
+4,2.3.1 Automated social media content moderation tools and accountability,28
+4,2.3.2 Appeals system,29
+3,2.4 Online platforms’ accountability in a European context,30
+3,2.5 Concluding remarks,35
+3,References,36
+2,3 Economic crises and transformation to the theoretical model of budget process: a comparative constitutional analysis via an example of EU Member States,39
+3,3.1 Introduction,39
+3,"3.2 The notion, phases, and course of budget process in the EU Member States",40
+3,3.3 Economic crisis and budget process,44
+3,3.4 Final remarks,53
+3,References,54
+2,4 Financial accountability and transparency of public sector institutions in the Republic of Serbia,57
+3,4.1 Introduction,57
+3,4.2 The role of internal financial control in the public sector,59
+3,4.3 Assessment of the financial management and control system according to the reports of the State Audit Institution,61
+3,4.4 The role of the State Audit Institution and Budget Inspection,64
+3,4.5 Conclusion,67
+1,Part II Fairness and rights,72
+2,5 Disciplinary liability of judges: the Polish case,74
+3,5.1 Introduction,74
+3,5.2 Models of disciplinary liability of judges and the Polish solutions,76
+3,5.3 Scope of disciplinary liability of judges and disciplinary penalties in Poland after the changes provided under the PiS administration,77
+3,5.4 Current jurisdiction of disciplinary courts and of disciplinary commissioners,82
+3,5.5 Final remarks,88
+3,References,88
+2,6 Transparency and accountability versus secrecy in intelligence operations: an Italian case study,91
+3,6.1 Introduction,91
+3,6.2 The history of intelligence: a brief overview,92
+4,6.2.1 Intelligence from early history to the Restoration: a comparative perspective,93
+4,6.2.2 Intelligence from the 19th century onwards: focus on Italy,94
+3,6.3 The current intelligence legal framework,98
+4,6.3.1 Law no. 124/2007: main features,98
+3,6.4 The Italian intelligence system and its interactions with state powers,102
+4,6.4.1 Political oversight of secret services’ activities,102
+4,6.4.2 Judicial oversight and the use of state secrecy in criminal proceedings,104
+3,6.5 Intelligence agencies ‘in action’ in times of international terrorism,105
+4,6.5.1 International terrorism and the metamorphosis of security threats,106
+4,"6.5.2 Extraordinary renditions, state secrecy, and the Italian Constitutional Court",107
+3,6.6 Concluding remarks,109
+3,References,110
+2,7 Non-judicial legal accountability: the case of the Chilean comptroller-general,113
+3,7.1 Introduction,113
+3,7.2 Constitutional and legal framework,116
+4,7.2.1 Constitutional regulation,116
+4,7.2.2 Organisational structure,116
+5,7.2.2.1 Hierarchical arrangements,116
+5,7.2.2.2 The office head,118
+3,7.3 Mandate and powers,120
+4,7.3.1 Multitasking,120
+4,7.3.2 Ex-ante legality review,120
+5,7.3.2.1 Basic provisions,120
+5,7.3.2.2 Types of administrative actions under review,121
+5,7.3.2.3 Participants,123
+5,7.3.2.4 Standard of review,124
+5,7.3.2.5 The insistence mechanism—the presidential override,124
+4,7.3.3 The power of dispute resolution,127
+5,7.3.3.1 Basic provisions,127
+5,7.3.3.2 Aims and functions,128
+5,7.3.3.3 Access,129
+5,7.3.3.4 Legal authority and limits,130
+3,7.4 Conclusion,131
+3,References,132
+1,Part III Authority,138
+2,8 Presidents’ (mis)use of public accountability: going-public tactics in European semi-presidential regimes,140
+3,8.1 Introduction,140
+3,8.2 Research design and data,142
+3,8.3 Theory and definitions,143
+3,"8.4 Semi-presidentialism in Finland, Lithuania, and Romania",145
+3,8.5 Analysis,149
+4,"8.5.1 Presidents, cabinets, and intra-executive conflicts",149
+4,8.5.2 A strictly constrained but highly popular presidency in post-2000 Finland,149
+4,8.5.3 The presidency in Lithuania: popular leadership as a lever for power grabs,154
+4,"8.5.4 Challenged mediation, popular support, and intra-executive conflict in Romania",156
+3,8.6 Conclusions,160
+3,References,162
+2,9 Ministerial criminal liability in the Greek legal order: a concise critical review,167
+3,9.1 Introduction,167
+3,9.2 The scope of ministerial offences under Article 86,169
+3,9.3 Statute of limitations and the extinguishing deadline: a hasty elimination of punishability,175
+3,9.4 Issues on complicity,176
+3,9.5 In defence of amending Article 86,177
+3,References,183
+2,10 Transparency and accountability of the Italian public administration in the context of public procurement: the case of below-threshold contracts,185
+3,10.1 Introduction,185
+3,10.2 Transparency and accountability as two sides of the same coin,187
+3,10.3 Transparency and accountability in the context of Italian public procurement,189
+3,10.4 Procurement of services and supplies with economic costs below the threshold of European relevance after the recent reform of the Italian Public Contract Code (CCP),192
+3,10.5 The case of the so-called pure direct award (for contracts whose amounts are lower than EUR 40,000),194
+3,10.6 The case of the so-called hybrid or mixed direct award (for contracts whose amounts are from EUR 40,000 up to the level of European relevance),197
+3,10.7 Final considerations on balancing the principles of transparency and accountability with the aim of simplification in the context of below-threshold contracts,200
+3,References,203
+2,11 Transparency and government accountability in Brexit negotiations,204
+3,11.1 Introduction,204
+3,11.2 The UK’s exit from the EU,205
+4,11.2.1 The conduct of the UK’s foreign affairs—a brief outline,205
+4,11.2.2 Triggering of Article 50(2) of the TEU without parliamentary authorisation,206
+5,11.2.2.1 Miller I case judgement,208
+3,11.3 The EU and the UK positions in the Brexit negotiations and the impact of the principle of transparency,209
+4,11.3.1 Brexit negotiation strategy,211
+4,11.3.2 The EU/UK approach to transparency in the Brexit negotiations,213
+3,11.4 The Brexit negotiations and the UK Government’s accountability,217
+4,11.4.1 The role of the UK’s Select Committees in influencing the EU decision-making process,220
+4,11.4.2 The process of constitutional change in ‘regaining’ the UK Parliament’s sovereignty,224
+3,11.5 Conclusion,227
+2,References,229
+1,Index,232

@@ -1,0 +1,301 @@
+﻿1,Second Generation Patents in Pharmaceutical Innovation,1
+1,Acknowledgements,6
+1,Inhaltsverzeichnis,8
+1,List of Abbreviations,16
+1,I. INTRODUCTION,22
+2,A. Overview,22
+2,B. Outline of the dissertation,26
+2,C. Scope of the dissertation,26
+1,"II. PHARMACEUTICAL INVENTIONS, INNOVATIONS & PRODUCTS",29
+2,A. Cumulative nature of inventions,29
+3,1. Basic and second generation inventions,30
+4,a) Improvement inventions,31
+4,b) Selection inventions,31
+2,B. Inventions and innovations in pharmaceutical field,33
+3,1. Inventions and patents in pharmaceutical field,33
+4,a) Product invention and the absolute character of its protection,34
+4,b) Hierarchy of pharmaceutical patents,35
+3,2. Innovations in pharmaceutical field,37
+4,a) Invention v. innovation,37
+4,b) NMEs as the core of pharmaceutical innovation,38
+2,C. Second generation inventions and patents in pharmaceuticals,39
+3,1. Product inventions and patents,40
+4,a) Species selection inventions,40
+5,Markush type claim,41
+5,A species claim,43
+4,b) Optical isomers,44
+4,c) Crystalline forms,47
+4,d) Metabolites and prodrugs,48
+4,e) Esters and salts,50
+4,f) Dosage forms,50
+4,g) Combinations of active ingredients,51
+3,2. Use inventions,51
+4,a) New Use/New method of treatment,51
+4,b) Dosage regime,53
+3,3. Process inventions,53
+4,a) Process,53
+4,b) Intermediates,54
+2,D. Pharmaceutical products in the market,54
+3,"1. New medical entities, new molecular entities",55
+3,2. Similar or equivalent “me-too” products,55
+3,3. Second generation products,57
+3,4. Generic drugs,58
+2,E. Summary,59
+1,III. SPECIFICITIES IN PHARMACEUTICALS AND RECENT DEVELOPMENTS,60
+2,A. Innovating and inventing in pharmaceutical industry,60
+3,1. Specificities in the drug development process,60
+4,a) Highly regulated industry,60
+4,b) R&D – a costly and lengthy road to a medicine,61
+4,c) Uncertainties in post-invention development,65
+5,(1) Scientific uncertainty: Unpredictability of substances,65
+5,(2) Regulatory and market uncertainties,66
+4,d) Information rich chemicals,67
+3,2. Specificities in the market for pharmaceuticals,68
+4,a) Imitation with negligible cost and much reduced risk,68
+4,b) Prescription based purchase: A disconnection between choosers and payers,69
+4,c) Information asymmetry and high loyalty to a medicine,70
+4,d) Pricing,71
+3,3. Specificities of the patent protection for pharmaceuticals,73
+4,a) Patent protection for industrial technologies,73
+4,b) Patent protection in the pharmaceutical industry,75
+2,B. Challenges and overcoming efforts,77
+3,1. Decreased R&D productivity,79
+3,2. Dearth of new medical entities,81
+4,a) Significance of NMEs,81
+4,b) Decreased number of NMEs,81
+4,c) Potential reasons for the decrease,84
+5,(1) Decrease in solvable scientific problems,84
+5,(2) Stringent safety regulations,85
+5,(3) Problem of over-disclosure,85
+5,(4) Early and numerous abandonments of potential candidates,86
+3,3. Patent cliffs of blockbuster medications,87
+3,4. Frequent merger and acquisitions (M&As) and in-licensing,87
+3,5. Drastic increase of second generation inventions,89
+4,a) Life cycle management or evergreening,90
+4,b) Drastic increase of this activity supported by the number of second generation patents,92
+2,C. Summary,94
+1,IV. STANDARDS OF PATENTABILITY FOR PHARMACEUTICAL SELECTION INVENTIONS,96
+2,A. Novelty and anticipation,97
+3,1. Introduction,97
+3,2. Examination of novelty,99
+3,3. Inherent anticipation and enablement,104
+3,4. Novelty of selection inventions,107
+4,a) Species selection inventions,107
+5,In the EPO,108
+5,In Germany,110
+5,In the United Kingdom,114
+5,In the United States,115
+5,In Korea,117
+4,b) Optical isomers,118
+5,In the EPO,118
+5,In Germany,120
+5,In the United Kingdom,122
+5,In the United States,124
+5,In Korea,126
+4,c) Crystalline forms,128
+5,In the EPO,128
+5,In Germany,129
+5,In the United Kingdom,129
+5,In the United States,130
+4,d) Metabolite,131
+5,In the United Kingdom,131
+5,In Germany,132
+5,In the United States,132
+3,5. Analysis and conclusion,134
+2,B. Inventive step / Non-obviousness,135
+3,1. Inventive step in patentability requirements,136
+3,2. Examination of inventive step,137
+4,In the EPO,138
+4,In the United Kingdom,139
+4,In Germany,140
+4,In the United States,141
+4,In Korea,144
+3,3. Inventive step requirement for selection inventions,145
+4,a) Species selection invention,145
+5,In the EPO,145
+5,In Germany,146
+5,In the United Kingdom,146
+5,In the United States,148
+5,In Korea,150
+4,b) Optical isomers,151
+5,In the EPO,151
+5,In Germany,152
+5,In the United Kingdom,153
+5,In the United States,155
+5,In Korea,158
+4,c) Crystalline forms,158
+5,In the EPO,159
+5,In the United Kingdom,160
+5,In Germany,162
+5,In the United States,163
+5,In Korea,163
+4,d) Metabolites,165
+3,4. Analysis and conclusion,165
+2,C. Disclosure requirement,168
+3,1. Written description requirement,169
+3,2. Enablement requirement,172
+4,a) Enablement requirement,172
+4,b) Enablement requirements in the patent law,176
+5,(1) Enablement as a requirement for anticipation,176
+5,(2) Basic similarity of the two enablement requirements,177
+5,(3) Differences between the two enablement requirements,178
+3,3. Disclosure requirement of selection inventions,179
+4,a) Species selection invention,179
+4,b) Optical isomers,180
+4,c) Crystalline forms,181
+2,D. Conclusion,181
+1,V. IMPLICATIONS OF THE PATENTABILITY REQUIREMENTS ON INNOVATION AND COMPETITION IN THE PHARMACEUTICAL INDUSTRY,185
+2,A. Concerns about lowered patentability,186
+3,1. General concerns about lowered patentability,186
+4,a) Superfluous second generation patents,186
+4,b) Increased patent exclusivities and amplified uncertainties thereof,188
+4,c) Encouraged waste of resources,191
+4,d) Hindrance of pharmaceutical innovation,193
+3,2. Concerns about the novelty requirements,195
+4,a) Language dependent prior art disclosure problem,195
+4,b) Rendering inventive step requirement meaningless,197
+4,c) Potential concerns of “direct and unambiguous” disclosure requirement,199
+2,B. Implications considering the breadth of selection patents,199
+3,1. Scope of the protection,200
+3,2. Scope of selection patents,204
+4,a) Species selection patents,204
+4,b) Optical isomers,204
+5,In Europe,204
+5,In the United States,206
+4,c) Metabolite,207
+5,In the United Kingdom,207
+5,In Germany,208
+5,In the United States,208
+4,d) Polymorphs,209
+3,3. Analysis and conclusion,210
+2,C. Implications considering the length of selection patents,211
+3,1. Patent term and patent term extension,212
+4,a) In Europe,213
+4,b) In the United States,214
+4,c) In Korea,215
+3,2. Patent term extension on selection patents,216
+4,a) Species selection patents,216
+4,b) Optical isomers,216
+5,In Germany,216
+5,In the United Kingdom,217
+5,In the United States,217
+4,c) Polymorphs,219
+4,d) Metabolite,219
+3,3. Analysis and conclusion,219
+4,Lowered patentability requirements on second generation inventions and the SPC,220
+4,Patent term extension system and pharmaceutical innovation,221
+2,D. Implications on the competition in the pharmaceutical industry,223
+3,1. Introduction,223
+3,2. Quasi-obstacles of generics market entry,226
+4,a) Scope of second generation patents,226
+4,b) Length of second generation patents,228
+4,c) Delayed filing of second generation patent applications,228
+3,3. Real obstacles to generics’ market entry,230
+4,a) Automatic thirty-month stay and new list up in the Orange Book in the United States,230
+4,b) Pendency of patent applications: Uncertainty,232
+5,(1) Pendency of patent applications,232
+5,(2) Filing of divisional applications,233
+6,Divisional applications,233
+6,Arguable abuse of procedural possibility,234
+6,An attempt to adjust this phenomenon by the USPTO,236
+6,Rule 36 EPC,236
+4,c) Active movement of the market to new products,238
+5,Efforts to move the market to products covered by second generation patents,238
+5,Example of Nexium®,239
+5,Example of Clarinex®,241
+4,d) Along with very specific patents on the secondary products,241
+3,4. Analysis and conclusion,243
+2,E. Summary and conclusion,244
+1,VI. PROPOSALS,246
+2,A. Introduction,248
+2,B. Nature of selection inventions,250
+3,1. Different natures of selection inventions,250
+4,a) Species selection invention,250
+4,b) Other selection inventions,252
+3,2. Selection inventions from the era of penicillin to the 21th century,252
+4,a) Early medications and the novelty requirement,252
+4,b) “Made available to the public” for the first time,253
+3,3. Analysis and conclusion,255
+2,C. Proposals on the breadth of patents,256
+3,1. Arguments on the breadth of patents,256
+4,a) Arguments for a broader patent scope,257
+4,b) Arguments against a broader patent scope,259
+4,c) Arguments on patent scope with consideration of other relevant factors,261
+5,Value dependent,261
+5,Situation dependent,261
+3,2. Interim conclusion,262
+3,3. Solutions to the overlapping scope with species selection invention,265
+4,a) Voluntary licensing agreements,266
+4,b) Non-voluntary licenses,267
+5,(1) Compulsory licenses,268
+5,(2) Case law relevant to compulsory licenses,270
+6,"In the United States: eBay Inc. v. MercExchange, L.L.C.",270
+6,In Germany: Orange Book Standard case,271
+4,c) Reverse doctrine of equivalents,273
+4,d) Conclusion,275
+2,D. Proposals on the length of patents,276
+3,1. Arguments on the length of patents,276
+3,2. Proposals on the length of patents,278
+4,a) Proposal on the length of basic patents,278
+5,(1) Introduction,278
+5,(2) Proposed term of basic patents,279
+5,(3) The basis of the proposal,280
+5,(4) Expected effects,282
+4,b) Proposal on the patent term extension of second generation patents,283
+2,E. Proposals on the patentability requirements,284
+3,1. Introduction: Technology specific patentability standards,284
+3,2. Proposals on the novelty requirement,287
+4,a) Arguments on the novelty requirement,287
+4,b) Proposal on the novelty requirement of species selection invention,288
+5,(1) Meaning of something “made available to the public” in the pharmaceutical industry,288
+5,(2) A patent as a double-edged sword to NMEs,290
+5,(3) Statutory exceptions to the novelty requirement and considerations thereof,291
+5,(4) Proposed novelty requirement for NMEs,292
+5,(5) Appreciation of the Olanzapine decision and its expected results,294
+4,c) Discussion on the novelty requirement of other selection inventions,295
+3,3. Proposals on the inventive step requirement,295
+4,a) Arguments on the inventive step requirement,296
+5,(1) Arguments for a strict inventive step requirement,296
+5,(2) Arguments for a strict inventive step requirement together with broader protection,297
+5,(3) Arguments against a strict inventive step requirement,298
+5,(4) Arguments for the relaxed inventive step requirement in risky and expensive R&D fields,298
+4,b) Proposal on the inventive step of species selection inventions,300
+4,c) Proposal on the inventive step of other selection inventions,301
+5,(1) Introduction,301
+5,(2) Proposed standard to assess the inventive step,302
+6,“Therapeutic contribution” as a secondary indicia,302
+5,(3) Basis of the proposal,302
+6,Technical contribution of inventions,302
+6,The genuine technical contribution of drug patents: Therapeutic contribution,303
+6,Therapeutic contributions of other selection inventions,304
+5,(4) Expected effects,305
+3,4. Discussions on the sufficiency requirement,307
+4,a) Discrepancy between the scope of and the disclosure of a genus claim,307
+4,b) Stringent disclosure requirement of the basic invention,308
+4,c) Conclusion,310
+2,F. Conclusion,310
+1,VII.  FINAL CONCLUSIONS,313
+2,Further research directions,320
+1,List of Statutory Instruments,322
+1,List of Case Laws,324
+2,EUROPEAN UNION,324
+2,BOARD OF APPEAL OF THE EUROPEAN PATENT OFFICE,324
+2,GERMANY,325
+3,Imperial Court of Justice,325
+3,Federal Supreme Court of Germany,325
+3,Federal Patent Court of Germany,326
+3,Higher Regional Court,326
+2,INTERNATIONAL,326
+2,ITALY,326
+2,KOREA,327
+3,Supreme Court,327
+3,Patent Court,327
+2,UNITED KINGDOM,327
+3,The House of Lords,327
+3,Court of Appeal,327
+3,Patents Court,328
+2,UNITED STATES,328
+3,Supreme Court,328
+3,Courts of Appeals,329
+3,District Court,332
+1,Bibliography,334

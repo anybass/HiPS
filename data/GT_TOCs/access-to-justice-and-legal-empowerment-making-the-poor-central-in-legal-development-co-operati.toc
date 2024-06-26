@@ -1,0 +1,19 @@
+﻿1,Access to Justice and Legal Empowerment,1
+1,Law, Governance, and Development,3
+1,Outline,6
+1,What are Access to Justice and Legal Empowerment?,7
+1,Why are Access to Justice and Legal Empowerment Important?,10
+2,What Obstacles do the Poor and Marginalized Meet when Seeking Justice?,11
+2,What Reforms do Access to Justice and Legal Empowerment Propose?,13
+1,Access to Justice and Legal Empowerment Reform– Eight Policy Considerations,16
+2,Legal empowerment and access to justice are sensitive areas with political limitations,16
+2,Conceptual focus on dispute settlement ignores the prevention of grievances,16
+2,Reforms need to address both state and non-state justice systems,17
+2,Both state and civil society must play a role,20
+2,Access to justice and legal empowerment in criminal cases should include both the victim and the defendant,21
+2,"Setting realistic goals, prioritisation and co-ordination prevent disappointment",22
+2,Entry points and sequencing are context-related,22
+2,Measuring outcome and impact is essential,23
+1,Further Reading,26
+1,References,30
+1,About the Authors and Acknowledgements,32

@@ -1,0 +1,176 @@
+﻿1,Industrial Concentration and the Chicago School of Antitrust Analysis,1
+1,Preface,11
+1,Table of Contents,13
+1,Table of Abbreviations,20
+1,Journals and Periodicals Cited,21
+1,Survey of Figures and Tables,23
+1,"Introduction: Antitrust Economics, Policy, and Law at the Crossroads: A Reorientation",25
+2,I. The Context,25
+2,II. Developments in U.S. Antitrust Policy During the 1970s and 1980s,27
+3,1. Antitrust Economics,28
+3,2. Antitrust Enforcement,33
+4,a. The Antitrust Division of the Department of Justice,34
+4,b. The Federal Trade Commission,38
+3,3. Antitrust Adjudication,40
+3,4. Antitrust Legislation,43
+2,III. The Source of Reorientation: The Chicago School of Antitrust Analysis,47
+3,1. The Foundations,47
+3,2. Chicago Antitrust Philosophy,49
+2,IV. Definition of the Field of Research and Course of Inquiry,51
+1,Part 1: Analytical Framework for the Evaluation of Restraints of Competition by Industrial Concentration,55
+2,"I. Free Enterprise System. Competition, and Public Policy",55
+3,1. Economic Order and Competition,55
+3,2. Nature and Meaning of Competition,57
+3,3. Competition and Public Policy,60
+2,II. Economic Evaluation of Industrial Concentration: Theoretical Approach and Public Policy,63
+3,1. Antitrust Policy Objectives,63
+4,a. Objectives and Interrelations,64
+4,b. Conflicting Objectives,66
+3,2. Elements of the Approach to an Evaluation of Industrial Concentration,68
+4,a. Models of Competition,68
+4,"b. The Structure-, Conduct-, Performance-Paradigm, and the Competitive Process",72
+4,c. Effective Competition and Competition Impairment,77
+4,d. Intensity of Competition and the Adequate Test,82
+3,3. The Treatment of Competition Impairment and Public Policy Alternatives,84
+4,a. Approaches,85
+4,b. Rules,86
+2,III. Competition and Industrial Concentration,88
+3,1. Concentration and Economic Theory,88
+4,a. Nature and Meaning of Economic Concentration,88
+4,b. Economic Concentration and Power,91
+4,c. Features of Industrial Concentration,95
+5,aa. Significance,95
+5,bb. Causes,100
+5,cc. Effects,104
+4,d. Forms of Industrial Concentration,106
+5,aa. Internal Growth,107
+5,bb. External Growth,107
+6,(1) Horizontal Mergers,108
+6,(2) Vertical Mergers,108
+6,(3) Conglomerate Mergers,109
+3,2. Measurement of Economic Concentration,110
+4,a. Analysis of Economic Concentration,110
+4,b. Defining the Relevant Market,111
+4,c. Measures of Industrial Concentration,116
+2,IV. Concluding Remarks,120
+1,Part 2: The Central Elements of the Current Theoretical Edifice,123
+2,I. The Current Debate on The Goals of Antitrust: Economics or Sociopolitics?,123
+3,1. The Current Efficiency-Orientation,125
+3,2. Evidence of the Goals of Antitrust,131
+4,a. Legislative History of the Antitrust Statutes,131
+4,b. Adjudicative Development,134
+4,c. Plausibility Considerations,137
+3,3. Antitrust Legislation and Rent-Seeking Behavior,139
+3,4. The German Case,141
+2,II. Methodology and Theoretical Model Underlying the Evaluation of the Competitiveness of Mergers,144
+3,1. The General Methodology of Analysis,144
+4,a. Neoclassical Price Theory as an Instrument of Analysis,144
+4,b. Price/Quantity-Interrelations as Indicators of Consumer Welfare,148
+4,c. The General Methodology: Conclusions,153
+3,"2. Mergers, Efficiency, and the Model for Evaluation",154
+4,a. Consumer Welfare and Efficiency: Remarks on Interdependence,154
+4,b. The Incorporation of Current Efficiency Considerations,155
+4,c. The Partial Equilibrium Trade-Off Model Reconsidered,157
+4,d. Qualifications to the Model,161
+5,aa. Premises and Assumptions,161
+5,bb. General Welfare Measurement,163
+5,cc. Allocative Efficiency,164
+5,dd. Productive Efficiency,166
+5,ee. Transfer of Wealth,170
+2,III. Impediments to New Competition,174
+3,"1. Perfect Competition, Monopoly, and Potential Competition",175
+3,"2. The Meaning, Definition, and Importance of Barriers to New Competition",176
+3,3. The Measurement of Barriers to New Competition,182
+3,4. Kinds of Barriers to New Competition and their Sources: Plausibility and Empirical Evidence,184
+4,a. Structural Barriers,184
+5,aa. Economies of Large Scale,185
+5,bb. Absolute Cost Advantages,188
+5,cc. Product Differentiation Advantages,191
+4,b. Strategic Barriers,197
+4,c. Legal and Administrative Barriers,201
+4,d. Barriers to Exit,203
+3,5. An Evaluation of Impediments to New Competition,206
+2,IV. Concluding Remarks,208
+1,Part 3: Industrial Concentration through Horizontal Mergers: Effects on Performance,213
+2,I. The Economic Rationale Underlying the Traditional Merger Policy,213
+3,1. The Content of the Concentration-Collusion Doctrine,214
+3,2. Economic Returns as a Standard of Measurement,216
+3,3. Empirical Attempts to Verify the Concentration-Collusion Doctrine,219
+4,a. Empirical Evidence,221
+5,aa. Concentration and Prices,221
+5,"bb. Concentration, Profit Rates, and Price-Cost Margins",224
+4,b. Collusion and “Critical Levels” of Concentration,227
+4,c. The Suitability of the Different Performance Criteria,229
+4,d. Insufficiencies of Traditional Studies,232
+2,II. The Validity of the Mainline Paradigm and the New Learning-Hypothesis,234
+3,1. Efficiency as a Cause of Concentration,234
+3,2. Concentration as a Possible Cause of Collusion,236
+3,3. The Theoretical Basis and the Empirical Evidence of the New Learning-Hypothesis,238
+3,4. Revised Policy Conclusions for Horizontal Mergers,243
+3,"5. Critical Evaluation of the New Learning-Hypotheses, the Underlying Premises, and their Empirical Evidence",245
+4,a. Impediments to Competition,245
+4,b. Accounting Data and the Data Base,247
+4,c. The Core of the Oligopoly and Other Omissions,251
+4,d. The Persistence of Profits in the Long Run,254
+2,III. Firm Market Share as the Essential Determinant of Interfirm Profitability Differences,256
+3,1. Interfirm Profitability Differences: Efficiency or Market Power?,256
+3,2. The Range of Economies of Size as an Alternative Explanatory Approach,261
+3,3. The Evidence of Efficiency on the Basis of Merger Performance,272
+2,IV. Concluding Remarks,274
+1,Part 4: Vertical Mergers: Anticompetitive Effects and the Attainment of Efficiencies,279
+2,I. Vertical Integration and Efficiency-Enhancement,280
+3,1. Transaction-Costs and Different Mechanisms for the Organization of Economic Exchange,281
+4,a. Economic Exchange via Markets: Costs of Using the Price Mechanism,281
+4,b. Economic Exchange via Organizations: Costs of Using Internal Organization,284
+3,2. Efficiency-Enhancement as the Underlying Reasoning for Vertical Integration,285
+3,3. Efficiency Gains vs. Anticompetitive Consequences: Necessity for a Trade-Off?,287
+2,II. Empirical Evidence on the Extent of Vertical Integration and Associated Efficiency Advantages,289
+3,1. The Measurement of the Extent of Vertical Integration,289
+3,2. The Empirical Evidence on Efficiency-Enhancement,290
+4,a. Studies on Transaction-Specific Market Characteristics,291
+4,b. Studies on Actual Cost Savings,292
+3,3. A Critical Review of the Applicability of the Transaction-Cost Approach to an Efficiency Analysis of Vertical Integration,294
+2,III. An Evaluation of Possible Anticompetitive Consequences Resulting from Vertical Integration,297
+3,1. The Reasoning Underlying Anticipated Anticompetitive Consequences: Foreclosure of Actual and Potential Competitors,297
+3,2. Particular Anticompetitive Effects Associated with Foreclosure,302
+4,a. Price and Output Consequences,302
+4,b. Price and Supply Squeeze,306
+4,c. Price Discrimination,310
+4,d. Impediments to New Competition,314
+4,e. Collusive Effects,318
+3,3. The Likelihood of Anticompetitive Effects and Revised Policy Conclusions,322
+2,IV. Concluding Remarks,325
+1,Résumée: Application of the Results of an Analysis of the Chicago School Approach Towards Industrial Concentration,329
+2,I. The Legal Treatment of Industrial Concentration,329
+3,1. The Approach,330
+3,2. The Relevant Statutes,332
+3,3. The Merger Term in the Statutes,333
+3,4. The Minimum Thresholds,334
+3,5. The Point of Intervention,334
+3,6. Overall Justification,337
+2,II. Trends and Tendencies in Enforcement and Adjudication,338
+3,1. The Use of Economic Evidence in Enforcement and Adjudication,338
+3,2. An Evaluation of Trends and Tendencies,339
+4,a. Determining Market Delineation,339
+4,b. Determining Market Domination,341
+5,aa. Superior Market Position,342
+6,(1) Market Structure,342
+7,(a) Market Share,343
+7,(b) Financial Strength,345
+7,(c) Market Barriers,348
+6,(2) Market Conduct,350
+5,bb. Oligopolistic Domination,352
+4,c. Strengthening Market Domination,355
+2,III. An Evaluation of the Propositions for a Reform of Merger Control in the Fifth Amendment of the ARC,356
+3,1. Political and Economic Order: Thoughts on Structural Complementarity,357
+3,2. The Object of Protection: Competition vs. Competitors,360
+3,3. An Evaluation of the Proposals on the Basis of Our State of Knowledge,362
+4,a. The Proposals,362
+4,b. The Evaluation,365
+2,IV. Concluding Remarks,370
+1,Bibliography,375
+2,Monographies,375
+2,Omnibus Volumes,385
+2,Articles and Serial Publications,395
+2,Official Publications, Legal and Other Sources,418
+2,Index of German and U.S. American Cases Cited,420

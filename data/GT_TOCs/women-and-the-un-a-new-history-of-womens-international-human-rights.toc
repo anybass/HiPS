@@ -1,0 +1,111 @@
+﻿1,Women and the UN,2
+1,Routledge Explorations in Development Studies,3
+1,Contents,8
+1,Contributors,10
+1,"Introductory note Learning journey for a feminist: Making women visible, recognizing women’s achievements, and demanding power to women",14
+2,Feminist in male-dominated society,14
+2,San Francisco 1945,15
+2,Getting UN history right,17
+2,Slow progress,17
+2,Notes,18
+2,Bibliography,18
+1,Preface Women of the UN: Shifting the Narrative by Revealing Forgotten Voices,19
+2,Rediscovering women in history,20
+2,Why are women in history forgotten?,21
+2,Advocating for change,22
+2,Notes,24
+2,Bibliography,25
+1,1 From women’s rights to human rights The influence of Pan-American feminism on the United Nations,28
+2,Introduction,28
+2,Pan-American feminism’s equal rights treaty,29
+2,Popular front Pan-American Feminism: From equal rights to human rights,32
+2,Towards the United Nations: Women’s rights and human rights,33
+2,Pan-American feminism shapes the United Nations,35
+2,Pan-American feminist legacies in the UN and human rights,38
+2,Notes,40
+2,Bibliography,42
+1,2 The Latin American women How they shaped the UN Charter and why Southern agency is forgotten,44
+2,Introduction,44
+2,Contesting the global hegemonic orthodoxy: Global IR and feminist critique,46
+2,The Latin American contribution to women’s rights at the UNCIO,47
+3,Women delegates at the UNCIO,48
+2,How women’s rights were included in the UN charter,48
+3,The equal rights of men and women,49
+3,Nondiscrimination based on sex,49
+3,Article 8—Equal participation in the United Nations,50
+3,The origins of a separate commission on the status of women,51
+2,Southern women delegates and Western resistance,51
+3,Human rights and the UN Charter,53
+2,Locating agency in the South,53
+3,The limitations of third world feminism in locating positive agency from the South,54
+2,Conclusion,57
+2,Notes,58
+2,Bibliography,63
+1,3 Excavating hidden histories Indian women in the early history of the United Nations,66
+2,Introduction,66
+2,The most remembered: Vijaya Lakshmi Pandit,67
+2,The most remembered: Hansa Mehta,70
+2,The forgotten envoys: Begum Shareefah Hamid Ali and Lakshmi Menon,73
+2,Conclusion,76
+2,Notes,76
+2,Bibliography,80
+1,4 International welfare feminism CSW navigating cold war tensions 1949,82
+2,Introduction,82
+2,“International welfare feminism” – a hidden historical narrative in the UN?,83
+2,Equal pay for women and the need for a separate female division within the ILO,85
+2,Resistance from US women’s organisations of all-female UN body,85
+2,Reverting the notion of “equal pay” for women,88
+2,Equal pay for women—a question for the Commission on the Status of Women?,90
+2,International welfare feminism and its relevance today,92
+2,Notes,93
+2,Bibliography,96
+1,"5 Universal human rights for women UN engagement with traditional abuses, 1948–1965",98
+2,Introduction,98
+2,Manufacturing monolithic cultures: Colonial cynicism on human rights for women,101
+2,“Awaiting release from the yoke imposed on them by custom:” Navigating custom in the convention on marriage,104
+2,Conclusions: Traditional abuses or abuses of tradition?,108
+2,Notes,109
+2,Bibliography,113
+1,"6 Feminism, global inequality, and the 1975 Mexico city conference",115
+2,Introduction,115
+2,History of international conferences on women,116
+2,International women’s year,118
+2,1975 conference on women,119
+3,The world plan of action,122
+2,Outcome,125
+2,Conclusion,126
+2,Notes,126
+2,Bibliography,129
+1,7 Who wrote CEDAW?,131
+2,Introduction,131
+2,Getting to a declaration on women’s rights,132
+2,Who was Annie Jiagge?,134
+2,Leticia Ramos Shahani and the drafting of the CEDAW,138
+2,Conclusion,145
+2,Notes,146
+2,Bibliography,150
+1,8 Were children’s rights ever a feminist project?,152
+2,Introduction,152
+2,From human rights to children’s rights,154
+2,Gender and the UN convention on the rights of the Child,156
+2,Concluding reflections,160
+2,Notes,162
+2,Bibliography,164
+1,"9 Creating UNSCR 1325 Women who served as initiators, drafters, and strategists",166
+2,Introduction,166
+2,The Sponsor,166
+2,The Windhoek Declaration and the Namibian Plan of Action on mainstreaming a gender perspective in multidimensional peace support operations,168
+2,Beijing +5,170
+2,Advocating to the security council,170
+2,Socializing and drafting,172
+2,Arria formula meeting,173
+2,Open debate,175
+2,Conclusion,177
+2,Acknowledgement,177
+2,Notes,178
+2,Bibliography,184
+1,10 Commentary The restorative archeology of knowledge about the role of women in the history of the UN – Theoretical implications for international relations,188
+2,Varieties of agency,190
+2,Notes,193
+2,Bibliography,194
+1,Index,196

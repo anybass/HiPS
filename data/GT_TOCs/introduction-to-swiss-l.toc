@@ -1,0 +1,323 @@
+﻿1,Introduction to Swiss Law,2
+2,Preface,6
+2,How to Use This Book,8
+2,Index of Authors,10
+2,Table of Contents,12
+2,Table of Contents (Detailed),14
+2,Abbreviations,24
+2,Marc Thommen Swiss Legal System,26
+3,I. Facts and Figures,28
+3,II. History,31
+3,III. Confederation,33
+4,1. FEDERAL ASSEMBLY,34
+4,2. FEDERAL COUNCIL,35
+4,3. FEDERAL SUPREME COURT,37
+3,IV. Cantons,43
+3,V. Communes,46
+3,VI. Direct Democracy,47
+4,1. FEDERAL LEVEL,47
+4,2. CANTONAL LEVEL,50
+4,3. COMMUNAL LEVEL,31
+3,VII. Legislative Process,52
+3,VIII. Publication of Federal Laws,56
+3,IX. Case Citation,58
+4,1. OFFICIAL COMPILATION (BGE),58
+4,2. PUBLICATION ONLINE,60
+4,3. PUBLIC PRONOUNCEMENT,63
+4,4. PRESS RELEASES,63
+3,Selected Bibliography,64
+2,Andreas Thier Legal History,66
+3,I. Plurality and the Traditions of Swiss Legal Culture,68
+3,II. The Old Confederacy (13th/14th Century – 1798),70
+4,"1. CONIURATIO, COVENANTS, AND CHARTERS",70
+4,"2. CUSTOMARY LAW, RECORDS OF LAW, AND SUMPTUARY MANDATES",72
+3,III. The Rise of Modern Swiss Statehood since 1798,75
+4,1. CONSTITUTIONAL DEVELOPMENTS IN EUROPE,75
+4,2. CONSTITUTIONAL DEVELOPMENTS IN SWITZERLAND SINCE 1798,76
+5,a) Focusing on Individual Rights: The “Bürgerliche Rechtsstaat”,77
+5,b) The (Slow) Rise of the Interventionist State,80
+5,c) Towards the Prevention State,81
+4,3. THE RISE OF CODIFICATIONS IN SWISS LEGAL CULTURE,82
+3,Selected Bibliography,85
+2,Elisabetta Fiocchi Malaspina History of International Law,86
+3,I. Introduction,88
+3,II. Theories of Natural Law and Law of Nations,89
+4,1. THE SPREAD OF THEORIES OF NATURAL LAW AND THE LAW OF NATIONS,89
+4,2. EMER DE VATTEL AND HIS LAW OF NATIONS (1758),91
+3,III. The Era of International Humanitarian Law,94
+4,1. HENRY DUNANT AND THE RED CROSS,95
+4,2. FOUNDING OF THE INTERNATIONAL LAW INSTITUTE (1873),98
+5,a) Gustave Moynier 1826–1910,99
+5,b) Johann Caspar Bluntschli (1808–1881),101
+3,Selected Bibliography,105
+2,Matthias Mahlmann Legal Philosophy and Legal Theory,106
+3,I. The Problems of the Philosophy of Law and Legal Theory,108
+3,II. A Map of Philosophy of Law and Legal Theory,110
+4,1. DESCRIPTIVE AND ANALYTICAL THEORY,110
+4,2. EXPLANATORY THEORIES,112
+4,3. NORMATIVE THEORY,113
+4,4. THE RELATIONSHIP OF LAW AND MORALITY,115
+4,5. EPISTEMOLOGY,118
+4,6. ONTOLOGY,118
+4,7. GROTIUS AND METHODOLOGICAL SECULARISM,119
+4,8. THE QUESTION OF UNIVERSALISM,120
+3,III. The Point of Philosophy of Law and Legal Theory,122
+3,IV. Theory of Justice,123
+3,V. A Concept of Justice,125
+3,VI. The Birth of the Human Rights Idea,126
+3,VII. Contemporary Human Rights Theory,128
+3,Selected Bibliography,130
+2,Christoph Beat Graber Legal Sociology,134
+3,I. What is Legal Sociology?,136
+4,1. DISCIPLINE,136
+4,2. METHOD,38
+3,"II. Law, Society and Direct Democracy",140
+4,1. POLITICAL AUTONOMY,40
+4,2. DIRECT DEMOCRACY,143
+4,3. PUBLIC SERVICE BROADCASTING,150
+5,a) Media Consumption and the Internet,150
+5,b) Personalisation Technologies,152
+3,III. Summary,156
+3,Selected Bibliography,158
+2,Matthias Oesch Constitutional Law,160
+3,I. Constitution,162
+4,1. HISTORY AND OVERVIEW,162
+4,2. PEOPLE,165
+5,a) Citizenship,165
+5,b) Foreign Nationals,167
+4,3. FUNDAMENTAL RIGHTS,169
+4,"4. FEDERATION, CANTONS, COMMUNES",170
+4,"5. FEDERAL ASSEMBLY, FEDERAL COUNCIL, FEDERAL COURTS",173
+3,II. Principles,176
+4,1. (SEMI-) DIRECT DEMOCRACY,76
+5,a) Popular Initiative,76
+5,c) “Landsgemeinde” as Cantonal Particularity,179
+4,2. MULTI-PARTY GOVERNMENT,180
+4,3. LIMITED CONSTITUTIONAL REVIEW,181
+3,III. Landmark Cases,184
+4,1. WOMEN’S SUFFRAGE,184
+4,2. NATURALISATION AND FUNDAMENTAL RIGHTS,185
+3,Selected Bibliography,187
+2,Matthias Oesch International Relations,188
+3,I. Treaties,190
+4,1. UNITED NATIONS AND SPECIALISED AGENCIES,190
+4,2. TRADE AND INVESTMENT,192
+4,3. SWITZERLAND AND EUROPE,194
+5,a) General Framework,194
+5,b) Bilateral Agreements,194
+5,c) Autonomous Adaptation of Swiss Law to EU Law,197
+3,II. Constitution,198
+4,1. GOALS AND MEANS,198
+4,2. COMPETENCES,199
+5,a) Federation and Cantons,199
+5,"b) Federal Council, Federal Assembly, Federal Courts",200
+5,c) Direct Democracy,201
+4,3. RELATIONSHIP BETWEEN INTERNATIONAL LAW AND SWISS LAW,204
+3,III. Landmark Cases,206
+4,1. SUPREMACY OF THE AGREEMENT ON THE FREE MOVEMENT OF PERSONS,206
+4,2. US SAFEGUARD MEASURES ON STEEL PRODUCTS,208
+3,Selected Bibliography,211
+2,Felix Uhlmann Administrative Law,212
+3,I. Codes,214
+3,II. Principles of Administrative Action,215
+4,1. CONSTITUTIONAL PRINCIPLES IN ADMINISTRATIVE LAW,215
+4,2. PRINCIPLE OF LEGALITY,215
+5,a) Legal Basis for Administrative Action,215
+5,b) Legality of the Law,216
+5,c) Delegated Legislation,217
+5,d) Judicial Review,218
+4,3. PUBLIC INTEREST,218
+4,4. PROPORTIONALITY,219
+4,5. LEGITIMATE EXPECTATIONS,219
+5,a) Basis,219
+5,b) Legitimacy of Expectations,221
+5,c) Private Arrangements,221
+5,d) Causality,222
+5,e) Balancing Test,222
+5,f) Special Doctrines: Administrative Practice and Retroactivity,223
+4,6. GOOD FAITH,225
+4,7. PROHIBITION OF ARBITRARINESS (REASONABLENESS),226
+3,III. Forms of Administrative Action,227
+4,1. Administrative Decisions,227
+5,a) Omnipresence of Administrative Decisions,227
+5,b) Definition of Administrative Decisions,228
+5,c) Administrative Decisions Determining Rights and Obligations,229
+5,d) Administrative Decisions as Individual Acts,230
+5,e) Administrative Decisions as Unilateral Acts,231
+5,f) Administrative Decisions as Acts Under Public Law,232
+5,g) Form,233
+4,2. ADMINISTRATIVE LAW CONTRACTS,233
+4,3. PRIVATE LAW CONTRACTS,235
+4,4. INFORMAL ACTS AND STATE LIABILITY,235
+4,5. ADMINISTRATIVE RULEMAKING,236
+3,IV. Landmark Cases,237
+4,1. STATE LIABILITY: VACHERIN MONT D’OR,237
+4,2. PROTECTION OF LEGITIMATE EXPECTATIONS: PIANO TEACHER,238
+4,3. PRINCIPLE OF LEGALITY: HEADSCARF,239
+4,4. PRINCIPLE OF PROPORTIONALITY: HOOLIGANS,240
+3,Selected Bibliography,242
+2,Felix Uhlmann Administrative Procedure,244
+3,I. Legal Sources,246
+4,1. HISTORICAL DEVELOPMENTS,246
+4,2. CONSTITUTIONAL FRAMEWORK,247
+4,3. FEDERAL ACT ON ADMINISTRATIVE PROCEDURE AND CANTONAL LAWS,248
+3,II. Procedural Rights and Principles,250
+4,1. ADMINISTRATIVE ACTION,250
+4,2. RIGHT TO BE HEARD,251
+4,3. RIGHT TO A DECISION WITHIN REASONABLE TIME,253
+4,4. RIGHT TO LEGAL AID AND TO COUNSEL,253
+4,5. RIGHT TO APPEAL,254
+4,6. RIGHT TO CHALLENGE LEGISLATION,255
+3,III. Institutional Framework,257
+4,1. ADMINISTRATIVE AUTHORITIES,257
+4,3. OTHER BODIES AND PROCEDURES,261
+4,4. EUROPEAN PERSPECTIVE,262
+3,IV. Landmark Cases,263
+4,1. NECESSITY OF ISSUING AN ADMINISTRATIVE DECISION: IWB,263
+4,2. PROCEDURAL FAIRNESS: NATURALISATION,264
+4,3. DIRECT CHALLENGE OF LEGISLATION: POLICE ACT OF ZURICH,265
+4,4. “LEGAL SAUSAGE SALAD” OR THE IMPORTANCE OF THE ECHR,267
+3,Selected Bibliography,269
+2,Madeleine Simonek Martina Becker Tax Law,270
+3,I. Fiscal Sovereignty and Constitutional Principles,272
+4,1. FEDERALISM AND FISCAL SOVEREIGNTY,272
+5,a) Distribution of Fiscal Sovereignty,272
+5,b) Federal Tax Harmonisation Act,273
+4,2. MAIN (CONSTITUTIONAL) PRINCIPLES,274
+5,a) Principle of Legality,274
+5,b) Principle of Universality,274
+5,c) Principle of Uniformity and Ability-To-Pay Principle,275
+5,d) Prohibition of Inter-Cantonal Double Taxation,275
+5,e) Principle of Good Faith,276
+3,II. Most Important Taxes and Tax Codes,278
+4,1. FEDERAL TAXES,278
+5,a) Federal Direct Taxes,278
+6,aa) Introduction,278
+6,bb) Federal Individual Income Tax,279
+6,cc) Federal Corporate Income Tax,281
+6,dd) Source Tax Levied on Income of Certain Individuals and Legal Entities,282
+5,b) Withholding (Anticipatory) Tax,282
+5,c) Federal Value Added Tax,283
+5,d) Other Taxes,284
+4,2. CANTONAL AND COMMUNAL TAXES,285
+5,a) Taxes on Income and Net Wealth,285
+6,aa) Individual Income Tax,285
+6,bb) Net Wealth Tax for Individuals,286
+5,b) Taxes on Net Profit and Capital of Legal Entities,286
+6,aa) Net-Profit Tax of Legal Entities,286
+6,bb) Capital Tax,287
+5,c) Further Cantonal Taxes,287
+6,aa) Inheritance and Gift Taxes,287
+6,bb) Real Estate Capital Gains Tax,287
+6,cc) Other Property and Expenditure Taxes,288
+4,3. INTERNATIONAL TAX AGREEMENTS,288
+5,a) Multilateral Conventions,288
+5,b) Double Taxation Treaties,289
+5,c) Bilateral Agreements with the European Union,289
+3,III. Landmark Cases,290
+4,1. PRINCIPLE OF EQUALITY: TAXATION OF MARRIED AND NON-MARRIED COUPLES,290
+4,2. ABILITY-TO-PAY PRINCIPLE: DEGRESSIVE INCOME TAX RATES,291
+4,3. PRINCIPLE OF GOOD FAITH: SWISS RULING PRACTICE,292
+4,4. PRINCIPLE OF NON-DISCRIMINATION: SALARY WITHHOLDING TAX,293
+3,Selected Bibliography,294
+2,Peter Georg Picht Goran Studen Civil Law,296
+3,I. Swiss Civil Code,298
+4,1. HISTORY,298
+4,2. LEGISLATION,300
+4,3. CONTENT,301
+4,4. MARITAL PROPERTY LAW,302
+4,5. PROHIBITION OF MAINTENANCE FOUNDATIONS AND FEE TAILS,304
+4,6. INHERITANCE LAW,305
+3,II. Principles,308
+4,1. APPLICATION AND INTERPRETATION OF THE LAW,308
+4,2. GOOD FAITH,310
+4,"3. PUBLICITY, POSSESSION, AND THE LAND REGISTER",313
+4,4. RULES OF EVIDENCE,317
+4,5. PRESUMED CAPACITY OF JUDGEMENT,318
+4,6. SEPARATION PRINCIPLE,320
+3,III. Landmark Cases,321
+4,1. LEGACY HUNTER,321
+4,2. CAPACITY TO MARRY,324
+4,3. FOOTMAN WITH SAMOVAR,325
+3,Selected Bibliography,328
+2,Tina Huber-Purtschert Law of Obligations,330
+3,I. Contract and Tort Law,334
+4,1.CODES,334
+5,a) Conclusion of a Contract,338
+5,b) Interpretation of a Contract,339
+5,c) Defects in the Conclusion of a Contract,340
+5,d) Defects in Consent,340
+5,e) Unfair Advantage,341
+5,f) Claims According to the General Provisions of the Code of Obligations,342
+5,i) Types of Contractual Relationship,346
+5,j) Innominate Contracts,347
+4,3. LANDMARK CASES,348
+5,a) Swissair-Case,348
+5,b) Market Value Estimate-Case,348
+5,c) Revocability of Simple Agency Contracts-Case,349
+3,II. Company Law,350
+4,1. CODES,350
+4,2. PRINCIPLES,350
+5,a) Company Forms,350
+5,b) Sole Proprietorship,351
+5,c) Company Limited by Shares,352
+5,d) Limited Liability Company,353
+4,3. LANDMARK CASES,354
+5,a) Breakthrough-Case I,355
+5,b) Breakthrough-Case II,355
+3,Selected Bibliography,356
+2,Sophie-Katharina Matjaz Civil Procedure,358
+3,I. Swiss Civil Procedure Code,360
+4,1. CONSTITUTIONAL FRAMEWORK,360
+4,2. LEGISLATION,365
+4,3. CONTENT,369
+3,II. Principles,378
+4,1. THE PRINCIPLE OF PARTY DISPOSITION AS A RULE,378
+4,2. THE PRINCIPLE OF EX-OFFICIO ASSESSMENT AS AN EXCEPTION,379
+4,3. THE PRINCIPLE OF PARTY REPRESENTATION AS A RULE,379
+4,4. THE PRINCIPLE OF EX-OFFICIO INVESTIGATION AS AN EXCEPTION,380
+3,III. Institutions and Procedure,382
+4,1. ATTEMPT AT CONCILIATION,382
+4,2. ORDINARY PROCEEDINGS,383
+4,3. OTHER TYPES OF PROCEEDINGS,386
+4,4. APPELLATE PROCEEDINGS,386
+3,IV. Landmark Cases,388
+4,1. INTERNATIONAL CASE,388
+4,2. DÜRRENMATT’S HEIRS,388
+4,3. AGREEMENT ON JURISDICTION,389
+4,4. FILING AN APPEAL WITH AN INCOMPETENT COURT,390
+4,5. INCORRECT INSTRUCTIONS ON OBJECTION REMEDIES,391
+3,Selected Bibliography,392
+2,Marc Thommen Criminal Law,394
+3,I. Criminal Code,396
+4,1. HISTORY,396
+4,2. LEGISLATION,398
+4,3. CONTENT,399
+4,4. DUALISM OF SANCTIONS,402
+4,5. DEATH PENALTY,404
+4,6. EUTHANASIA / ASSISTED SUICIDE,407
+3,II. Principles,410
+4,1. NULLA POENA SINE LEGE,410
+4,2. NULLA POENA SINE CULPA,412
+3,III. Landmark Cases,415
+4,1. ROLLING STONES,415
+4,2. DOMESTIC TYRANT,416
+4,3. DEADLY CAR RACE,416
+4,4. HIKING IN THE NUDE,417
+3,Selected Bibliography,419
+2,Marc Thommen Criminal Procedure,420
+3,I. Criminal Procedure Code,422
+4,1. CONSTITUTIONAL FRAMEWORK,422
+4,2. LEGISLATION,424
+4,3. CONTENT,427
+3,II. Principles,435
+4,1. EX OFFICIO INVESTIGATION,435
+4,2. MANDATORY INVESTIGATION,436
+4,3. NEMO TENETUR SE IPSUM ACCUSARE,437
+3,III. Institutions and Procedure,439
+3,IV. Landmark Cases,445
+4,1. SCHENK V.SWITZERLAND,445
+4,2. HUBER V.SWITZERLAND,447
+4,3. CHAMP-DOLLON,448
+4,4. KRISTALLNACHT,449
+3,Selected Bibliography,451

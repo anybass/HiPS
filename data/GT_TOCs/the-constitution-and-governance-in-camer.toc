@@ -1,0 +1,226 @@
+﻿1,The Constitution and Governance in Cameroon,2
+1,Routledge Studies on Law in Africa,3
+1,Contents,8
+1,List of Abbreviations,10
+1,Table of Cases,12
+2,African Commission on Human and Peoples’ Rights,12
+2,Botswana,12
+2,Cameroon,12
+2,Cameroon – Constitutional Council,13
+2,Court of Justice of the European Union,13
+2,European Court of Human Rights,13
+2,France,13
+2,India,13
+2,Nigeria,14
+2,United Kingdom,14
+2,United Nations Human Rights Committee,14
+2,United States of America,14
+2,Zambia,14
+1,Table of Legislation,15
+2,Benin,15
+2,Botswana,15
+2,Cameroon,15
+2,Democratic Republic of Congo,18
+2,France,18
+2,Ghana,18
+2,Kenya,18
+2,Nigeria,18
+2,South Africa,18
+2,Tanzania,18
+2,International Treaties and Agreements,18
+2,Regional Instruments,18
+2,Other Regional and International Instruments,19
+2,Others,19
+3,Mandate and Trusteeship Agreements for Cameroon,19
+3,UN General Assembly Resolutions on Cameroon,19
+1,Preface,20
+1,Introduction,22
+2,Notes,28
+1,1 A history of the constitution and governance in Cameroon,29
+2,Introduction,29
+2,Part I. Background,29
+2,Part II. Colonial governance and administration,30
+3,A. The civil law and governance in French Cameroon,30
+3,B. The common law and governance in British Cameroons,32
+3,C. The decolonisation process,34
+4,I. French Cameroon,34
+4,II. Southern Cameroons,35
+2,Part III. Post-independence constitutional developments,39
+3,A. Federalism and the coexistence of French and British constitutional traditions,39
+3,B. The Glorious Revolution of May Twentieth and the demise of the Westminster model,43
+3,C. The return to multi-party democracy,44
+2,Conclusion,48
+2,Notes,48
+2,References,54
+1,2 Executive power in the context of semi-presidentialism,57
+2,Introduction,57
+2,Part I. Semi-presidentialism and the structure of the executive,57
+3,A. Structure of the executive,57
+3,B. Semi-presidentialism and executive power,58
+2,Part II. The President,58
+3,A. Election,58
+3,B. Competencies and powers,60
+4,"I. Appointment of the PM, the cabinet and other state officials",61
+4,II. Legislative powers,62
+4,III. Dissolution powers,63
+4,IV. Power to extend or abridge the parliamentary term,64
+4,V. Emergency powers,66
+4,VI. National defence and the military,68
+4,VII. Foreign affairs,69
+3,C. Accountability,69
+4,I. Immunity from prosecution,69
+4,II. Impeachment,70
+2,Part III. The PM and the government,72
+3,A. Powers of the PM,72
+4,I. Formation of government,72
+4,II. Policy implementation,72
+4,III. Regulatory powers,73
+3,B. Structure and role of government,73
+3,C. Accountability,74
+3,D. Accountability through good governance and anti-corruption strategies,75
+4,I. Declaration of assets,76
+4,II. The CONAC,76
+2,Conclusion,77
+2,Notes,78
+2,References,86
+1,3 The electoral system and the legislature,90
+2,Introduction,90
+2,Part I. The electoral system,90
+3,A. Structure of the National Electoral Commission (ELECAM),91
+4,I. Role and powers of ELECAM,92
+5,A. THE DIRECTORATE GENERAL (AS PER SECTION 26(1)),92
+6,Pre-election,92
+6,Election period,92
+6,Post-election,92
+5,B. EB (AS PER SECTIONS 10 AND 11),92
+6,Pre-election,92
+6,Election period,92
+6,Post-election,92
+3,B. Sub-commissions,93
+4,I. Other electoral commissions,95
+3,C. The Constitutional Council,96
+2,Part II. Election of members of parliament,97
+3,A. National Assembly,97
+3,B. The Senate,98
+2,Part III. Structure of the legislature,100
+3,A. The National Assembly,100
+3,B. The Senate,101
+3,C. The relationship between the National Assembly and Senate,103
+2,Part IV. Powers and functions of the legislature,105
+3,A. The legislative domain and law making,105
+3,B. Scrutiny of the executive,108
+4,I. Oral and written questions,109
+4,II. Vote of no confidence and motion of censure,110
+4,III. Commissions of inquiry,112
+3,C. Fiscal oversight,114
+2,Part V. Parliamentary accountability,118
+2,Conclusion: democratisation and bicameralism in a one-party dominated state,119
+2,Notes,120
+2,References,128
+1,"4 The judiciary, judicial independence and power",131
+2,Introduction,131
+2,Part I. Organisation of the judicial system and jurisdiction of the courts,131
+3,A. Courts of ordinary jurisdiction,132
+4,I. Ordinary courts with original jurisdiction,132
+5,A. REGIONAL ADMINISTRATIVE COURTS,132
+5,B. REGIONAL AUDIT COURTS,133
+5,C. HIGH COURTS,134
+5,D. COURTS OF FIRST INSTANCE,135
+5,E. CUSTOMARY COURTS,136
+4,II. Ordinary courts with appellate jurisdiction,136
+5,A. COURTS OF APPEAL,136
+5,B. SUPREME COURT,137
+3,B. Courts with special jurisdiction,139
+4,I. Military tribunals,139
+4,II. Special Criminal Court,140
+4,III. Court of Impeachment,140
+4,IV. State Security Court,141
+2,Part II. The status and independence of the judiciary,141
+3,A. Structure and constitutional status of the judiciary,141
+4,I. Structure,141
+4,II. Constitutional status,142
+3,"B. The judicial tenure: appointment, career progression and discipline of judges",143
+4,I. Appointment,143
+4,II. Career progression,143
+4,III. Discipline,146
+3,C. Judicial independence versus accountability: a tenuous relationship,148
+3,D. The prosecutor in the judicial landscape,150
+3,E. Judicial scrutiny of the executive,152
+4,I. Scope of review,152
+4,II. Exemptions from judicial scrutiny: actes de gouvernement,154
+3,F. Judicial power and the enforceability of judgments,155
+2,Conclusion,157
+2,Notes,158
+2,References,167
+1,5 The Constitutional Council and democratic advancement,170
+2,Introduction,170
+2,Part I. Structure and competence of the Constitutional Council,170
+3,A. Composition,170
+3,B. Jurisdiction,173
+4,I. Constitutional review,173
+4,II. Regulating the functioning of state institutions and the regions,177
+4,III. Ensuring the regularity of elections,177
+3,C. Access,178
+3,D. Procedures before the Constitutional Council,181
+4,I. Constitutional review,182
+4,II. Electoral petitions,183
+4,III. Effect of the Council's decisions,183
+3,E. Protecting constitutional rights and promoting democratic advancement,183
+2,Part II. International treaties and the alternative to constitutional review,187
+3,A. International law and the domestic legal order,187
+3,B. Le contrôle de conventionnalité des lois,188
+2,Conclusion,190
+2,Notes,191
+2,References,196
+1,6 Managing diversity The Anglophone struggle for self-determination,199
+2,Introduction,199
+2,Part I. The immediate triggers of the Anglophone crisis in brief,200
+2,Part II. Responses to the Anglophone problem,202
+3,A. Decentralisation,202
+4,I. Justifying decentralisation,203
+3,B. Special autonomy status,206
+4,I. An overview of the special status for the North-West and South-West Regions,208
+4,II. Substantive provisions,209
+5,A. DEVOLVED POWERS,209
+4,III. Institutional structures,211
+5,A. DELIBERATIVE AND EXECUTIVE ORGANS,211
+5,B. THE PUBLIC INDEPENDENT CONCILIATOR,214
+4,IV. Procedural considerations,215
+5,A. NEGOTIATING A SPECIAL STATUS AGREEMENT,216
+5,B. NORMATIVE FOUNDATIONS OF THE SPECIAL STATUS AGREEMENT,217
+3,C. Federalism,219
+4,I. Justifying a return to federalism,219
+3,D. Secession,222
+4,I. Justifying secession,222
+4,II. What next for the secessionist agenda?,227
+2,Conclusion,229
+2,Notes,230
+2,References,237
+1,7 The protection of human rights and fundamental freedoms,241
+2,Introduction,241
+2,Part I. Overview of constitutional provisions,242
+3,A. Justiciability of human rights,242
+3,B. Substantive features of human rights provisions,243
+4,I. Indivisibility of human rights,243
+4,II.  The concept of ‘duties’,244
+4,III.  ‘Claw-back’ clauses,245
+4,IV. Institutional protection mechanisms,246
+2,Part II. Enforcement mechanisms,246
+3,A. The National Commission on Human Rights and Freedoms,246
+4,I. Background,246
+4,II. Overview of the institutional structure and composition,247
+4,III. Mandate,248
+4,IV. Powers,251
+4,V. Prospects and challenges,253
+3,B. The Directorate for Human Rights and International Cooperation,254
+4,I. Overview of the institutional structure,254
+4,II. Mandate and powers,254
+4,III. Assessment of its role in the protection and promotion of human rights,255
+2,Conclusion,257
+2,Notes,257
+2,References,261
+1,Conclusion,264
+2,Constitutional engineering,265
+2,Notes,266
+2,References,267
+1,Index,268

@@ -1,0 +1,509 @@
+﻿1,"BANK REGULATION, RISK MANAGEMENT, AND COMPLIANCE",2
+1,PRACTICAL FINANCE AND BANKING GUIDES,3
+1,CONTENTS,8
+1,LIST OF FIGURES,16
+1,LIST OF TABLES,18
+1,LIST OF ABBREVIATIONS,20
+1,TABLE OF LEGAL SOURCES,26
+2,INTERNATIONAL,26
+3,Guidance and Standards,26
+2,UNITED KINGDOM,27
+3,Statutory,27
+3,Guidance,27
+2,EUROPEAN UNION,27
+3,Statutory,27
+3,Guidance,27
+2,UNITED STATES,28
+3,Statutory Law - Federal,28
+3,Statutory Law - State,29
+3,Regulations – Federal,29
+3,Regulatory Actions and Judicial Decisions,30
+3,Guidance - Examination and Enforcement Manuals,30
+3,Guidance - Other,31
+3,Statistical Data,32
+1,NOTE ABOUT THE AUTHOR,34
+1,ACKNOWLEDGMENTS,36
+1,Introduction,40
+2,A transformation of governing assumptions,40
+2,Themes in bank regulation and banks’ internal governance,41
+3,1 Cooptation of corporate governance,41
+3,2 Tensions between banks’ business models and regulatory mandates,42
+3,3 Flexibility and broad variety of means in conveying regulatory expectations,43
+2,Contribution to the literature and intended readership,45
+2,Book overview,46
+3,Part I,47
+3,Part II,48
+1,Part I Foundations,52
+2,CHAPTER 1 The banking business model and rise of the financial conglomerate,54
+3,1.1 Introductory overview,54
+3,1.2 Factors that cause banks to be so highly regulated,55
+4,1.2.1 Intensity of regulation a function of banks’ central role in the economy,56
+5,1.2.1.1 Banks’ role in the extension of credit,56
+5,1.2.1.2 Banks’ role in intermediating between savers and borrowers,57
+5,1.2.1.3 Banks’ role in the payments system,57
+4,1.2.2 Regulation a function of risks inherent in the banking business model,58
+5,1.2.2.1 Risks relating to revenue generated in banks’ role in liquidity transformation,58
+5,1.2.2.2 Liquidity risk,59
+5,1.2.2.3 Interest rate risk and market risk arising from banks’ business model,60
+5,1.2.2.4 Asset liability management (ALM) of liquidity and interest rate risk,61
+5,1.2.2.5 Credit risk: banks’ comparative advantage in mitigating risks of adverse selection and moral hazard,61
+5,1.2.2.6 Operational risk arising from banks’ business model,62
+4,1.2.3 Risk management and compliance a function of the government safety net,64
+5,1.2.3.1 Government safety net’s effect on adverse selection and moral hazard,65
+5,1.2.3.2 TBTF status a source of both adverse selection and moral hazard,65
+5,1.2.3.3 Role of FDIC insurance in banks’ capital structure and risk-taking,66
+4,1.2.4 GFC’s pervasive impact on global banking regulation,66
+5,1.2.4.1 Rajan-Kohn debate reflected market-based regulatory ethos prior to GFC,66
+5,1.2.4.2  Emergence of financial stability as the primary regulatory objective,67
+3,1.3  The rise of the global financial conglomerate and BHC structure,67
+4,1.3.1 The securitization ‘originate-and-distribute’ model,68
+5,1.3.1.1 Case study of securitization: mortgage-backed securities,69
+5,1.3.1.2 Securitization, a form of bank intermediation,69
+4,1.3.2 Deregulation and emergence of the BHC structure,70
+5,1.3.2.1 Unique historical factors prevented concentration in US banking industry,70
+5,1.3.2.2 Competition from non-banks spurred bank deregulation and rise of BHCs,70
+5,1.3.2.3 Gramm-Leach completed deregulation of banking industry,71
+4,"1.3.3 Increasing complexity, interconnectedness, and size of BHCs",72
+5,1.3.3.1 Increasing complexity: growth of non-banking business lines in BHCs,72
+5,1.3.3.2 Growth of interconnectedness of financial conglomerates,73
+5,1.3.3.3 Increasing size and complexity of BHCs,73
+5,1.3.3.4 Regulatory and corporate governance implications of conglomerate structure,74
+3,1.4 Conclusion,75
+2,CHAPTER 2 The bank regulatory framework and formation and conveyance of regulatory expectations,76
+3,2.1 Introductory overview,76
+3,2.2 The regulatory and supervisory structure and its implications for risk management and compliance,76
+4,2.2.1 BCBS: history and function,77
+4,"2.2.2 Roles of regulation, supervision, and compliance in achieving the three regulatory objectives",78
+5,2.2.2.1 The three primary regulatory objectives,78
+5,"2.2.2.2 Role of regulation, supervision, enforcement, and communication of regulatory expectations",78
+4,2.2.3 Bank supervisory structures,79
+5,2.2.3.1 Four primary supervisory structures,80
+5,2.2.3.2 Critical need for coordination of agencies in financial crises,81
+5,2.2.3.3 Central bank’s combined role in monetary and financial stability,81
+4,2.2.4 Critiques of the four supervisory structures: lessons of the GFC,81
+5,2.2.4.1 Criticism directed at institutional structure,83
+5,2.2.4.2 The functional model,83
+5,2.2.4.3 Unified system: a ‘super regulator’,84
+5,2.2.4.4 Virtues of twin-peaks model,84
+5,2.2.4.5 Potential for regulatory arbitrage,85
+4,2.2.5 Impact of supervisory structure on firms’ risk-return analysis of risk management and compliance functions,85
+5,2.2.5.1 Supervisory attributes that affect compliance cost and risk analysis,85
+6,1 CLARITY IN SUPERVISORS’ OWN REGULATORY OBJECTIVES,86
+6,2 EFFECTIVENESS IN OVERSEEING FINANCIAL CONGLOMERATES,86
+6,3 SUPERVISORY RESOURCES,86
+6,4 INDEPENDENCE AND ACCOUNTABILITY,87
+6,5 ENFORCEMENT POWERS AND THEIR USE,87
+3,2.3 US regulatory and supervisory framework,88
+4,2.3.1 Structure of US banking agency regulation and supervisory oversight,88
+5,2.3.1.1 Jurisdiction of banking and capital markets agencies: primary regulators,88
+5,2.3.1.2 US’s dual banking system,89
+5,2.3.1.3 Systemic risk regulation: Federal Reserve’s consolidated supervisory authority,90
+5,2.3.1.4 Consumer Financial Protection Bureau,91
+4,2.3.2 Obsolescence of US supervisory structure,91
+5,2.3.2.1 Dodd-Frank retained the institutional structure,92
+4,2.3.3 Compliance cost and inherent compliance risk under US structure,92
+3,2.4 UK regulatory and supervisory framework,93
+4,2.4.1 Failure of UK’s unified structure,93
+4,2.4.2 Conversion to twin-peaks structure,93
+4,2.4.3 Compliance cost and inherent compliance risk under UK structure,94
+3,2.5 EU regulatory and supervisory framework,94
+4,2.5.1 Compliance cost and inherent compliance risk under EU regulatory framework,96
+3,2.6 Conveying regulatory expectations: rules-based and principles-based approaches,96
+4,2.6.1 Issues of theory and policy,97
+5,2.6.1.1 Tradeoffs for regulators and firms,97
+5,2.6.1.2 Preference for rules-based regimes,98
+5,2.6.1.3 Critique of ‘principles-based’ systems following the GFC,99
+4,2.6.2 Rules-principles classification of the four areas of banking regulation,100
+3,2.7 Supervisory tools for conveying regulatory expectations,102
+4,2.7.1 Bank examinations,102
+5,2.7.1.1 Communications stage,102
+4,2.7.2 Sliding scale of increasing strictness of supervisory actions,103
+4,2.7.3 Pyramid of regulatory expectations,104
+3,2.8 Conclusion,105
+2,Chapter 3 Managing banks’ risks through a corporate governance framework,106
+3,3.1 Introductory overview,106
+3,3.2 A corporate governance primer,107
+4,3.2.1 Core components of a corporate governance system,107
+5,3.2.1.1 Objectives of companies organized in the US and elsewhere,107
+5,3.2.1.2 Managing the principal-agent relationship and conflicts of interest,107
+5,3.2.1.3 Genesis of COIs in principal-agent relationships,108
+5,3.2.1.4 Corporations have principal-agent relationships at many levels,109
+5,3.2.1.5 Board’s broad discretion under the business judgment rule,109
+5,3.2.1.6 Corporate law mechanisms that balance board’s authority with accountability,110
+5,"3.2.1.7 Role, structure, and composition of boards of directors in US and internationally",111
+3,3.3 Corporate governance issues unique to banks and other financial institutions,112
+4,3.3.1 Special governance issues involving boards of BHCs and bank subsidiaries,113
+4,3.3.2 Managing conflicts of interests in financial institutions,114
+5,3.3.2.1 Risk management and compliance relating to COIs,114
+5,3.3.2.2 Determining ‘root cause’ of conflicts in order to establish effective risk controls,115
+5,3.3.2.3 Two types of COIs in client-facing business lines,116
+5,3.3.2.4 Retail and institutional domains reflect differing compliance risks,116
+5,3.3.2.5 Financial conglomerates present greatest compliance risk from COIs,117
+5,3.3.2.6 Best practice risk analysis and compliance procedures for conflicts,117
+3,3.4 The role of the three control functions in bank corporate governance,118
+4,3.4.1 Reporting structure of the three control functions,118
+4,3.4.2 The 3LOD model,119
+5,3.4.2.1 First line of defense: revenue-generating business lines,120
+5,3.4.2.2 Second line of defense: risk management and compliance,121
+5,3.4.2.3 Third line of defense: internal audit,121
+3,3.5 The bank compliance function,122
+4,3.5.1 Role of compliance in addressing the principal-agent problem,122
+5,3.5.1.1 Specialization and professionalization of the bank compliance function,123
+5,3.5.1.2 Two theories of compliance in the system of corporate governance,124
+4,3.5.2 Compliance risk-return optimization,124
+5,3.5.2.1 Difficulty in assessing residual compliance risk,125
+5,3.5.2.2 Limiting assumptions in compliance risk-return optimization,126
+4,3.5.3 Interrelationship between risk management and compliance,126
+3,3.6 Formative impact of state law and federal prosecutorial policy on compliance,127
+4,3.6.1 Role of Delaware judiciary in incentivizing firms to establish compliance programs,127
+5,3.6.1.1 Board’s duty to monitor compliance with laws and regulation under Delaware law,127
+5,3.6.1.2 In re Citigroup: business risk decisions are unreviewable,129
+4,3.6.2 Role of USSG and prosecutorial policy in creating compliance obligations,129
+5,3.6.2.1 Multiple roles of compliance in dealing with prosecutions,130
+5,3.6.2.2 Premises underlying USSG for business organizations,130
+5,3.6.2.3 Relevant provisions of USSG,131
+5,3.6.2.4 DOJ’s guidance on effective compliance programs,132
+5,3.6.2.5 DPAs and NPAs,133
+5,3.6.2.6 Coercive and arbitrary nature of DPAs and NPAs can nullify firms’ risk-return optimization analysis,133
+3,3.7 The bank risk management function,134
+4,3.7.1 Corporate governance framework for risk management,134
+5,3.7.1.1 Basic corporate governance framework of risk management function,134
+5,3.7.1.2 Risk appetite,135
+5,3.7.1.3 Risk appetite framework and risk appetite statement,135
+5,3.7.1.4 Unique issues involving ‘compliance risk’: necessity of firm-wide compliance program,136
+5,3.7.1.5 Risk committees,137
+5,3.7.1.6 Risk measurement is not risk management and should be independent,137
+5,3.7.1.7 Role of ICs in risk management,138
+4,3.7.2 Technical components of risk management,138
+5,3.7.2.1 Risk assessment: identification and evaluation of key material risks,139
+5,3.7.2.2 Assessing ‘known’ and ‘unknown’ risk,139
+5,3.7.2.3 VaR and other measurement tools,139
+5,3.7.2.4 Internal controls based on limits,140
+4,3.7.3 Enterprise risk management: COSO and ISO,141
+5,3.7.3.1 Overview of ERM,141
+5,3.7.3.2 COSO,142
+5,3.7.3.3 ISO,143
+5,3.7.3.4 Comparison of COSO’s and ISO’s ERM frameworks,143
+3,3.8 Role of corporate culture in bank risk management and compliance,144
+4,3.8.1 Historical trends and other explanatory factors in financial firms’ culture,144
+5,3.8.1.1 Regulation of ethical behavior,144
+5,3.8.1.2 Role of unethical conduct in increasing compliance risk,145
+5,3.8.1.3 Prudential issues arising from unethical conduct,145
+5,3.8.1.4 Is ethical conduct a matter of macroeconomic cycles?,146
+3,3.9 Conclusion,146
+1,Part II Primary areas of bank regulation and internal governance,148
+2,Chapter 4 The role of risk management and compliance in micro-prudential capital regulation,150
+3,4.1 Introductory overview,150
+3,"4.2 Overview of bank capital, leverage, and capital adequacy requirements",151
+4,"4.2.1 Economic capital, regulatory capital, and leverage",151
+5,4.2.1.1 Accounting definition: net worth,151
+5,4.2.1.2 Role of economic capital in bank risk management,151
+5,4.2.1.3 Regulatory capital,151
+5,4.2.1.4 Calculating bank leverage,152
+4,4.2.2 Factors contributing to the amount of capital on banks’ balance sheet,152
+5,4.2.2.1 Importance of return on equity in banks’ capital structure and risk-taking,153
+5,4.2.2.2 Negative implications of ‘signaling’ by equity sales,153
+5,4.2.2.3 Importance of a high amount of short-term liabilities in banks’ capital structure,153
+5,4.2.2.4 Historical evolution of bank leverage,154
+4,4.2.3 Rationales for capital adequacy regulation,155
+3,4.3 Prescriptive micro-prudential regulation and compliance,156
+4,4.3.1 Historical evolution of prudential regulation,156
+5,4.3.1.1 Period 1: pre-FDIC insurance,156
+5,4.3.1.2 Period 2: FDIC insurance,156
+5,4.3.1.3 Period 3: Basel regime,157
+5,4.3.1.4 Evolution internationally,157
+4,4.3.2 Overarching objectives of Basel capital regulation and regulatory philosophy,157
+5,4.3.2.1 Two interrelated objectives,157
+5,4.3.2.2 Resilience of Basel regime’s methodological approach,157
+5,4.3.2.3 Basel’s Three Pillars of capital regulation and supervision,158
+5,4.3.2.4 Risk-return optimization involving RWA,159
+4,4.3.3 Overview of Basel III’s risk-weighted capital adequacy methodology,159
+5,4.3.3.1 Precursors and foundation of Basel III: Basel I and Basel II,159
+4,4.3.4 Basel III’s RWA framework: regulatory capital (numerator),160
+5,4.3.4.1 Basel III’s ‘going concern’ and ‘gone concern’ loss absorption rationales,160
+5,4.3.4.2 Amount required of each tier of capital,161
+5,4.3.4.3 Capital conservation buffer,161
+5,4.3.4.4 Risk management and compliance relating to regulatory capital numerator,162
+4,4.3.5 Overview of Basel III’s risk-based framework: RWA (denominator),162
+5,4.3.5.1 Separate methodologies for ‘standardized’ and ‘advanced’ approaches banks,163
+4,4.3.6 Credit risk RWA capital requirements,163
+5,4.3.6.1 Standardized approach RWA methodologies for credit risk,164
+5,4.3.6.2 Compliance issues under standardized RWA methodology for credit risk,166
+5,4.3.6.3 Advanced approaches A-IRB RWA methodologies for credit risk,166
+5,4.3.6.4 Compliance and risk management for general credit risk under A-IRB approach,169
+5,4.3.6.5 Requirements for advanced approaches banks in calculating operational risk RWA,170
+5,4.3.6.6 Risk management and compliance for operational risk,171
+4,4.3.7 Market risk RWA capital requirements,172
+5,4.3.7.1 Regulatory distinction between ‘banking book’ and ‘trading book’,172
+5,4.3.7.2 Evolution of market risk rulemaking,173
+5,4.3.7.3 US market risk rule,173
+5,4.3.7.4 Risk management and compliance requirements under US market risk rule,175
+5,4.3.7.5 FRTB,176
+4,4.3.8 Leverage ratio requirements,177
+5,"4.3.8.1 4% leverage ratio applicable to all banks",177
+4,4.3.9 Non-capital adequacy-based restrictions,177
+5,4.3.9.1 Single borrower limit,177
+5,4.3.9.2 Limits on exposures to other financial institutions,178
+5,4.3.9.3 Other non-capital-based restrictions,178
+5,4.3.9.4 Risk management and compliance: non-capital adequacy-based restrictions,178
+3,4.4 Conclusion,179
+2,Chapter 5 The role of risk management and compliance in micro-prudential oversight,180
+3,5.1 Introductory overview,180
+3,5.2 General overview of Pillar II bank supervision,180
+4,5.2.1 Rationales for bank supervision,181
+4,5.2.2 Capital: focus of supervisory review for all banks,181
+5,5.2.2.1 Assessment of firms’ risk management and ICs relating to capital,182
+4,5.2.3 Scope and nature of bank supervision through examinations,182
+5,5.2.3.1 Key features distinguishing bank from capital market agencies’ examinations,182
+5,5.2.3.2 Types of examinations,183
+5,5.2.3.3 Preparation or planning stage for examinations,184
+5,5.2.3.4 Examination stage: review of risk management and compliance systems,184
+5,5.2.3.5 Focus in examination stage in prudential oversight,185
+5,5.2.3.6 Communications stage,185
+4,5.2.4 Graduated escalation of supervisory actions,185
+3,5.3 Statutory and regulatory foundation of safety and soundness oversight,186
+4,5.3.1 Banks as ‘going’ and ‘gone’ concerns,186
+4,5.3.2 What is ‘safety and soundness’?,186
+4,5.3.3 Section 39 of the Federal Deposit Insurance Act,187
+4,5.3.4 Interagency guidelines under Section 39: Operational and Managerial Standards,188
+5,5.3.4.1 Appendix A’s Operational and Managerial Standards: a CAMELS precursor,189
+4,5.3.5 Safety and soundness finding as prudential backstop for Pillar I rules,190
+5,5.3.5.1 Analysis of compliance risk under safety and soundness standard,190
+5,5.3.5.2 Focus on loan quality,190
+3,5.4 The CAMELS rating system,191
+4,5.4.1 Purpose and mechanics of CAMELS rating system,191
+5,5.4.1.1 Six components of CAMELS,192
+5,5.4.1.2 Composite CAMELS rating,192
+4,5.4.2 Enforcement consequences of a low CAMELS rating,192
+4,5.4.3 Importance of management quality in CAMELS rating system,192
+5,5.4.3.1 Elements of the separate management quality rating,192
+4,5.4.4 Elements of each CAMELS ratings component,193
+5,5.4.4.1 Capital adequacy component,193
+5,5.4.4.2 Asset component,193
+5,5.4.4.3 Management component,194
+5,5.4.4.4 Earnings component,194
+5,5.4.4.5 Liquidity component,194
+5,5.4.4.6 Market sensitivity component,195
+3,5.5 Prompt Corrective Action program,195
+4,5.5.1 PCA program’s ‘tripwire’ approach,195
+5,5.5.1.1 PCA program’s three-prong approach,195
+5,5.5.1.2 Increasingly harsh enforcement actions required as capital ratios decline,196
+3,5.6 Conclusion,197
+2,Chapter 6 The role of corporate governance in macro-prudential regulation of systemic risk,198
+3,6.1 Introductory overview,198
+3,6.2 The role of the GFC in the formulation of macro-prudential regulation,199
+4,6.2.1 Definitions and concepts,199
+5,6.2.1.1 Banking crises as a subset of financial crises,199
+5,6.2.1.2 Two theories of the causes of systemic risk,200
+4,6.2.2 Too big to fail,202
+5,6.2.2.1 TBTF and moral hazard,202
+5,6.2.2.2 Types of TBTF resolution,203
+5,6.2.2.3 TBTF a phenomenon of the financial sector,203
+5,6.2.2.4 GFC’s contribution to the TBTF debate,204
+4,6.2.3 Shadow banking and bank runs,204
+5,6.2.3.1 Economic equivalence of shadow bank and commercial bank runs,204
+4,6.2.4 Regulatory responses to risks revealed in GFC’s three phases,205
+4,6.2.5 Phase I: corporate governance and risk management failures reflected in banks’ capital structure,205
+5,6.2.5.1 Siloed risk management,206
+5,"6.2.5.2 Challenges in identifying, communicating, and acting on tail risk",206
+5,6.2.5.3 Principal-agent conflict as a contributing cause to risk management failure,207
+5,6.2.5.4 Risky capital structure,209
+5,6.2.5.5 Senior Supervisors Group’s assessment of risk management practices,209
+5,6.2.5.6 Regulatory response relating to risks revealed in Phase I,210
+4,6.2.6 Phase II: liquidity and credit crisis,210
+5,6.2.6.1 Starting point of liquidity and credit crisis,210
+5,6.2.6.2 Escalation of the liquidity and credit crisis: bailouts of TBTF firms,212
+5,6.2.6.3 Both types of systemic risk occurred in GFC,213
+5,6.2.6.4 Regulatory response relating to risks revealed in Phase II,213
+4,6.2.7 Phase III: the Great Recession,214
+5,6.2.7.1 Regulatory response relating to risks revealed in Phase III,215
+4,6.2.8 Regulators’ lessons from the GFC and their macro-prudential response,215
+5,6.2.8.1 Pre-GFC focus on safety and soundness of individual banks,215
+5,6.2.8.2 Objective of new macro-prudential framework to internalize systemic risks,216
+5,"6.2.8.3 Systemic risk coordinators in the US, UK, EU, and globally",216
+5,6.2.8.4 Political and organizational challenges involving systemic risk oversight,217
+3,6.3   Risk management and compliance expectations for large BHCs,218
+4,6.3.1 FRB guidance on large BHCs’ board effectiveness,219
+5,6.3.1.1 Business strategy clearly aligned with risk tolerance,219
+5,6.3.1.2 Information flow,220
+5,6.3.1.3 Accountability of senior management,220
+5,6.3.1.4 Support of independence and stature of control functions,221
+5,6.3.1.5 Maintain capable board composition and governance structure,221
+4,6.3.2 FRB guidance on senior and business line management of large BHCs,222
+5,6.3.2.1 Senior management,222
+5,6.3.2.2 Business line management,222
+4,6.3.3 FRB guidance on risk management and other control functions,223
+5,6.3.3.1 Overall objective of the IRM,223
+5,6.3.3.2 IRM: risk tolerance and limits,224
+5,"6.3.3.3 IRM: risk identification, measurement, and assessment",225
+5,6.3.3.4 IRM: risk reporting,225
+5,6.3.3.5 CRO,225
+5,6.3.3.6 Chief audit executive,226
+5,6.3.3.7 Internal controls,226
+4,6.3.4 Board risk committee requirements for large BHCs,227
+5,6.3.4.1 Risk committees of BHCs with $50 billion or more in total consolidated assets,227
+4,6.3.5 Regulatory expectations for risk data aggregation and risk reporting,228
+5,6.3.5.1 BCBS 239,228
+5,6.3.5.2 Progress in compliance with regulatory expectations under BCBS 239,229
+4,"6.3.6 Supervisory regime for LISCC firms and other large, complex BHCs",230
+5,"6.3.6.1 CCAR, CLAR, and SRP components of LISCC program",230
+3,6.4 Conclusion,230
+2,Chapter 7 The capital solution to systemic risk: Risk management and compliance implications,232
+3,7.1 Introductory overview,232
+3,7.2 Additional capital requirements for systemically important BHCs,233
+4,7.2.1 CCyB,233
+5,7.2.1.1 Rationales for CCyB,233
+5,7.2.1.2 Application of capital buffer globally,234
+4,7.2.2 G-SIB surcharge,234
+4,7.2.3 Supplementary leverage ratios and enhanced SLRs,235
+5,7.2.3.1 Risk management and compliance: SLR and eSLR,235
+3,7.3 Liquidity regulation,235
+4,7.3.1 Liquidity regulation’s twofold approach,236
+5,7.3.1.1 Liquidity coverage ratio,237
+5,7.3.1.2 Structure of the LCR,237
+5,7.3.1.3 Proposed net stable funding ratio,238
+4,7.3.2 Liquidity regulation risk management and compliance,238
+3,7.4 Pillar II stress testing programs,239
+4,7.4.1 Overview of CCAR and DFAST,239
+4,7.4.2 CCAR,240
+5,7.4.2.1 CCAR’s qualitative component,241
+5,7.4.2.2 CCAR’s quantitative component,241
+4,7.4.3 DFAST,242
+4,7.4.4 Risk management and compliance expectations under CCAR and DFAST,242
+5,7.4.4.1 Internal modeling runs under qualitative CCAR component,243
+5,7.4.4.2 Mandatory elements of a CCAR capital plan,243
+5,7.4.4.3 Typical reasons for rejection of capital plans,243
+3,7.5 Model risk management under CCAR,244
+4,7.5.1 Background and context,244
+5,7.5.1.1 Capsule summary of SR 11–7,245
+4,7.5.2 Applying principles of MRM,245
+5,7.5.2.1 Sources of model risk and role of MRM governance,245
+5,7.5.2.2 What is a CCAR model?,246
+5,"7.5.2.3 Role of model errors, mistakes, and faulty assumptions in GFC",246
+3,7.6 Conclusion,247
+2,Chapter 8 The structural solution to systemic risk: Risk management and compliance implications,250
+3,8.1 Introductory overview,250
+3,"8.2 Ex post approach: SPOE, OLA, and resolution plans",251
+4,8.2.1 SPOE and TLAC,251
+5,8.2.1.1 Mechanics of the SPOE process envisioned by FRB and FDIC,251
+5,8.2.1.2 Total Loss-Absorbing Capacity and Long-Term Debt,252
+5,8.2.1.3 Global acceptance of SPOE approach,253
+5,8.2.1.4 SPOE and TLAC risk management and compliance implications,253
+4,8.2.2 OLA,254
+5,8.2.2.1 Procedures for triggering OLA,254
+4,8.2.3 Resolution plans (‘living wills’),255
+5,8.2.3.1 Resolution plans: US,255
+5,8.2.3.2 Resource intensive process of ‘knowing your structure’ for US resolution plans,256
+5,8.2.3.3 Resolution regimes and living wills in the UK,257
+5,8.2.3.4 Resolution regimes and living wills in the EU,257
+5,8.2.3.5 Resolution plans’ risk management and compliance issues,258
+3,8.3 Ex ante approach: reducing the impact of risky activities,258
+4,8.3.1 Eliminating risky activities and businesses: the Volcker rule,258
+5,8.3.1.1 Overview of regulatory structure,259
+5,8.3.1.2 Rule’s restriction of activities to ‘core’ banking activities,260
+5,8.3.1.3 Volcker rule’s proprietary trading prohibition,261
+5,8.3.1.4 Volcker rule’s prudential backstop,261
+4,8.3.2 Volcker compliance requirements,262
+5,8.3.2.1 Structure and rationale of Volcker compliance requirements,262
+5,8.3.2.2 Compliance issues in market-making exception,262
+5,8.3.2.3 Corporate governance and compliance requirements,263
+5,8.3.2.4 Volcker rule’s risk management and IC requirements,263
+4,8.3.3 UK’s ringfencing of risky activities and businesses,265
+5,8.3.3.1 Rationales for ringfencing,265
+5,8.3.3.2 Compliance implications of UK ringfencing requirements,265
+3,8.4 Conclusion,266
+2,Chapter 9 The role of risk management and compliance in consumer protection regulation,268
+3,9.1 Introductory overview,268
+3,9.2 Overview of compliance risk in financial consumer services,269
+4,9.2.1 Factors creating unique compliance risks in banking consumer protection,269
+5,9.2.1.1 Voluminous and detailed rules combined with conglomerates’ diverse business lines and geography,270
+5,9.2.1.2 Constant change of consumer protection laws,270
+5,9.2.1.3 High level of competition in consumer services,270
+5,9.2.1.4 High risk of reputational harm,270
+4,9.2.2 Firms’ assessment of compliance cost and compliance risk,271
+3,9.3 Constructing a risk management and compliance consumer protection infrastructure,271
+4,9.3.1 Identification of inherent risk,271
+5,9.3.1.1 Relationship between inherent risk and consumer harm,272
+5,9.3.1.2 Factors contributing to inherent risk,272
+4,9.3.2 Assessment of a bank’s risk controls to address inherent risks,273
+5,9.3.2.1 Managing inherent risk: CMS,273
+5,9.3.2.2 Regulatory expectations of a CMS,273
+5,9.3.2.4 Consumer complaint system,274
+5,9.3.2.5 Corporate governance issues relating to a CMS,274
+4,9.3.3 Residual risk exposure,275
+5,9.3.3.1 Regulators’ assessment of residual risk exposure,275
+5,9.3.3.2 Examiners’ risk-based approach to CMS,276
+3,9.4 The primary areas of consumer protection law and risk management and compliance implications,276
+4,9.4.1 Consumer Financial Protection Bureau,276
+4,9.4.2 Three regulatory approaches in consumer protection law,277
+5,9.4.2.1 Risk management and compliance implications of the three regulatory approaches,277
+4,9.4.3 The lending laws,278
+5,9.4.3.1 Anti-discrimination lending laws,278
+5,9.4.3.2 Other lending laws,279
+5,9.4.3.3 The Truth in Lending Act,280
+5,9.4.3.4 Risk management and compliance implications of TILA’s prescriptive ruleset,280
+4,9.4.4 Depository services laws,281
+4,9.4.5 Prohibition of UDAAPs,282
+5,9.4.5.1 FTC’s regulation and enforcement of UDAPs law,282
+5,9.4.5.2 UDAAPs risk management and compliance,283
+4,9.4.6 Laws regulating privacy and consumer information,283
+4,9.4.7 State financial consumer protection laws,284
+5,9.4.7.1 Dodd-Frank’s modification of state preemption law,284
+5,9.4.7.2 Federal preemption and non-preemption of certain state laws,285
+5,9.4.7.3 New York State consumer protection law,285
+5,9.4.7.4 Importance of compliance with state consumer protection law,286
+3,9.5 Conclusion,286
+2,Chapter 10 The role of risk management and compliance in the payments system: AML/CFT regulation,288
+3,10.1 Introductory overview,288
+3,10.2 Challenges of ML and FT for risk management and compliance,289
+4,10.2.1 Banks’ two roles in the payments system,289
+5,10.2.1.1 Definition of ML and FT,289
+5,10.2.1.2 AML/CFT’s ‘four pillars’ of compliance,290
+4,10.2.2 Regulatory and compliance challenges relating to AML/CFT,290
+5,10.2.2.1 Fluid nature of payments system complicates compliance,290
+5,10.2.2.2 Twofold AML/CFT regulatory paradox,291
+5,10.2.2.3 Technical challenges in AML/CFT compliance,292
+3,10.3 Regulatory framework and expectations for AML/CFT programs,292
+4,10.3.1 Evolution of statutory and regulatory framework,293
+5,10.3.1.1 Evolution of AML/CFT law,293
+5,10.3.1.2 Role of September 11 in AML/CFT law,293
+5,10.3.1.3 OFAC,294
+4,10.3.2 AML/CFT reporting and recordkeeping requirements,294
+5,10.3.2.1 Role of CTRs and SARs,294
+5,10.3.2.2 Law enforcement and banking agencies’ enforcement efforts focus on SARs,295
+4,10.3.3 Customer identification and monitoring compliance requirements,296
+5,10.3.3.1 ‘Know your customer’ requirements,296
+5,10.3.3.2 Beneficial ownership rule,297
+5,10.3.3.3 Risks involving bank foreign correspondent accounts,297
+4,"10.3.4 BCBS guidelines on AML/CFT safety and soundness, best practices, and risk management",297
+5,10.3.4.1 BCBS’s prudential safety and soundness concerns,298
+5,10.3.4.2 BCBS best practices,298
+5,10.3.4.3 ‘Consolidated risk management’,298
+3,10.4   The AML/CFT compliance cost calculus,299
+4,10.4.1   Compliance costs and compliance risks involving AML/CFT regulation,299
+5,10.4.1.1 Variability of the compliance risk variable: the case of DPAs,300
+3,10.5 Conclusion,300
+2,"Chapter 11 The future of bank regulation, risk management, and compliance",302
+3,11.1 Introductory overview,302
+3,11.2 The future banking business model,303
+4,11.2.1 Impact of post-crisis regulation on banks’ profitability and industry structure,303
+4,11.2.2 Banks’ medium-term advantages and weaknesses vis-à-vis FinTech,304
+5,11.2.2.1 Advantages in the medium-term,304
+5,11.2.2.2 Weaknesses in the medium term,304
+4,11.2.3 FinTech’s long-term advantages and threats,305
+5,11.2.3.1 Advantages of banks vis-à-vis FinTech,305
+5,11.2.3.2 Threat of DLT,306
+3,11.3 Future regulatory trends and risk management and compliance implications,306
+4,11.3.1 Regulatory and risk management implications of FinTech,307
+4,11.3.2 Benefits of RegTech for risk management and compliance,307
+5,11.3.2.1 AML/CFT regulation,307
+5,11.3.2.2 Data aggregation and reporting,308
+4,11.3.3 Path-dependency of current US and global regulatory framework,308
+5,11.3.3.1 Continuing obsolescence of US supervisory structure,308
+5,11.3.3.2 International framework,309
+4,11.3.4 Prospective evolution of US regulation will not fundamentally alter risk management and compliance,309
+5,11.3.4.1 Regulatory tailoring,310
+5,11.3.4.2 Greater transparency,311
+3,11.4 Conclusion,311
+1,REFERENCES,312
+1,INDEX,322

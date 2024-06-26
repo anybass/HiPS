@@ -1,0 +1,10 @@
+﻿If you run into an issue with pdfminer.six-20221105 while running the pdfstructure code:
+
+one has to modify layout.py in pdfminer.six
+
+under line 971:
+textboxes = list(self.group_textlines(laparams, textlines))
+we add:
+empties = list(self.group_textlines(laparams, empties))
+textboxes.extend(empties)
+

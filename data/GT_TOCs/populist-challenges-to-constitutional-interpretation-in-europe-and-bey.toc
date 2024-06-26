@@ -1,0 +1,195 @@
+﻿1,Comparative Constitutional Change,3
+1,Populist Challenges to Constitutional interpretation in Europe and Beyond,4
+1,Contents,6
+1,List of Authors,12
+1,Introduction and Acknowledgements,14
+1,Part I Theoretical implications,18
+2,1 Populism and populist constitutionalism,20
+3,1.1 Introduction,20
+3,1.2 The impalpable concept of populism,20
+3,1.3 Conceptualizing populism,22
+4,1.3.1 Historical background,22
+4,1.3.2 The dimensions of populism,23
+4,1.3.3 Types of populism,26
+3,1.4 The mysterious notion of populist constitutionalism,27
+4,"1.4.1 ‘Authoritarian’, ‘illiberal’, or ‘populist’ constitutionalism?",28
+4,"1.4.2 Populist constitutionalism: an oxymoron, or a special kind of constitutional system?",29
+4,1.4.3 Defining populist constitutionalism: positive and negative criteria,32
+5,1.4.3.1 Negative criteria of populist constitutionalism,33
+6,1.4.3.1.1 Criticism of the separation of law and politics,33
+6,1.4.3.1.2 Anti-elitism,34
+6,1.4.3.1.3 Anti-institutionalism,35
+6,1.4.3.1.4 Anti-pluralism,36
+6,1.4.3.1.5 Illiberalism,37
+5,1.4.3.2 Positive criteria of populist constitutionalism,37
+6,1.4.3.2.1 Popular sovereignty and direct democracy,38
+6,1.4.3.2.2 Authentic popular representation,39
+6,1.4.3.2.3 Extreme majoritarianism,40
+6,1.4.3.2.4 The strong leader (personification of power) and the strengthening of executive power,41
+6,1.4.3.2.5 The instrumentalization of law,42
+6,1.4.3.2.6 Other (secondary) criteria,43
+2,2 The art of constitutional interpretation,46
+3,2.1 Defining constitutional interpretation,46
+3,2.2 Classifying interpretive theories,48
+4,2.2.1 Monist and pluralistic theories,48
+4,2.2.2 Other classifications of interpretive theories,51
+3,2.3 Main interpretive theories,54
+4,2.3.1 Interpretive modalities,54
+4,2.3.2 Substantive interpretation,56
+4,"2.3.3 Other interpretive aids: judicial doctrines, constructions, standards, tests and legal maxims",57
+3,2.4 Conclusion,59
+2,3 An ‘Instrument of Government’ or ‘Instrument of Courts’? The impact of political systems on constitutional interpretation and the case of populism,60
+3,3.1 Introduction,60
+3,3.2 Do political systems generate their own rules of constitutional interpretation?,62
+4,3.2.1 Hypotheses,62
+4,3.2.2 Written rules on constitutional interpretation – in the liberal world and beyond,63
+3,3.3 Populist constitutionalism and constitutional interpretation – instruments and limits,72
+3,3.4 Escalating or de-escalating populism: the role of courts in constitutional interpretation,75
+3,3.5 Conclusions,77
+2,4 Can there be autochthonous methods of constitutional interpretation?,79
+3,4.1 Introduction,79
+3,4.2 Substantive constitutional provisions,80
+3,4.3 Interpretations of substantive provisions,82
+3,4.4 Methods of constitutional interpretation,85
+3,4.5 Conclusion,88
+1,Part II Constitutional interpretation and populism in Europe,90
+2,5 Formalism and judicial self-restraint as tools against populism? Considerations regarding recent developments of the Austrian Constitutional Court,92
+3,5.1 Introduction,92
+3,5.2 Populism in Austria,93
+4,5.2.1 Populism – what kind of populism?,93
+4,5.2.2 The Austrian Freedom Party and the rise of populism in Austria,94
+5,5.2.2.1 Jörg Haider and the Austrian Freedom Party (1986–2000),94
+5,5.2.2.2 The European scandal: the Freedom Party in Austrian government – part I (2000–2006),96
+4,5.2.3 Recent development: the Freedom Party in Austrian government – part II (2017–2019),98
+3,5.3 The Kurz Governments,100
+4,5.3.1 Kurz I (2017–2019),100
+4,5.3.2 Kurz II (2020–),102
+3,5.4 Changing approaches of the Austrian Constitutional Court,103
+4,5.4.1 Judicial approaches towards populism,103
+4,5.4.2 Promoting Rights in a European Context (1970–2008),104
+4,5.4.3 The Slovenian Minority Case Law,106
+4,5.4.4 Protecting Rights in a European Context (2008–2020),108
+4,5.4.5 Surveillance Case Law,109
+3,5.5 Conclusion – The Austrian Constitutional Court maintains its own approach,110
+2,6 The Czech Constitutional Court in times of populism From judicial activism to judicial self-restraint,112
+3,6.1 The legal design of the Czech Constitutional Court and the rise of populism in Czech politics,112
+3,6.2 The two decades of expansion of the powers of the Constitutional Court and the decade of slow retreat,116
+3,6.3 Review of the constitutionality of legislation,119
+3,6.4 Activism of the Constitutional Court in relation to the general judiciary (constitutional complaints),122
+3,6.5 The personal homogeneity of the first Constitutional Court and the heterogeneity of the second and third court?,124
+3,6.6 Conclusions,125
+2,"7 Popular initiatives, populism and the Croatian Constitutional Court",126
+3,7.1 Introduction,126
+3,7.2 Popular initiative as the means of fostering populist claims,129
+3,7.3 The game becomes serious: the introduction of the constitutional identity concept,132
+3,7.4 Proportionality in action,135
+3,7.5 Back to the linguistic approach,136
+3,7.6 Systemic interpretation in play,137
+3,7.7 The story continues: recent failed attempts,139
+3,7.8 Conclusion,141
+2,8 Constitutional identity as a populist notion? The Council of State and the forging of the Greek constitutional identity through the crisis,143
+3,8.1 Introduction,143
+3,8.2 The forging of the Greek constitutional identity through the crisis,147
+3,8.3 Understanding the Court’s use of the notion of constitutional identity,153
+3,8.4 Lessons to be drawn from the Greek experience,157
+3,8.5 Epilogue,158
+2,9 Constitutional interpretation under the new Fundamental Law of Hungary,160
+3,9.1 Introduction,160
+3,9.2 The new methods of constitutional interpretation,162
+4,9.2.1 The Constitutional Court,162
+4,9.2.2 The collection of the principles and methods of constitutional interpretation laid down in the Fundamental Law,164
+3,"9.3 A new populist set of the methods of interpretation, or the reformulation of the classical methods?",165
+3,9.4 The use of binding interpretative methods in constitutional jurisprudence,167
+4,9.4.1 The application of the new methods of interpretation,167
+4,9.4.2 Cases advancing populist constitutionalism (favouring the populist agenda) and the use of the new methods of interpretation in these specific cases,170
+3,9.5 Conclusions,176
+2,10 The populist reforms in Italy and the instrument of the constitutionally conforming interpretation,177
+3,10.1 Could the Italian context be defined as populist?,177
+3,10.2 The so-called ‘ decreti sicurezza ’ and the containment of illegal migrants,181
+3,10.3 The application of the constitutionally conforming interpretation,183
+3,10.4 The (missing) intervention of the Constitutional Court on the Security Decrees,188
+3,10.5 Conclusions,190
+2,11 Whatever works Constitutional interpretation in Poland in times of populism,191
+3,11.1 Introduction,191
+3,11.2 Preliminaries,192
+3,11.3 Change or continuity?,195
+4,11.3.1 The limits of judicial power,195
+4,11.3.2 The preferred methods of constitutional interpretation,200
+4,11.3.3 The approach to earlier findings,202
+4,11.3.4 The approach to international law and EU law,203
+3,11.4 Why cherry picking?,205
+4,11.4.1 Pragmatism,206
+4,11.4.2 Ideology,206
+4,11.4.3 Reputation,207
+4,11.4.4 Rhetoric,208
+3,11.5 Conclusions,209
+2,12 Non sequiturs in constitutional adjudication Populism or epistemic deficit?,211
+3,12.1 Introduction,211
+3,12.2 Romania’s political landscape: populist or not?,212
+3,12.3 Discourses of constitutionalism in the Romanian context,214
+3,12.4 Interpreting the Constitution,218
+4,12.4.1 Decision no. 358/2018 – a problematic constitutional intervention,219
+5,12.4.1.1 The political background,219
+5,12.4.1.2 The legal background,219
+5,12.4.1.3 A formalist result,221
+4,12.4.2 Other constitutional ‘mischiefs’,223
+3,12.5 Populism or epistemic deficit?,225
+3,12.6 Conclusions,231
+2,13 Constitutional interpretation and populism in contemporary Spain,234
+3,13.1 Introduction,234
+3,13.2 The political and social context of Spain,238
+3,13.3 Populist challenges to constitutional jurisprudence,239
+3,13.4 The health crisis and the constitutional interpretation,247
+3,13.5 Conclusions,248
+2,"14 Populism, UK sovereignty, the rule of law and Brexit",250
+3,14.1 Introduction,250
+3,14.2 The Brexit referendum and populist politics,251
+3,14.3 Brexit: parliamentary procedure and constitutional conventions,253
+3,14.4 Brexit and the Courts,256
+3,14.5 The interpretation of prerogative powers: Miller 1 – can the government trigger Article 50 by making use of prerogative powers?,258
+3,14.6 Prerogative powers: Miller 2 – can the courts review the exercise of the prerogative to prorogue Parliament?,260
+3,14.7 Has Brexit resulted in new constitutional theories or doctrines?,264
+3,14.8 Conclusions,266
+1,Part III An outlook,268
+2,"15 Born populist The Trump administration, the courts and the Constitution of the United States",270
+3,15.1 Introduction,270
+3,15.2 The populist jurisprudence of Antonin Scalia,272
+3,15.3 Originalism and American right-wing populism,277
+3,15.4 Judicial populism before (and a bit after) the rise of right-wing populism,285
+3,15.5 Populist pasts and presents,289
+2,16 Constitutional interpretation What can Europeans learn from US debates?,291
+3,16.1 Introduction,291
+3,16.2 What is a constitution?,292
+3,16.3 The limits of interpretability,296
+3,16.4 Methods of interpretation,299
+3,16.5 Imitative constitutionalism,303
+3,16.6 Conclusion,306
+2,17 Populist and non-democratic reading of the Constitution Sad lessons from Latin America,308
+3,17.1 Foreword,308
+3,17.2 Thesis and main inferences,308
+3,17.3 Analysis,310
+4,17.3.1 Brief methodological remarks,311
+4,17.3.2 Starting points,311
+4,17.3.3 What kind of foundations?,313
+4,17.3.4 Which rights are meant to be constitutional rights?,314
+3,17.4 Constitutional interpretation and legal conflict,316
+4,"17.4.1 Constitutional interpretation, the method, and its ideological backdrop",317
+4,"17.4.2 Textualism, constructivism, hermeneutics revisited",319
+3,17.5 Inspecting the engine room,321
+4,17.5.1 Constitutional weakness by institutional design,322
+4,"17.5.2 Case law, examples",323
+3,17.6 Epilogue,327
+1,Part IV Summary,328
+2,18 Populist challenges to constitutional interpretation An assessment,330
+3,18.1 Introduction,330
+3,18.2 National varieties of populism,331
+4,18.2.1 Populists in government,331
+4,18.2.2 Populist aspirations under non-populist governments,333
+3,18.3 New interpretive doctrines or methods?,335
+4,18.3.1 How to assess interpretive responses to populist-inspired constitutional issues?,335
+4,18.3.2 No interpretive changes: the business-as-usual model,336
+4,18.3.3 Changing interpretive practice to promote populist aspirations,337
+4,18.3.4 Changing interpretive practice to counteract populist initiatives,339
+3,18.4 Explaining different judicial strategies,339
+3,18.5 Our major findings and conclusions,342
+1,Index,343

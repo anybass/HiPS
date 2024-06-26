@@ -1,0 +1,178 @@
+﻿1,Climate Change and International Shipping,1
+1,Legal Aspects of Sustainable Development,2
+1,Contents,5
+1,Foreword,9
+1,Series Editor Preface,10
+1,Acknowledgements,11
+1,List of Figures,12
+1,List of Tables,13
+1,List of Acronyms,14
+1,CHAPTER 1 Introduction,19
+2,1.1 Greenhouse Gas Emissions as a Regulatory Challenge,22
+3,1.1.1 Greenhouse Gas Emissions and Climate Change,23
+4,1.1.1.1 An Overview of Climate Change,23
+4,1.1.1.2 Contribution of Greenhouse Gas Emissions to Climate Change,26
+3,1.1.2 Transboundary Nature of Greenhouse Gas Emissions,27
+2,1.2 Contribution of International Shipping to Greenhouse Gas Emissions,32
+3,1.2.1 Introduction to International Shipping,32
+3,1.2.2 Greenhouse Gas Emissions from International Shipping,38
+4,1.2.2.1 Categories of Emissions from Ships,38
+4,1.2.2.2 General Emissions Statistics from International Shipping,40
+4,1.2.2.3 Impacts of Greenhouse Gas Emissions from International Shipping,42
+2,1.3 Statement of the Problem,44
+2,1.4 Scope of the Book and Chapter Outline,47
+1,CHAPTER 2 International Environmental Law Responsibility and its Application to the Issue of Greenhouse Gas Emissions from International Shipping,50
+2,2.1 Introduction,50
+3,2.1.1 The Concept of ‘Pollution’,51
+3,2.1.2 ‘Pollution’ and Greenhouse Gas Emissions from International Shipping,55
+4,2.1.2.1 Legal Analysis of Treaty Definition of Pollution,55
+4,2.1.2.2 National Legislation on the Legal Nature of GHG Emissions,58
+2,2.2 Jurisdiction over Greenhouse Gas Emissions from International Shipping,62
+3,2.2.1 The Concept of ‘Jurisdiction’,62
+3,2.2.2 Flag State Jurisdiction,64
+3,2.2.3 Coastal State Jurisdiction,67
+3,2.2.4 Port State Jurisdiction,71
+2,2.3 Environmental Liability for Transboundary Harm Caused by Greenhouse Gas Emissions from International Shipping,74
+3,2.3.1 An Overview of Transboundary Harm,75
+3,2.3.2 The Application of Transboundary Harm Rules to the Issue of Greenhouse Gas Emissions from International Shipping,83
+2,2.4 The Precautionary Principle and Its Application to the Issue of Greenhouse Gas Emissions from International Shipping,88
+3,2.4.1 An Overview of the Precautionary Principle,88
+3,2.4.2 The Applicability of the Precautionary Principle to the Issue of Greenhouse Gas Emissions from International Shipping,96
+2,2.5 ‘Common but Differentiated Responsibility’ and ‘No More Favourable Treatment’,99
+3,2.5.1 Common but Differentiated Responsibility,100
+4,2.5.1.1 Common Responsibility,102
+4,2.5.1.2 Differentiated Responsibility,104
+4,2.5.1.3 Legal Status and Application,108
+3,2.5.2 No More Favourable Treatment,109
+4,2.5.2.1 An Overview,109
+4,2.5.2.2 Legal Status and Application,110
+3,2.5.3 Application of Both ‘Common but Differentiated Responsibility’ and ‘No More Favourable Treatment’ Principles to the Issue of Greenhouse Gas Emissions from International Shipping,112
+4,2.5.3.1 Applicability of Two Regulatory Principles,112
+4,2.5.3.2 Approaches to Applying the Two Principles,117
+2,2.6 The Polluter-Pays Principle and Its Application to the Issue of Greenhouse Gas Emissions from International Shipping,120
+3,2.6.1 An Overview of the Polluter-Pays Principle,121
+3,2.6.2 The Application of the Polluter-Pays Principle to the Issue of Greenhouse Gas Emissions from International Shipping,130
+2,2.7 Conclusion,133
+1,CHAPTER 3 The UN Response to the Issue of Greenhouse Gas Emissions from International Shipping,136
+2,3.1 Introduction,136
+2,3.2 The UN Institutional Responses,137
+3,3.2.1 The UN and the IPCC, 138
+3,3.2.2 Other Institutions and Their Interaction,142
+2,3.3 International Legal Framework on Climate Change,147
+3,3.2.1 The Prevention of Atmospheric Pollution,148
+4,3.2.1.1 The 1979 Convention on Long-Range Transboundary Air Pollution,149
+4,3.2.1.2 The 1985 Convention for the Protection of the Ozone Layer,151
+3,3.2.2 The UNFCCC-Kyoto Protocol Regime,159
+4,3.2.2.1 The UNFCCC and its Kyoto Protocol,168
+4,3.2.2.2 Post-Kyoto Efforts and Outcomes,177
+5,3.2.2.2.1 International Bunker Fuels Negotiation under the AWG-LCA,177
+5,3.2.2.2.2 Other Post-Kyoto Achievements and Their Implications on Shipping GHG Emissions,179
+4,3.2.2.3 The Paris Agreement and its Implications for GHG Emissions from International Shipping,184
+2,3.4 Conclusion,192
+1,CHAPTER 4 The IMO Response to the Issue of Greenhouse Gas Emissions from International Shipping,195
+2,4.1 Introduction,195
+2,4.2 The IMO’s Mandate and Competence to Regulate Greenhouse Gas Emissions from International Shipping,196
+2,4.3 The IMO Greenhouse Gas Emissions Regime,200
+3,4.3.1 Evolution of the IMO Greenhouse Gas Emissions Regime,201
+3,4.3.2 Annex VI to MARPOL 73/78 and its Amendments,208
+3,4.3.3 Outcomes within the Marine Environment Protection Committee,212
+4,4.3.3.1 Technical Measures,212
+4,4.3.3.2 Operational Measures,219
+4,4.3.3.3 Assessment of Current Technical and Operational Measures,221
+3,4.3.4 Market-Based Measures,228
+4,4.3.4.1 The Market-Based Measure as a Policy Option,229
+4,4.3.4.2 Assessment of Current Market-Based Measure Proposals,233
+5,4.3.4.2.1 Environmental Fee-Related Market-Based Measure Proposals,237
+5,4.3.4.2.2 Tradable Permit Scheme-Related Market-Based Measure Proposals,239
+5,4.3.4.2.3 Hybrid Market-Based Measure Proposals,241
+2,4.4 Conclusion,243
+1,CHAPTER 5 Response from the Shipping Industry to the Issue of Greenhouse Gas Emissions from International Shipping,244
+2,5.1 Introduction,244
+2,5.2 Response from International and Regional Shipping Organisations,246
+3,5.2.1 Ship Designers and Shipbuilders,246
+3,5.2.2 Shipowners and Ship Operators,252
+3,5.2.3 Cargo Owners,266
+3,5.2.4 Ship Insurers,269
+3,5.2.5 Classification Societies,270
+3,5.2.6 Bunker Suppliers,273
+3,5.2.7 Conclusion,273
+2,5.3 Response from the Shipping Industry in the UNFCCC Annex I States,275
+3,5.3.1 Australia,276
+3,5.3.2 Greece,281
+3,5.3.3 The United Kingdom,284
+3,5.3.4 Conclusion,287
+2,5.4 Response from the Shipping Industry in the UNFCCC Non-Annex IStates,288
+3,5.4.1 China,289
+3,5.4.2 The Republic of Korea,296
+3,5.4.3 India,301
+3,5.4.4 Conclusion,304
+2,5.5 Conclusion,304
+1,CHAPTER 6 Response from Flag States and Port States to the Issue of Greenhouse Gas Emissions from International Shipping,306
+2,6.1 Introduction,306
+2,6.2 Flag State Control and the Issue of ‘Flags of Convenience’,307
+2,6.3 Response from Main Flag States,312
+3,6.3.1 The UNFCCC Annex I Flag States,313
+4,6.3.1.1 Greece,313
+4,6.3.1.2 Japan,322
+3,6.3.2 The UNFCCC Non-Annex I Flag States,330
+4,6.3.2.1 Panama,330
+4,6.3.2.2 China,333
+5,6.3.2.2.1 The IMO’s Mandate and Competence to Regulate GHG Emissions from Ships and Applicable Principles,334
+5,6.3.2.2.2 Technical Aspects of the Energy Efficiency Measures,341
+5,6.3.2.2.3 The Adoption of the Amendments to Annex VI to MARPOL 73/78,342
+5,6.3.2.2.4 Technical Cooperation and Transfer of Technology,347
+5,6.3.2.2.5 Market-based Measure Proposals,351
+4,6.3.2.3 Vanuatu,353
+2,6.4 Port State Control,355
+2,6.5 Response from Global and Regional Port States Organisations,358
+3,6.5.1 The International Association of Ports and Harbors,358
+3,6.5.2 Regional Memoranda of Understanding on Port State Control,361
+2,6.6 Response from Main Port States,365
+3,6.6.1 The UNFCCC Annex I Port States,366
+3,6.6.2 The UNFCCC Non-Annex I Port States,369
+2,6.7 Conclusion,372
+1,CHAPTER 7 The Future Development of Legal and Institutional Frameworks to Reduce Greenhouse Gas Emissionsfrom International Shipping,374
+2,7.1 Introduction,374
+2,7.2 Influence and Interaction of Various Stakeholders in Regulating and Implementing GHG Emissions from International Shipping,375
+2,7.3 Formation of the International Regulatory Framework for Reducing GHG Emissions from International Shipping,379
+2,7.4 Deficiencies in Adopted Energy Efficiency Measures and Approaches for Their Future Improvement,383
+3,7.4.1 Deficiencies in Current Technical and Operational Measures,383
+3,7.4.2 Expanding the Coverage and Strengthening the Effectiveness of Technical Measures,387
+3,7.4.3 Strengthening the Effectiveness of Operational Measures,390
+3,7.4.4 Improving the Enforcement of Energy Efficiency Measures by Flag and Port States,392
+3,7.4.5 Regulating the Mandatory Data Collection System in a Prudential Manner,396
+2,7.5 Analysis of Necessity and Feasibility of Adopting a Market-Based Measure,398
+3,7.5.1 Is a Market-Based Measure Necessary?,398
+3,7.5.2 How to Select the Most Suitable Market-Based Measure?,403
+4,7.5.2.1 Grouping of Proposed Market-Based Measures,404
+4,7.5.2.2 Criteria and Methodology for Selecting Market-Based Measures,407
+4,7.5.2.3 Selection of the Most Suitable Market-Based Measure,412
+5,7.5.2.3.1 Step 1: Remove Hybrid MBMs with the EEDI as a Benchmark,413
+5,7.5.2.3.2 Step 2: Eliminate a Penalty on Trade and Development MBM by the Bahamas,414
+5,7.5.2.3.3 Step 3: Put on Hold the ETS Proposals,415
+5,7.5.2.3.4 Step 4: Balance Three Environmental Fee-Related MBM Proposals,419
+4,7.5.2.4 Proposed Mechanisms for the Selected Market-Based Measure,422
+5,7.5.2.4.1 Overview of the Add-on RM Built into a Global GHG Fund,422
+5,7.5.2.4.2 The Fulfilment of the CBDR Principle,424
+5,7.5.2.4.3 Application Threshold of the Scheme,424
+5,7.5.2.4.4 The Setting of Reduction Targets,425
+5,7.5.2.4.5 The Timing for Adopting the Scheme and its Legal Instrument,427
+2,"7.6 Institutional Fragmentation, Imbalance of Interests, and Proposed Reforms",428
+3,7.6.1 Institutional Fragmentation in Global Reduction of Shipping GHG Emissions,428
+3,7.6.2 Optimising Institutional Arrangements,433
+4,7.6.2.1 Technical and Operational Measures,433
+4,7.6.2.2 Market-Based Measure,434
+3,7.6.3 Imbalance of Interests between the UNFCCC Annex I States and Non-Annex I States and Proposed Reforms,436
+2,7.7 Conclusion,439
+1,CHAPTER 8 Conclusion,441
+2,8.1 Introduction,441
+2,8.2 Applicable International Environmental Law Principles,441
+2,8.3 Findings on Main Stakeholders in GHG Emissions from International Shipping,444
+2,8.4 Gaps and Gap-Filling Recommendations,447
+1,Bibliography,451
+2,1 Articles/Books/Reports,451
+2,2 Cases,470
+2,3 Legislation,471
+2,4 Treaties,471
+2,5 Other,475
+1,Index,494

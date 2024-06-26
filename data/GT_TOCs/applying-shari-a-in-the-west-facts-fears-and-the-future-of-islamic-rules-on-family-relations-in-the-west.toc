@@ -1,0 +1,157 @@
+﻿1,Applying Shari῾a in the West,1
+1,LUCIS SERIES ‘DEBATES ON ISLAM AND SOCIETY’,3
+1,Contents,6
+1,Introduction Applying Shari῾a in the West,8
+2,What do Western Muslims Mean by Shari ̔a?,9
+3,Shari ̔a: a virtuous abstraction,10
+3,Shari ̔a: foreign national laws,11
+3,Shari ̔a: the practices and desires of Western Muslims,11
+2,Shari ̔a Practices in a Western Legal Framework,13
+3,Three Western regions,13
+3,Shari ̔a in the West,15
+2,Western Responses: Law Versus Culture,17
+2,Adaptation in Western or Muslim Legal Systems?,19
+2,Conclusion,20
+2,Notes,21
+1,SECTION I COUNTRY STUDIES,24
+2,1 Reasons for the Application of Shari῾a in the West,26
+3,Introduction,26
+3,External Reasons for the Formal or Informal Application of Shari ̔a in the West,27
+4,PRIVATE INTERNATIONAL LAW,27
+4,INTRODUCTION OF ISLAMIC LEGAL PROVISIONS,28
+4,RECOGNITION OF LEGAL FACTS CREATED UNDER FOREIGN SHARI ̔A LAWS,29
+4,PERSONAL LAW SYSTEMS,30
+3,Internal Reasons for the Formal or Informal Application of Shari ̔a in the West,31
+4,TECHNICAL/INSTITUTIONAL REASONS,31
+4,CULTURAL REASONS,32
+4,RELIGIOUS REASONS,33
+3,Alternative Dispute Resolution (adr) and Shari ̔a,36
+3,Preliminary Conclusions,40
+3,Notes,42
+2,2 America Islam and the Problems of Liberal Democracy,48
+3,Introduction,48
+3,Islam in America: A Historical Summary,51
+3,Growing Fears Concerning Islam,53
+3,Legal Plurality and the Spread of Shari ̔a,55
+3,American Legal Exceptionalism and Shari ̔a,57
+3,Relevant Research on Muslims,58
+3,Conclusion,60
+3,Notes,62
+2,3 Australia The Down-Under Approach and Reaction to Shari῾a: An Impasse in Post-Secularism?,66
+3,The Socio-Cultural Heterogeneity of Muslims and the Implication for Shari ̔a,66
+3,Shari ̔a in Australia,68
+3,The Relationship Between Shari ̔a and Australian Law,69
+3,Australian Family Law and Islamic Arbitration,71
+3,Recent Attempts to Bring Shari ̔a into the Public Sphere: Two Case Studies,72
+4,CASE STUDY 1: AUSTRALIAN FEDERATION OF ISLAMIC COUNCILS (IKEBAL PATEL),72
+4,CASE STUDY 2: DIVORCE IN AUSTRALIA: FROM AN ISLAMIC LAW PERSPECTIVE,73
+3,The New Australian Conservative Modernity and Its Obstacles to Post-Secularism,74
+3,Notes,77
+2,4 United Kingdom An Early Discussion on Islamic Family Lawin the English Jurisdiction,80
+3,Background,80
+3,Seeking clarification,83
+3,Issues and implications,88
+3,The Discussion Continues,92
+3,Notes,95
+2,5 The Netherlands Applying Shari῾a to Family Law Issues in the Netherlands,98
+3,Introduction,98
+4,FORMAL APPLICATION OF SHARI ̔A,98
+4,INFORMAL APPLICATION OF SHARI ̔A,99
+3,Applying Shari ̔a Under the Dutch Legal System,100
+4,PARTY AUTONOMY,100
+4,THE FAVOUR-PRINCIPLE,101
+4,EXPRESS PROVISIONS AND OPEN NORMS,101
+4,FREEDOM OF RELIGION,102
+3,The Use of Shari ̔a in Informal Social Settings and the Role of Human Rights,102
+4,THE EXAMPLE OF THE ‘CHAINED WIFE’,103
+3,Application of Shari ̔a: Politically Sensitive,105
+3,Conclusion,107
+3,Notes,108
+2,6 Albania and Kosovo The Return of Islam in South East Europe: Debating Islam and Islamic Practices of Family Law in Albania and Kosovo,112
+3,Introduction,112
+3,Under the Gaze of Europe,113
+3,Islamic Marriage and Divorce in Secular Albania,116
+3,The Reflection of Europe,121
+3,Notes,122
+2,7 Greece Debate and Challenges,126
+3,Introduction,126
+3,"Geographical, Historical and Legal Overview",127
+3,The Mufti and So-Called Neo-Milletism,130
+3,Immigration and New Challenges,133
+3,Notes,134
+1,SECTION II LAW VERSUS CULTURE,140
+2,8 Unregistered Islamic Marriages Anxieties about Sexuality and Islam in the Netherlands,142
+3,Introduction,142
+3,Muslim Majority Countries: Towards the Registration of Marriages,143
+4,UNREGISTERED MARRIAGES: NEW VARIATIONS,145
+3,‘Islamic Marriages’ in the Netherlands: Gender and Securitization,149
+4,DUTCH ISLAMIC MARRIAGES IN PRACTICE: MULTIPLE MOTIVATIONS AND MEANINGS,152
+4,OBSTACLES TO CONCLUDING A CIVIL MARRIAGE,154
+4,OPTING FOR AN ISLAMIC MARRIAGE,155
+4,ACTIVELY DESIRING AN ISLAMIC MARRIAGE,157
+4,TEMPORARY SHIA MARRIAGES,158
+3,Conclusion,159
+3,Notes,161
+2,9 Understanding and Use of Islamic Family Law Rules in German Courts The Example of the Mahr,166
+3,Introduction,166
+3,Function of the Mahr,167
+4,IMMATERIAL FUNCTIONS,167
+4,MATERIAL FUNCTIONS,168
+3,The Mahr in the Classical Works of the Fuqaha’,168
+3,Evaluation of the Mahr,168
+4,THE MAHR AS A COUNTER VALUE FOR MARITAL COHABITATION?,169
+4,THE MAHR AS AN ECONOMIC FACTOR,170
+3,German Case Law,172
+4,DECISION OF THE SUPREME COURT OF 28 JANUARY 1987,172
+4,DECISION OF THE SUPREME COURT OF 14 OCTOBER 1998,173
+4,DECISION OF THE SUPREME COURT OF 9 DECEMBER 2009,174
+3,Evaluation of the Cases,176
+4,THE ARGUMENTS OF THE PARTIES,176
+4,THE ARGMENTS OF THE SUPREME COURT,178
+3,Testing the Mahr in German Family Law Categories,178
+4,CAN THE MAHR BE INTERPRETED AS AN AGREEMENT ON MAINTENANCE?,179
+4,CAN THE MAHR BE INTERPRETED AS AN AGREEMENT IN THE MATRIMONIAL PROPERTY REGIME?,179
+3,Evaluation and Conclusion,180
+3,Notes,182
+2,10 A Language of Hybridity Honour and Otherness in Canadian Law and Shari῾a,190
+3,Introduction,190
+3,"Law, a Language of Hybridity?",191
+3,Familiar Facts from West to East,192
+4,THE OTHER WITHIN: (DIS)HONOUR IN CANADIAN LAW,192
+4,FAMILIARITY OF THE OTHER: PERSPECTIVES FROM JORDAN,194
+3,Fear and Marginalization of the ‘Other’ in Canadian Society,195
+3,Conclusion,197
+3,Notes,199
+1,SECTION III THE NEED FOR ACCOMODATION,206
+2,11 Accommodating Islamic Family Law(s) A Critical Analysis of Some Recent Developments and Experiments in Europe,208
+3,Introduction,208
+3,Limits to Private International Law in the Face of the Changing Demographic Profile of Europe,208
+3,The Close Connection Between Law and Religion in Islam,212
+3,Future Perspectives: Three Alternatives,214
+4,INCORPORATING RELIGIOUS RULES INTO CIVIL LAW: THE EXAMPLE OF THE MARRIAGE CONTRACT,214
+4,THE AUTONOMY OF THE WILL IN FAMILY MATTERS,218
+4,RECOURSE TO RELIGIOUS ARBITRATION FOR CERTAIN FAMILY DISPUTES,219
+3,Notes,222
+2,12 Religion, Gender, and Family Law Critical Perspectives on Integration for Western Muslims,228
+3,Introduction,228
+4,DEBATES ON INTEGRATION,229
+3,Continuity and Change in Muslim Notions of Family Rights and Responsibilities,231
+3,Getting Married: Recommendations for Western Muslims,234
+3,Conclusion,238
+3,Notes,239
+2,13 Reflections on the Development of the Discourse of Fiqh for Minorities and Some of the Challenges it Faces,242
+3,Defining Fiqh for Minorities,242
+3,Muslim Residence in Non-Muslim Territory in the Prophetic Period,243
+3,Muslim Residence in Non-Muslim Territory Under Classical Islamic law,244
+3,Dar al-Islam and Dar al-kufr,244
+3,Development of the Discourse on Fiqh for Minorities,245
+3,The Modern Discourse of Fiqh for Minorities,246
+3,Advantages of a Separate Branch of Fiqh for Minorities,247
+3,Towards a More Principled Approach?,249
+4,EXAMPLE 1: A MUSLIM WOMAN'S MARRIAGE TO A NON-MUSLIM,250
+4,EXAMPLE 2: INTEREST-BASED MORTGAGES,252
+3,Concluding Remarks,253
+3,Notes,254
+1,Bibliography,258
+1,About The Authors,282
+1,INDEX,286

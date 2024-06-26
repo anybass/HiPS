@@ -1,0 +1,144 @@
+﻿1,Brexit and the Futue of EU Politics,1
+1,Introduction,5
+1,Inhalt,13
+1,Part I Constitutional Issues – Basic Concepts Revisited?,15
+2,Sovereignty In The European Way. How the Euro Summit Came Into Being and Got Itself a Permanent President,17
+3,Abstract,17
+3,Introduction. Article 50 TEU,18
+3,Brexit: a miscarriage of democracy,19
+3,Sovereignty in general and in the context of EU,19
+3,Sovereignty as a notion: more than legal,23
+3,"Creation of the Euro-summit and its permanent chair, Brussels, 25 March 2010",24
+3,Conclusion: suggestions for reading sovereignty and the EU constitution,25
+2,Brexit from the Perspective of EU Sovereignty. Some Comments on Tom Eijsbouts’ Contribution to this Book,29
+3,Abstract,29
+3,1 A Challenging and Inspiring Contribution but…,29
+3,2 Sovereignty of the European Union – a Risky Adventure?,31
+4,2.1 Inseparable link between sovereignty and State,31
+4,2.2 The EU’s challenges to the idea of sovereignty,32
+4,2.3 The EU Sovereignty Idea May Cause More Damages than Gains,34
+4,2.4 Other difficulties Raised by the Extension of the Concept of Sovereignty,35
+3,3 Denial of EU Sovereignty,37
+4,3.1 The evolution of EMU Governance denies the EU Sovereignty,37
+4,3.2 The reversibility of the UK decision of leaving the EU,38
+3,4 The Role of Sovereignty within the Negotiations of Brexit,41
+3,5 May EU Sovereignty emerge after Brexit?,42
+2,Differentiated Integration in Europe After Brexit: An Institutional Analysis,45
+3,Abstract,45
+3,I. Introduction,45
+3,II. Two Visions of Europe (I): An “Ever Closer Union”,47
+4,A. A Union of Peoples,47
+4,B. A Community of Destiny,49
+4,C. A Unitary Institutional Framework,51
+4,D. Flexibility Within Unity,55
+4,E. The Difficulties of this Vision of Europe,56
+3,III. Two Visions of Europe (II): A Wider and Looser Union,57
+4,A. A Broad Community of Nation-States,57
+4,B. A ‘Community of Interests’,59
+4,C. The Shift from Principles to ‘Values’,61
+4,D. From Transitional to Permanent Differences,63
+4,E. The Difficulties of this Vision of Europe,64
+3,IV. The Institutional Mechanisms of Differentiated Integration within the EU,66
+4,A. Clarity and Coherence,66
+4,B. No ‘Ever Closer’ Monetary Integration within the EMU,67
+4,"C. Enhanced Cooperation: Nature, Rationale and Impact",71
+4,D. ‘Internal’ International Agreements: the Fiscal Compact,74
+4,E. Two-speed Europe: Concept and Issues,77
+4,F. A Synthesis,80
+3,V. Legal Mechanisms of Integration Beyond the EU,81
+4,A. A Single Market Beyond the Union: the European Economic Area,81
+4,B. Schengen’s Mixed Membership,82
+4,C. A Europe of Concentric Circles: a ‘Misleading Simple Idea’,85
+4,E. Implications for the post-Brexit Scenario,87
+3,VI. Conclusion,89
+2,The Future of the Protection of Fundamental Rights after Brexit,91
+3,Abstract,91
+3,I. Introduction,91
+3,II. The position of the EU charter in United Kingdom,94
+3,III. The relevance of the CFR for the areas of EU policies,96
+3,IV. Recent developments,97
+3,V. Conclusions,98
+2,Brexit – Exercise of Democracy or a Challenge to Democracy?,101
+3,Abstract,101
+3,Introduction,101
+3,I. The Brexit Process as an Exercise of Democracy,104
+4,A. The Cameron Strategy was democratic,105
+4,B. Advisory Referendum and Democracy,106
+4,C. The Terms of Article 50 TEU as an Expression of Democracy,107
+4,D. Stimulating democratic Processes in the EU,109
+3,II. The Brexit Process as a Challenge to Democracy,110
+4,A. Union Citizens who have made use of their fundamental Freedoms,110
+5,1. Decisions with no Voice for those affected,111
+5,2. The Principle of loyal Cooperation as a negotiation Guideline,112
+5,3. Exclusion of Nationals in other Member States from the Vote,113
+5,4. The European Parliament and the Union Citizens’ Rights,114
+5,5. Protection of acquired Rights by the Countries of Residence?,115
+4,B. Lies and Democracy,115
+5,1. Parliamentary Democracy and Systemic Lying: Trust and Distrust,117
+5,2. Direct Democracy: the Risks of irreversible Decisions,118
+4,C. ‘Advisory’ Referendum?,119
+4,D. Courts and Democracy,122
+3,III. Lessons learned: Democracy in the EU,123
+4,A. Lies have short Legs.,123
+4,B. Dynamics of Democracy: What if Brexit loses Support?,124
+4,C. Growing Awareness of the Externalities of national Politics,127
+4,D. People and Citizens of Member States acting as Citizens of the EU,129
+3,Conclusion,129
+1,Part II The Future of the Internal Market and its Social Dimension,131
+2,Internal Market and Brexit,133
+3,Abstract,133
+3,I. Internal Market and the UK,133
+3,II. Economic Impacts of Brexit,134
+3,III. Legal Framework for UK’S ‘Access to the EU Single Market’,139
+3,IV. Financial Contribution,142
+3,Conclusive Remarks,143
+2,Brexit and EU Citizen’s Social Rights – the Commission v. United Kingdom [UK child benefit or child tax credit] and the CJEU case law on social rights,145
+3,Abstract,145
+3,I. Introduction: the current debate on non-national EU citizens social rights in a host State,145
+3,II. The Recent Evolution in CJEU Case-law on Access to Social Assistance Granted to Non-national EU Citizens,152
+3,III. The evolution of the case-law: the UK child benefit or child tax credit case,160
+3,IV. The evolution of the case-law after the UK child benefit or child tax credit case,166
+3,V. Critical Analysis,172
+2,Immigration after Brexit: Ironies and Challenges,185
+3,I. Introduction,185
+3,II. Immigration of Third Country Nationals: Reversed Dynamics,186
+4,A. Status Quo: Extended Opt-out,186
+4,B. Brexit: Loss of the Opt-in Option,187
+4,C. The Future: Reversed Dynamics,189
+3,III. British-Irish Border: The Search For Pragmatic Solutions,190
+4,A. Immigration and Border Controls,191
+4,B. Customs Controls and the so-called “Backstop”,192
+3,IV. EU Citizenship and Free Movement Of Persons,193
+4,A. Securing Citizens’ Rights,193
+4,B. Intra-European Mobility and Immigration After Brexit,196
+3,V. Conclusion,197
+1,Part III EU Policies – Perspectives of Cooperation with the UK,199
+2,The Future of Monetary and Financial Policy after Brexit,201
+3,Abstract,201
+3,I. Introduction,201
+3,II. The more straightforward institutional consequences of the Brexit in monetary and financial matters,210
+3,"III. The unchanged situation of both the UK, EU and national authorities in the international financial institutions and a future cooperation",212
+3,IV. The economic and social consequences for the UK,214
+3,V. The impact on the continental financial markets,216
+3,VI. Some short conclusive remarks,225
+2,Comments on Jean-Victor Louis,227
+3,Abstract,227
+3,Introductory Remarks,227
+3,I. On the Dynamics of EMU-participation and EMU-reform,228
+3,II. On the Importance of Commercial Presence on 31 October 2019,230
+3,III. On the Systemic Importance of Clearing Houses,233
+2,Common Foreign and Security Policy After Brexit,235
+3,Abstract,235
+3,"I. Introductory remarks: External Action, Global Strategy and beyond",235
+4,A. The wider context: EU External Action and CFSP and CSDP within the CFSP,235
+4,B. The Global Strategy for the EU’s Foreign and Security Policy and follow-up: trends on the EU side,237
+3,II. Initiatives addressing CFSP and CSDP after Brexit: the EU and the UK perspectives,247
+4,A. The EU Perspective,247
+4,B. The UK perspective,255
+3,"III. The Agreement on the Withdrawal of the UK from the European Union and the Common Foreign and Security Policy and the Political Declaration and ‘Foreign Policy, security and defence’",262
+4,A. The Agreement on the Withdrawal and the Common Foreign and Security Policy,264
+4,"B. The Political Declaration and Foreign Policy, security and defence",266
+3,"IV. Shaping a (possible) differentiated third state status in the field of CFSP, including CSDP",269
+4,A. Common grounds as a basis of the future EU-UK relationship,269
+4,B. Possible issues and forms of cooperation to be addressed,272
+1,List of Authors:,277

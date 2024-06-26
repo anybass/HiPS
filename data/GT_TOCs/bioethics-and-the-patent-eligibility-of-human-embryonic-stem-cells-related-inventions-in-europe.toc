@@ -1,0 +1,68 @@
+﻿1,Bioethics and the Patent Eligibility of Human Embryonic Stem Cells-Related Inventions in Europe,1
+1,Foreword,6
+1,Table of Contents,8
+1,Acronyms and Abbreviations,10
+1,I. Introduction,12
+1,II. Background to the Science,14
+2,A. What Are Stem Cells?,14
+2,B. Source of stem cells,14
+3,1. Adult Stem Cells,15
+3,2. ESCs,15
+3,3. iPSCs,16
+1,III. Legal Provisions Applicable to the Patent Eligibility of hESC‑Related Inventions,18
+2,A. EPC,18
+2,B. TRIPs,19
+2,C. EC 98/44 Directive,20
+1,IV. Ethics and Stem Cell Related Patents,22
+2,A. Ethics and Patent Law,22
+3,1. Patent Law Isolated from Morality Based Provisions? A Look into the Legislative Discretion,23
+4,a) A Closer Look at the EPC,26
+4,b) Specific Examples of Immorality in the Biotech Directive,29
+2,B. Bioethics and Patents for hESC-Related Inventions,30
+3,1. Moral Status of Human Embryos and Its Implications for the hESC Research,31
+4,a) Debate on whether Human Embryo Has Human Dignity,32
+4,b) Double-Edged Sword: A Need of Compromise Considering Different Methods of Obtaining hESCs,33
+5,(1) Research on Embryos Within 14 days After Fertilisation,33
+5,(2) Research with Supernumerous Embryos,34
+5,(3) Research with Embryos from SCNT,35
+1,V. The Panorama in Europe,36
+2,A. Determining the Right Interpretation of the Biotech Directive,36
+3,1. The Patent Eligibility of the Human Embryo,36
+3,2. The Patent Eligibility of hESC-related Inventions,37
+4,a) The Destruction of Human Embryos for hESCs,38
+4,b) The Creation of Human Embryos for hESCs,40
+2,B. Application of the EPC,41
+3,1. Lack of Uniform Moral Standard,41
+3,2. Attempts to Create a Uniform Morality Standard,43
+1,VI. EPO’s Web of Precedents,48
+2,A. University of Edinburgh Case,48
+2,B. The WARF Case,50
+3,1. Background,50
+3,2. The Rationale,51
+1,VII. CJEU’s Brüstle Judgment,56
+2,A. Background,56
+2,B. The Rationale,58
+2,C. Comparison of WARF and Brüstle Cases,63
+2,"D.  The Devil is in Details, Unpatentable but Exploitable?",64
+2,E. Implications of the CJEU’s Judgment to the Future of hESC‑Related Inventions,67
+3,1. Germany,67
+3,2. The U.K.,69
+3,3. The EPO,71
+1,VIII. Conclusion,73
+1,Annex,76
+2,ANNEX I,76
+2,ANNEX II,77
+2,ANNEX III,78
+2,ANNEX IV,79
+2,ANNEX V,80
+2,ANNEX VI,81
+1,List of Works Cited,82
+2,Articles,82
+2,Monographies,84
+2,International Treaties,85
+2,European Union Legislative Sources,85
+2,Reports, Opinions and Discussion Papers,85
+2,Fact Sheets,86
+2,News,86
+2,Dictionaries,87
+2,MIPLC Class Materials,87

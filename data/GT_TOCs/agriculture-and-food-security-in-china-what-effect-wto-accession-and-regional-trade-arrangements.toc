@@ -1,0 +1,225 @@
+﻿1,Agriculture and Food Security in China,1
+1,CONTENTS,5
+2,TABLES,6
+2,FIGURES,11
+2,SYMBOLS,13
+2,ABBREVIATIONS,14
+2,CONTRIBUTORS,17
+2,PREFACE,18
+1,Achevng food securty n Chna,21
+2,China’s agricultural development and policies,22
+2,Food self-sufficiency and food security,23
+2,"Commodity, regional and household impacts of WTO accession",28
+3,Surplus agrIcultural labour,31
+3,Restrctons on mgraton,32
+2,Macroeconomic implications of WTO accession,33
+3,Smulatons of short-run effects,34
+3,Macroeconomic impacts on migration,37
+2,China’s agricultural trade after WTO accession,38
+2,Implications of the ASEAN–China Free Trade Agreement,38
+3,Agrcultural trade between Chna and ASEAN: complementary or compettve?,39
+3,Economic effects of the ASEAN–China Free Trade Agreement,40
+2,Summary and discussion,41
+2,Notes,44
+2,References,45
+1,2. Agricultural development and policy before and after China’s WTO accession,47
+2,Agricultural performance and policy before China’s WTO accession,48
+3,AgrIcultural performance,48
+3,Agrcultural development polces,52
+2,China’s commitments to WTO accession and provisions related to agriculture,59
+2,Policy shifts since China’s WTO accession,63
+3,Legal and legslatve changes,64
+3,Agrcultural trade reforms,66
+3,Domestc market reform and nfrastructure development,67
+3,Land-use polcy,68
+3,Farm organsatons,69
+3,Export subsdes and agrcultural support polces,69
+3,New agrcultural and rural development polces,70
+2,Conclusions,71
+2,References,72
+1,3. China’s WTO accession,75
+2,China’s WTO entry commitments in the agricultural sector,75
+3,Tariff binding and tariff reduction,76
+3,Tariff rate quota system,76
+3,Reducton of market dstorton measures,77
+2,Growth of China’s economy and agriculture: the setting for the impact assessment,80
+3,Growth and nsttutonal reform,81
+3,Trade pattern and comparatve advantage n Chna’s agrculture,83
+3,The settng for agrcultural lberalsaton,84
+2,Agricultural sector impacts of China’s WTO accession,86
+3,Opportunities and benefits of agricultural liberalisation,86
+3,Adjustment costs of WTO entry and ther ncome mplcatons,88
+3,Food security and WTO accession,89
+2,The regional pattern of the agricultural impact of WTO accession,91
+3,‘Export promoting effects’ and ‘substitution effects from imports’,92
+3,Regional production concentration indices for major agricultural products,92
+3,Regional pattern of the agricultural impact: Scenario one,97
+3,Regonal pattern of the agrcultural mpact: scenaro two,98
+2,Summary and policy implications,101
+2,Notes,103
+2,References,104
+1,4. Rural–urban income disparity and WTO impact on China’s agricultural sector,105
+2,Agriculture and rural–urban income disparity in China,105
+2,The impact of WTO accession on agriculture and rural incomes,108
+2,The grain pricing system in China and its inconsistencies with WTO accession,110
+2,Policy considerations in liberalising the grain market,113
+2,Relationship between rural industrialisation and urbanisation and rural incomes,115
+2,A causality test on the impact of urbanisation and policy considerations,118
+2,Conclusion,121
+2,Notes,122
+2,References,122
+1,5. The impact of WTO accession on China’s agricultural sector,124
+2,"Grain outputs, yields and inputs",125
+2,Transfer of the agricultural labour force,126
+2,"Imports, exports and prices of grain",129
+3,Grain trade,129
+3,Grain prices,129
+2,The direct impact of the WTO quota for grain imports,134
+3,Major changes after WTO accession,134
+3,The sze of the domestc gran market,136
+3,The mpact on domestc gran prces,137
+3,The impact on domestic production,138
+3,Producer losses,138
+3,Consumer gans,140
+3,The mpact on employment,140
+3,The drect mpact of gran mports,140
+2,Structural adjustment,141
+3,Adjustment of the agrcultural structure,141
+3,Removng prce protecton,142
+3,Industralsaton and urbansaton,143
+2,Notes,144
+2,References,145
+2,Appendix,147
+1,6. The impact of China’s WTO accession on regional economies,155
+2,Impact of WTO accession on China’s regional economies,156
+3,Closures of the model for the smulatons,157
+3,Smulatng wth no control on the trade balance,159
+3,Smulatng wth no change n the trade balance,161
+3,Why does WTO accesson worsen regonal dsparty?,162
+2,Policy simulations,164
+3,Addtonal protecton to agrcultural sectors,165
+3,Domestc market reform,165
+3,Transfer payments,169
+2,Conclusions,174
+2,Notes,175
+2,References,176
+2,Appendx,178
+1,7. WTO accession and food security in China,203
+2,China’s achievements in food security and food self sufficiency policies,205
+3,China’s achievements in food security,205
+3,Food security policies in China,206
+2,The impact on agricultural production and food security of WTO accession,211
+3,China’s WTO accession commitments in agriculture,211
+3,Overall impacts of WTO accession,211
+3,Impact of WTO accesson on agrculture and food securty,214
+2,Policy implications and conclusion,217
+2,Notes,220
+2,References,220
+1,8. Revisiting the economic costs of food self-sufficiency in China,223
+2,"Modelling the Chinese and world economies, 2001–2010",225
+3,Data and parameters,227
+3,Constructing the 2010 world economy,229
+2,Trends in Chinese agricultural self-sufficiency,229
+2,Achieving agricultural self-sufficiency through protection,230
+3,Senstvty analyss,233
+2,Conclusion,234
+2,Notes,235
+2,References,236
+2,Appendix,239
+1,9. Trade reform in the short run,249
+2,The model,251
+3,The representation of capital controls,255
+3,Data and parameters,256
+2,China’s trade policies and reforms,257
+2,Simulated long-run effects of accession policy reforms,259
+2,Simulated short-run effects of trade policy reforms,262
+3,The effects of capital controls and the choice of monetary policy target,263
+3,Fiscal policies,267
+3,Sectoral mpacts n the short run,268
+2,Conclusions,269
+2,Notes,270
+2,References,272
+2,Acknowledgments,274
+2,Appendix,275
+1,"10. Trade reform, macroeconomic policy and sectoral labour movement in China",288
+2,Urban–rural inequality and worker relocation in China,290
+2,Urban–rural inequality in China,291
+3,Internal migration,291
+3,Sectoral relocaton of workers,293
+2,Performance since the Asian crisis,294
+2,Modeling the effects of China’s trade policy reforms,296
+2,Simulated effects of accession policy reforms,296
+3,Smulated short-run effects,299
+3,The effects of capital controls and the choice of the monetary policy target,300
+3,Short run sectoral mpacts,302
+3,Worker relocaton demand n the short run,303
+2,Conclusions,305
+2,Notes,306
+2,References,307
+2,Appendix,311
+1,11. China’s agricultural trade following its WTO accession,325
+2,Classification of agricultural commodities and sources of data,326
+2,Trends in China’s agricultural trade following WTO accession,328
+3,Aggregate trends n agrcultural trade,328
+3,"Trends in agricultural trade, by commodity grouping",329
+4,"Agricultural exports, by commodity grouping",329
+4,Processed agricultural products,330
+4,Animal products,330
+4,Horticultural products,331
+4,Cereals, edible vegetable oilseeds and vegetable oils,331
+4,Raw materials for textiles,332
+3,"Agricultural imports, by commodity grouping",332
+4,"Cereals, edible vegetable oilseeds and vegetable oils",332
+4,Raw materials for textiles,334
+4,Animal products,335
+4,Processed agricultural products,336
+4,Horticultural products,336
+2,Changes in the pattern of China’s agricultural trade after WTO accession,338
+3,"Changes n the pattern of Chna’s agrcultural trade, by commodty group",339
+3,"Changes n the pattern of Chna’s agrcultural trade, by factor ntensity of producton",340
+2,Changes in revealed comparative advantage in China’s agriculture following WTO accession,342
+3,Revealed comparative advantage in China’s agriculture,343
+2,Changes in the revealed comparative advantage of agriculture,344
+2,Factors driving the changes in revealed comparative advantage in China’s agriculture,347
+3,Economc factors,348
+3,Trade barriers,349
+2,Conclusions,350
+2,Notes,351
+2,References,352
+2,Appendix,353
+1,12. Agricultural trade between China and ASEAN,366
+2,Classification of agricultural commodities,367
+2,Agricultural trade between China and ASEAN,368
+3,"Changes in China’s imports, exports and net exports with ASEAN",368
+3,Shares of bilateral agricultural trade between China and ASEAN,368
+3,China–ASEAN import and export structure,369
+3,China–ASEAN agricultural trade patterns,374
+2,Revealed comparative advantage,375
+3,Definition of revealed comparative advantage (RCA),375
+3,A comparison of RCA in China and ASEAN in 2005,377
+3,"Changes in comparative advantage in China and ASEAN, by commodity",379
+3,"Changes in comparative advantage in China and ASEAN, by commodity group",380
+2,Complementarity in agricultural trade between China and ASeAn,383
+3,Definition of the trade complementarity index (TCI),383
+3,Changing trends in trade complementarity between China and ASEAN,384
+2,Conclusions,387
+2,Notes,389
+2,References,389
+2,Appendix,391
+1,13. The economic impact of the ASEAN–China Free Trade Area,392
+2,Trade liberalisation in China and ASEAN,393
+3,Chna’s WTO commtments,394
+3,AFTA’s tariff reduction schedule,395
+3,The free trade agreement between ASEAN and China (ACFTA),397
+2,Methodology and policy scenarios,397
+3,Bref ntroducton to the GTAP model,399
+3,Data mprovement,400
+3,Assumptons for the dfferent scenaros,402
+3,Simulation results and explanations,404
+3,The economic impacts of the EHP,404
+3,The economic impacts of the full implementation of the ACFTA,409
+2,Conclusions,417
+2,Notes,419
+2,References,420
+2,Appendix,423
+1,Index,428

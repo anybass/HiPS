@@ -1,0 +1,160 @@
+﻿1,A BIRD THAT FLIES WITH TWO WINGS,1
+1,Table of Contents,7
+1,Acknowledgments,9
+1,Foreword,11
+1,Prologue,15
+1,1. ‘Igat fulap rod blong hem’,21
+2,Brief history of Vanuatu,21
+2,Place,22
+3,Islandism,23
+3,The urban–rural divide: which one is the ‘easy life’?,24
+3,Land,27
+2,Language,28
+2,Politics,29
+2,Religion and denomination,31
+2,Gender,33
+2,Age,36
+2,Conclusion,39
+1,2. The possibilities and limitations of legal pluralism,49
+2,The positivist approach,50
+3,General principles,50
+3,Positivism in Melanesia,50
+2,The legal anthropological approach,52
+2,The legal pluralist approach,56
+3,General principles,56
+3,Theoretical issues,58
+4,What’s in a name?,58
+4,Is state law fundamentally different to non-state law?,61
+4,Is it possible to have a situation of legal pluralism within a state system?,63
+3,The possibilities and limitations of legal pluralism for Melanesia,64
+4,The possibilities of legal pluralism,64
+4,The current limitations of legal pluralism,66
+4,Using legal pluralism as a normative tool,68
+2,Conclusion,72
+1,3. Tradition and transformation in leadership structures and conflict-management mechanisms,81
+2,Leadership structures and conflict management in the nineteenth century and early twentieth century,81
+3,Leadership structures,82
+4,The graded system,82
+4,Hereditary/mixed systems,83
+3,Maintenance of law and order and conflict-management mechanisms,85
+2,Leadership structures and conflict-management mechanisms during the Condominium,88
+3,Leadership systems,89
+3,Maintenance of law and order and conflict-management mechanisms,91
+2,Leadership structures and conflict management post-independence,95
+3,Kastom and the ‘invention of tradition’,95
+4,What is kastom?,96
+4,Kastom as ‘invention’?,97
+4,The significance of kastom as invention,99
+3,Leadership structures in Vanuatu today,100
+3,Conflict management,101
+2,Conclusion,103
+1,"4. Mat, kava, faol, pig, buluk, woman: the operation of the kastom system in Vanuatu today",115
+2,The pervasiveness of the kastom system,117
+2,Diversity in conflict management,118
+3,The people in charge of the management of the conflict,119
+3,Before the meeting,119
+3,At the meeting,120
+4,Who attends?,120
+4,Who speaks?,120
+4,How is a decision reached?,121
+3,After the meeting,125
+2,The restorative nature of the kastom system,125
+2,Privileging the community over individuals,128
+2,Kastom procedures and kastom law,130
+2,The dynamism of the kastom system,131
+2,Challenges for the kastom system today,133
+3,Too many chiefs,134
+3,‘Respek hemi lus’ (Respect has been lost),135
+4,Problems of enforcement of kastom payments,136
+4,Problems of people attending meetings,137
+3,Chiefly misbehaviour,137
+3,Lack of disciplinary mechanisms,138
+3,Chiefs and modern society,139
+2,Widespread support for the continuation of the kastom system,140
+2,Women and the kastom system,141
+2,Youth and the kastom system,144
+2,Conclusion,146
+1,5. The relationship between the state and kastom systems,159
+2,The courts,159
+3,The current condition of the court system,160
+3,The relationship between the courts and the kastom system,162
+4,The relationship between customary law and state law,162
+4,The relationship between the kastom system and the court system,168
+4,Views of stakeholders about the relationship,169
+2,The Vanuatu Police Force,170
+3,The condition of the police today,170
+3,The relationship between the police and the kastom system,172
+4,Ways the police assist the kastom system,174
+4,Ways the kastom system assists the police,175
+4,View of stakeholders about the relationship,175
+2,The prisons,177
+3,The condition of the prisons today,177
+3,The relationship between the prisons and the kastom system,179
+2,The Public Prosecutor and the Public Solicitor,180
+3,The condition of the prosecution and Public Solicitor,180
+3,The relationship between the prosecution and the Public Solicitor with the kastom system,181
+2,The Malvatumauri,182
+2,Conclusion,184
+1,6. The problems of the existing relationship between the state and kastom systems,195
+2,The facts of the case study,196
+2,Problems within the two systems demonstrated by the case study,200
+3,Problems within the state system,200
+3,Problems within the kastom system,202
+2,Problems with the relationship between the two systems,202
+3,Uncertainty about where the conflict should be dealt with puts complainants in a vulnerable situation,202
+3,Dispute and confusion over jurisdiction,203
+3,The problem of which system should deal with a case first,206
+4,The problems with the kastom system dealing with a matter first,206
+4,The problems with the state system dealing with a matter first,208
+3,The problem of ‘double jeopardy’,209
+3,The operation of the state system creates feelings of disempowerment among the chiefs,210
+3,The state system hinders the operation of the kastom system,210
+4,Direct hindering of the kastom system by the state system,210
+4,Indirect hindering of the kastom system by the state system,212
+3,The existence of the kastom system hinders the operation of the state system,214
+2,Conclusion,215
+1,7. A typology of relationships between state and non-state justice systems,221
+2,A framework for analysing different types of relationship between non-state and state justice systems,222
+2,Models of relationship,225
+3,Model 1: Repression of a non-state justice system by the state system,226
+3,Model 2: Formal independence between the systems but tacit acceptance by the State of a non-state justice system,227
+3,Model 3: No formal recognition but active encouragement of a non-state justice system by the State,228
+3,Model 4: Limited formal recognition by the State of the exercise of jurisdiction by a non-state justice system,230
+3,Model 5: Formal recognition of exclusive jurisdiction in a defined area,234
+3,Model 6: Formal recognition and the giving of state coercive powers to a non-state justice system,237
+3,Model 7: Complete incorporation of the non-state justice system by the State,242
+2,Mutual adaptations/innovations by state and non-state systems,245
+3,Mutual learning,247
+3,Sharing of procedures,248
+4,Changes the state system could make to its procedures,248
+4,Changes the customary justice system could make to its procedures,250
+3,Sharing of substantive laws/principles,252
+4,Use of substantive customary law by state courts,252
+4,Use of human rights principles,253
+3,Use of key players/institutions from the other system,255
+4,Use by the state system,255
+4,Use of key players by the customary justice system,257
+2,Conclusion,258
+1,8. A new method of legal pluralism,269
+2,Step 1: Analyse the operation of the state and non-state systems,270
+2,Step 2: Consider the aims of the overall justice system,271
+2,Step 3: Examine the current positive and problematic features in the relationship between the systems,273
+2,Step 4: Consider the applicability of the different models of relationship to this context,275
+2,"Step 5: Develop the chosen model so that it becomes one of mutual adaptation, mutual recognition and mutual regulation",276
+3,Internal adaptations,277
+4,The state system,277
+4,The kastom system,277
+3,Recognition,278
+4,State recognition of the kastom system,278
+4,Kastom system recognition of the state system,279
+3,Regulation,279
+4,State regulation of the kastom system,279
+4,Kastom system regulation of the State,280
+2,Step 6: Develop a method of progressive implementation and evaluation of changes,281
+2,Step 7: Revise the model pluralist method,282
+2,Conclusion: doing legal pluralism,282
+1,Bibliography,287
+2,Legal cases,316
+3,Vanuatu,316
+3,Other jurisdictions,317
+2,Newspaper articles,317

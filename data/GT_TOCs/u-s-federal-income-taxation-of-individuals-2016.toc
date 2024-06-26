@@ -1,0 +1,409 @@
+﻿1,About the Author,3
+1,About CALI eLangdell Press,3
+1,Notices,4
+1,Permissions,4
+1,Preface,6
+1,Table of Contents,10
+1,Introduction,24
+2,The legislative branch,26
+2,The executive branch,26
+2,Tax procedure overview,32
+2,The judicial branch,33
+2,Excerpt from Of Crud and Dogs: An Updated Collection of Quotations in Support of the Proposition That the Supreme Court Does Not Devote the Greatest Care and Attention to Our Exciting Area of the Law,35
+1,Unit I: The Core Structures of Income and Consumption Taxation and Tax Policy,37
+2,Introduction to Chapters 1 through 4,37
+2,Chapter 1: The Essential Structure of the Income Tax,39
+3,A. The theoretical core structure of a tax on “income” and how it is implemented in positive law,39
+4,Introduction to § 61 “Gross Income”,42
+4,Deductions (part 1): nondeductible “capital expenditures” vs. potentially deductible “expenses”,43
+4,§ 61(a)(3) “gains derived from dealings in property” and the critical role of “basis”,44
+4,Deductions (part 2): which “expenses” are deductible and why?,51
+4,Deductions (part 3): § 1001 “loss” (and more on normative income tax theory),54
+4,Deductions (part 4): depreciation,55
+4,§ 1016 basis adjustments,56
+4,A brief introduction to the concept of “capital” gains and losses,57
+4,Problems,61
+3,"B. The tax rate structure, marginal vs. effective rates, and more",62
+4,§ 62 above-the-line deductions,65
+4,Personal and dependent exemption deductions,66
+4,Standard deduction versus itemized deductions,66
+4,§ 68: the partial phase-out of itemized deductions,68
+4,§ 67: the 2% floor under “miscellaneous itemized deductions”,68
+4,Alternative minimum tax,69
+4,Child tax credit and earned income tax credit,71
+4,Effective tax rate versus marginal tax rate,73
+4,Problems,77
+2,Chapter 2: Consumption Taxation and Our Hybrid Income/Consumption Tax,78
+3,A. Consumption taxation forms and comparison to income taxation,79
+4,A retail sales tax,79
+4,A value added tax,79
+4,A cash-flow consumption tax,81
+4,Exempting capital returns from tax: the wage tax and the E. Cary Brown yield-exemption phenomenon,83
+3,B. Consumption tax provisions in the Internal Revenue Code,87
+3,C. The additional wrinkle of debt,89
+3,D. Tax arbitrage: the income tax treatment of debt coupled with consumption tax treatment of the debt-financed investment,91
+4,Introduction to the concept of “capture”,92
+2,"Chapter 3: Ethical Debates, Economic Theories, and Real-World Impacts",95
+3,A. The development of the income tax and how taxes affect the Federal budget and living standards,97
+4,Excerpt from The Taxing Power: A Reference Guide to the United States Constitution,100
+3,"B. Fairness norms, economic theories, and politics",118
+4,Fairness norms in general,119
+4,Fairness and the wage tax,122
+4,Fairness and other forms of consumption taxation,124
+4,Welfare economics,125
+4,Chicago-school-style economics,128
+4,Negative and positive externalities and Pigovian taxes,130
+4,Rent-seeking behavior,133
+4,Supply-side economics,134
+4,The limits of economic theory,137
+4,Tax expenditures,140
+2,Chapter 4: The Contours of “Capital Expenditure” v. “Expense” (or Current Depreciation),145
+3,A. Outlays pertaining to intangibles,146
+4,"INDOPCO, INC. v. COMMISSIONER",147
+4,Post-INDOPCO developments,149
+4,Outline of the regulations pertaining to intangibles,150
+4,Problems,151
+3,B. Outlays pertaining to tangible assets,152
+4,Two mutually exclusive de minimis elections,153
+4,The § 162 deduction for “materials and supplies”,154
+4,Problems,154
+4,The difficult distinction between repair (expense) and improvement (capital expenditure),155
+4,"Improvement: betterment, restoration, or adapting the property to a new use",156
+4,Determining the “unit of property”,156
+4,Routine maintenance safe harbor,157
+4,Small business safe harbor election for building improvements,158
+4,Problems,158
+3,C. Indirect costs of producing inventory (and other property),159
+4,COMMISSIONER v. IDAHO POWER CO.,159
+4,§ 263A codification,160
+1,Unit II: Two Types of Gross Income: Compensation and Residual Gross Income,162
+2,Introduction to Chapters 5 and 6,162
+2,Chapter 5: § 61(a)(1) Compensation,164
+3,OLD COLONY TRUST CO. v. COMMISSIONER,164
+3,REVENUE RULING 79-24,167
+3,A. Section 119,169
+4,COMMISSIONER v. KOWALSKI,170
+4,LINDEMAN v. COMMISSIONER,172
+3,B. Section 132,177
+4,Excerpt from General Explanation of the Revenue Provisions of the Deficit Reduction Act of 1984,177
+4,Problems,180
+3,C. Section 83,182
+4,Problems,185
+2,Chapter 6: § 61 Residual Gross Income,186
+3,COMMISSIONER V. GLENSHAW GLASS,187
+3,A. What is an “accession to wealth” within the meaning of Glenshaw Glass?,191
+4,Cash receipts that are not basis recovery,191
+4,REVENUE RULING 76-131,191
+4,NOTICE 99-3,192
+4,Consumption received in kind,195
+4,Oscar Freebies Balloon to $80K (Don’t Tell IRS),197
+4,UNITED STATES v. GOTCHER,200
+4,Problem,204
+4,HAVERLY v. UNITED STATES,204
+4,Problem,206
+3,B. When is a wealth accession “clearly realized” within the meaning of Glenshaw Glass?,207
+4,The bargain purchase rule,207
+4,Problem,207
+4,Commercial rebates,208
+4,REVENUE RULING 76-96,208
+4,Problem,210
+4,Lessee improvements that are not “rent”,210
+4,HELVERING v. BRUUN,210
+4,Treasure trove,213
+4,Excerpt from DEFINING INCOME,214
+1,Unit III: The Possibilities for Income Shifting,220
+2,Introduction to Chapters 7 through 9,220
+2,Chapter 7: Gifts and Bequests,221
+3,Possible taxation approaches to the transfer and receipt of gifts and bequests,221
+3,A. The basis of property received in kind as a gift or bequest (and related rules),228
+4,Problems,228
+4,Historical development of the basis rules,229
+4,"Is § 1014 justified? If not, which alternative would be better?",230
+3,B. What is a “gift” within the meaning of § 102(a)?,232
+4,COMMISSIONER v. DUBERSTEIN,233
+4,Consequences of the Duberstein Court’s approach to “gift”,240
+4,Problem,241
+4,A Duberstein example and introduction of “small tax case” jurisdiction in the Tax Court,242
+4,JUE-YA YANG v. COMMISSIONER,242
+4,The possible limits of the Duberstein “intent” approach,243
+4,OLK v. UNITED STATES,244
+4,The relationship between § 61 and exclusion provisions,247
+4,Final thoughts,248
+3,C. Life insurance proceeds received on death of the insured,248
+4,Is the § 101(a)(1) exclusion justified?,249
+4,Sales of life insurance policies to investors,249
+4,Problems,250
+2,Chapter 8: Income Shifting in the Happy Family,251
+3,A. Income splitting via the joint return,251
+4,LUCAS v. EARL,251
+4,POE v. SEABORN,253
+4,Registered domestic partnerships (RDPs) and civil unions,260
+4,CHIEF COUNSEL ADVICE 201021050,261
+3,B. Income-shifting possibilities outside the joint return,262
+4,Problems,262
+4,BLAIR v. COMMISSIONER,264
+4,HARRISON v. SCHAFFNER,267
+4,The § 1(g) kiddie tax,270
+4,The grantor trust rules,271
+4,HELVERING v. CLIFFORD,272
+4,Income splitting using a nongrantor trust,276
+4,Final thoughts,276
+2,Chapter 9: Income Shifting in the Fractured Family,278
+3,A. Cash payments,278
+4,GOULD v. GOULD,278
+4,Excerpt from Simplifying and Rationalizing the Federal Income Tax Law Applicable to Transfers in Divorce,286
+4,TUCKER v. COMMISSIONER,291
+4,Problems,294
+3,B. Transfers of property in kind,295
+4,Problems,298
+3,C. Unmarried cohabitants and members of an RDP or civil union,299
+4,Unmarried cohabitants with no formal state-sanctioned legal relationship,299
+4,REYNOLDS v. COMMISSIONER,299
+4,RDPs and civil unions,303
+4,Problem,304
+1,Unit IV: Everything You Ever Wanted To Know About Debt but Were Afraid To Ask,305
+2,Introduction to Chapters 10 through 12,305
+2,Chapter 10: Borrowing and Lending,307
+3,A. The basic rules of the road,307
+3,B. Section 7872,309
+3,C. Identifying principal and interest (including original issue discount) and the timing of interest inclusions and deductions,312
+4,Identifying principal and interest,312
+4,Segue to a brief discussion of methods of accounting,315
+4,Original issue discount,318
+4,OID pertains to realization rather than accounting methods,320
+3,D. Recovery of annuity basis under § 72,322
+4,Problem,324
+3,E. Which receipts fall within the “borrowing exclusion”?,324
+4,JAMES v. UNITED STATES,324
+4,NORTH AMERICAN OIL CONSOLIDATED v. BURNET,327
+4,Lewis and the enactment of § 1341,329
+4,A workable tax definition of “loan”: absolute versus contingent obligation to repay,330
+4,COMMISSIONER v. INDIANAPOLIS POWER & LIGHT,331
+4,Problem,336
+2,Chapter 11: The Bad-Debt Deduction (for Lenders) and Debt-Discharge Income (for Borrowers),337
+3,A. The lender’s deduction for a bad debt (or worthless security),337
+4,§ 165(g) deduction for a worthless security,338
+4,§ 166 bad-debt deduction,339
+4,Bona fide debt,340
+4,Worthlessness,341
+4,Deduction limited to basis,342
+4,REVENUE RULING 93-27,343
+4,Problems,345
+3,B. § 61(a)(12) income from the discharge of indebtedness,345
+4,UNITED STATES v. KIRBY LUMBER,346
+4,The modern rationale underlying § 61(a)(12): the borrowing exclusion,348
+4,Deferral of § 61(a)(12) debt-discharge income under § 108,349
+4,Failure to grasp the modern rationale by some courts,352
+4,PAYNE v. COMMISSIONER,353
+4,Problems,355
+4,Measuring the economic value received in the borrowing year with two-party debt,356
+4,ZARIN v. COMMISSIONER,357
+4,ZARIN v. COMMISSIONER,365
+2,Chapter 12: Debt and Property,372
+3,A. The purchase of property with borrowed money—the front-end rule in Crane,373
+3,B. The transfer of property subject to debt—the back-end rule in Crane, Tufts, and Rev. Rul. 90-16",376
+4,Relief from recourse debt not in excess of property FMV,376
+4,Relief from nonrecourse debt—whether or not in excess of property FMV,378
+4,COMMISSIONER v. TUFTS,379
+4,Relief from recourse debt in excess of property FMV,387
+4,REVENUE RULING 90-16,387
+3,C. Reduction of property debt without a property transfer,392
+4,REVENUE RULING 91-31,392
+4,§§ 108(a)(1)(D) and (e)(5),394
+4,Problems,396
+1,Unit V: The Ownership and Disposition of Property,398
+2,Introduction to Chapters 13 through 16,398
+2,"Chapter 13: Properly Accounting for, and the Nonrecognition of, § 1001 Realized Gain or Loss",399
+3,On the disposition of property,399
+3,A. Properly accounting for realized and recognized gain and loss,400
+4,Inventory sales,401
+4,Timing of § 1001 realized and recognized gain inclusion,403
+4,Installment sale reporting,404
+4,Open transaction reporting,405
+3,B. The nonrecognition of § 1001 realized gain or loss,405
+4,§ 1033 involuntary conversions of built-in gain property,406
+4,§ 1031 like kind exchanges,408
+4,Three-corner exchanges,415
+4,CRANDALL v. COMMISSIONER,416
+4,Does § 1031 reflect sound policy?,419
+4,§ 267(a)(1) sales of loss property to a related party,421
+4,§ 1091 wash sales of loss securities,422
+4,Problems,422
+2,Chapter 14: Depreciation and Amortization in a Realization-Based Income Tax,424
+3,A. Economic depreciation in a realization-based income tax,425
+3,B. “Wear and tear” within the meaning of § 167(a),429
+4,SIMON v. COMMISSIONER,430
+3,C. Depreciation of tangible assets,441
+4,Non-real estate,441
+4,Section 179 expensing,442
+4,Section 168 depreciation,442
+4,Real estate,446
+4,§ 280F limitations,448
+3,D. Amortization of intangible assets,450
+3,E. Amortization of start-up costs,451
+3,F. Tax arbitrage: an interest deduction for debt-financed purchases of expensed (or nearly expensed) assets,452
+4,Problems,453
+2,Chapter 15: Capital Gains and Losses,455
+3,A. Capital losses,455
+4,Problem,458
+3,B. Net capital gain,458
+4,Why is net capital gain taxed at a preferential rate?,459
+4,The double tax argument regarding capital returns,462
+4,Lock-in effect,463
+4,Inflation gain,464
+4,Encouraging risk-taking entrepreneurship to stimulate economic growth,467
+4,Bunching effect from the realization requirement,469
+4,The definition of “net capital gain”,469
+4,Planning possibilities regarding the timing of realized capital gains and losses,471
+3,C. The meaning of “capital asset” and “sale or exchange”,473
+4,§ 1221(a)(1): the  inventor or dealer exception,473
+4,BYRAM v. UNITED STATES,473
+4,§ 1221(a)(2): certain property “used” in the taxpayer’s trade or business,478
+4,"§ 1221(a)(3): certain copyrights, works of art, musical compositions, and similar property",478
+4,§ 1221(b)(3): the election for self-created musical works,480
+4,§ 1221(a)(7): hedging transactions,481
+4,The sale of a right to collect ordinary income in the future,484
+4,The sale or exchange requirement,484
+4,The Arrowsmith doctrine,485
+3,D. Section 1231 gains and losses and depreciation recapture,486
+4,§ 1231 gains and losses,486
+4,§§ 1245 and 1250 “depreciation recapture”,488
+4,Problems,490
+3,E. The § 1(h) rates applicable to “net capital gain”,491
+2,Chapter 16: Tax Shelters,492
+3,Policy concerns,494
+3,A. Common law doctrines used in tax shelter litigation,495
+4,Sham debt,495
+4,KNETSCH v. UNITED STATES,495
+4,ESTATE OF FRANKLIN v. COMMISSIONER,499
+4,Tax ownership,506
+4,The business purpose doctrine,507
+4,The economic substance doctrine,508
+3,B. Statutory tools in combatting tax shelters,512
+4,The § 465 at-risk rules and § 469 passive activity loss rules,512
+4,Problems,517
+4,The § 163(d) investment interest deduction rules,518
+4,Problem,520
+1,Unit VI: Distinguishing Between Income-Producing Activities and Personal Consumption and the Personal Consumption Tax Expenditures,521
+2,Introduction to Chapters 17 through 20,521
+2,Chapter 17: On Human Capital,522
+3,A. Education costs,522
+4,Tax Incentives for Education: Not Making the Grade by Marie Sapirie,524
+4,Problems,530
+4,Treas. Reg. § 1.162-5: education costs as deductible business expenses under § 162,531
+4,SHARON v. COMMISSIONER,533
+4,Problems,541
+3,B. Compensation received on account of the loss of human capital,542
+4,Excerpt from Murphy and the Evolution of “Basis”,542
+4,§ 104(a)(2) as tax expenditure,547
+4,"Determining the excludable amount: deducted medical costs, structured settlements, prejudgment interest, and punitive damages",548
+4,The treatment of attorney fees,550
+4,AMOS v. COMMISSIONER,553
+4,Problems,559
+2,"Chapter 18: Homes, Health, Charity, and More",561
+3,A. Owner-occupied housing,562
+4,The exclusion of imputed income with respect to owner-occupied housing,562
+4,Tax policy critiques of the homeownership tax expenditures,564
+4,The deduction for qualified residence interest under § 163(h)(3),566
+4,Problems,569
+4,The exclusion of gain on the sale or exchange of a principal residence under § 121,570
+4,Problem,573
+4,The exclusion of § 61(a)(12) debt-discharge income under §§ 108(a)(1)(E) and (h),573
+4,"Excerpt from Before the Senate Committee on Finance, At a Hearing on “The Housing Decline: The Extent of the Problem and Potential Remedies”",575
+4,Problem,577
+3,B. Personal casualty and theft losses,577
+4,Determining whether the loss arises from “theft” or “casualty”,578
+4,Determining the amount and character of a personal casualty or theft loss and whether it is an Itemized Deduction or Above-the-Line Deduction,579
+4,Problem,582
+3,C. Health care,582
+4,The § 213 deduction for certain medical costs,583
+4,The §§ 105(b) and 106 exclusions for employer-provided health care (and the § 162(l) deduction for the self-employed),585
+4,"The consumer-driven, health-care movement: HSAs and high-deductible plans",588
+4,The § 36B premium health care credit,590
+4,Problems,590
+3,D. Charitable contributions,591
+4,Tax-exempt organizations,591
+4,Who benefits from the § 170 deduction and where do our charitable dollars go?,592
+4,What is a “contribution or gift” within the meaning of § 170(c)?,595
+4,HERNANDEZ v. COMMISSIONER,597
+4,SKLAR v. COMMISSIONER,609
+4,Determining the deductible amount when property is contributed in kind,612
+4,Contributions of services in kind,616
+4,Substantiation requirements,617
+4,AGI percentage contribution limits,617
+4,Problems,618
+3,E. State and local taxes,619
+3,"F. Expenses for the determination, collection, or refund of any tax",621
+2,Chapter 19: Gambling and Hobby Losses,622
+3,A. Gambling losses: § 165(d),622
+4,GENERIC LEGAL ADVICE MEMORANDA 2008-011,624
+4,Problem,627
+3,B. Hobby losses: § 183,627
+4,Establishing a profit motive,630
+4,ZARINS v. COMMISSIONER,631
+4,The § 183(d) presumption and § 183(e) election,637
+4,Defining the scope of “the activity”,637
+4,TOPPING v. COMMISSIONER,638
+4,Hobby or Business: Brothel-Hopping Scrutinized by the IRS,645
+4,Problems,646
+2,Chapter 20: Allocating Costs Between Income Production and Personal Consumption,648
+3,A. The meaning of “ordinary” and “necessary”,648
+4,Lobbying costs as business expenses,652
+4,GEARY v. COMMISSIONER,653
+4,"Bribes and kickbacks, fines and penalties, treble damages under the antitrust laws, and the end of the common law public policy exception (or is it?)",656
+4,Excess compensation,659
+3,B. The origin-of-the-claim test,661
+4,UNITED STATES v. GILMORE,661
+4,Gilmore II,666
+4,How far back do we go in looking for the “origin” of a cost?,667
+4,"The origin of commuting, clothing, and meal costs unconnected to travel or entertainment",668
+4,PEVSNER v. COMMISSIONER,668
+4,MOSS v. COMMISSIONER,671
+4,Problems,677
+3,C. Travel and entertainment costs,678
+4,“Away from home in pursuit of a trade or business”,679
+4,COMMISSIONER v. FLOWERS,680
+4,REVENUE RULING 93-86,683
+4,HENDERSON v. COMMISSIONER,686
+4,Mixed trips,692
+4,§ 274: entertainment,692
+4,§ 274: business meals,695
+4,Substantiation of costs,695
+4,Problems,696
+3,D. Use of a personal residence for income production,697
+4,Converting a former personal residence wholly to income production,697
+4,The so-called home office deduction,699
+4,RAYDEN v. COMMISSIONER,700
+3,E. Distinguishing between “business” and “investment”,709
+4,UNITED STATES v. GENERES,710
+1,Unit VII: The Taxable Year and Methods of Accounting,718
+2,Introduction to Chapters 21 and 22,718
+2,Chapter 21: The Taxable Year,719
+3,A. The annual accounting principle in general,719
+4,The borrowing exclusion,719
+4,§ 61(a)(12) debt-discharge income,720
+4,Receipts subject to a contingent obligation to repay,720
+4,Depreciation recapture and the Arrowsmith doctrine,721
+3,B. The tax benefit rule,721
+4,REVENUE RULING 92-91,723
+4,Problem,727
+3,C. Net operating losses,727
+4,BURNET v. SANFORD & BROOKS COMPANY,727
+4,Problem,731
+2,Chapter 22: Methods of Accounting,732
+3,A. The cash method of accounting,732
+4,The constructive receipt doctrine,734
+4,"Deferred compensation, the economic benefit doctrine, rabbi trusts, and § 409A",734
+4,SPROULL v. COMMISSIONER,736
+4,"PRIVATE LETTER RULING 8113107 (Dec. 31, 1980)",739
+4,Problem,741
+3,B. The accrual method of accounting,742
+4,Accrual accounting in financial reporting and the divergence of financial accounting and income tax values,743
+4,THOR POWER TOOL COMPANY v. COMMISSIONER,745
+4,The all-events test and its use as a tool for diverging from GAAP,754
+4,The accrual (deduction) of expenses not yet paid,756
+4,FORD MOTOR COMPANY v. COMMISSIONER,757
+4,The accrual (inclusion) of prepaid income or advance payments,766
+4,REVENUE PROCEDURE 2004-34,769
+4,Back to our roots and the elimination of accrual accounting for § 61 Gross Income and expenses for income tax purposes?,774
+4,Problem,776

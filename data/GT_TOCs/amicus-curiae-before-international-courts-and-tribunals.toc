@@ -1,0 +1,217 @@
+﻿1,Amicus Curiae before International Courts and Tribunals,1
+1,Preface,7
+1,Acknowledgments,9
+1,Summary of Contents,11
+1,Contents,15
+1,Table of Abbreviations,23
+1,Chapter § 1 Introduction,25
+2,A. Structure,29
+2,B. Methodology,30
+2,C. Scope of the study,34
+1,Part I The ‘international’ amicus curiae,41
+2,Chapter § 2 Great expectations? Presumed functions and drawbacks of amicus curiae participation,43
+3,A. Presumed functions of amicus curiae,43
+4,I. Broader access to information,43
+4,II. Representation of ‘the’ public interest,47
+4,III. Legitimacy and democratization,53
+4,IV. Contribution to the coherence of international law,59
+4,V. Increased transparency,62
+3,B. Presumed drawbacks,64
+4,I. Practical burdens,65
+4,II. Compromising the parties’ rights,65
+4,"III. Politicization of disputes, de-legitimization and lobbyism",67
+4,IV. Overwhelming developing countries,70
+4,V. Unmanageable quantities of submissions,71
+4,VI. Denaturing of the judicial function,72
+3,C. Conclusion,72
+2,Chapter § 3 An international instrument,73
+3,A. Amicus curiae before national courts,74
+4,I. The origins of amicus curiae,74
+4,II. Amicus curiae before the English courts,76
+4,III. Amicus curiae before the United States Federal Courts and the Supreme Court,81
+4,IV. Internationalization: amicus curiae in civil law systems and in inter- and supranational legal instruments,86
+4,V. Comparative analysis,90
+3,B. Emergence and rise of amicus curiae before international courts and tribunals,91
+4,I. International Court of Justice,91
+4,II. International Tribunal for the Law of the Sea,100
+4,III. European Court of Human Rights,103
+4,IV. Inter-American Court of Human Rights,106
+4,V. African Court on Human and Peoples’ Rights,108
+4,VI. WTO Appellate Body and panels,109
+4,VII. Investor-state arbitration,115
+3,C. Conclusion,121
+2,"Chapter § 4 Characteristics, status and function of amicus curiae before international courts",123
+3,A. Characteristics of the international amicus curiae,123
+4,I. A procedural instrument,124
+4,II. A non-party and a non-party instrument,126
+4,III. Transmission of information,129
+4,IV. An interested participant,130
+4,V. An instrument of non-state actors?,132
+3,B. Functions of the international amicus curiae,132
+4,I. Information-based amicus curiae,133
+4,II. Interest-based amicus curiae,138
+5,1. International Court of Justice and International Tribunal for the Law of the Sea,139
+5,2. European Court of Human Rights,140
+5,3. Inter-American Court of Human Rights,144
+5,4. WTO Appellate Body and panels,146
+5,5. Investor-state arbitration,148
+5,6. Comparative analysis,152
+4,III. Systemic amicus curiae,152
+4,IV. Analysis,154
+5,1. The myth of ‘the’ international amicus curiae,155
+5,2. An evolving concept,156
+5,3. Are there limits to the functions amici curiae may assume?,156
+3,C. Amicus curiae and other forms of non-party participation,157
+4,I. International Court of Justice and International Tribunal for the Law of the Sea,159
+4,II. WTO Appellate Body and panels,164
+4,III. Investor-state arbitration,168
+4,IV. Comparative analysis,171
+3,D. Conclusion,172
+1,Part II Commonalities and divergences: the procedural laws of amicus curiae participation,175
+2,Chapter § 5 Admission of amicus curiae to the proceedings,177
+3,A. Legal bases for amicus curiae participation,177
+4,I. International Court of Justice,180
+4,II. International Tribunal for the Law of the Sea,191
+4,III. European Court of Human Rights,195
+4,IV. Inter-American Court of Human Rights,197
+4,V. African Court on Human and Peoples’ Rights,200
+4,VI. WTO Appellate Body and panels,202
+5,1. Panels,202
+5,2. Appellate Body,207
+4,VII. Investor-state arbitration,213
+5,1. Clauses in investment treaties,213
+5,2. Clauses in institutional procedural rules,215
+5,3. Implied powers,222
+5,4. Ad hoc agreements,224
+4,VIII. Comparative analysis,225
+5,1. Codification and informal doctrine precedent?,226
+5,2. Common regulatory approaches,227
+3,B. Conditions concerning the person of amicus curiae,228
+4,I. International Court of Justice,229
+4,II. International Tribunal for the Law of the Sea,231
+4,III. European Court of Human Rights,235
+4,IV. Inter-American Court of Human Rights,241
+4,V. African Court on Human and Peoples’ Rights,246
+4,VI. WTO Appellate Body and panels,247
+4,VII. Investor-state arbitration,250
+5,1. Legal standards,250
+5,2. Application,253
+4,VIII. Comparative analysis,261
+3,C. Request for leave procedures,266
+4,I. Formal requirements,269
+5,1. Timing,269
+5,2. Form and length,283
+4,II. Substantive requirements concerning the application,284
+5,1. International Court of Justice,284
+5,2. European Court on Human Rights,284
+5,3. African Court on Human and Peoples’ Rights,286
+5,4. WTO Appellate Body and panels,286
+5,5. Investor-state arbitration,287
+6,a) Legal standards,287
+6,b) Application,288
+7,aa) Special knowledge or insight,289
+7,bb) Within the scope of the dispute,292
+7,cc) Significant interest in the arbitration,294
+7,dd) Public interest in the subject matter of the arbitration,300
+6,c) Assessment,303
+4,III. Full discretion: decision on admissibility,304
+4,IV. Comparative analysis,312
+3,D. Conclusion,314
+2,Chapter § 6 Amici curiae in the proceedings,317
+3,A. Oral and written participation,318
+4,I. International Court of Justice,318
+4,II. International Tribunal for the Law of the Sea,319
+4,III. European Court of Human Rights,320
+4,IV. Inter-American Court of Human Rights,323
+4,V. African Court on Human and Peoples’ Rights,325
+4,VI. WTO Appellate Body and panels,326
+4,VII. Investor-state arbitration,328
+4,VIII. Comparative Analysis,330
+5,1. Confidential and/or private nature of the dispute settlement mechanism,331
+5,2. Regulatory reasons,332
+5,"3. Efficiency, costs and control",332
+5,4. Personal views of judges,332
+3,B. Recorded participation,332
+3,C. Formalization of participation,334
+4,I. Form of written submissions,335
+5,1. Length,335
+5,2. Language,336
+5,3. Authentification,339
+5,4. Failure to comply,342
+4,II. Comparative analysis,343
+3,D. Substantive requirements and the content of submissions,345
+4,I. International Court of Justice and International Tribunal for the Law of the Sea,346
+4,II. European Court of Human Rights,350
+4,III. Inter-American Court of Human Rights,362
+4,IV. African Court on Human and Peoples’ Rights,369
+4,V. WTO Appellate Body and panels,370
+4,VI. Investor-state arbitration,381
+5,1. Legal standards,381
+5,2. Particular knowledge or perspective: human rights and EU law?,382
+5,3. Within the scope of the dispute,388
+5,4. Applicable law and its limits,393
+4,VII. Comparative analysis,401
+3,E. Submission of evidence,404
+3,F. Access to documents,408
+4,I. International Court of Justice and International Tribunal for the Law of the Sea,409
+4,"II. European Court of Human Rights, Inter-American Court of Human Rights and African Court on Human and Peoples’ Rights",411
+4,III. WTO Appellate Body and panels,412
+4,IV. Investor-state arbitration,417
+4,V. Comparative analysis,425
+3,G. Conclusion,425
+1,Part III The added value of the international amicus curiae,429
+2,Chapter § 7 Does content matter? Substantive effectiveness of amicus curiae submissions,431
+3,A. An obligation to consider?,433
+3,B. International Court of Justice,435
+3,C. International Tribunal for the Law of the Sea,440
+3,D. European Court of Human Rights,443
+3,E. Inter-American Court of Human Rights,450
+3,F. African Court on Human and Peoples’ Rights,459
+3,G. WTO Appellate Body and panels,459
+3,H. Investor-state arbitration,469
+3,I. Comparative analysis,479
+4,I. Why the hesitation?,482
+4,II. Elements of successful briefs,484
+4,III. Limits to the consideration of briefs,484
+3,J. Conclusion,487
+2,Chapter § 8 Effects on the international dispute settlement system,489
+3,"A. Effect on the relationship between the court, the disputing parties and the member states: amici curiae as evidence of an assertive international judiciary?",490
+4,I. International Court of Justice,491
+4,II. International Tribunal for the Law of the Sea,493
+4,III. European Court of Human Rights and African Court on Human and Peoples’ Rights,493
+4,IV. Inter-American Court of Human Rights,493
+4,V. WTO Appellate Body and panels,494
+4,VI. Investor-state arbitration,499
+4,VII. Comparative analysis,504
+3,B. Public interest: amicus curiae as motor and evidence of an expanding judicial function?,504
+4,I. International Court of Justice,507
+4,II. International Tribunal for the Law of the Sea,510
+4,III. European Court of Human Rights,511
+4,IV. Inter-American Court of Human Rights,512
+4,V. WTO Appellate Body and panels,513
+4,VI. Investor-state arbitration,517
+4,VII. Comparative Analysis,521
+5,1. The right agent?,522
+5,2. Denaturation of judicial proceedings?,523
+3,C. Amicus curiae as a tool to increase the legitimacy of international adjudication?,525
+4,I. Procedural legitimacy,526
+4,II. Substantive legitimacy,529
+4,III. Conditions: representativity and accountability,531
+3,D. Increased coherence? Impact on international law,535
+3,E. Transparency: demise of confidentiality and access to the proceedings and case documents?,538
+3,F. Impact on locus standi: amicus curiae as a precursor to international legal standing?,542
+3,G. And the drawbacks?,546
+4,I. Parties’ rights,547
+5,1. Due process,548
+5,2. Procedural fairness and equality between the parties,557
+4,II. Practical burdens,561
+5,1. Right to a speedy trial and undue delay?,561
+5,2. Exploding costs?,562
+3,H. Conclusion,567
+2,Chapter § 9 Conclusion,569
+3,A. What is it?,569
+3,B. Added value of amicus curiae participation in international dispute settlement,571
+1,Annex I: Cases with amicus curiae involvement,575
+2,Methodology,575
+1,Annex II,705
+1,Bibliography,707

@@ -1,0 +1,39 @@
+﻿1,Antitrust Enforcement and Standard Essential Patents,1
+1,Foreword,5
+1,Table of Content,7
+1,Abstract,9
+1,Part I. Introduction,11
+1,Part II. Standards-Setting and Competition Policy,15
+2,A.  The Standards-Setting Process,15
+3,i.  Economic Benefits of Formal Standardisation,15
+3,ii.  Formal Standardisation and its Superior Efficiency,18
+3,iii.  Anticompetitive Risks Prior-Adoption of a Standard,20
+2,B.  Theories of Post-Adoption Harm,22
+2,C.  Responses to Hold-Up – SSOs Self-Regulation and the Voluntary FRAND Commitment,25
+2,D.  Hold-Up or Hold-Out?,27
+1,Part III. Standards-Setting and Antitrust Enforcement in the US,31
+2,A.  The Nature of the FRAND Commitment,31
+2,B.  Injunctive Relief Post-eBay,33
+2,C.  Exclusion Orders and the International Trade Commission,35
+2,D.  Antitrust Enforcement by the DOJ and the FTC,37
+1,Part IV. Standards-Setting and EU Competition Law,41
+2,A.  Case-Law in Member States – The Orange Book Standard,41
+2,B.  Enforcement Action by the Commission,44
+2,C.  Huawei V. ZTE,46
+1,Part V. Patent Assertion Entities and Privateers: Moving Beyond the FRAND Commitment,49
+2,A.  Patent Assertion Entities and Privateering: Costs and Efficiencies,49
+3,i.  The PAE and Privateer or Hybrid-PAE Business Model,49
+3,ii.  Implications of PAE Activities for Social Welfare and Efficiency,53
+2,B.  PAEs and Privateers in the Context of Cooperative Standards-Setting,55
+2,C.  PAEs and Opportunistic Assertion of SEPs: A Competition Law Problem?,58
+2,D.  Enforcing EU Competition Law against PAEs and Privateers: Moving Beyond the FRAND Commitment,62
+3,i.  Legal Formalism in the Enforcement of EU Competition Law in the Context of Coordinated Standards-Setting,62
+3,ii.  An Effects-Based Approach to Opportunism with SEPs: Anticompetitive Foreclosure and Article 102 TFEU,65
+3,iii.  Privateering Arrangements and Article 101 TFEU,68
+1,Part VI. Conclusion,71
+1, Bibliography,73
+2, Books,73
+2, Articles,73
+2, Cases,77
+3, E.U.,77
+3, U.S.,77

@@ -1,0 +1,365 @@
+1,Advancing Equality,1
+1,Contents,12
+1,List of Illustrations,14
+1,Foreword,18
+2,1 The Urgency of Advancing Equality,24
+2,CHANGES IN LEGAL RIGHTS IN OUR LIFETIME,25
+2,THE DIGNITY OF EVERY HUMAN BEING,25
+2,WHY CONSTITUTIONS,26
+3,A Statement of Values,27
+3,Dismantling Discriminatory Laws,27
+3,Domesticating Global Treaty Commitments,27
+3,Protecting against Backsliding,27
+3,Setting the Terms of the Debate,28
+3,A Tool for Civic Engagement,29
+2,DO OUR CONSTITUTIONS VALUE EVERY PERSON?,29
+2,THE CHAPTERS,30
+3,Chapter 2: Historic Exclusion and Persisting Inequalities: Advancing Equal Rights on the Basis of Race and Ethnicity,30
+3,Chapter 3: Why Addressing Gender Is Foundational,30
+3,Chapter 4: One in Thirty: Protecting Fundamental Rights for the World's Migrants and Refugees,31
+3,Chapter 5: Negotiating the Balance of Religious Freedom and Equal Rights,31
+3,Chapter 6: Moving Forward in the Face of Backlash: Equal Rights Regardless of Sexual Orientation and Gender Identity,32
+3,Chapter 7: From Nondiscrimination to Full Inclusion: Guaranteeing the Equal Rights of People with Disabilities,33
+3,Chapter 8: Ensuring Rights and Full Participation Regardless of Social and Economic Position,34
+3,Chapter 9: The Right to Education: A Foundation for Equal Opportunities,35
+3,Chapter 10: The Right to Health: From Treatment and Care to Creating the Conditions for a Healthy Life,36
+3,Chapter 11: How Far Has the World Come?,36
+3,"Chapter 12: Each of Us, All of Us: Taking Action to Strengthen Rights Globally",37
+2,A FEW WORDS ABOUT THIS BOOK,37
+3,Our Approach to Case Law,37
+3,Our Approach to Legal Terminology,38
+3,How We Hope You Will Use This Book,38
+1,Part One. Equal Rights and Nondiscrimination,40
+2,2 Historic Exclusion and Persisting Inequalities,42
+3,THE PERSISTENCE OF RACIAL DISCRIMINATION IN PRACTICE,44
+3,CURRENT CONSTITUTIONAL PROTECTIONS,45
+4,Equal Rights on the Basis of Race and Ethnicity,45
+5,Hungary: Using Constitutional Protections against Racial/Ethnic Discrimination to Challenge Separate (and Unequal) Education,46
+5,France: Why Addressing Racism Requires Acknowledging Race,47
+4,Equal Rights on the Basis of Language,48
+5,"South Africa: Dismantling Language Discrimination, a Relic of Apartheid",49
+5,Mexico: Addressing the Impact of Language Discrimination on Indigenous Peoples,50
+4,Expansion of Equal Rights over Time,51
+3,BEYOND DIRECT DISCRIMINATION: ADDRESSING SPECIFIC CHALLENGES,51
+4,Addressing Segregation,51
+5,United States: The Promise--and Pitfalls--of Brown v. Board of Education,53
+5,"Namibia, Sierra Leone, and New Zealand: Divergent Approaches to Segregation",54
+4,Addressing Indirect Discrimination,55
+5,South Africa: Indirect Discrimination Is Unconstitutional,56
+5,United Kingdom: Measures Have to Be Justified,56
+5,United States: The Constitution Prohibits Only "Intentional" Discrimination,57
+5,Lessons for Protecting against Indirect Discrimination across Contexts,58
+4,Advancing Equality through Affirmative Measures,59
+5,The Case for Affirmative Measures--and Its Implications for Human Rights,59
+5,Questions That Arise in the Design of Affirmative Measures,60
+5,South Africa: Targeted and Time-Bound Action to Address Economic Inequalities,61
+5,United States: Advancing Diversity through Holistic Evaluations,63
+5,Rwanda and Brazil: The Rapid Change Associated with Quotas--but Not without Risks,64
+5,India: A Commitment to Periodic Evaluation of Progress,65
+3,CONCLUSION,66
+2,3 Why Addressing Gender Is Foundational,68
+3,CONSTITUTIONS' ABILITY TO ADDRESS LAWS AND POLICIES FUELING GENDER INEQUALITY,70
+4,Zimbabwe: Addressing Gender Discrimination Embedded in Child Marriage Legislation,70
+4,Nepal: Reforming Laws to Support Greater Equality in Private Relationships,71
+3,ADVANCING GENDER EQUALITY IN CONSTITUTIONS,72
+4,Building a Universal Foundation: Gender Equality Provisions Governing State Action,72
+4,Reducing Discrimination in the Private Sector,74
+5,Zimbabwe: Pregnancy Discrimination in Private Schools,75
+5,Across Contexts: Constitutional Approaches to Reaching Private-Sector Gender Discrimination,76
+4,Equal Rights within the Family and Reproductive Health,77
+5,Equal Rights in the Family: Current Constitutional Approaches,77
+5,Reproductive Rights in Constitutions,77
+3,ADVANCING GENDER EQUALITY WITHOUT CLEAR EQUAL RIGHTS,79
+4,United States: A Long Road to Women's Equal Rights,79
+4,Older Constitutions and Newer Rights,81
+3,DE SIG N I NG  PROT E C T ION S  F OR  WOM E N’S E QUA L  R IG H T S :  I M P ORTA N T  G A P S  A N D  MOR E DI F F IC U LT  QU E ST ION S,81
+4,Questions of Language: Sex vs. Gender,82
+4,Questions of Impact: Accounting for Real Differences without Sanctioning Discrimination,84
+5,Germany: Legal Approaches to Advancing Gender Equality at Home,85
+5,South Africa: When a Ruling Benefiting Women Nevertheless Reinforces Stereotypes,86
+5,Affirmative Measures and "Unfair" Discrimination in Constitutions,86
+4,Addressing Gender Equality Loopholes: Constitutional Exceptions for Religious and Customary Law,87
+5,Zimbabwe: Reforming the Constitution to Strengthen Women's Rights,89
+5,South Africa: Ensuring Gender Equality Takes Precedence over Discriminatory Customary Laws,90
+5,Moving Forward: Women's Role in Reforming Laws,91
+4,Text and Interpretation,91
+3,UNFINISHED BUSINESS,91
+2,4 One in Thirty,94
+3,MIGRATION IN CONTEXT: WHO MIGRATES AND WHY?,95
+3,CONSTITUTIONAL APPROACHES AND IMPACTS,96
+4,Access to Education,96
+5,Strong Protections for Universal Education in International Law,98
+5,The Right to Education for Noncitizens in Constitutions,99
+4,Access to Employment,100
+5,Rights to Work and Nondiscrimination,102
+5,Rights to Employment Benefits,105
+4,Access to Health Systems,106
+5,What Are the Arguments against Health Rights for Migrants and Refugees?,107
+5,The Right to Health for Migrants and Refugees in Constitutions,109
+3,LANGUAGE MATTERS: RIGHTS GRANTED TO ALL PERSONS VS. CITIZENS,110
+4,Nondiscrimination on the Basis of Citizenship,111
+4,Restrictions on Other Rights,113
+5,Freedom of Movement,113
+5,Rights to Due Process,115
+3,ADDRESSING STATELESSNESS,116
+4,The Practical Consequences of Statelessness,116
+3,THE ABILITY TO EXERCISE RIGHTS,118
+3,CONCLUSION,119
+2,5 Negotiating the Balance of Religious Freedom and Equal Rights,120
+3,PE R SI ST I NG  QU E ST ION S — A N D  MOV E S  TOWA R D G LOBA L  C ON SE N SU S ,121
+3,EQUAL RIGHTS ON THE BASIS OF RELIGION: WHAT IS THE CHALLENGE?,122
+4,International Agreements on Respecting Religious Freedom While Guaranteeing Human Rights to All,122
+4,The State of the World's Constitutions,125
+3,HOW  C ON ST I T U T ION S  C A N  G UA R A N T E E  E QUA L R IG H T S  A N D  E QUA L  T R E ATM E N T  AC RO S S  R E L IG ION S,126
+4,Nondiscrimination on the Basis of Religion,128
+4,No Role for Religion in Governance or Support for Particular Faiths,131
+4,Freedom of Religion--and Freedom to Not Believe,131
+4,Protections for the Rights of Others,133
+3,HOW  C OU N T R I E S  C A N  BE  R E PR E S SI V E  OF  R E L IG IOU S PR AC T IC E  A N D  E QUA L  R IG H T S,134
+4,Constitutions That Allow Religion to Govern or Take Precedence over Equal Rights,135
+5,Religion Governs Public Life,135
+5,Religion Governs Family Life,135
+5,"Religious Law Can Supersede Constitution, or Laws Cannot Contradict Religion",136
+5,The Risks for Equality of Making Religious Law Supreme,136
+4,Constitutions That Limit Freedom of Religion for Specific Groups,137
+5,Broad Restrictions on Practice by Religious Minorities,137
+5,Targeting Proselytism,138
+5,Exclusionary Provisions,138
+5,The Importance of Other Constitutional Protections in the Context of Religious Government,140
+3,HOW CONSTITUTIONS CAN SET UNEQUAL NORMS,141
+3,T H E  C OM PL E X I T Y  A N D  I M P ORTA NC E  OF A DDR E S SI NG  R E L IG ION  A ROU N D  T H E  WOR L D,144
+3,I M PL E M E N T I NG  R E L IG IOU S  F R E E D OM S   I N  T H E  C OU RT S,145
+4,"Freedom of Religion, not Freedom to Discriminate",146
+4,Pluralistic Legal Systems,147
+3,CONCLUSION: ACHIEVING THE BALANCE,149
+2,6 Moving Forward in the Face of Backlash,151
+3,THE PACE AND POSSIBILITY OF CHANGE,152
+4,Ireland: Broad Public Support Leads to Stronger Rights,153
+4,South Africa: A Transformative Constitution Precedes Shifts in Public Opinion,153
+4,Working in Coalitions to Advance Equal Rights,154
+4,The Broader Role of Constitutional Rights and Rulings in Shifting Views on Equality,154
+3,HOW CONSTITUTIONAL EQUAL RIGHTS MAKE A DIFFERENCE,155
+4,South Africa: Protecting Equal Rights of Same-Sex Couples in Immigration Law,155
+3,THE STATE OF THE WORLD'S CONSTITUTIONS,156
+4,Constitutional Backlash: Denial of Rights and Gendered Language,158
+3,EVALUATING PATHS FORWARD,159
+4,Leveraging Broad Equality Clauses,159
+5,Canada: Strengthening Protections from Employment Discrimination,160
+5,Argentina: Inspiring Regional Progress through a Court Decision on Marriage Equality,161
+5,United States: The Risks of Failing to Clearly Address LGBT+ Rights,163
+4,Ensuring Other Constitutional Guarantees Apply to Everyone Regardless of SOGI,163
+5,India: The Right to Privacy,163
+5,United States: The Right to Liberty,164
+5,"Costa Rica, Tunisia, and Turkey: The Right to Freedom of Association",165
+5,Across Contexts: Evaluating the Range of Constitutional Approaches,165
+4,Building Up from States and Municipalities,166
+3,IMPORTANT--AND IMPERFECT--PROGRESS,167
+4,"Mexico: Major Steps Forward on Marriage Equality, but Challenges in Implementation",167
+4,"Nepal: Major Progress on LGBT+ Rights in the Courts, but Smaller Gains in the Constitution",168
+4,"Ecuador: Progress on Equal Rights, but Inconsistent Provisions",169
+3,THE URGENCY OF ACTION,170
+4,Toward a Global Agreement on LGBT+ Rights,170
+4,Addressing a History of Deep Discrimination,172
+2,7 From Nondiscrimination to Full Inclusion,174
+3,FROM OVERT DISCRIMINATION TO IMPLICIT BIAS,175
+3,THE LARGEST GROUP LEFT BEHIND,176
+4,Education,176
+4,Employment,177
+4,Income,177
+3,W H Y  C ON ST I T U T IONA L  R IG H T S  ON  T H E  BASI S  OF DI S A BI L I T Y  M AT T E R,177
+3,GLOBAL FOUNDATIONS FOR EQUALITY AND INCLUSION,178
+4,The U.N. Convention on the Rights of Persons with Disabilities,178
+4,The Sustainable Development Goals and "Leave No One Behind",179
+4,Translating International Commitments into Domestic Law,179
+3,EQUAL RIGHTS FOR PEOPLE WITH DISABILITIES IN ALL THE WORLD'S CONSTITUTIONS,179
+4,An Overall Guarantee of Nondiscrimination,179
+4,The Right to Education,180
+5,The Importance of Inclusion--Not Mandatory Segregation,180
+5,Nondiscrimination and Inclusive Education in Constitutions,181
+4,The Right to Work,182
+5,Why Constitutions Should Expand Protections of Reasonable Accommodations,183
+4,The Right to Health,184
+4,Safeguards for Civil and Political Rights,185
+5,Protecting the Right to Liberty,185
+5,Facilitating Political Engagement,186
+3,BA R R I E R S  TO  E QUA L I T Y  W I T H I N  C ON ST I T U T ION S : R E ST R IC T ION S  ON  R IG H T S,186
+4,Disability Definitions and Terminology in Constitutions,187
+4,Restricting Rights on the Basis of Mental and Physical Health Conditions,187
+4,"Restricting Rights on the Basis of Ability, Capability, or Being 'Able-Bodied'",189
+3,THE CLEAR NEED TO STRENGTHEN CONSTITUTIONAL APPROACHES TO DISABILITY--AND FURTHER STRATEGIES TO ADVANCE EQUALITY,190
+4,Advancing Equality with General Equality Clauses,190
+5,India: Using Overall Equality to Challenge Rules Based on Presumptions of Incapacity,190
+5,Japan: Overall Equal Rights as a Basis for Integrated Education--But Judicial Reasoning That Leaves Full Inclusion in Question,191
+5,United States: A Mixed History on Disability with Broad Protections for Equality,191
+4,Advancing Equality with the CRPD,193
+5,India: Recognizing the Right to Reasonable Accommodations,194
+5,Czech Republic: Leveraging the CRPD to Strengthen Inclusive Education,195
+4,Advancing Equality with "Leave No One Behind",196
+3,MOVING FORWARD,197
+4,Progress in Constitutions,198
+4,The Potential for Impact,198
+4,Successful Approaches,199
+2,8 Ensuring Rights and Full Participation Regardless of Social and Economic Position,201
+3,SOCIOECONOMIC STATUS AND DISCRIMINATORY BARRIERS,203
+4,"Direct Discrimination: Class, Caste, and Property",203
+4,"ClassClass Discrimination by Proxy: Names, Neighborhoods, and Accents",204
+4,Economic Barriers to Health and Education,205
+3,CONSTITUTIONAL APPROACHES AND IMPACTS,206
+4,Addressing Discrimination with Explicit Protections,206
+5,Nepal: Impact of Explicit Prohibitions of Caste Discrimination,207
+5,Belgium: Impact of Explicit Prohibitions on Class Discrimination,208
+4,Addressing Discrimination with General Equality Guarantees,209
+5,United States: Poverty Receives Limited Protection,209
+5,Canada: Poverty Is "Analogous" to Prohibited Bases of Discrimination,210
+4,Political Rights and Representation,211
+4,Education and Health and Their Foundational Role in Realizing Broader Rights,212
+5,Colombia: Accounting for Costs in School Assignments,213
+5,Kenya: Addressing Accessibility of Health Services Regardless of SES,213
+5,Current Constitutional Approaches,214
+3,I M PL E M E N TAT ION  C HA L L E NG E S A N D  C ON SI DE R AT ION S,214
+4,Cases Brought by and on Behalf of Groups,215
+4,Access to Legal Representation and Assistance,215
+4,Social Rights vs. Social Policies?,216
+4,Participatory Drafting Processes,217
+3,CONCLUSION,217
+1,Part Two. Social and Economic Rights That Are Fundamental to Equality,220
+2,9 The Right to Education,222
+3,A LONG HISTORY OF EXCLUSION,222
+3,EDUCATION AND THE FIGHT FOR EQUAL RIGHTS,223
+4,India: Marching for a Constitutional Right to Education,224
+4,Colombia: Fulfilling the Right to Free Education for Internally Displaced Children,225
+4,The Power of Constitutional Education Rights--and Questions for Their Design,227
+3,THE TRANSFORMATIVE POTENTIAL OF EDUCATION,228
+4,Individual Earnings and Employment,228
+4,Health,228
+4,Gender Equality,229
+4,Benefits for National Economies,229
+3,PERSISTING BARRIERS,230
+4,Poverty,230
+4,Quality and Value,230
+4,Discrimination and Exclusion,230
+3,E DU C AT ION  F OR  A L L :  E N SH R I N I NG  E F F E C T I V E A PPROAC H E S  I N  C ON ST I T U T ION S,231
+4,Adaptability: Keeping Up with Evolving Educational Standards,232
+4,Accessibility: Addressing Income Barriers and Discrimination in Education,235
+5,Progressive Realization of Higher Levels of Guaranteed Free Education,238
+5,India and Swaziland: Moving from Aspirational to Firm Commitments,239
+5,Prohibiting Discrimination in Education,240
+4,Availability: Ensuring Governments Make Quality Public Schools Available to All,241
+4,Acceptability: Improving Education Quality,242
+4,Private Schools: The Last Refuge and the State Escape,242
+3,WHEN CONSTITUTIONS ARE SILENT ON EDUCATION,243
+4,Israel: Geographic Accessibility of Schools,243
+4,United States: Unequal Funding,244
+4,Why Enshrining the Right to Education in the Constitution Makes a Difference,245
+3,BU I L DI NG  ON  PRO G R E S S  A N D  A DDR E S SI NG PE R SI ST I NG  G A P S,245
+4,Further Constitutional Rights Needed to Make the Right to Education Meaningful,246
+4,Accelerating Change,246
+2,10 The Right to Health,248
+3,S OU T H  A F R IC A :  HOW  A  C ON ST I T U T IONA L R IG H T  TO  H E A LT H  PR EV E N T E D  H U N DR E D S  OF T HOU S A N D S  OF  H I V  C ASE S,248
+3,"II N DIA :  ST R E NG T H E N I NG  AC C E S S  TO  H E A LT HC A R E BE F OR E  A N D  A F T E R  BI RT H ,  R E G A R DL E S S  OF  I NC OM E",249
+4,Exclusion from Basic Care and Services,250
+4,One Case Leads to Another,251
+4,Health Rights' Growing Role in Addressing Maternal Mortality Globally,252
+3,HEALTH AS A HUMAN RIGHT: GLOBAL FOUNDATIONS,253
+3,THE NATURE OF HEALTH RIGHTS,253
+4,Accounting for the Full Range of Factors Influencing Health,254
+4,The Broad Benefits of Preventive Health Measures--and Risks of Focusing Exclusively on Medical Care,254
+3,THE RIGHT TO HEALTH IN CONSTITUTIONS,255
+4,The Right to Public Health,256
+4,The Right to a Healthy Environment,257
+4,The Right to Medical Care or Services,258
+4,The Right to Life,259
+4,Impact of Emphasis on Medical Care,259
+3,IMPACTS OF CONSTITUTIONAL HEALTH RIGHTS,260
+4,Protecting and Improving Access to Essential Medicines,260
+4,Providing a Foundation for Systemic Improvements,260
+4,Improving Health Outcomes over Time,261
+4,Supporting the Expansion of Life-Saving Public Health Interventions,261
+3,THE FEASIBILITY AND EFFECTIVENESS OF A RIGHTS APPROACH,262
+4,Economic Questions: Affordability for the Government,262
+5,Progressive Realization,263
+5,The Impact and Importance of Addressing Public Health,264
+4,Judicial Questions: Implementing Rights for All Regardless of Income,267
+5,Collective Claims across Contexts,268
+5,Collective Judgments in Colombia and South Africa,270
+3,PRO G R E S S  ON  H E A LT H  R IG H T S  A N D  I M PL IC AT ION S F OR  BROA DE R  E QUA L I T Y,271
+2,11 How Far Has the World Come?,274
+3,SUMMARY OF FINDINGS: EQUAL RIGHTS,275
+4,Historic Exclusion and Persisting Inequalities: Advancing Equal Rights on the Basis of Race and Ethnicity,275
+4,Why Addressing Gender Equality Is Foundational,276
+4,One in Thirty: Protecting Fundamental Rights for the World's Migrants and Refugees,278
+4,Negotiating the Balance of Religious Freedom and Equal Rights,280
+4,Moving Forward in the Face of Backlash: Equal Rights Regardless of Sexual Orientation and Gender Identity,281
+4,From Nondiscrimination to Full Inclusion: Guaranteeing the Equal Rights of People with Disabilities,283
+4,Ensuring Rights and Full Participation Regardless of Social and Economic Position,284
+3,CROSS-CUTTING ISSUES FOR EQUAL RIGHTS,285
+4,Intersectionality,285
+4,Affirmative Measures,286
+4,Reaching Discrimination in the Private Sphere,287
+4,Nondiscrimination and Leveling Up,288
+3,SUM M A RY  OF  F I N DI NG S : S O C IA L  A N D  E C ONOM IC  R IG H T S,288
+4,The Right to Education: A Foundation for Equal Opportunities,289
+4,The Right to Health: From Treatment and Care to Creating the Conditions for a Healthy Life,290
+3,IS ANYONE PLAYING BY THE RULES?,291
+3,EVOLVING TOWARD EQUALITY,292
+4,South Africa: Realizing a Transformative Vision,292
+4,United States: Cultivating Protections for Equality over Time,293
+2,"12 Each of Us, All of Us",295
+3,"EACH OF US, ALL OF US",296
+3,HOW CAN WE TAKE ACTION?,297
+4,You Shape the Future,297
+4,Movements to Pass Constitutional Amendments,297
+5,India: Leveraging Case Law and Building a Broad Civil Society Movement,298
+5,Ireland: Citizen Engagement and Building Wide Support for Same-Sex Marriage,299
+5,Malawi: Training Youth to Advocate for Themselves,300
+4,Forming Coalitions,302
+4,Sharing the Constitution,302
+4,Invoking the Constitution to Change Norms,303
+4,Claiming Rights and Challenging Discriminatory Laws in Court,304
+5,Addressing Inconsistencies between Constitutions and Laws,304
+5,Bringing Individual Cases to Advance Broader Change,305
+5,Holding Private Actors Accountable,305
+5,Advancing Equality across Communities through Civil Society Organizations,305
+3,CONCLUSION,306
+1,Acknowledgments,308
+1,Appendix,314
+2,Methods,314
+3,BUILDING THE CONSTITUTIONS DATABASE,314
+3,FRAMEWORK FOR COMPARING CONSTITUTIONAL PROTECTIONS,315
+4,Approach to Rights Analysis,315
+4,Constitutional Rights Coded,315
+4,Social Classifications,316
+4,Categorizing Levels of Protection,316
+5,Guaranteed Rights,316
+5,Aspirational Protections and Progressive Realization,316
+5,Restrictions or Denials of Rights,316
+5,Rights with Exceptions,317
+5,Affirmative Measures,317
+4,Developing Comparable Measures,317
+4,Ensuring Rigor and Accuracy,317
+4,Understanding Who Has Equal Rights,317
+4,Analyzing Rights over Time,317
+4,Linking Constitutional Guarantees to Legal Change and Outcomes,318
+4,Identifying Case Law,318
+5,Sources,319
+5,Case Selection,319
+5,Limitations,320
+4,Analyzing the Role of Constitutions in Parliamentary Debates,320
+5,Data Sources,320
+5,Approach to Analysis,320
+1,Glossary,322
+1,Notes,324
+2,1. THE URGENCY OF ADVANCING EQUALITY,324
+2,2. HISTORIC EXCLUSION AND PERSISTING INEQUALITIES,326
+2,3. WHY ADDRESSING GENDER IS FOUNDATIONAL,334
+2,4. ONE IN THIRTY,342
+2,5. 5 .  N E G OT IAT I NG  T H E  BA L A NC E  OF  R E L IG IOU S  F R E E D OM A N D  E QUA L  R IG H T S,350
+2,6. MOVING FORWARD IN THE FACE OF BACKLASH,356
+2,7. FROM NONDISCRIMINATION TO FULL INCLUSION,364
+2,8. ENSURING RIGHTS AND FULL PARTICIPATION,370
+2,9. THE RIGHT TO EDUCATION,375
+2,10. THE RIGHT T0 HEALTH,382
+2,11. HOW FAR HAS THE WORLD COME?,390
+2,"12. EACH OF US, ALL OF US",392
+2,APPENDIX,396
+1,Index,398

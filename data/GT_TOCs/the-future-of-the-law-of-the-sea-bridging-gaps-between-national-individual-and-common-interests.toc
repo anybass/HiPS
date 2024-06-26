@@ -1,0 +1,191 @@
+﻿1,The Future of the Law of the Sea,1
+1,Foreword,5
+1,Scope and Aim of the Volume,7
+1,Peer Review Process,10
+1,Funding Institutions,11
+2,COST Action IS 1105,12
+1,Contents,14
+1,List of Contributors,16
+1,Part I The Equitable and Sustainable Exploitation of Marine Environment and of Its Resources,18
+2,Adapting to Sea Level Rise: A Law of the Sea Perspective,19
+3,1 Introduction,19
+3,2 Legal Implication of Sea Level Rise on Baselines from Which Maritime Limits and Boundaries Are Determined,20
+4,2.1 General Description of Maritime Zones,21
+4,2.2 Each Maritime Zone Is Measured from Lines Joining Appropriate Points on Land: Baselines,21
+5,2.2.1 The Establishment of Baselines Under UNCLOS: Relevant Provisions,21
+6,Normal Baselines,22
+6,Straight Baselines,23
+5,2.2.2 Baselines in Establishing Maritime Limits and in Drawing Maritime Boundary,24
+6,Maritime Limits,24
+6,Maritime Delimitation,25
+4,2.3 Baselines Would Naturally Change Because of Sea Level Rise,26
+5,2.3.1 When Baselines Shift Landward,26
+5,2.3.2 When Base Points Are Situated on Disappeared Island and Low-Tide Elevation,27
+3,3 Potential Responses to Baseline Alteration and Base Point Disappearance,29
+4,3.1 The Practical Implications of the Use of Shifting Baselines,29
+4,3.2 Toward the Preservation of Baselines and Its Practical Implications,32
+3,4 Conclusion,36
+3,References,37
+2,The Common Fisheries Policy: A Difficult Compromise Between Relative Stability and the Discard Ban,39
+3,1 Introduction,39
+3,2 Origin and Enshrining of Relative Stability,40
+4,2.1 Origin of Relative Stability,41
+4,2.2 Enshrining Relative Stability,43
+3,3 The Nature of Relative Stability,45
+4,3.1 Future Predictability,45
+4,3.2 The States as Beneficiaries of Relative Stability,46
+4,3.3 Allocation Formula Contained in the Derived Legislation,47
+3,4 The Discard Ban,49
+4,4.1 Relative Stability and Discards,50
+4,4.2 The Landing Obligation,51
+4,4.3 Use of National Quotas,53
+3,5 Final Considerations,56
+3,References,58
+2,Some Recent Questions Regarding the European Union´s Public Access Fisheries Agreements,60
+3,1 Introduction,60
+3,2 The European Commission´s Competence to Represent the EU Before the ITLOS,63
+3,3 The Scope of the Public Access Fisheries Agreements,67
+3,4 Some Aspects Arising from the Application of the Fishing Agreement Signed by the EU and Morocco and Its Successive Protocols,71
+3,5 Final Remarks,75
+3,References,76
+2,The Protection of Biodiversity in the Framework of the Common Fisheries Policy: What Room for the Shared Competence?,79
+3,1 Introduction,79
+3,2 Interaction with the Marine Strategy Framework Directive and the Natura 2000 Network: Interpretation of Art. 11 of Regulation No. 1380/2013,80
+4,2.1 The Geographical Scope,82
+4,2.2 The Substantive Scope: The MPAs. The Complementary Effect of the MSFD with Regard to the Habitats Directive,82
+4,2.3 The Prescriptive Competence of the Coastal Member State. Grounds and Solutions for an Interpretation of Art. 11 Consistent with the Shared Nature of the Environmental Competence,85
+5,2.3.1 The Prescriptive Competence of the Coastal Member State: Fishing Vessels Flying Its Flag,86
+5,2.3.2 The Prescriptive Competence of the Coastal Member State: Fishing Vessels Flying the Flag of Other Member States or Third States,87
+3,3 Beyond Art. 11: The Contribution of Other Provisions for the Protection of Marine Biodiversity,91
+4,3.1 Scope of Art. 20: Conservation Measures Adopted by the Coastal Member State in the 12 Nautical Mile Zone,91
+5,3.1.1 Twelve Nautical Mile Zone: Fishing Vessels Flying the Flag of the Coastal Member State,92
+5,3.1.2 Twelve Nautical Mile Zone: Fishing Vessels Flying the Flag of Other Member States,93
+4,3.2 Scope of Art. 19: Conservation Measures Adopted by the Coastal Member State Applicable to Fishing Vessels Flying Its Flag or to Persons Established in Its Territory. Grounds for the Inclusion of Marine Ecosystems by Means of an Extended Interpretation,94
+3,4 Concluding Remarks: Balance and Tension Between Exclusive and Shared Competences,98
+3,References,99
+2,Marine Scientific Research: Taking Stock and Looking Ahead,101
+3,1 Introduction,101
+3,2 The MSR Legal Regime,103
+4,2.1 From Geneva to Montego Bay: A Brief Legislative History,103
+4,2.2 Current Regime Under UNCLOS: Consent v. Freedom,105
+3,3 From Theory to Practice: Implementing the MSR Regime,108
+4,3.1 Where? The Spatial Dimension,108
+4,3.2 Which Activities Fall Under MSR? The Functional Dimension,111
+4,3.3 Who Is Involved? The Unexplored Duty of Cooperation,113
+3,4 Conclusion,115
+3,References,116
+2,Protecting Arctic Ocean Marine Biodiversity in the Area Beyond National Jurisdiction,118
+3,1 Introduction,118
+3,2 The Arctic Ocean: A Critical Intersection of Competing and Common Interests,121
+4,2.1 The Ilulissat Declaration: Reaffirming the Law of the Sea and Arctic Council Amid New Challenges,122
+4,2.2 Changing Tides: The Inclusion of Non-Arctic States as Arctic Council Observers,123
+4,2.3 Heightened Industry-Caused Pressure on Marine Species,124
+3,3 Need for Arctic Marine Protected Areas,125
+3,4 The Arctic Council´s State-Led Pathway for MPA Creation,127
+3,5 Arctic Sanctuary: Demand for an Antarctic Model Treaty,128
+3,6 Looking to the High Arctic: Legal Obligation for MPAs in ABNJs,130
+4,6.1 United Nations Convention on the Law of the Sea (UNCLOS) Implementing Agreement,131
+4,6.2 United Nations Convention on Biological Diversity (UNCBD) Additional Protocol,133
+4,6.3 A Regional Arrangement,134
+3,7 Conclusion: A Regional Arrangement in Wait of a Formal Legal Framework,136
+3,References,136
+2,The Environmental Legal Framework for the Development of Blue Energy in Europe,140
+3,1 Introduction,140
+3,2 The Impact of the Law of the Sea: Maritime Safety Issues,141
+3,3 The Integration of Ocean Energy in Maritime Spatial Plans,145
+3,4 Environmental Impact Assessment,146
+4,4.1 At the EU Level,146
+4,4.2 In a Cross-Border Context: The Obligation of Due Diligence,149
+3,5 Protection of Flora and Fauna,151
+3,6 Marine Environmental Protection,153
+3,7 Final Remarks,155
+3,References,156
+2,"The Black Sea and Blue Energy: Challenges, Opportunities and the Role of the European Union",158
+3,1 Introduction,158
+3,2 Sustainable Development and Blue Energy: From a Universal Strategy to That of the European Union,160
+3,3 Sources of Marine Renewable Energies and Adequacy in the Case of the Black Sea,163
+4,3.1 Kinds of Marine Renewable Energies,163
+4,3.2 Marine Renewable Energies and the Black Sea,164
+3,4 The European Union and Blue Energy in the Black Sea,166
+3,5 The Main Challenges in the Black Sea Basin that the European Union Can Help to Overcome,170
+3,6 Conclusion,173
+3,References,173
+1,Part II The National and International Response to Maritime Crimes,175
+2,Exploring the Ambiguity of Operation Sophia Between Military and Search and Rescue Activities,176
+3,1 Introduction,176
+3,2 The Engagement of the EU in SAR Activities: A Missed Opportunity,178
+4,2.1 Frontex Joint Operations,179
+4,2.2 The Novel EU Engagement in Operation Sophia,181
+3,3 Enforcement Jurisdiction Against Vessels Suspected of Migrant Smuggling and Human Trafficking and the Difficult Transition to Phase 2 into the Libyan Territorial Sea,182
+4,3.1 On the High Seas,183
+4,3.2 In Territorial Waters,185
+5,3.2.1 The UN Security Council Resolution,185
+5,3.2.2 The Consent of Libya,187
+3,4 Between the Need and the Obligation to Turn into a Rescue Scheme,189
+3,5 The Search for Clarity on the Place of Safety,191
+4,5.1 On the High Seas,192
+4,5.2 In the Libyan Territorial Sea,194
+3,6 Concluding Remarks,196
+3,References,198
+2,Private Maritime Security Contractors and Use of Lethal Force in Maritime Domain,201
+3,1 Introduction,201
+3,2 The Shifting Nature of Maritime Security,202
+3,"3 Use of Force, Regulation, and Consequences: General Overview",205
+4,3.1 Prelude to Precedent,207
+4,3.2 Use of Force,208
+5,3.2.1 Right to Self-Defense,208
+5,3.2.2 Relevant Maritime-Related National Legislation and Guidelines,209
+5,3.2.3 Excessive Self-Defense and Putative Self-Defense,210
+5,3.2.4 Assessment of Reasonable Conduct,212
+4,"3.3 Standards, Guidelines, and Recommendations",213
+5,3.3.1 IMO Interim Guidance,213
+5,3.3.2 BIMCO Guidance and GUARDCON,214
+5,3.3.3 The 100 Series Rules,214
+5,3.3.4 IAMSP-2011-01-UOF-001 v2.0,215
+4,3.4 Open Issues,216
+5,3.4.1 Present and Imminent Attack,216
+5,3.4.2 Reasonability and Proportionality vs. Extreme Circumstances,217
+5,3.4.3 Conclusion,218
+3,References,218
+3,Journals and Articles,218
+3,Books and Chapters,219
+3,Cases,220
+3,Legal Documents,220
+3,Other,221
+2,United Nations Authorized Embargos and Maritime Interdiction: A Special Focus on Somalia,223
+3,1 Introduction,223
+3,2 The History of UN Security Council Authorized Maritime Interdictions,224
+4,2.1 Material Scope,224
+4,2.2 Innocent Passage,228
+4,2.3 Other Aspects of the Geographical Application of the Libyan Embargo,230
+4,2.4 The Authorization to Use Force,232
+3,3 Somalia,233
+4,3.1 General Aspects,233
+4,3.2 The Reach of the Enforcement Authority Granted in UNSC Res. 2182,235
+3,4 Challenges,237
+4,4.1 General Issues,237
+4,4.2 To Whom the Honor?,239
+4,4.3 Flag State Consent,239
+4,4.4 Detention of Persons,239
+4,4.5 Seizure and Disposal,240
+3,5 Conclusions,243
+3,References,245
+3,Journals and Articles,245
+3,Books and Chapters,245
+3,Online Publications,246
+3,Other,246
+2,The Right of Innocent Passage: The Challenge of the Proliferation Security Initiative and the Implications for the Territorial Waters of the Åland Islands,248
+3,1 Introduction,248
+3,2 The Demilitarisation of the Åland Islands,251
+3,3 An Overview of the Proliferation Security Initiative,255
+4,3.1 Scope of the UNSC Resolutions,258
+3,4 Legal Problems with the PSI and the Right of Innocent Passage,260
+3,5 Interdictions by Participants in Their Territorial Sea,261
+4,5.1 Sovereignty and Jurisdiction of Coastal States,261
+4,5.2 The Right of Innocent Passage,264
+4,5.3 The Territorial Waters of the Åland Islands,268
+4,5.4 Article 25 of UNCLOS,270
+4,5.5 Criminal Jurisdiction in the Territorial Sea,271
+3,6 Concluding Observations,275
+3,References,276
+3,Case,278

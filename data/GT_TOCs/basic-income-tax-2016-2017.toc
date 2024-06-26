@@ -1,0 +1,340 @@
+﻿1,Basic Income Tax 2016-2017 Fourth Edition,1
+1,About the Author,3
+1,Notices,4
+1,About CALI eLangdell Press,6
+1,Preface,7
+1,Table of Contents,9
+1,Chapter 1: The Government Raises Money: Introduction to Some Basic Concepts of Taxes and Taxing Income,12
+2,I. Introduction to Some Basic Concepts,12
+2,II. Taxing Income,17
+2,III. Some Definitions,21
+2,IV. Layout of the Code,28
+2,V. Not All Income Is Taxed Alike,29
+2,VI. Illustration of the Tax Formula:,30
+2,VII. Sources of Tax Law and the Role of Courts,34
+2,VIII. Some Income Tax Policy and Some Income Tax Principles,36
+2,IX. What Is Income?,38
+3,If Algebra or Economics Scare You –,39
+3,Some Obvious or Not-so-Obvious Implications of the SHS Definition of “Income”,40
+4,a. Taxing Income Is Taxing Consumption Plus Increments to the Power to Consume,41
+4,"b. Income, Consumption, and Value",42
+3,Basis – Or Keeping Score with the Government,45
+3,SHS Accounting for Spending Savings,48
+3,Borrowing Money,48
+2,Wrap-up Questions for Chapter 1,49
+2,What have you learned?,49
+1,Chapter 2: What Is Gross Income: Section 61 and the Sixteenth Amendment,51
+2,I. The Constitutional and Statutory Definitions of “Gross Income”,52
+3,"Eisner v. Macomber, 252 U.S. 189 (1919).",53
+3,Notes and Questions:,66
+3,"Commissioner v. Glenshaw Glass Co., 348 U.S. 426 (1955)",68
+3,Notes and Questions:,71
+3,"Murphy v. Internal Revenue Service, 493 F.3d 170 (CADC 2007), cert. denied, 553 U.S. 1004 (2008).",71
+4,I. Background,72
+4,II. Analysis,73
+5,B. Section 104(a)(2) of the IRC,73
+5,C. Section 61 of the IRC,74
+5,D. The Congress’s Power to Tax,77
+6,1. A Direct Tax?,77
+6,2. Uniformity,82
+4,III. Conclusion,83
+3,Notes and Questions:,84
+2,II. The Constitutional and Statutory Definitions of “Gross Income:”  Accessions to Wealth,86
+3,A. Some Recurring Themes,86
+4,"Old Colony Trust Co. v. Commissioner, 279 U.S. 716 (1929)",86
+4,Notes and Questions:,88
+4,"Clark v. Commissioner, 40 B.T.A. 333 (1939)",89
+4,Notes and Questions:,92
+4,Gotcher v. United States, 401 F.2d 118 (CA5 1968),92
+4,Notes and Questions:,97
+4,Cesarini v. United States, 296 F. Supp. 3 (N.D. Ohio 1969),98
+4,Notes and Questions:,102
+3,B. Section 61(a)(3): Gains Derived from Dealings in Property,102
+4,Hort v. CIR, 313 U.S. 28 (1941),103
+4,Notes and Questions:,51
+4,"United States v. Gehl, 50 F.3d 12 (unpublished), 1995 WL 115589 (CA8), cert. denied, 516 U.S. 899 (1995)",106
+5,BACKGROUND,106
+5,DISCUSSION,108
+5,CONCLUSION,110
+4,Notes and Questions:,110
+3,C. Barter,111
+4,Rev. Rul. 79-24 GROSS INCOME; BARTER TRANSACTIONS,112
+5,FACTS,112
+5,LAW,112
+5,HOLDINGS,112
+4,Notes and Questions:,112
+3,D. Improvements to Leaseholds and the Time Value of Money,113
+4,"Helvering v. Bruun, 309 U.S. 461 (1940)",113
+4,Notes and Questions:,117
+3,E. Imputed Income,126
+2,III. The Constitutional and Statutory Definitions of “Gross Income:” Realization,129
+3,"Helvering v. Horst, 311 U.S. 112 (1940)",129
+3,Notes and Questions:,134
+3,Cottage Savings Ass’n v. CIR, 499 U.S. 554 (1991),134
+3,Notes and Questions:,143
+2,IV. The Constitutional and Statutory Definitions of “Gross Income:” Dominion and Control,145
+3,"Gilbert v. Commissioner, 552 F.2d 478 (CA2 1977)",145
+3,Notes and Questions:,149
+2,Wrap-up Questions for Chapter 2:,152
+2,What have you learned?,152
+1,Chapter 3:  Exclusions from Gross Income,154
+2,I. The Society and Government that We Want,155
+3,"A. Gifts and Inheritances, § 102, and Related Basis Rules, §§ 1014, 1015",155
+4,"Commissioner v. Duberstein, 363 U.S. 278 (1960).",156
+4,Notes and Questions:,165
+4,"Diedrich v. Commissioner, 457 U.S. 191 (1982).",170
+4,Notes and Questions:,176
+3,B. Exclusion of Gain from Sale of Principal Residence: § 121,178
+3,C. Interest on State and Local Bonds: § 103,179
+3,D. Scholarships: § 117,181
+3,E. Rental Value of Parsonages: § 107,182
+2,II. Social Benefits,182
+3,A. Life Insurance Death Benefits: § 101,183
+4,Rev. Rul. 2009-13, 2009-21 I.R.B. 1029,184
+5,ISSUE,185
+5,FACTS,185
+5,LAW AND ANALYSIS,186
+6,SITUATION 1,186
+6,SITUATION 2,186
+6,SITUATION 3,188
+5,HOLDINGS,188
+4,Notes and Questions:,188
+3,"B. Compensation for Injuries or Sickness: §§ 104, 105, 106",192
+3,C. Social Security: § 86,193
+3,D. Unemployment Benefits: § 85,197
+2,III. Employment-Based Exclusions from Gross Income,197
+3,A. Group Term Life Insurance: § 79,197
+3,B. Educational Assistance Programs: § 127,198
+3,C. Dependent Care Assistance Programs: § 129,198
+3,D. Employer Contributions to Accident and Health Plans: § 106,198
+3,E. Meals or Lodging Furnished for the Convenience of the Employer: § 119,199
+4,"Commissioner v. Kowalski, 434 U.S. 77 (1977)",199
+4,Notes and Questions:,208
+3,F. Employee Fringe Benefits: § 132,212
+4,"H. Rep. No. 98-432 (II), 98th Cong., 2d Sess. 1984, at 412, 1984 U.S.C.C.A.N.",212
+5,1. Overview,214
+4,Notes and Questions:,215
+3,"G. Cafeteria Plans, § 125",219
+2,Wrap-up Questions for Chapter 3:,220
+2,What have you learned?,220
+1,Chapter 4: Loans and Cancellation of Indebtedness,221
+2,I. Tax Consequences of Borrowing Money,221
+2,II. Cancellation of Indebtedness,222
+3,"United States v. Kirby Lumber Co., 284 U.S. 1 (1931)",223
+3,Notes and Questions:,223
+2,III. Is It a Loan? Is There an Accession to Wealth?,228
+3,"Zarin v. Commissioner, 92 T.C. 1084 (1989), rev’d, 916 F.2d 110 (3rd Cir. 1990).",229
+4,Income From the Discharge of Indebtedness,232
+4,Enforceability,233
+4,Disputed Debt,235
+4,Deductibility of Gambling Losses,235
+4,Purchase Money Debt Reduction,235
+3,Notes and Questions:,244
+3,"Zarin v. Commissioner, 916 F.2d 110 (3rd Cir. 1990).",245
+3,Notes and Questions:,250
+2,IV. Section 108(a)'s Other Provisions,253
+2,V. Transactions Involving Property Subject to a Loan,255
+3,"Commissioner v. Tufts, 461 U.S. 300 (1983).",258
+3,Notes and Questions:,269
+3,Rev. Rul. 90-16,270
+4,ISSUE,270
+4,FACTS,270
+4,LAW AND ANALYSIS,270
+4,HOLDING,272
+3,Notes and Questions:,273
+3,Rev. Rul. 91-31
+4,DISCHARGE OF INDEBTEDNESS,273
+4,ISSUE,273
+4,FACTS,273
+4,LAW AND ANALYSIS,274
+4,HOLDING,275
+3,Notes and Questions:,275
+2,VI. Transactions Treated as Loans,276
+2,Wrap-up Questions for Chapter 4,280
+2,What have you learned?,280
+1,Chapter 5: Progressivity and Assignment of Income,282
+2,I. Compensation for Services,284
+3,"Lucas v. Earl, 281 U.S. 111 (1930).",284
+3,Notes and Questions:,285
+3,"Poe v. Seaborn, 282 U.S. 101 (1930).",287
+3,Notes and Questions:,291
+2,I. Marriage Tax Penalty,292
+3,A. Present Law and Legislative Background,292
+4,Present Law In general,292
+5,Marriage penalties due to rate brackets and the standard deduction,292
+5,Marriage penalties and bonuses due to income-based phaseins and phaseouts,294
+5,Marriage penalties for low-income individuals,294
+5,Legislative Background,294
+5,Analysis Data relating to marriage penalty under present law,296
+5,Marriage neutrality versus equal taxation of married couples with equal incomes,296
+5,Marriage penalty, labor supply, and economic efficiency,298
+3,Questions and comments:,301
+2,III. Income Derived from Property,301
+3,"Helvering v. Eubank, 311 U.S. 122 (1940).",301
+3,Notes and Questions:,303
+3,"Blair v. Commissioner, 300 U.S. 5 (1937)",304
+3,Notes and Questions:,308
+3,"Heim v. Fitzpatrick, 262 F.2d 887 (2nd Cir. 1959).",310
+3,Notes and Questions:,313
+2,IV. Interest Free Loans and Unstated Interest,314
+2,Wrap-Up Questions for Chapter 5,316
+2,What have you learned?,317
+1,Chapter 6:  Deductions: Business Expenses,319
+2,I. Expense or Capital,322
+3,"Welch v. Helvering, 290 U.S. 114 (1933)",322
+3,Notes and Questions:,325
+3,"Woodward v. Commissioner, 397 U.S. 572 (1970)",326
+3,Notes and Questions:,330
+3,A. Expense or Capital: Cost of Constructing a Tangible Capital Asset,331
+4,"Commissioner v. Idaho Power Co., 418 U.S. 1 (1974)",331
+4,Notes and Questions:,338
+3,B. Expense or Capital: Cost of “Constructing” an Intangible Capital Asset,339
+4,"INDOPCO, Inc. v. Commissioner, 503 U.S. 79 (1992)",340
+4,Notes and Questions:,347
+3,C. Expense or Capital: Protecting Stock Investment or Protecting Employment,352
+4,"United States v. Generes, 405 U.S. 93 (1972)",352
+4,Notes and questions:,361
+3,D. Expense or Capital: Repair vs. Improvement,361
+4,"Midland Empire Packing Co. v. Commissioner, 14 T.C. 635 (1950).",361
+4,Notes and Questions:,364
+4,"Mt. Morris Drive-In Theatre Co. v. Commissioner, 25 T.C. 272 (1955), aff’d, 238 F.2d 85 (CA6 1956)",365
+4,Notes and Questions:,369
+2,II. Deductibility Under §§ 162 or 212,382
+3,A. Travel Expenses,382
+4,"Commissioner v. Flowers, 326 U.S. 465 (1946)",382
+4,Notes and Questions:,389
+4,"United States v. Correll, 389 U.S. 299 (1967)",392
+4,Notes and Questions:,396
+4,"Hantzis v. Commissioner, 638 F.2d 248 (1st Cir.), cert. denied, 452 U.S. 962 (1981)",398
+4,Notes and Questions:,408
+3,B. Reasonable Salaries,409
+4,"Exacto Spring Corp. v. Commissioner, 196 F.3d 833 (7th Cir. 1999).",410
+4,Notes and Questions:,417
+3,C. Ordinary and Necessary Expenses,418
+4,"Smith v. Commissioner, 40 B.T.A. 1038 (1939), aff’d 113 F.2d 114 (2d Cir. 1940).",419
+5,OPINION – OPPER,419
+4,Notes and Questions:,420
+4,"Commissioner v. Tellier, 383 U.S. 687 (1966).",421
+4,Notes and Questions:,427
+4,"Gilliam v. Commissioner, 51 T.C. Memo. 515 (1986), available at 1986 WL 21482.",428
+5,MEMORANDUM FINDINGS OF FACT AND OPINION,428
+6,FINDINGS OF FACT,428
+6,OPINION,430
+4,Notes and Questions:,434
+4,"Walliser v. Commissioner, 72 T.C. 433 (1979).",435
+5,FINDINGS OF FACT,435
+5,OPINION,437
+4,Notes and Questions:,442
+4,"Moss v. Commissioner, 758 F.2d 211 (7th Cir. 1985)",443
+4,Notes and Questions:,447
+3,D. Special Rules to Encourage Manufacturing and Exploitation of Natural Resources,452
+4,1. Section 199: Income Attributable to Domestic Production Activities,452
+4,2. Section 611: The Depletion Deduction,453
+2,"III. Depreciation, Amortization, and Cost Recovery",456
+3,"Liddle v. Commissioner, 65 F.3d 329 (3rd Cir. 1995)",456
+3,Notes and Questions:,464
+4,Note: Sections 167 and 168,465
+4,Section 179,468
+4,Other Code Provisions Providing for Cost Recovery or Amortization,469
+4,Section 197,469
+4,Section 280F: Mixing Business and Pleasure,469
+2,Wrap-Up Questions for Chapter 6,472
+2,What have you learned?,472
+1,Chapter 7: Personal Deductions,474
+2,I. “Tax Expenditures”,475
+3,A. Charitable Contributions,476
+4,"Rolfs v. Commissioner, 668 F.3d 888 (7th Cir. 2012)",477
+5,I. Legal Background Concerning Charitable Donations Under Section 170(a),478
+5,II. Valuation Methods,480
+4,Notes and Questions:,482
+3,B. Taxes Paid,488
+2,II. Denial of Discretion in Choosing How or What to Consume,490
+3,A. Medical and Dental Expenses,490
+4,"Ochs v. Commissioner, 195 F.2d 692 (2d Cir.), cert. denied, 344 U.S. 827 (1952)",491
+4,Notes and Questions:,495
+3,B. Casualty Losses,495
+4,Rev. Rul. 76-134,496
+5,CASUALTY LOSS DUE TO FLOOD DAMAGE,497
+4,Notes and Questions:,498
+2,III. Creating a More Efficient and Productive Economy,500
+3,A. Moving Expenses,500
+3,B. Credits Against Tax,502
+3,Note about Tax Credits,503
+3,"Limitations on Deductions: Floors, Phaseouts, and Phasedowns",504
+2,Wrap-Up Questions for Chapter 7,505
+2,What have you learned?,505
+1,Chapter 8: Tax Consequences of Divorce and Intra-Family Transactions,507
+2,I. Introduction,507
+2,II. Before Marriage,508
+3,"Farid-es-Sultaneh v. Commissioner, 160 F.2d 812 (2d Cir. 1947)",508
+3,Notes and questions:,513
+2,III. During Marriage,513
+3,A. Tax Consequences of Support Obligations,513
+3,B. Filing Status,514
+3,C. Dependents,515
+3,D. Intra-Family Transactions,519
+2,IV. After Marriage: Tax Consequences of Divorce,520
+3,"Note on United States v. Davis, 370 U.S. 65 (1962) and § 1041",521
+3,"Gould v. Gould, 245 U.S. 151 (1917)",522
+3,Notes and questions:,523
+3,A. Alimony and Property Settlement,523
+3,B. Child Support,527
+3,"Faber v. Commissioner, 264 F.2d 127 (3rd Cir. 1959)",528
+3,Notes and questions,533
+3,Rev. Rul. 93-27,533
+4,ISSUE,533
+4,FACTS,534
+4,LAW AND ANALYSIS,534
+4,HOLDING,535
+3,Notes and questions:,535
+2,Wrap-Up Questions for Chapter 8,536
+2,What have you learned?,537
+1,Chapter 9: Timing of Income and Deductions: Annual Accounting and Accounting Principles,538
+2,I. Annual Accounting,538
+3,"Burnet v. Sanford & Brooks, 282 U.S. 359 (1931)",539
+3,Notes and questions:,543
+3,"United States v. Lewis, 340 U.S. 590 (1951)",544
+3,Notes and questions:,545
+3,"Alice Phelan Sullivan Corp. v. United States, 381 F.2d 399 (Ct. Cl. 1967)",546
+3,Notes and questions:,549
+2,II. Deferral Mechanisms,550
+3,A. Realization,550
+3,B. Installment Method and Other Pro-rating of Basis,550
+3,C. Deferral Until Consumption,554
+2,III. Basic Accounting Rules,555
+3,A. Cash Method,556
+4,1. Cash Equivalent,557
+4,2. Constructive Receipt,558
+4,3. Economic Benefit,558
+4,Rev. Rul. 60-31,559
+4,Notes and questions:,565
+3,B. Accrual Method,566
+4,Rev. Proc. 2004-34,567
+5,SECTION 1. PURPOSE,567
+5,SECTION 2. BACKGROUND AND CHANGES,568
+5,SECTION 3. SCOPE,568
+5,SECTION 4. DEFINITIONS,568
+5,SECTION 5. PERMISSIBLE METHODS OF ACCOUNTING FOR ADVANCE PAYMENTS,569
+4,Notes and questions:,573
+2,Wrap-Up Questions for Chapter 9:,576
+2,What have you learned?,577
+1,Chapter 10: Character of Income and Computation of Tax,578
+2,I. Capital Gain,579
+3,A. “Capital Asset:” Property Held by the Taxpayer,579
+3,B. Other Terms Relating to Capital Gains and Losses: Long Term and Short Term Gains and Losses,582
+3,C. Deductibility of Capital Losses and Capital Loss Carryforwards,583
+3,D. Computation of Tax,587
+2,II. Sections 1245 and 1250: Depreciation Recapture,589
+3,A. Section 1245,590
+3,B. Section 1250,593
+2,III. Section 1231: Some Limited Mismatching,593
+2,"IV. Some Basis Transfer Transactions:  §§ 1031, 1033",596
+2,V. More Matching,597
+3,"Arrowsmith v. Commissioner, 344 U.S. 6 (1952)",597
+3,Notes and Questions:,599
+3,A. Matching Tax-Exempt Income and Its Costs,600
+3,B. More Matching: Investment Interest,600
+3,C. Passive Activities Losses and Credits,600
+3,D. General Comment about Matching Principles,601
+2,Wrap-Up Questions for Chapter 10,601
+2,What have you learned?,602

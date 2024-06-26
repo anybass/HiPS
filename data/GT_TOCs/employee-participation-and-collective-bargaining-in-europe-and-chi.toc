@@ -1,0 +1,255 @@
+﻿1,Beiträge zum ausländischen und internationalen Privatrecht,2
+1,Employee Participation and Collective Bargaining in Europe and China,4
+1,Preface,6
+1,Contents,10
+1,Abbreviations,12
+1,Part I: Setting the Stage,18
+2,A. Collective Bargaining and its Interaction with State Legislation and Individual Employment Contracts,18
+3,Collective Labour Law in the Nordic Countries: The Relationship between Individual Employment Contracts and State Legislation,20
+4,I. Introduction,20
+5,1. The collective dimension,21
+5,2. EU law and some other international legal instruments,22
+4,II. Basic features in the development of Nordic labour law,23
+5,1. The liberal era – the beginning of a new order,23
+5,"2. Self-regulation, basic agreements and arrangements",24
+5,3. Legislation confirming self-regulation,25
+5,4. Collective labour law today,26
+5,5. Labour market organizations and trends,28
+4,III. The trade union representative,30
+4,IV. Industrial action,31
+4,V. Codetermination – information and consultation,32
+4,VI. The individual contract and labour law,34
+5,1. Employment protection,35
+5,2. Discrimination law,36
+4,VII. Challenges and impact from EU law,38
+4,VIII. Collective regulation of working life together with state intervention?,41
+5,1. Self-regulation within the framework of law,41
+5,2. Self-regulation and the development of a reflexive law,41
+5,3. Regulations on the individual employment contract,43
+5,4. International influences and enforced individual rights,43
+4,IX. Final conclusions,44
+3,Collective Bargaining in Germany and its Interaction with State Legislation and Individual Employment Contracts,46
+4,I. Introduction: Sources of German labour law,46
+4,II. Foundations of the German system of collective bargaining,48
+5,1. Legal sources regulating the terms of employment and the two mechanisms of collective bargaining,48
+6,a) Tarifvertrag,48
+6,b) Betriebsvereinbarung,50
+5,2. Hierarchy of legal sources,51
+4,III. Current trends and developments,53
+5,1. Flexibilisation,53
+6,a) Advantages of flexibilisation: the case of working time regulation,54
+6,b) Risks of flexibilisation: the case of temporary agency work,55
+5,2. Decentralisation,57
+6,a) Main aspects of decentralisation,57
+6,b) Impact on system of collective bargaining,59
+6,c) Legislative responses,60
+6,d) Decentralisation of collective bargaining within companies,61
+5,3. Europeanisation,63
+4,IV. Summary,64
+3,Collective Bargaining in the UK and its Interaction with State Legislation and Individual Employment Contracts,66
+4,I. Introduction,66
+4,II. Overview of collective bargaining in the UK,68
+4,III. Sources of UK labour law,70
+5,1. The contract of employment,70
+5,2. Employment legislation,72
+5,3. Collective agreements,74
+4,IV. The voluntary role of collective agreements in UK labour law,77
+5,1. Voluntary incorporation of collective agreements into the contract of employment: the contractual model,77
+5,2. Limited role of statutory recognition procedure,80
+5,3. Modification of EU imposed standards,81
+4,V. Conclusions,84
+3,The Collective Contract System in China,86
+4,I. Introduction,86
+4,II. The significance of the collective contract system in China,87
+4,III. Main content of the collective contract system in China,91
+5,1. Types of collective contracts,91
+5,2. Main provisions in a collective contract,91
+5,3. Parties to a collective contract,92
+5,4. Concluding a collective contract,92
+5,5. Effects of a collective contract,92
+5,6. Dispute resolution under a collective contract,93
+4,IV. Improving the collective contract system in China,93
+5,1. The legal nature of a collective contract,93
+5,2. Mechanism for forming a collective contract,94
+5,3. Improving the collective contract system,96
+1,Part II: Specific Issues of Collective Labour Law,98
+2,"B. Collective Organizations, Collective Bargaining and Collective Labour Conflicts",98
+3,Collective Agreements in Europe: European Social Dialogue and Contractual Autonomy,100
+4,I. European social partners as legislators?,102
+5,1. Collective agreements at European level,103
+5,2. The difficulty of implementing agreements at European level,104
+6,a) Legitimacy of the social partners,104
+6,b) Legal nature of agreements,107
+4,II. Contractual autonomy of the national social partners: a factor in drafting transnational social law,110
+5,"1. Conflicts of law, territoriality and collective labour relations",110
+5,"2. Substantive law, social harmonisation and contractual autonomy",112
+6,a) International company agreements,112
+6,b) The legislature and trade unions: the example of the European Works Council,114
+3,Collective Contracts and Trade Unions in China,120
+4,I. Introduction,120
+4,II. Relevant definitions,122
+5,1. Collective contract,122
+5,2. Collective consultation,124
+5,3. Trade union,126
+6,a) General remarks,126
+6,b) A typical case: A signature on a collective contract cannot take the place of the conclusion of an employment contract,129
+7,aa) Details of the case,129
+7,bb) Trial and decision,130
+4,III. The connection between collective consultations and collective contracts,132
+4,IV. The principles of collective consultations,134
+4,V. The effectiveness of collective contracts,135
+5,1. General remarks,135
+5,2. A typical case: Normative priority of collective contracts,135
+4,VI. Settlement of disputes related to collective consultations and collective contracts,136
+4,VII. The trade union and collective contracts,137
+4,VIII. Rights protection for the trade union chairman,139
+5,1. Restrictions on demotion,139
+5,2. Protection from employment contract termination,139
+6,a) General remarks,139
+6,b) A typical case: The first case on firing a union president in Beijing,140
+5,3. Removal of protection,141
+6,a) General remarks,141
+6,b) A typical case: Trade union chairmen fired during their terms of office,142
+4,IX. Conclusion,142
+3,The Right to Strike in the International and European Context – Viking, Laval and Beyond",146
+4,I. Introduction,146
+4,II. International regulation and the right to strike,147
+4,III. European regulatory framework,152
+5,1. European Council regulation,154
+5,"2. Limitations on the right to strike in the EU – Viking, Laval and beyond",157
+5,3. Observations on imbalances in the EU regulatory approach,160
+4,IV. Concluding remarks,162
+3,Collective Labour Conflicts in Europe,164
+4,I. Introduction,164
+4,II. Legal definitions,165
+4,III. Legal basis of the right to strike,165
+5,1. European Union and Council of Europe,165
+5,2. Constitutional guarantees,166
+6,a) Explicit and implicit guarantees,166
+6,b) Bearer of the right to strike,167
+6,c) Content of the right,167
+6,d) Limitations of the right to strike,168
+4,IV. The right to call a strike,168
+4,V. The right to participate in a strike,169
+4,VI. Lawful strikes according to their purpose,169
+4,VII. Procedural requirements,170
+5,1. Exhaustion of all means of negotiation,170
+5,2. Balloting,170
+5,3. Obligation to notify the other party,171
+5,4. Cooling off periods,171
+4,VIII. Peace obligations,171
+4,IX. Other limitations to strikes,173
+4,X. Public sector and “essential services”,174
+4,XI. Specific emanations of strikes,175
+5,1. Strikes in sympathy,175
+5,2. Warning strikes,176
+5,3. Rotating strikes,177
+5,4. Other forms of industrial action,177
+4,XII. Legal consequences of lawful/unlawful strikes,178
+5,1. Legal consequences of lawful strikes,178
+5,2. Legal consequences of unlawful strikes,179
+4,XIII. Dispute resolution,180
+4,XIV. Support of strikers,180
+4,XV. Conclusion,180
+1,Part II: Specific Issues of Collective Labour L,182
+2,C. Employee Participation,182
+3,Workplace Representation in the EU,184
+4,I. Introduction,185
+4,II. Workplace representation is embedded in national systems and traditions,186
+4,III. An ideal type of works council,187
+4,"IV. Goal, function and legal basis of I&C",188
+5,1. Goal and function,188
+5,2. The legal basis of I&C,188
+4,V. Excursion: workplace representation and corporate governance,190
+4,VI. The actors: who act as employee representatives?,190
+4,VII. The establishment of works councils,192
+5,1. Thresholds,192
+5,"2. Occurrence, compliance",192
+5,3. Establishment of works councils: right or duty?,192
+4,VIII. Election and composition of works councils,193
+5,1. Election systems,193
+5,2. Candidates,194
+5,3. Composition of the works council,194
+5,4. Works councils and flex-workers,195
+6,a) Situation in Europe,195
+6,b) The debate in the Netherlands,195
+4,IX. The scope of I&C issues,196
+5,1. Employee issues,196
+5,2. Works councils and terms of employment; works councils and individual employees; the right to strike,196
+4,X. Classification of I&C rights: from weak to strong,198
+5,1. Positive and negative rights,198
+5,2. Information rights,198
+5,3. Consultation rights,200
+6,a) Consultation rights in general,200
+6,b) Consultation in the Netherlands,201
+5,4. Right of consent/veto,202
+4,XI. Addressee of I&C,202
+5,1. Who decides?,202
+5,2. Group structures,203
+5,3. Decisions by organs other than management,203
+5,4. Rights with regard to other companies,203
+4,XII. Internationalization and I&C,204
+5,1. General characteristics of internationalization and I&C,204
+5,2. Some interesting examples,204
+4,XIII. The future of I&C from an EU perspective,205
+4,XIV. Concluding remarks,206
+3,Employee Participation at Workplace Level in China,208
+4,I. Introduction,208
+4,II. The evolution of the employees’ congress system,209
+5,1. The employees’ congress system under the planned economy,209
+5,2. The employees’ congress system after the establishment of the market economy,210
+4,III. The role and significance of the employees’ congress,213
+4,IV. Characteristics of the employees’ congress system,215
+4,V. The powers and organizational structure of employees’ congresses,217
+4,VI. Major problems in the current employees’ congress system,218
+5,1. Dispersed and unsystematic legislation,218
+5,2. Fragmentation and inconsistency of the employees’ congress system,219
+5,3. Weak enforcement mechanism,219
+4,VII. Issues that need to be solved in the employees’ congress system,219
+5,1. The relationship between the employees’ congress and trade unions,219
+5,2. The relationship between the employees’ congress system and corporate ownership structure,221
+5,3. The position of the employees’ congress in the enterprise,222
+5,4. The unification and consistency of legislation,223
+5,5. Strengthening the implementation mechanism and improving the legal liability system,223
+4,VIII. Conclusions,224
+3,Employee Participation at Board Level in Europe,226
+4,I. Introduction,226
+4,II. Board-level employee participation in the EU Member States,228
+5,1. The European (Economic) Community as “transmission belt”,228
+5,2. Examples for countries with employee participation in boards,230
+6,a) Employee representation on boards: the German example,230
+6,b) Employees’ right to submit proposals for board members,232
+5,3. The UK as an example of a country resisting participation in boards,234
+5,4. The embedding in different corporate governance structures,235
+6,a) Board-level employee participation in two-tier board structures,235
+6,b) Board-level employee involvement in one-tier board structures,237
+5,5. The embedding in different national industrial relations systems,238
+6,a) Interaction with trade unions,239
+7,aa) The risk of conflicts of interest,239
+7,bb) Exclusion of unions from board-level participation,240
+6,b) Interaction with other employee representatives,241
+4,III. Board-level employee participation in the European internal market,243
+5,1. Exit options,243
+6,a) The case of the European Company (SE),243
+6,b) Cross-border mergers,247
+6,c) The new understanding of freedom of establishment,249
+5,2. The growing legitimacy problem in transnational companies,251
+4,IV. Concluding remarks,252
+3,"Employee Involvement at Board Level in China: The Present, the Problem and the Development",254
+4,I. Introduction,254
+4,II. Stakeholders and the legal basis of employee involvement at board level,255
+4,III. Employee involvement in China: past and present,256
+5,1. Democratic management: past and present,257
+5,2. Employee involvement in the company legislation era,258
+5,"3. Employee involvement: legislation, past and present",259
+4,IV. Overview of employee involvement on boards in China,261
+5,1. Company type,261
+5,2. Qualifications of employee representatives on the board,261
+5,3. Election of employee representatives to the board,262
+5,4. Ratio of employee representatives on the board,262
+4,V. Rights and duties of employee representatives on the board,262
+4,VI. Problems with employee involvement on boards in China,264
+4,VII. Improving employee involvement on boards in China,265
+4,VIII. Further considerations,269
+4,IX. Summary,269
+1,Contributors,272

@@ -1,0 +1,135 @@
+﻿1,The Regulation of Megabanks,2
+1,Routledge Research in Finance and Banking Law,3
+1,Contents,8
+1,Acknowledgments,12
+1,Abbreviations,14
+1,Introduction,16
+2,Context and rationale,16
+2,Structure,19
+2,Methodology and terminology,20
+2,Limitations,22
+2,Place in existing literature,23
+2,Bibliography,24
+1,"1 G-SIBs in the USA and in the EU Diversity, not unity",26
+2,1.1 General shift from traditional banking business,27
+3,1.1.1 Traditional banking and change-driving forces,28
+4,1.1.1.1 Capital and ideological flows that globalized banking,29
+4,1.1.1.2 Information technology and financial innovations,30
+4,1.1.1.3 Political and regulatory adjustments,32
+3,1.1.2 Modern activities of banks,33
+3,1.1.3 Modern ways of funding,35
+3,1.1.4 Risks of modern banking,36
+3,1.1.5 Modern banking business models,38
+2,1.2 Rise of the G-SIBs – differences at the outset,39
+3,1.2.1 Combining and expanding,40
+3,1.2.2 Growth,41
+3,1.2.3 Internationalization,42
+2,1.3 G-SIBs as an un-uniform group – differences now,43
+3,1.3.1 An un-uniform group,44
+4,1.3.1.1 Activities,44
+4,1.3.1.2 Funding,47
+4,1.3.1.3 Risks,48
+4,1.3.1.4 Legal structure,52
+4,1.3.1.5 Ownership,54
+3,1.3.2   Attempts at business model classification,56
+2,1.4 Challenges and opportunities facing G-SIBs – differences in the future?,59
+3,1.4.1 Big Tech,59
+3,1.4.2 Green revolution,62
+3,1.4.3 COVID-19,66
+2,1.5 Summary,67
+2,Bibliography,74
+1,2 G-SIBs and the Global Financial Crisis,81
+2,2.1 Regulation before the GFC: Regulatory loopholes and generalization,81
+3,2.1.1 Non-existent regulation,82
+3,2.1.2 Overly general regulation,85
+3,2.1.3 Lack of supervisory discretion,87
+2,2.2 G-SIBs’ adjustments to the general rules,89
+3,2.2.1 Size of assets,89
+3,2.2.2 Leverage,92
+3,"2.2.3 Capital, losses, and raising capital",94
+3,"2.2.4 Funding patterns, liquidity, and resolution",97
+4,2.2.4.1 Liquidity problems and resolution,98
+4,2.2.4.2 Liquidity supplementation,100
+3,2.2.5 Securitization,101
+4,2.2.5.1 Origination,102
+4,2.2.5.2 Underwriting,103
+3,2.2.6 Contagion,105
+2,2.3 Authorities awaken,108
+3,2.3.1 Ad-hoc help,108
+3,2.3.2 G-SIBs’ redemption,111
+3,2.3.3 Regulatory resolutions,112
+2,2.4 Summary,112
+2,Bibliography,114
+1,"3 Regulation of G-SIBs in the USA and the EU Overly general, but fixable?",118
+2,3.1 Institutional supervisory framework,119
+3,3.1.1 International level,119
+3,3.1.2 Regional level,121
+4,3.1.2.1 USA,121
+4,3.1.2.2 EU,122
+2,3.2 Designation,124
+3,3.2.1 International level,124
+3,3.2.2 Regional level,131
+4,3.2.2.1 USA,131
+4,3.2.2.2 EU,132
+2,3.3 G-SIB capital buffer,135
+3,3.3.1 International level,135
+3,3.3.2 Regional level,138
+4,3.3.2.1 USA,138
+4,3.3.2.2 EU,140
+2,3.4 G-SIB leverage ratio,141
+3,3.4.1 International level,141
+3,3.4.2 Regional level,143
+4,3.4.2.1 USA,143
+4,3.4.2.2 EU,145
+2,3.5 Large exposure limit,145
+3,3.5.1 International level,146
+3,3.5.2 Regional level,147
+4,3.5.2.1 USA,147
+4,3.5.2.2 EU,147
+2,3.6 Resolution of G-SIBs and TLAC,148
+3,3.6.1 International level,148
+3,3.6.2 Regional level,151
+4,3.6.2.1 USA,151
+4,3.6.2.2 EU,154
+2,3.7 Pillar 2 powers,158
+3,3.7.1 International level,158
+3,3.7.2 Regional level,160
+4,3.7.2.1 USA,160
+4,3.7.2.2 EU,163
+2,3.8 Summary,166
+2,Bibliography,173
+1,4 G-SIBs and supervisory discretion,181
+2,4.1 General theory behind supervisory discretion,182
+3,4.1.1 Discretion as a double-edged sword,182
+3,4.1.2 Discretion as a way of revealing information,184
+3,4.1.3 Behavioral aspects of discretion,184
+2,4.2 Supervisory discretion to adjust regulation on G-SIBs,185
+3,4.2.1 Positive potential of supervisory discretion,185
+4,4.2.1.1 Adjusting overly general rules,186
+4,4.2.1.2 Breaking up the big banks,187
+4,"4.2.1.3 Remedy for ‘too low capital requirements, too low leverage ratio’",189
+4,4.2.1.4 Real flexibility for real economy,191
+4,4.2.1.5 Greener path,194
+3,"4.2.2 Supervisory discretion, unused",196
+4,4.2.2.1 International level,196
+4,4.2.2.2 Regional level,198
+5,4.2.2.2.1 USA,198
+5,4.2.2.2.2 EU,201
+3,4.2.3 Obstacles for the application of supervisory discretion,205
+4,4.2.3.1 Uncertainty,205
+4,4.2.3.2 Arbitrariness,209
+4,4.2.3.3 Regulatory capture,210
+3,4.2.4 How to make supervisory discretion work,211
+4,"4.2.4.1 Funding, training, and compensation of supervisors",212
+4,4.2.4.2 Choice architecture and system of guidelines,214
+4,4.2.4.3 Concept of ultimate decision maker,217
+4,4.2.4.4 Transparency,219
+4,4.2.4.5 Independent checks,219
+2,4.3 Summary,221
+2,Bibliography,223
+1,Conclusion,231
+2,Concluding remarks,231
+2,Perspectives beyond G-SIBs,235
+2,Perspectives beyond the USA and EU,237
+2,Bibliography,238
+1,Index,240

@@ -1,0 +1,225 @@
+﻿1,a kind of mending,1
+1,dedication,5
+1,contents,7
+1,acknowledgements,9
+1,list of abbreviations,10
+1,list of maps,11
+1,restorative justice in the pacific islands an introduction,15
+2,About the Conference,15
+2,"Law, Order and the State",18
+2,Order Without State,21
+2,Colonial Interludes,23
+2,Post-independence Law and Order,26
+2,What the Chapters say,36
+2,Conclusions,45
+2,Acknowledgement,46
+2,Endnotes,47
+1,the fundamentals of restorative justice,49
+2,Endnotes,57
+1,the age of steam constructed identity and recalcitrant youth in a Papua New Guinea village,59
+2,Introduction,59
+2,The history of Pari village,61
+2,The construction of Pari’s modern identity,68
+2,Negotiating profane modern sociality,72
+2,The age of steam,75
+2,Conclusions,81
+2,Endnotes,82
+1,tribal warfare and transformative justice in the new guinea highlands,87
+2,Introduction,87
+2,Warfare and exchange in the Ku Waru area,90
+2,Warfare and the Kulka Women’s Group.,96
+2,The Faipela Kansil coalition,98
+2,Conclusion,103
+2,Endnotes,105
+1,restorative justice and women in vanuatu,109
+2,Background,109
+2,Introduction,110
+2,The fears,110
+2,The hopes,111
+2,Conclusion,113
+1,"vanuatu law, the police and restorative justice",115
+1,restorative programs in the formal justice system of vanuatu,119
+2,Administrative bodies and adjudication,119
+2,Courts and ADR,120
+2,Use of ADR in the criminal justice system,121
+2,Use of ADR as an alternative to trial in cases involving juveniles,121
+2,Conclusion,122
+1,conflict resolutionin a multi-cultural urban setting in papua new guinea,123
+2,"Personal, Work and Cultural Background",123
+2,Current Situation,123
+2,Impact on and Benefits for the Community,126
+2,The future,126
+2,A case study in bride price,127
+1,restorative justice in papua new guinea: a collaborative effort,129
+2,Community development and restorative justice,129
+3,What then is development?,129
+2,Restorative justice: an aspect of community development,131
+3,Self determination,132
+3,Community pace,132
+3,Participation,132
+3,Starting where the people are,132
+3,Training of local leadership,132
+2,Community organising,132
+3,How does restorative justice apply to Papua New Guinea communities?,132
+2,Examples of resolving conflicts by the community,134
+3,Example 1,134
+3,Example 2,135
+2,Role of change agents (in restorative justice within communities),135
+2,Conclusions,136
+1,rehabilitation for change in fiji: a women’s initiative,137
+2,Background,138
+2,Aims,142
+2,Methodology,142
+2,What I Like In Prison,146
+2,What We Do Not Like In Prison,146
+2,A rap version of what we don’t like about prison,147
+2,Leaving Prison,148
+2,Results,148
+2,Conclusion,150
+2,Endnotes,152
+1,the vanuatu cultural centre’s juvenile justice project,153
+2,Rationale of the Juvenile Justice Project,153
+2,The project’s objectives,156
+2,Research and consultation process,156
+2,Training and orientation of project staff in the field of juvenile justice,157
+2,Organisation of national summit meeting,157
+2,Drafting of a plan of action,157
+2,The benefits of the project in summary:,158
+1,the lakalakabulu area council of chiefs in vanuatu,159
+1,re-inventing the cultural wheel: re-conceptualizing restorative justice and peace building in ethnically divided Fiji,163
+2,Introduction,163
+2,Inter-ethnic conflict in Fiji,165
+2,Ethnic conflict and the syncretic syndrome,168
+2,Restorative justice through customary socio-cultural mechanisms,169
+2,The Veisorosorovi (VSS) Model,170
+3,The Ceremonial setting,171
+3,Admission of mistakes,171
+3,Forgiveness,171
+3,Reciprocal engagement,172
+3,Pre-emptive approach,172
+3,Trust and expectations,173
+3,Transforming and crystallizing collective relations,173
+2,Some shortcomings of VSS,173
+2,Re-contextualizing the VSS model for inter-communal peace building in Fiji,174
+2,Conclusion,175
+2,Endnotes,177
+1,informal justice in law and justice reform in the pacific region,179
+2,FIJI, A CASE STUDY,179
+3,Introduction,179
+3,Traditional Leadership Within the Fijian Social System,182
+3,The Fijian Challenge,186
+3,Informal Justice and the Role of the Ministry of Fijian Affairs,188
+3,Conclusion,189
+3,Endnotes,190
+1,restorative justice in the solomon islands,191
+2,A Mixed Bag,191
+2,Cultural Relations,192
+2,Traditional Worries,194
+2,Expectations of Restitution,195
+2,The Present Conflict,195
+2,Guale Attack,196
+2,The Eye of the Storm,197
+2,Mala Retaliation,198
+2,Present Problems,199
+2,Seeking Reconciliation,201
+2,Value of Cash,203
+2,Complications,204
+2,Corporate Compensation,204
+2,Biblical Approaches,205
+2,Church means the Way,207
+2,Casual Presumptions,207
+2,Moving On,208
+1,bougainville women’s role in conflict resolution in the bougainville peace process,209
+2,Some background to the current situation in Bougainville in the year 2000,210
+2,Potential difficulties and conflicts in traditional restorative justice,212
+2,Example 1,212
+2,Example 2,213
+3,From pockets of Bougainville,213
+2,My involvement in the peace process,216
+2,Women’s efforts in conflict resolution and restorative justice,216
+2,The women’s role in the peace process,217
+2,Example 1,219
+3,PNGDF use of women’s position of power.,219
+2,Example 2,221
+3,A team of four women. Turning a small meeting into a big meeting,221
+2,Example 3,222
+3,Large meeting: Bougainville women unite/1994/1998/1999,222
+2,Why did the peace process work in Bougainville?,226
+2,Endnotes,227
+1,restorative justice in bougainville,229
+2,Theodore Miriung’s vision in Bougainville,230
+2,Peace Foundation begins training in Buka,231
+2,Target group for training,231
+2,Process of training adult education,231
+2,Selecting trainers for Buka,232
+2,Effects of courses on the participants,232
+2,Beginning of mediation in Buka,233
+2,Other signs of change in Buka,233
+2,Support for work of Peace Foundation,233
+2,Value of a neutral mediator,234
+2,Case studies from Buka,234
+2,Peace Foundation makes its mark on mainland Bougainville,236
+3,Training in Steamas and how the cause was spread by the BRA,236
+3,The story of Obert — from ‘stone head’ to community leader,237
+2,On using a Facilitator – ‘There is no other way now!’,238
+3,Mediation and negotiation skills by magistrates from Steamas strengthen custom justice,239
+3,Story from Manetai: an angry soldier becomes a responsible paramount chief,240
+3,Buin — Win-win mediation to prepare warring groups to reconcile,242
+2,Peace in Buin 1995,242
+3,Good Friday peace march,243
+3,"Peace Foundation training in Buin, March to August 1995",243
+3,Courses conducted in Buin,243
+3,Joint law and order process in Buin,244
+3,Mediation work in Buin,244
+3,Change of Army policy in Buin,245
+3,Talk from the soldier who replaced Enuma,245
+2,War breaks out again in Buin,246
+2,The Icebreakers,246
+3,Ice breakers killed,247
+2,Mediation between BRA and Resistance,247
+3,Tari requests training in Buin,247
+3,Feuding and mediation after the death of Paul Bobby,248
+3,Troubles caused by the feud,248
+3,Pressure to reconcile,249
+3,Reconciliation ceremony in Buin for Bobby/Tari,249
+3,MOU for peace,249
+3,Francis describes the Win-Win Mediation process to Miller,250
+2,The PMG at Buin and what they thought,250
+3,What role Francis was playing,251
+3,Peter Mekia on Reconciliation,251
+2,Compensation gifts and blood money,255
+2,Compensation paid for man shot dead by accident. Compensation Highlands fashion,258
+2,Violent trauma and restorative justice,259
+2,Stigmatisation,263
+2,Dedicated trainers,264
+2,Training women,265
+2,Saturation,266
+2,Training in the village,266
+2,Importance of awareness,267
+2,Divisions in the community must be noted,267
+2,Over the seven years from 1994 to 2000 Peace Foundation conducted the following courses:,267
+2,Endnotes,268
+1,"a marriage of custom and introduced skills: restorative justice, bougainville style",269
+2,Personal and cultural background,269
+2,The Bougainville crisis and justice,271
+2,My introduction to conflict resolution,272
+2,The customary and formal dispute resolution systems,273
+2,A case study of restorative justice,274
+2,The mediation process,275
+3,Step 1. Talking with the Victim(s),275
+3,Step 2. Talking with the Offender/s,276
+3,Step 3. Meeting with both Parties,276
+3,Step 4. Discussions within each Group,277
+3,Step 5. Reaching a Decision with both Parties,277
+3,Step 6. The Act of Reconciliation,277
+3,Step 7. Signing an Agreement,278
+3,Step 8. Follow-up,278
+1,epilogue — some thoughts on restorative justice and gender,279
+2,Introduction,279
+2,Reflections on restoration and retribution,282
+2,Gender and justice — domestic violence and rape,285
+2,Conclusion,287
+2,Endnotes,288
+1,references,295
+1,index,307
+1,about the editors,323

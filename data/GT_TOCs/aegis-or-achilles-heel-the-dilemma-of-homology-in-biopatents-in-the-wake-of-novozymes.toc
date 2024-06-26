@@ -1,0 +1,46 @@
+﻿1,Aegis or Achilles Heel: The Dilemma of Homology in Biopatents in the Wake of Novozymes,1
+1,Acknowledgements,5
+1,Table of Contents,7
+1,Abstract,9
+1,Acronyms and Abbreviations,11
+1,I. Introduction,13
+1,II. Novozymes – a Long and Hard Journey to Patent Validity,16
+2,A. The Glucoamylase,16
+2,B. The Patent,18
+2,C. The Proceedings on Patent Infringement,20
+2,D. The Proceedings on Patent Validity,21
+3,1. The Patent Reexamination Board,21
+3,2. The Courts of First Instance and Second Instance,24
+3,3. The Supreme Court,25
+2,"E. Comments – a Good Will, but also a “Chicken Rib”",26
+1,III. Homology as an Indication of Confidence,31
+2,A. Supporting Data for Homology Claims is Not Necessary for the Patent Law,31
+2,B. Supporting Data for Homology Claims is an Overwhelming Burden,34
+2,C. Rethinking the Role of Homology Language,37
+3,1. The Homology Language,37
+3,2. The Technical Meaning of Homology,38
+2,D. Species of Origin is Not an Effective Limitation,40
+2,E. Concluding Remarks,42
+1,IV. Novozymes may Create an Unclaimable Gap,44
+2,A. Inventive Step and Support are One-Dimensionally Aligned by Homology,44
+2,B. Disparity in Views on Homology Creates an Unclaimable Gap,46
+2,C. The Unclaimable Gap May Constitute a Discrimination,50
+2,D. Downregulating Inventive Step is Not a Feasible Option,53
+1,V. Novozymes Mingles Sufficient Disclosure and Support,56
+2,A. Sufficient Disclosure and Support Have Different “Prior Art”,56
+2,B. Novozymes Tests Support Using the Standard of Sufficient Disclosure,57
+2,C. An Example Test Given by the EWHC,60
+2,D. On Non-Working Variants – How to Avoid a “Negative Gap”?,61
+1,VI. Conclusion,64
+1,Annex I: Sequences of Cytochrome c from 17 Different Species,67
+1,List of Works Cited,69
+2,Books and Journal Articles,69
+2,International Treaties and Legislations,70
+2,Internet Sources,70
+2,Official Documents,71
+2,Cases,71
+3,EPO,71
+3,China,71
+3,UK,72
+3,US,72
+3,Patents,72

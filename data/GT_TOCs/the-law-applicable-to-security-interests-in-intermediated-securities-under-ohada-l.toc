@@ -1,0 +1,424 @@
+﻿1,The Law Applicable to Security Interests in Intermediated Securities Under OHADA Law,4
+1,Preface,8
+1,Foreword,12
+1,Summary of Contents,14
+1,Contents,16
+1,Tables and Figures,32
+1,Abbreviations,34
+1,General Introduction,38
+1,Part I The Intermediary System in the Ohada Region,48
+2,Chapter 1: The Organisation for the Harmonisation of Business Law in Africa,48
+3,A. Historical Perspective,48
+3,B. Purpose of Ohada,53
+4,I. Contribution to Regional Integration in Africa,53
+4,II. Facilitating Investments and Improving the Economies of Its Members,54
+4,III. Unification in lieu of Harmonisation,56
+3,C. Ohada’s Institutional Framework,57
+4,I. The Conference of Heads of State and Government,58
+4,II. The Council of Ministers,58
+5,1. Composition,58
+5,2. Functioning,59
+5,3. Duties,60
+4,III. The Permanent Secretariat,60
+5,1. Organisation,60
+5,2. Duties,60
+4,IV. The Common Court of Justice and Arbitration (CCJA),61
+5,1. Composition,61
+5,2. Functions,62
+5,3. Challenges faced by the CCJA and Trends in the CCJA’s Case Law,63
+6,a) Challenges faced by the CCJA,63
+6,b) Geographical Origins of the Appeals lodged before the CCJA,65
+4,V. The Regional School for Magistrates,67
+3,D. Instruments of OHADA,67
+4,I. Uniform Acts,67
+5,1. Object of the Uniform Acts,67
+5,2. The Process of Adopting Uniform Acts,68
+6,a) Drafting,68
+6,b) Advisory Opinion of the CCJA,69
+6,c) Final Adoption,69
+6,d) Exclusion of Legislative Authorities,69
+5,3. Effects of the Uniform Acts on National Law,70
+6,a) Direct Applicability of the Uniform Acts,70
+6,b) Interpretation of Article 10 by the CCJA,72
+5,4. Current Uniform Acts,73
+5,5. Uniform Acts “in the Pipeline”,74
+4,II. Regulations,77
+4,III. Chronological Table of the Uniform Acts and the Regulations,77
+3,E. Summary and Evaluation,78
+2,Chapter 2: Basic Structure and Functioning of the Indirect Holding System in the OHADA Region,80
+3,A. Development of Commercial Practices in the OHADA Region regarding the Holding of Securities,80
+4,I. Traditional Direct Holding of Securities under OHADA Law,80
+5,1. Presentation of the Traditional Direct Holding System under OHADA Law,80
+5,2. Advantages and Disadvantages of the Direct Holding System,82
+4,II. The Intermediated System under OHADA Law,83
+5,1. Development in Commercial Practices,83
+5,2. Regional and National Legislative Developments in Respect of the Law of Securities,86
+6,a) Status Quaestionis under OHADA Law,86
+7,(1) Revision of Uniform Acts at the Ohada Level,86
+7,(2) Centralisation and Immobilisation of Securities,88
+7,(3) Dematerialisation of Securities,89
+6,b) The New Act on the Dematerialisation of Securities under the Law of Cameroon,89
+7,(1) Presentation of the New Act on the Dematerialisation of Securities,89
+7,(2) Modalities for the Dematerialisation of Securities,90
+3,B. Basic Structure of Ohada’s Indirect Holding System Compared to Existing Models of Intermediated Systems,91
+4,I. Introduction,91
+4,II. The Individual Ownership Model,92
+4,III. The Co-Ownership Model,93
+4,IV. The Trust Model,94
+4,V. The Security Entitlement Model,94
+4,VI. The Contractual Model,95
+4,VII. Identifying the Investor: Transparent and Non-transparent Systems,96
+5,1. Introduction,96
+5,2. Transparent Systems in Which the Holdings are Held in an Account with the CSD,97
+5,3. Transparent Systems in Which the Holdings of the Investor are Identified in an Intermediary Account with the CSD,97
+5,4. Transparent Systems in Which an Investor’s Holdings are Held by an Intermediary in an Omnibus Account at the CSD,98
+3,C. Summary and Evaluation,99
+1,"Part II Reports on National, Regional, and International Substantive Law Rules in Respect of Security Interests in Intermediated Securities",102
+2,Chapter 1: The Pledge of Securities Accounts under the OHADA Uniform Act on Security Interests,102
+3,A. Introduction: Relevance of the 2010 Revision of the Uniform Act on Security Interests,102
+3,B. Scope of Application of Articles 146 et seq of the Uniform Act on Security Interests,103
+4,I. Definition of the Pledge of Securities Accounts,103
+5,1. Limited Material Scope,103
+5,2. Pledges of “Securities Accounts” rather than of “Intermediated Securities”,105
+4,II. Relationship between the Provisions of the Different Uniform Acts applying to the Pledge of Securities Accounts,106
+5,1. Provisions applying to the Pledge of Securities,106
+5,2. Prevalence of the Uniform Act on Security Interests,106
+3,C. How a Pledge of a Securities Account is Constituted,109
+4,I. Requirement of a Declaration establishing the Pledge,109
+5,1. The Declaration establishing the Pledge,109
+5,2. Elements to Be Included in the Declaration establishing the Pledge,110
+6,a) Date of the Declaration,110
+6,b) Other Elements to Be Included in the Declaration,112
+4,II. The Requirement of a Prior Contract,114
+3,D. Basis of the Pledge,114
+4,I. The Contents of the Securities Account,114
+5,1. Intermediated Securities located in the Securities Account,114
+6,a) Financial Instruments recorded in the Pledged Securities Account,114
+6,b) Inalienable Securities,115
+6,c) Securities Whose Transfer is Subject to an Approval Clause,116
+5,2. Sums of Money located in the Pledged Securities Account,117
+4,II. Proof of the Content of the Pledged Securities Account,117
+5,1. Special Account Open in the Name of the Account Holder,117
+5,2. The Certificate of Pledge,118
+3,E. Evolution of the Pledged Securities Account,118
+4,I. Introduction,118
+4,II. Inclusion of Products and Benefits deriving from the Pledged Securities Account,119
+4,III. Substituted Securities,120
+5,1. “New” Securities,120
+5,2. Sums of Money resulting from the Sale of Securities located in the Pledged Account,121
+3,F. Right to Use the Intermediated Securities recorded in the Pledged Securities Account,122
+4,I. Right of Use,122
+5,1. Scope of the Right of Use under Article 151(1) First Sentence of the Uniform Act on Security Interests,122
+5,2. Absence of Provisions in Respect of the Replacement of the Used Collateral Securities,123
+4,II. Right of Retention,125
+5,1. Scope of the Right of Retention,125
+5,2. The Relationship between the Right of Retention and the Right of Use,126
+3,G. Realisation of the Pledge,127
+3,I. Introduction,127
+4,II. Formal Notice,127
+4,III. Enforcement,129
+5,1. Introduction,129
+5,2. Realisation by Selling the Intermediated Securities,130
+5,3. Realisation by Appropriating the Intermediated Securities recorded in the Pledged Securities Account,131
+3,H. Summary and Evaluation,131
+2,Chapter 2: Security Interests in Intermediated Securities under the Geneva Securities Convention,134
+3,A. Presentation of the Geneva Securities Convention,134
+4,I. The Geneva Securities Convention,134
+4,II. Objectives and Guiding Principles of the Geneva Securities Convention,135
+4,III. Current Status of the Geneva Securities Convention,138
+3,B. Scope of Application of Chapter V of the Geneva Securities Convention,139
+4,I. Introduction,139
+4,II. Personal Scope,139
+4,III. Material Scope,140
+5,1. Types of Collateral,140
+5,2. Relevant Obligations,141
+3,C. Recognition of Title Transfer Collateral Agreements,142
+4,I. History of the Provision in Article 32 of the Geneva Securities Convention,142
+4,II. Analysis of Article 32 of the Geneva Securities Convention,142
+3,D. Enforcement under Article 33 of the Geneva Securities Convention,143
+4,I. History of Article 33 of the Geneva Securities Convention,143
+4,II. Analysis of the Enforcement Provision in the Geneva Securities Convention,144
+5,1. Overview of the Realisation Methods,144
+5,2. Realisation by way of Sale of the Collateral Securities,145
+5,3. Realisation by Appropriation,145
+5,4. Close-Out Netting,145
+5,5. Obstacles to the Realisation of the Collateral in Some Jurisdictions,146
+3,E. Right to Use Collateral Securities under Article 34 of the Geneva Securities Convention,147
+4,I. History of Article 34 of the Geneva Securities Convention,147
+4,II. Analysis of Article 34 of the Geneva Securities Convention,148
+5,1. Use of Collateral Securities,148
+5,2. Replacement of the Used Collateral Securities,149
+5,3. Protecting the Collateral Taker’s Rights,150
+3,F. Top-Up or Substitution of Collateral,151
+4,I. General Overview and History of the Top-Up Rule in Article 36 of the Geneva Securities Convention,151
+4,II. Analysis of Top-Up Rule in Article 36 of the Geneva Securities Convention,151
+5,1. Rule Number 1: Top-Up,151
+6,a) Introduction,151
+6,b) The Situation provided in Article 36(1)(a)(i) of the Geneva Securities Convention,152
+6,c) The Situation provided in Article 36(1)(a)(ii) of the Geneva Securities Convention,153
+6,d) The Situation provided in Article 36(1)(a)(iii) of the Geneva Securities Convention,154
+5,2. Rule Number 2: Substitution,155
+5,3. Scope of Protection,155
+4,III. Certain Insolvency Provisions Disapplied,157
+3,G. Summary and Evaluation,159
+2,Chapter 3: The EU Legislation on the Collateralisation of Intermediated Securities,160
+3,A. A Bird’s Eye View of the EU Legislative Framework on Intermediated Securities,160
+3,B. The Collateralisation of Intermediated Securities under the Settlement Finality Directive,161
+4,I. History of the Settlement Finality Directive,161
+4,II. System and Participants,163
+4,III. Collateral Transaction,166
+4,IV. Insolvency Proceedings and Collateral Security,166
+5,1. Provisions regarding Insolvency Proceedings,166
+5,2. Collateral Security and Legal Certainty,167
+3,C. Collateral Agreements on Intermediated Securities under the Financial Collateral Directive,167
+4,I. Objectives of the Financial Collateral Directive,167
+4,II. History of the Financial Collateral Directive,168
+5,1. Preparatory Work,168
+5,2. Adoption and Implementation,170
+5,3. Amendments,173
+4,III. Scope of Application,174
+5,1. Personal Scope,174
+6,a) History of the Provision in Article 1(2) of the Financial Collateral Directive,174
+6,b) Description of the Personal Scope of Application of the Directive,174
+5,2. Material Scope,177
+4,IV. Formal Requirements and Enforcement,182
+4,V. Right of Use,185
+5,1. The Right of Use throughout the Elaboration Process of the Financial Collateral Directive,185
+5,2. Description of the Right of Use under Article 5 of the Financial Collateral Directive,186
+4,VI. Recognition of Title Transfer Financial Collateral Arrangements,187
+4,VII. Recognition of Close-Out Netting Provisions,188
+4,VIII. Certain Insolvency Provisions Disapplied,189
+4,IX. Top-Up and Substitutions,190
+3,D. Summary and Evaluation,192
+2,Chapter 4: Collateralisation of Intermediated Securities under the Law in the United States,193
+3,A. General Overview,193
+4,I. Introduction,193
+4,II. Historical Evolution,194
+5,1. History of UCC Article 8,194
+6,a) The 1962 Version of UCC Article 8,194
+6,b) The 1977 Version of UCC Article 8,195
+6,c) The 1994 Version of UCC Article 8,204
+5,2. Brief History of UCC Article 9,206
+6,a) Pre-Article 9 Law applying to Security in Personal Property,206
+6,b) The 1962 Version of UCC Article 9,207
+6,c) The Pre-1972 Official Text and the 1977 Amendments,208
+6,d) The 1994 Amendments to UCC Article 9,209
+6,e) The 1999 Official Text,209
+3,B. Key Features of the Intermediated System in the US,210
+4,I. Basic Structure of the Intermediated System in the US,210
+4,II. Key Features of the US Indirect Holding System,215
+4,III. Concept of Security Entitlements,218
+5,1. Introduction,218
+5,2. The Property Rights Aspect,219
+6,a) Pro Rata Property Interests,219
+6,b) Enforcement of Property Rights against Third Parties,219
+5,3. Aspects of Personal Rights,222
+3,C. Perfection of Security Interests in Investment Property,225
+4,I. Introduction,225
+4,II. Attachment and Perfection,226
+3,D. Priorities,232
+3,E. Summary and Evaluation,233
+1,Part III Conflict of Laws Analysis,236
+2,Chapter 1: The lex rei sitae (lex cartae sitae) Rule in the Ohada Region,236
+3,A. General Overview of OHADA’s Private International Law,236
+4,I. Lesser Importance of Conflict of Laws Issues in Ohada’s Legislative Agenda,236
+4,II. Scarce Conflict of Laws Rules under OHADA Law,238
+4,III. Lack of Conflict of Laws Provisions regarding Intermediated Securities at the OHADA Level,240
+3,B. The Law Applicable to Security Interests in Intermediated Securities under the National Laws of the OHADA Member States,241
+4,I. The lex rei sitae Rule under the Laws of the Ohada Member States,241
+4,II. Rejection of the lex rei sitae Rule and the “Look-Through Approach”,245
+3,C. Summary and Evaluation,249
+2,Chapter 2: The Place of the Relevant Intermediary Approach (Pima) under European Law,250
+3,A. Analysis of the EU Prima Rule,250
+4,I. Contents of the EU Prima Rule,250
+4,II. Illustrations of How Prima Operates,253
+5,1. First Variation of the Fact Pattern: Collateral Provider and Collateral Taker Hold through the Same Intermediary and Collateral Is Provided by way of Pledge,253
+5,2. Second Variation: Collateral Provider and Collateral Taker Hold through Different Intermediaries and Collateral Is Provided by way of Pledge,255
+5,3. Third Variation: Collateral Taker and Collateral Provider Hold through Different Intermediaries and Collateral Is Provided by way of Title Transfer,258
+5,4. Fourth Variation: Collateral Provider Holds through Collateral Taker as Intermediary and Collateral Provided by way of Pledge,260
+3,B. Evaluation of the EU Prima Rule,262
+4,"I. Account “Located”, “Maintained”, “Held”, or “Situated”?",262
+4,II. Unclear Location of Securities Accounts under PRIMA,263
+4,III. Uncertainty as to the Relevant Account under PRIMA,266
+4,IV. Uncertainty as to How Many Laws Apply in the Holding Chain under Prima,267
+4,V. Renvoi,267
+4,VI. The Location of the Securities Account and European Discussions regarding the Hague Securities Convention,268
+3,C. Summary and Evaluation,276
+2,Chapter 3: Conflict of Laws Rules for Intermediated Securities under the Uniform Commercial Code,278
+3,A. Conflict of Laws Issues under UCC Article 8,278
+4,I. Introduction,278
+4,II. Issues governed by the Applicable Law,278
+5,1. Issues governed by the Local Law of the Issuer’s Jurisdiction,278
+5,2. Issues governed by the Local Law of the Securities Intermediary’s Jurisdiction,280
+4,III. Determination of the “Securities Intermediary’s Jurisdiction”,280
+5,1. Introduction,280
+5,2. Specification of the Securities Intermediary’s Jurisdiction by Agreement,281
+5,3. Additional Default Rules for Determining the Securities Intermediary’s Jurisdiction,281
+5,4. Exclusion of Certain Connecting Factors,282
+4,IV. Choice of Law Rules for Adverse Claim Issues,282
+4,V. Example illustrating the Provisions in UCC § 8-110,282
+4,VI. Application of General Choice of Law Rules,283
+3,B. Choice of Law Provisions concerning Security Interests in Security Entitlements,284
+4,I. General Rules,284
+4,II. Exceptions,284
+4,III. Change in Law Governing Perfection,286
+3,C. Entry into Force of the Hague Securities Convention in the United States,286
+4,I. Background and Applicability of the Hague Securities Convention,286
+5,1. Signature and Ratification,286
+5,2. Implementing Legislation,287
+4,II. Scope of Application of the Hague Securities Convention,288
+4,III. Comparison of Hague Securities Convention and UCC Choice of Law Rules,290
+3,D. Summary and Evaluation,292
+2,Chapter 4: The Hague Securities Convention,294
+3,A. History of the Negotiations leading to the Hague Securities Convention,294
+3,B. Scope of Application of the Hague Securities Convention,299
+4,I. Focus Solely on Choice of Law Questions,299
+4,II. Issues to Which the Hague Securities Convention Applies,300
+5,1. Article 2(1) of the Hague Securities Convention,300
+6,a) The Nature of the List,300
+6,b) Analysis of the Content of the List in Article 2(1) of the Hague Securities Convention,303
+7,(1) Legal Nature and Effects of Rights resulting from a Credit of Securities to a Securities Account,303
+7,(2) Legal Nature and Effects of a Disposition,305
+7,(3) Perfection Requirements,307
+7,(4) Priority Issues,308
+7,(5) Duties of an Intermediary Against a Person Asserting a Competing Interest,308
+7,(6) Realisation,309
+7,"(7) Entitlements to Dividends, Income, or Other Distributions, or to Redemption, Sale, or Other Proceeds",309
+4,III. Limitations of the Scope of the Convention Solely to Intermediated Securities,309
+5,1. Introduction,309
+5,2. Proprietary Rights in Respect of Intermediary Securities,310
+5,3. Contractual Claims,311
+6,a) Introduction,311
+6,b) Disposition of an Interest in Securities in case of Contractual Claims against the Intermediary,313
+6,c) Exclusion of Purely Contractual or Otherwise Personal Rights between an Account Holder and its Intermediary Inter Se,313
+5,4. Rights and Duties of an Issuer of Securities or of an Issuer’s Registrar or Transfer Agent,314
+5,"5. Relationship between Article 2(1), (2), and (3) of the Hague Securities Convention",314
+4,IV. Internationality,315
+4,V. Temporal Scope of Application of the Hague Securities Convention,317
+5,1. Entry into Force,317
+6,a) Entry into Force on the International Plane (Article 19(1)),317
+6,b) Entry into Force for a State and for a REIO,320
+7,(1) For the States Bringing the Hague Securities Convention into Force (Article 19(1)),320
+7,(2) For Subsequent States and REIOs (Regional Economic Integration Organizations) under Article 19(2),320
+5,2. Temporal Scope of Application and Pre-convention Account Agreements and Securities Accounts,321
+6,a) Article 16(1),321
+6,b) Article 16(2),321
+7,(1) Guidelines as to the Application of Articles 16(3) and (4),321
+7,(2) Declaration Mechanism,322
+6,c) Article 16(3),322
+7,(1) Interpretative Rule,322
+7,(2) Declaration Mechanism,322
+6,d) Article 16(4),323
+6,e) When the Applicable Law Is Not Determined using Article 16(3) or Article 16(4),323
+3,C. Applicable Law under the Hague Securities Convention,324
+4,I. Introduction: Determining the Applicable Law,324
+4,II. The Primary Rule in Article 4(1),326
+5,1. Operation,326
+5,2. The “Law in Force” and the “Law of” a State,328
+5,3. Requirement of an Express Choice,329
+5,4. Form and Validity of the Choice of Law Clause,330
+5,5. Validity of the Account Agreement,330
+5,6. The Qualifying Office Requirement,331
+6,a) The Debate between the Common Law and the Civil Law Approaches,331
+6,b) The Conditions for a Qualifying Office,332
+6,c) Definition of the Term “Office”,336
+6,d) The Time Factor,336
+6,e) The Qualifying Activity,337
+5,7. Rejection of the Idea of a “Super-PRIMA”,337
+5,8. Explanatory Rules for Transfers by an Account Holder in favour of its Intermediary,338
+4,III. Fall-Back Rules under Article 5 of the Hague Securities Convention,339
+5,1. Introduction,339
+5,2. The First Fall-Back Rule: Article 5(1),339
+6,a) “Written” Agreement,340
+6,b) Express and Unambiguous Statement in the Account Agreement as to a Particular Office,340
+5,3. The Second Fall-Back Rule: Article 5(2),341
+5,4. The Third Fall-Back Rule: Article 5(3),342
+5,5. The “Page 37 Problem”,342
+6,a) Introduction,342
+6,b) Transfers involving Two or More Intermediaries,343
+6,c) The Unitary Solution,345
+6,d) The Problem of “Double-Interests”,347
+3,D. The Black List of Immaterial Factors,348
+3,E. Protection of Rights on Change of the Applicable Law,349
+4,I. Scope of the Provision,349
+4,II. “Old” and “New” Law,350
+4,III. Applicability of the “New” Law under Article 7(3),350
+4,IV. Exceptional Application of the “Old” Law under Article 7(4),351
+5,1. Scope,351
+5,2. Issues governed by the “Old” Law under Article 7(4),352
+4,V. Priority Issues: Article 7(5),353
+3,F. Insolvency,353
+4,I. Scope of Article 8 of the Hague Securities Convention,353
+5,1. Introduction,353
+5,2. Insolvency Proceedings,354
+4,II. Recognition of Interests Acquired prior to an Insolvency Proceeding,355
+4,III. Effects in an Insolvency Proceeding of Previously Acquired Interests,356
+3,G. Exclusion of Choice of Laws Rules (Renvoi),357
+3,H. Public Policy and Mandatory Rules,358
+4,I. Public Policy Exception under Article 11(1) of the Hague Securities Convention,358
+4,II. Mandatory Rules of the Forum,359
+4,III. An Important Limitation under Article 11(3) of the Hague Securities Convention,360
+3,I. Evaluation of the Hague Securities Convention,360
+4,I. Protection of Third-Party Rights,360
+5,1. Transparency,361
+5,2. Abuse,362
+4,II. Interaction with Substantive Law,363
+5,1. Introduction,363
+5,2. Interaction of the Hague Securities Convention with Company Law,363
+5,3. Interaction of the Hague Securities Convention with Securities Law,364
+4,III. Relationship with Public Law,366
+4,IV. Diversity of Laws in the Securities Settlement System,367
+3,J. Summary,367
+2,Chapter 5: Alternative Conflict of Laws Rules and Connecting Factors,369
+3,A. The “Substantive Law Solution” to the Choice of Law Problem,369
+4,I. Regional Unification of Substantive Law in Respect of the Collateralisation of Intermediated Securities under OHADA Law,369
+4,II. Rejection of the Substantive Law Solution,371
+5,1. Inefficiency of the Substantive Law Solution from a Purely Legal Perspective,371
+5,2. Practical Difficulties resulting from the Substantive Law Solution,371
+3,B. The Law of the System,375
+4,I. Introduction to the Rule of the Law of the System,375
+4,II. Evaluation of the Law of the System Rule,376
+3,C. Choice of the Law Applicable to the Collateral Agreement,377
+4,I. Towards Recognition of Party Autonomy in the Law of Property?,377
+5,1. “In Dubio pro Libertate”: Choice of Law in Current European Developments,377
+5,2. Looking for Models for a Reform of International Property Law,382
+6,a) The Russian Civil Code,382
+6,b) The Dutch Private International Law Act,383
+4,II. Choice of Law in Collateral Agreements regarding Intermediated Securities,385
+5,1. Party Autonomy in Collateral Agreements regarding Intermediated Securities,385
+5,2. Legal Risks and Practical Difficulties,386
+3,D. Summary and Evaluation,387
+2,Chapter 6: Comparison of the Operation of the Different Conflict of Laws Rules from an OHADA Perspective,388
+3,A. Fact Pattern,388
+3,B. Variations and Solutions under the Different Choice of Law Rules,389
+4,I. First Variation: Collateral Provider and Collateral Taker Hold through the Same Intermediary and Collateral Is Provided by way of Pledge,389
+5,1. Presentation of the Fact Pattern’s Variation,389
+5,2. Solutions under Different Conflict of Laws Rules,390
+6,a) Solution under PRIMA,390
+6,b) Solution under the Primary Rule of the Hague Securities Convention,391
+6,c) Solution under the Law chosen in the Pledge Agreement,391
+4,II. Second Variation: Collateral Provider and Collateral Taker Hold through Different Intermediaries and Collateral Is Provided by way of Pledge,392
+5,1. A Variation on the Fact Pattern,392
+5,2. Solution under Different Conflict of Laws Rules,394
+6,a) Solution under PRIMA,394
+6,b) Solution under the Primary Rule of the Hague Securities Convention,394
+6,c) Solution under the Law chosen in the Pledge Agreement,394
+4,III. Third Variation: Collateral Taker and Collateral Provider Hold through Different Intermediaries and Collateral Is Provided by way of Title Transfer,395
+5,1. Another Variation on the Fact Pattern,395
+5,2. Solutions under Different Conflict of Laws Rules,397
+6,a) Solution under PRIMA,397
+6,b) Solution under the Primary Rule of the Hague Securities Convention,397
+4,IV. Fourth Variation: Collateral Provider Holds through Collateral Taker as Intermediary and Collateral Provided by way of Pledge,398
+5,1. Another Variation on the Fact Pattern,398
+5,2. Solution under Different Conflict of Laws Rules,398
+6,a) Solution under PRIMA,398
+6,b) Solution under the Primary Rule of the Hague Securities Convention,399
+6,c) Solution under the Law chosen in the Pledge Agreement,400
+3,C. Summary and Evaluation,400
+1,General Conclusion,402
+1,Appendix,408
+2,A. Indicative List of the Travaux Préparatoires for the Financial Collateral Directive,408
+2,B. Indicative List of the Travaux Préparatoires for Directive 2009/44/EC of 6 May 2009,410
+2,C. Proposal of a Uniform Act on the Law Applicable to Certain Rights in Respect of Securities held with an Intermediary,411
+1,Bibliography,428
+1,Index,450

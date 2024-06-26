@@ -1,0 +1,389 @@
+1,Access Controlled,2
+1,Information Revolution and Global Politics,3
+1,Contents,6
+1,Preface,10
+1,Acknowledgments,12
+1,Author Biographies,14
+1,Foreword,16
+1,Part I. Access Controlled: Theory and Analysis,18
+2,1. Beyond Denial,20
+3,Introduction,20
+3,Chapter Overview,24
+3,Conclusion,27
+3,Notes,29
+2,2. Control and Subversion in Russian Cyberspace,32
+3,Introduction,32
+3,RUNET,34
+3,Next.Generation Information Controls in the CIS,37
+3,ONI Tests for Internet Controls in RUNET,38
+3,First-Generation Controls,39
+3,Second-Generation Controls,41
+3,Third-Generation Controls,44
+3,Assessing the Evolution of Next-Generation Controls in the CIS,45
+3,Conclusion: Next-Generation Controls Beyond the CIS?,47
+3,Notes,49
+2,3. The EU Data Retention Directive in an Era of Internet Surveillance,52
+3,Introduction,52
+3,Network Surveillance,53
+3,Server Surveillance,58
+3,Client Surveillance,62
+3,Conclusion,66
+3,Notes,67
+2,4. Barriers to Cooperation,72
+3,Introduction,72
+3,Competing Perceptions of Cooperation,74
+3,The Emergence of Filtering,77
+3,The Legitimization of Filtering,79
+3,Prospects for Dynamic Cooperation,80
+3,Conclusion,83
+3,Notes,83
+2,5. Intermediary Censorship,88
+3,Introduction,88
+3,Points of Control,89
+3,Host-Based Censorship in China,90
+3,OSP-Based Censorship in the United States,91
+3,An Emerging Trend?,94
+3,The Economics of Intermediary Censorship,95
+3,Implications for Researchers,97
+3,Imbalanced Incentives and Free Speech,98
+3,Conclusion,99
+3,Notes,100
+2,6. Protecting Privacy and Expression Online,104
+3,Introduction,104
+3,Government and Business Collide: Expression and Privacy at Risk,106
+3,Government Steps In: Policy and Regulatory Responses,107
+3,Stakeholders Unite: Global Network Initiative,108
+4,Beginnings,109
+4,Participants,110
+4,Foundational Elements,111
+4,Principles,111
+4,Implementation Guidelines,112
+4,"Governance, Learning, and Accountability Framework",113
+3,Criticisms and Challenges,114
+4,Lackluster Participation,114
+4,Accountability,115
+4,Public Communication and Remedy,117
+4,Learning and Understanding,118
+4,Scope and Specificity,118
+3,Criteria for Success,119
+3,Conclusion,120
+3,Notes,122
+1,Part II. Country Profiles and Regional Overviews,126
+2,Introduction to the Country Profiles,128
+3,Sources for Key Indicators,131
+2,Commonwealth of Independent States,134
+3,CIS Overview,136
+4,The CIS Region: Ethnocultural Diversity and a Shared Historical Space,138
+4,Access to the Internet in the CIS,139
+4,The Role of New Technology in the CIS,140
+4,Legal and Regulatory Mechanisms to Control the Internet in the CIS,141
+4,Restrictions on Access to or Dissemination of Certain Types of Content,141
+5,Restriction of Internet Content under State General Laws,141
+5,Restrictions Envisioned in the Internet Service Agreements between the ISPs and their Customers,142
+5,Registration Requirements for Internet Web Sites,142
+5,Defamatory Provisions,143
+5,National Security Concerns,143
+5,Surveillance,144
+4,Other Means to Control the Internet,145
+5,Event-Based Interventions,145
+5,The Case of Kyrgyzstan (2005),145
+5,The Case of Belarus (2006),146
+5,Crowd-Sourced Attacks: Pro-Government or Patriotic Hacktivists,146
+4,Administrative Mechanisms to Shut Down Access to the Internet,147
+5,Legal Deregistration of Domain Names and Web Sites,147
+5,Self-Censorship,147
+4,Emerging Second- and Third-Generation Controls in the CIS,148
+5,Telecoms and ISP Market Players,148
+5,Upstream Filtering,149
+4,Conclusion,150
+4,Notes,150
+3,Armenia,154
+4,Background,154
+4,Internet in Armenia,155
+4,Legal and Regulatory Framework,158
+4,Surveillance,160
+4,ONI Testing Results,161
+4,Conclusion,161
+4,Notes,161
+3,Azerbaijan,166
+4,Background,166
+4,Internet in Azerbaijan,168
+4,Legal and Regulatory Frameworks,171
+4,Surveillance,172
+4,ONI Testing Results,173
+4,Conclusion,174
+4,Notes,175
+3,Belarus,178
+4,Background,178
+4,Internet in Belarus,179
+4,Legal and Regulatory Frameworks,181
+4,Surveillance,183
+4,ONI Testing Results,184
+4,Conclusion,185
+4,Notes,186
+3,Georgia,190
+4,Background,190
+4,Internet Infrastructure,191
+4,Legal and Regulatory Framework,193
+4,Internet Filtering during the 2008 Russia-Georgia War,195
+4,Surveillance,196
+4,ONI Testing Results,196
+4,Conclusion,197
+4,Notes,197
+3,Kazakhstan,200
+4,Background,200
+4,Internet in Kazakhstan,201
+4,Legal and Regulatory Frameworks,203
+4,Surveillance,204
+4,ONI Testing Results,205
+4,Conclusion,205
+4,Notes,206
+3,Kyrgyzstan,208
+4,Background,208
+4,Internet Infrastructure,209
+4,Legal and Regulatory Frameworks,212
+4,Surveillance,213
+4,ONI Testing Results,214
+4,Conclusion,214
+4,Notes,215
+3,Moldova,218
+4,Background,218
+4,Internet in Moldova,219
+4,Legal and Regulatory Frameworks,220
+4,Surveillance,222
+4,ONI Testing Results,223
+4,Conclusion,223
+4,Notes,224
+3,Russia,226
+4,Background,226
+4,Internet Infrastructure,228
+4,Legal and Regulatory Frameworks,231
+4,Surveillance,235
+4,ONI Testing Results,237
+4,Conclusion,237
+4,Notes,237
+3,Tajikistan,244
+4,Background,244
+4,Internet in Tajikistan,245
+4,Legal and Regulatory Frameworks,248
+4,Surveillance,249
+4,ONI Testing Results,249
+4,Conclusion,250
+4,Notes,250
+3,Turkmenistan,254
+4,Background,254
+4,Internet Infrastructure,256
+4,Legal and Regulatory Frameworks,259
+4,Surveillance,261
+4,ONI Testing Results,262
+4,Conclusion,262
+4,Notes,262
+3,Ukraine,266
+4,Background,266
+4,Internet in Ukraine,268
+4,Legal and Regulatory Frameworks,270
+4,Surveillance,274
+4,ONI Testing Results,276
+4,Conclusion,276
+4,Notes,276
+3,Uzbekistan,282
+4,Background,282
+4,Internet in Uzbekistan,284
+4,Legal and Regulatory Frameworks,285
+4,Surveillance,287
+4,ONI Testing Results,288
+4,Conclusion,289
+4,Notes,289
+2,Europe,294
+3,Europe Overview,296
+4,Regional Regulation,296
+4,Copyright,298
+4,Social Filtering,300
+4,Nationalistic Filtering,301
+4,Hate Speech,302
+4,Defamation,303
+4,Surveillance,305
+4,Conclusion,307
+4,Notes,308
+3,France,314
+4,Background,314
+4,Internet in France,316
+4,Legal and Regulatory Frameworks,317
+4,Surveillance,317
+4,ONI Testing Results,319
+4,Conclusion,319
+4,Notes,319
+3,Germany,324
+4,Background,324
+4,Internet in Germany,325
+4,Legal and Regulatory Frameworks,326
+4,Surveillance,328
+4,ONI Testing Results,329
+4,Conclusion,330
+4,Notes,330
+3,Italy,334
+4,Background,334
+4,Internet in Italy,335
+4,Legal and Regulatory Frameworks,336
+4,Internet Surveillance,338
+4,ONI Testing Results,338
+4,Conclusion,338
+4,Notes,339
+3,Nordic Countries,342
+4,Regional ICT Penetration,342
+4,Regional Regulation,343
+4,Copyright,344
+4,Filtering,345
+4,Surveillance,347
+4,Perspectives,349
+4,Conclusion,351
+4,Notes,352
+3,Turkey,358
+4,Background,358
+4,Internet in Turkey,359
+4,Legal and Regulatory Frameworks,361
+5,Regulatory Framework,361
+5,Legal Framework,362
+5,Turkey Mass Media Laws Regulating Freedom of Expression,363
+5,Turkey Internet Laws Regulating Freedom of Expression and Freedom of Information,364
+5,Defamation,368
+4,Surveillance,369
+4,ONI Testing Results,370
+4,Conclusion,370
+4,Notes,371
+3,United Kingdom,374
+4,Background,374
+4,Internet in the United Kingdom,375
+4,Legal and Regulatory Frameworks,376
+4,Internet Surveillance,378
+4,ONI Testing Results,379
+4,Conclusion,379
+4,Notes,379
+2,North America,384
+3,United States and Canada Overview,386
+4,Regulating Obscene and Explicit Content,387
+4,Regulation of Online Gambling,392
+4,Defamation,393
+4,Copyright,394
+4,Computer Security,396
+4,Network Neutrality,397
+4,Surveillance,397
+4,Conclusion,398
+4,Notes,399
+2,Australia and New Zealand,406
+3,Australia and New Zealand Overview,408
+4,Offensive Content,409
+4,Hate Speech,412
+4,Copyright,413
+4,Defamation,415
+4,Surveillance,417
+4,Conclusion,418
+4,Notes,418
+2,Asia,424
+3,Asia Overview,426
+4,Internet in Asia,427
+4,Legal and Regulatory Frameworks,430
+4,Filtering,435
+4,Conclusion,438
+4,Notes,439
+3,Burma,448
+4,Background,448
+4,Internet in Burma,450
+4,Legal and Regulatory Frameworks,453
+4,Surveillance,455
+4,ONI Testing Results,456
+4,Conclusion,459
+4,Notes,459
+3,China,466
+4,Background,466
+4,Internet in China,470
+4,Legal and Regulatory Frameworks,473
+4,Surveillance,480
+5,Real-Name Registration,481
+5,Data Retention,482
+5,Cyber Attacks,484
+4,ONI Testing Results,484
+5,Filtering during the 2008 Olympic Games,485
+4,Conclusion,490
+4,Notes,490
+3,Pakistan,506
+4,Background,506
+4,Internet in Pakistan,508
+4,Legal and Regulatory Frameworks,509
+4,Internet Surveillance,511
+4,ONI Testing Results,512
+4,Conclusion,514
+4,Notes,515
+3,South Korea,520
+4,Background,520
+4,Internet in South Korea,521
+4,Legal and Regulatory Frameworks,523
+4,Surveillance,528
+4,ONI Testing Results,530
+4,Conclusion,530
+4,Notes,531
+2,Middle East and North Africa,538
+3,MENA Overview,540
+4,Introduction,540
+4,The Media Environment,541
+4,Internet and Media Regulations: The Debate,542
+4,Access Control,543
+5,"Press and Publication Laws, Penal Codes, Emergency Laws, and Antiterrorism Bills",543
+5,Internet-Specific Laws,544
+5,Terms and Conditions of ISPs,544
+5,Telecommunications Laws,545
+4,Surveillance and Monitoring,545
+4,Technical Filtering,546
+4,Regional Trends in Access Control,547
+4,Conclusion,548
+4,Notes,549
+3,Egypt,554
+4,Background,554
+4,Internet in Egypt,555
+4,Legal and Regulatory Frameworks,556
+4,Surveillance,558
+4,ONI Testing Results,559
+4,Conclusion,559
+4,Notes,559
+3,Iran,562
+4,Background,562
+4,Internet in Iran,564
+4,Legal and Regulatory Frameworks,565
+4,Surveillance,568
+4,ONI Testing Results,569
+4,Conclusion,572
+4,Notes,572
+3,Saudi Arabia,578
+4,Background,578
+4,Internet in Saudi Arabia,579
+4,Legal and Regulatory Framework,580
+4,Surveillance,582
+4,ONI Testing Results,582
+4,Conclusion,584
+4,Notes,584
+3,Syria,588
+4,Background,588
+4,Internet in Syria,589
+4,Legal and Regulatory Frameworks,590
+4,Surveillance,591
+4,ONI Testing Results,592
+4,Conclusion,594
+4,Notes,594
+3,Tunisia,598
+4,Background,598
+4,Internet in Tunisia,599
+4,Legal and Regulatory Frameworks,600
+4,Surveillance,601
+4,ONI Testing Results,601
+4,Conclusion,602
+4,Notes,603
+3,United Arab Emirates,606
+4,Background,606
+4,Internet in the UAE,607
+4,Legal and Regulatory Framework,608
+4,Surveillance,610
+4,ONI Testing Results,610
+4,Conclusion,613
+4,Notes,613
+1,Glossary of Technical Terms,616
+1,Index,620

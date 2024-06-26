@@ -1,0 +1,71 @@
+﻿1,Revisiting China's Competition Law and Its Interaction with Intellectual Property Rights,1
+1,Foreword,5
+1,Table of Contents,7
+1,Abstract,11
+1,Acronyms and Abbreviations,13
+1,I. Introduction: China’s Successful Journey Toward A Modern Judicial System,15
+2,A. China’s Socio-Economic Progress,15
+2,B. Origins of China’s Anti-Monopoly Law,16
+2,C. Origins of China’s Patent Law,19
+2,D. Interaction between Competition Policy and Intellectual Property Law,22
+3,1. Coherent goals of the two systems,22
+3,2. Possible conflicts between the two systems,22
+2,E. Main Themes Covered in This Thesis,24
+1,II. China’s Anti-Monopoly Law – A Reflection of the Successful Transition from a Centrally-Planned to a Market Economy,25
+2,A. Important Milestones,25
+2,B. China’s Competition Regime Prior to the AML,26
+3,1. The Anti-Unfair Competition Law of 1993,26
+3,2. The Price Law of 1997,28
+2,C. The Anti-Monopoly Law Comes into Force,29
+2,D. Institutional Design of Competition Agencies under the AML,31
+3,1. Administrative enforcement agencies,31
+3,2. Judicial enforcement,33
+2,E. Future Challenges,34
+1,III. EU Competition Policy – Main Reference for China’s Anti-Monopoly Law,36
+2,A. Background Information,36
+2,B. Why the US Competition Law Did Not Serve As the Main Model?,37
+2,C. Comparison Between EU and Chinese Competition Regimes,38
+3,1. Multiple goals,38
+3,2. Institutional design and enforcement,41
+4,2.1. Significance of administrative route for both jurisdictions,41
+4,2.2. Growing importance of private actions in both jurisdictions,42
+3,3. Legal framework and comparison of stipulations,43
+2,D. Dynamics of Competition Policy,46
+1,IV. China’s 2017 IP Guidelines,47
+2,A. China at the Crossroads between Competition Enforcement and Intellectual Property Rights,47
+2,B. Characteristics and Main Principles of the IP Guidelines,48
+3,1. Principles of analysis – Art. 1,49
+3,2. Safe harbour principle – Art. 12,49
+3,3. Refusal to license IPRs – Art. 15,50
+4,3.1 The essential facility doctrine adopted by SAIC,51
+4,3.2 The essential facility doctrine from the US perspective,51
+4,3.3 The essential facility doctrine under the EU law,53
+4,3.4 Compulsory license under TRIPs Agreement,55
+4,3.5 Inevitable legal uncertainty of the essential facility doctrine,55
+3,4. SEP licensing,56
+2,C. Some Concluding Remarks,57
+1,V. Competition Policy and IPRs: Well-Functioning Symbiosis – A Case Study,59
+2,A. Brief Introduction to SEP and Related Issues,59
+2,B. Judicial Decision on Huawei v. InterDigital,61
+3,1. Case outline,61
+3,2. Substantial rulings of the Chinese courts,62
+4,2.1 IDC holds a dominant position,62
+4,2.2 Abuse of dominant position in licensing SEP technology,63
+3,3. Comments on main findings of the Chinese courts,63
+4,3.1 Definition of market dominance by Guangdong High Court,64
+4,3.2 Abuse of dominant position,65
+4,3.3 Chinese court sets the royalty rate,66
+4,3.4 SEP-related controversies,67
+2,C. Possible Ways Ahead,71
+1,VI. Conclusions,73
+1,List of Works Cited,75
+2,Books,75
+2,Monographies and Articles,75
+2,Cases,77
+3,China,77
+3,European Union,77
+3,US,77
+3,European Union Primary and Secondary Legislations,77
+3,Chinese Primary and Secondary Legislations,77
+3,International Treaty,78
+3,Other Sources,78

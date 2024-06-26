@@ -1,0 +1,100 @@
+﻿1,BORDER FLOWS: A Century of the Canadian-American Water Relationship,1
+1,Canadian History and Environment Series,4
+1,INTRODUCTION,19
+2,Negotiating Abundance and Scarcity: Introduction to a Fluid Border,21
+3,Notes,38
+1,PART ONE - Finding the Border: Political Ecologies of Water Governance and Tenure,45
+2,Openings: Political Ecologies on the Border,47
+3,Notes,54
+2,"1 A Citizen’s Legal Primer on the Boundary Waters Treaty, International Joint Commission,and Great Lakes Water Management",57
+3,I. Introduction: The Origins of United States–Canada Water Management,57
+3,II. U.S. Context: Approaches to Transboundary (Interstate) Water Management,60
+4,Interstate Water Allocation through Equitable Apportionment,61
+4,Interstate Water Allocation through Interstate Compacts,61
+4,Historical Interstate Nuisance: Example of the Chicago Diversion Litigation,63
+4,Contemporary Interstate Nuisance: Asian Carp and the Chicago Diversion Today,65
+3,III. Binational Context: International Agreements on Water Management,67
+4,Ambitious but Unenforceable: International Agreements Prior to the Great Lakes–St. Lawrence River Basin  Compact and Agreement,67
+5,THE GREAT LAKES WATER QUALITY AGREEMENT,67
+5,THE GREAT LAKES CHARTER OF 1985,69
+5,ANNEX 2001 TO THE GREAT LAKES CHARTER,71
+4,Creating Enforceable Authority: Domestic Legislation and the Run Up to the Great Lakes–St. Lawrence River Basin Water Resources Compact and Agreement,73
+4,The Great Lakes–St. Lawrence River Basin Sustainable Water Resources Agreement and Great Lakes–St. Lawrence River Basin Water Resources Compact,74
+5,STATE-PROVINCIAL COOPERATION UNDER THE GREAT LAKES AGREEMENT,76
+5,Interstate Management under the Great Lakes Compact,78
+3,IV. CONCLUSION,79
+3,Notes,80
+2,"2 Treaties, Wars, and Salish SeaWatersheds: The Constructed Boundaries of Water Governance",83
+3,I. Introduction,83
+3,II. Defining “The Border”: A Process of Social Construction,84
+3,III. Sharing a Continent: Indigenous Space and Governing Water,87
+4,"Drawing Lines, Treaty by Treaty",87
+4,Making Native Space: Water Is Life ... Billy’s Story,90
+4,The Coast Salish Gatherings Today: A Transboundary Success Story,94
+3,IV. Sharing a Landscape: Watershed Boundaries as “New” Borderlands,95
+4,Beyond the Westphalian Model,95
+4,The IJC Embraces Integrated Water Resource Management,97
+4,The Hidden Complexity of Watershed Boundaries: Challenges and Uncertain Outcomes,98
+3,V. Conclusion: Sharing a Landscape,100
+3,Notes,101
+2,3 Contesting the Northwest Passage: Four Far-North Narratives,105
+3,I. A Nineteenth-Century Frontier: The Initial Claim,106
+3,II. World War II and the Cold War: A Boundary to Control and Damn the Consequences,109
+3,III. 1970–1990: A Region to Protect Environmentally,112
+3,IV. Present Day: Resources to Develop,117
+3,Notes,121
+1,"PART TWO - Constructing the Border: Hydropolitics, Nationalism, and Megaprojects",129
+2,Openings: Transboundary Power Flows,131
+3,Notes,138
+2,"4 Dam the Consequences: Hydropolitics, Nationalism, and the Niagara–St. Lawrence Projects",141
+3,Introduction,141
+3,Negotiations,143
+3,Postwar Agreements,148
+3,Construction,151
+3,"Water, Technology, and Nationalism",156
+3,Conclusion,162
+3,Notes,164
+2,5 Quebec’s Water Export Schemes: The Rise and Fall of a Resource Development Idea,169
+3,Power from the North: Quebec experimenting with the water export idea,172
+3,Strong Lobbying by the Business Community,175
+4,Water Tanker Exports: Saving the Water-Poor Is Not Profitable,175
+3,Renewal of the Export Scheme to the United States,178
+3,Conclusion,181
+3,Notes,182
+2,6 Engineering a Treaty: The Negotiation of the Columbia River Treaty of 1961/1964,187
+3,Notes,208
+1,PART THREE - Challenging the Border: Ecological Agents of Change,223
+2,Openings: Border Ecologies in Boundary Waters,225
+3,Notes,231
+2,"7 Lines That Don’t Divide: Telling Tales about Animals, Chemicals,and People in the Salish Sea",233
+3,Notes,247
+2,"8 Resiliency and Collapse: Lake Trout, Sea Lamprey, and Fisheries Management in Lake Superior",257
+3,Lake Trout,259
+3,Lake Superior Overview,260
+3,Watershed Changes,263
+3,Fishing,266
+3,Sea Lamprey,269
+3,Lake Trout Recovery,271
+3,Climate Change and Lake Superior,273
+3,Conclusion,275
+3,Notes,277
+1,PART FOUR: Reflections in the Water,281
+2,Openings: The Lakes at Night,283
+3,Note,287
+2,9 Finding Our Place,289
+1,Crossings,289
+1,Meditations on Ice,293
+1,Bordering on Significance?,297
+1,To Market, to Market,303
+1,Leading Waters,307
+1,"On Frames, Perspectives, and Vanishing Points",311
+1,Headwaters of Hope,313
+1,Afterword,315
+2,Keeping Up the Flow,317
+3,Notes,325
+1,Further Reading,327
+2,I. Archival Collections,327
+2,II. Printed Primary Sources and Government Documents,328
+2,III. Secondary Sources,330
+1,Contributors,347
+1,Index,353
