@@ -41,4 +41,4 @@ You can find the dataset here:
 This code was tested with Python 3.11 on Xubuntu 22.04.4 LTS x86_64 
 
 ## License
-The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International license](LICENSE_DATA.md), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE).
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International license](LICENSE_DATA.md), and the underlying source code is licensed under the [MIT license](LICENSE).
