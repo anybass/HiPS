@@ -18,10 +18,11 @@ You can find the dataset here:
   - Level, Heading, Page
     
 ## Steps for the Reproduction of the Experiments
-### TOC-based PageParser
+### TOC-based PageParser and LLM-Refined PageParser
 1. Make sure you have poppler-utils installed, including [pdftohtml](https://manpages.debian.org/testing/poppler-utils/pdftohtml.1.en.html)
 2. [pdftoxml.py](./toc-based-page-parser/pdftoxml.py)
-3. [toc_processing_segmentation.ipynb](./toc-based-page-parser/toc_processing_segmentation.ipynb)
+3. [gpt4segmentation.py](./gpt4segmentation.py), make sure to enter your personal OpenAI Api key (running this script will cause costs). After this, a folder title_candidates will be created with LLM CSV output and error logs. There is minimal manual effort required to clean the resulting CSV files. Simply remove any output which is an explanation instead of a title candidate and store the corrected files in the title_candidates_clean folder. Since we assume reproducing the experiments with a proprietary LLM like GPT-4 may not be feasible, we included our output in the [title_candidates_clean](./title_candidates_clean) folder. You can therefore download the files and proceed with step 4 without querying the LLM again.
+4. 4. [toc_processing_segmentation.ipynb](./toc-based-page-parser/toc_processing_segmentation.ipynb)
 
 ### Pdfstructure
 1. Get the repo from here: [https://github.com/ChrizH/pdfstructure](https://github.com/ChrizH/pdfstructure)
