@@ -133,7 +133,7 @@
 4,4.1.2. Potential claimants (jurisdiction ratione personae),168
 5,4.1.2.1. The host state as potential claimant,168
 5,4.1.2.2. The investor as sole potential claimant,169
-4,"4.1.3. Express, tacit, and implied consent to counterclaims",170
+4,"4.1.3. Express, tacit, and implied consent to counterclaims",171
 4,4.1.4. Express exclusions of counterclaims,174
 4,4.1.5. Forum selection agreements,175
 3,4.2. Factual and juridical connexity between claims and counterclaims,176

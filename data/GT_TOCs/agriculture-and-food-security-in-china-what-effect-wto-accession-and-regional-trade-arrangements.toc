@@ -32,7 +32,7 @@
 3,Agrcultural trade reforms,66
 3,Domestc market reform and nfrastructure development,67
 3,Land-use polcy,68
-3,Farm organsatons,69
+3,Farm organisations,69
 3,Export subsdes and agrcultural support polces,69
 3,New agrcultural and rural development polces,70
 2,Conclusions,71

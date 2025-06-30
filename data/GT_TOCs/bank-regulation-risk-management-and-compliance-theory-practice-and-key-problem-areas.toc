@@ -432,7 +432,7 @@
 5,9.3.2.5 Corporate governance issues relating to a CMS,274
 4,9.3.3 Residual risk exposure,275
 5,9.3.3.1 Regulators’ assessment of residual risk exposure,275
-5,9.3.3.2 Examiners’ risk-based approach to CMS,276
+5,9.3.3.2 Examiners’ risk-based approach to CMS,275
 3,9.4 The primary areas of consumer protection law and risk management and compliance implications,276
 4,9.4.1 Consumer Financial Protection Bureau,276
 4,9.4.2 Three regulatory approaches in consumer protection law,277

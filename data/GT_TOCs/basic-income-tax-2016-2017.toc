@@ -51,7 +51,7 @@
 4,Notes and Questions:,102
 3,B. Section 61(a)(3): Gains Derived from Dealings in Property,102
 4,Hort v. CIR, 313 U.S. 28 (1941),103
-4,Notes and Questions:,51
+4,Notes and Questions:,105
 4,"United States v. Gehl, 50 F.3d 12 (unpublished), 1995 WL 115589 (CA8), cert. denied, 516 U.S. 899 (1995)",106
 5,BACKGROUND,106
 5,DISCUSSION,108
@@ -162,7 +162,7 @@
 3,A. Present Law and Legislative Background,292
 4,Present Law In general,292
 5,Marriage penalties due to rate brackets and the standard deduction,292
-5,Marriage penalties and bonuses due to income-based phaseins and phaseouts,294
+5,Marriage penalties and bonuses due to income-based phaseins and phaseouts,293
 5,Marriage penalties for low-income individuals,294
 5,Legislative Background,294
 5,Analysis Data relating to marriage penalty under present law,296

@@ -17,7 +17,7 @@
 3,VI. Direct Democracy,47
 4,1. FEDERAL LEVEL,47
 4,2. CANTONAL LEVEL,50
-4,3. COMMUNAL LEVEL,31
+4,3. COMMUNAL LEVEL,51
 3,VII. Legislative Process,52
 3,VIII. Publication of Federal Laws,56
 3,IX. Case Citation,58
@@ -70,9 +70,9 @@
 2,Christoph Beat Graber Legal Sociology,134
 3,I. What is Legal Sociology?,136
 4,1. DISCIPLINE,136
-4,2. METHOD,38
+4,2. METHOD,138
 3,"II. Law, Society and Direct Democracy",140
-4,1. POLITICAL AUTONOMY,40
+4,1. POLITICAL AUTONOMY,140
 4,2. DIRECT DEMOCRACY,143
 4,3. PUBLIC SERVICE BROADCASTING,150
 5,a) Media Consumption and the Internet,150
@@ -89,8 +89,8 @@
 4,"4. FEDERATION, CANTONS, COMMUNES",170
 4,"5. FEDERAL ASSEMBLY, FEDERAL COUNCIL, FEDERAL COURTS",173
 3,II. Principles,176
-4,1. (SEMI-) DIRECT DEMOCRACY,76
-5,a) Popular Initiative,76
+4,1. (SEMI-) DIRECT DEMOCRACY,176
+5,a) Popular Initiative,176
 5,c) “Landsgemeinde” as Cantonal Particularity,179
 4,2. MULTI-PARTY GOVERNMENT,180
 4,3. LIMITED CONSTITUTIONAL REVIEW,181

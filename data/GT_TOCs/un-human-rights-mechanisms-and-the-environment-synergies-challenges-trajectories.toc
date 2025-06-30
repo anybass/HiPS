@@ -64,7 +64,7 @@
 4,3.2.3 Sustainable Development and SDGs,88
 3,3.3 Conclusion,89
 3,Notes,90
-3,References
+3,References,97
 2,4 Special Procedures Mandate Holders,102
 3,4.1 Introduction,102
 3,4.2 Appointment of a Special Rapporteur on Human Rights and the Environment,102

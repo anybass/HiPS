@@ -1,0 +1,138 @@
+﻿1,Social Statistics and Ethnic Diversity,4
+1,Contents,6
+1,Chapter 1 The Making of Racial and Ethnic Categories: Official Statistics Reconsidered,8
+2,1.1 Introduction,8
+2,1.2 Comparative Accounts of Ethnic Statistics,10
+2,1.3 Enumeration and Identity Politics,12
+2,1.4 Measurement Issues and Competing Claims,15
+2,1.5 Conclusion,18
+2,References,19
+1,Part I Comparative Accounts of Ethnic Statistics,22
+2,Chapter 2 Ethnic Classification in Global Perspective: A Cross-National Survey of the 2000 Census Round,23
+3,2.1 Introduction,23
+3,2.2 Classification by Ethnicity,24
+3,2.3 Data and Methodology,25
+3,2.4 Findings,27
+4,2.4.1 Frequency of Ethnic Enumeration,27
+4,2.4.2 Census Ethnicity Questions,28
+5,2.4.2.1 Terminology and Geographic Distribution,28
+5,2.4.2.2 The Language of Census Ethnicity Questions: The Subjectivity of Identity,31
+4,2.4.3 Answering the Ethnicity Question,32
+5,2.4.3.1 Response Formats,32
+5,2.4.3.2 Response Options,35
+3,2.5 Conclusions,37
+4,2.5.1 Summary of Findings,37
+4,2.5.2 Evaluating Ethnic Enumeration,37
+3,Appendix: Countries Included in Regional Groupings,40
+3,References,42
+2,Chapter 3 ‘Inside Out’: The Politics of Enumerating the Nation by Ethnicity,44
+3,3.1 Introduction,44
+3,3.2 The Politics of Classifying and Counting by Ethnicity,45
+3,3.3 Factors Internal to States That Affect Ethnic Enumeration,48
+4,3.3.1 Ethnic Group Relations,48
+4,3.3.2 Immigration,49
+4,3.3.3 Post-colonial Sovereignty,49
+4,3.3.4 Resources,50
+3,3.4 Factors External to States That Affect Ethnic Enumeration,51
+3,3.5 Data and Method,52
+4,3.5.1 Variables,54
+3,3.6 Results,57
+3,3.7 Discussion,63
+3,References,65
+1,Part II Enumeration and Identity Politics,67
+2,Chapter 4 The Choice of Ignorance: The Debate on Ethnic and Racial Statistics in France,68
+3,4.1 Introduction,68
+3,4.2 The Categories of Public Statistics,70
+3,4.3 The Controversies on ‘Ethnic Statistics’,74
+3,4.4 The Search for Alternatives: Replacements and Placebos,80
+3,4.5 Antidiscrimination as a New Political Frame,84
+3,References,88
+2,Chapter 5: Ethnic and Linguistic Categories in Quebec: Counting to Survive,91
+3,5.1 Introduction,91
+3,5.2 Ethnic Categories and Survival: 1860–1960,92
+3,5.3 Ethnic and Language Categories in the Context of Catching-up: 1960–1990,94
+3,5.4 Since 1990: Civic or Ethnic Nationalism?,96
+3,5.5 Conclusion,98
+3,References,99
+2,Chapter 6 Brazilian Ethnoracial Classification and Affirmative Action Policies: Where Are We and Where Do We Go?,103
+3,6.1 Introduction,103
+3,6.2 The Racial Classification,104
+3,6.3 Studies on Racial Inequalities,105
+3,6.4 What Surveys Say,106
+4,6.4.1 Polysemy and Ambiguity of the Brown Category,107
+4,6.4.2 Racial Classification: Its Relational Nature,108
+3,6.5 Critical Perspective,109
+3,6.6 Conclusions,109
+3,References,111
+2,Chapter 7 The Ethnic Question: Census Politics in Great Britain,112
+3,7.1 Introduction,112
+3,7.2 Not Counting in the Name of Multiculturalism: Census Politics in the 1970s and 1980s,115
+3,7.3 Counting to Justify Positive Action: The 1991 Census,124
+3,7.4 Counting in the Name of Multiculturalism: The 2001 Census,127
+3,7.5 Conclusion,132
+3,Appendices,135
+4,Appendix 7.1: 1991 Census,135
+4,Appendix 7.2: 2001 Census,136
+3,References,137
+1,Part III Measurement Issues and Competing Claims,141
+2,Chapter 8 Counting Ethnicity in Malaysia: The Complexity of Measuring Diversity,142
+3,8.1 Introduction,142
+3,8.2 Ethnic Diversity in Malaysia,143
+3,8.3 The Measurement of Ethnicity in the Census,148
+3,8.4 Measurement of Ethnicity for Other Purposes,155
+3,8.5 Concluding Remarks,158
+3,Appendices,162
+4,"Appendix 8.1: Characteristics of Ethnic Classifications in Various Censuses, Malaysia",162
+4,Appendix 8.2: Constitution of Malaysia: Definitions of Ethnicity,169
+5,Article 160,169
+5,Article 161,169
+4,Appendix 8.3: Areas in Which Special Privileges May be Provided,170
+5,Article 153 of the Constitution,170
+3,References,170
+2,Chapter 9 The Growth of Ethnic Minorities in Uruguay: Ethnic Renewal or Measurement Problems?,173
+3,9.1 Introduction,173
+3,9.2 Ethnic and Race Relations in Uruguay,174
+3,9.3 Ethnic and Racial Identifications According to the Encuesta Continua de Hogares,176
+4,9.3.1 The ECH of 1996–1997,176
+4,9.3.2 The ENHA of 2006,178
+3,9.4 Comparing the Household Surveys of 1996 and 2006: Changes and Continuities,179
+3,"9.5 Searching for Explanations: Ethnic Revival, or Measurement Problems?",180
+4,9.5.1 Questionnaire Design and Wording Effects,181
+4,9.5.2 The Revitalization of Racial and Ethnic Roots in Uruguay,182
+3,9.6 Discussion: Racial Inequality and Racial Classification,184
+3,References,186
+2,Chapter 10 The Objective Approaches of Ethnic Origins in Belgium: Methodological Alternatives and Statistical Implications,188
+3,10.1 Introduction,188
+3,10.2 Nationality-Based Statistics Assessment and Contemporary Issues,189
+4,"10.2.1 The Paradox of Foreigners’ Demography: More Immigration, Fewer Foreigners",189
+4,10.2.2 Statistical Analysis and Reverse Conclusions,192
+4,10.2.3 A Necessary Reflection on the Analysis Categories,194
+3,10.3 Possible Alternative Definitions for Immigration Populations,195
+4,10.3.1 Foreign Examples,195
+4,10.3.2 Operationalization Limitations in Belgium,196
+5,10.3.2.1 Statutory Bans,196
+5,10.3.2.2 Ethical Ethnic Statistics?,197
+4,10.3.3 Data Availability and Accessibility,198
+3,10.4 Alternative Statistics and the Impacts of the Definitions,199
+4,10.4.1 Development and Criticism of Statistics on Nationality at Birth,199
+4,10.4.2 Emergence of the First Estimations Based on Parent Characteristics,201
+3,10.5 Conclusion,203
+3,References,204
+2,Chapter 11 Social Inequalities and Indigenous Populations in Mexico: A Plural Approach,206
+3,11.1 Introduction,206
+3,11.2 Indigenous Individuals and Households: Possible Definitions,207
+4,"11.2.1 Three Separate Criteria: Speakers, Mono- or Bilingualism and Self-Identified Ethnicity",207
+4,11.2.2 Household Structure and Collective Identity: A Criterion of Linguistic and Ethnic Homogeneity,208
+4,11.2.3 Population Size: A Statistical Partition of the Indigenous World,210
+3,11.3 Indigenous Specificity and Heterogeneity: Multivariate Analysis of Household Characteristics,213
+4,11.3.1 A Strong Relationship Between Social Position and Ethno-Linguistic Characteristics,214
+4,"11.3.2 Social Differentiation, Economic Geography and Segregation of Ethnic Groups",218
+3,11.4 Conclusion,223
+3,References,224
+2,Chapter 12 Fuzzy Definitions and Demographic Explosion of Aboriginal Populations in Canada from 1986 to 2006,226
+3,12.1 Introduction,226
+3,12.2 Fuzzy Definitions,227
+3,12.3 Demographic Explosion,229
+3,12.4 Ethnic Mobility,235
+3,12.5 Concluding Remarks,239
+3,References,240
