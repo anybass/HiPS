@@ -47,7 +47,7 @@
 3,4.4 The Search for Alternatives: Replacements and Placebos,80
 3,4.5 Antidiscrimination as a New Political Frame,84
 3,References,88
-2,Chapter 5: Ethnic and Linguistic Categories in Quebec: Counting to Survive,91
+2,Chapter 5 Ethnic and Linguistic Categories in Quebec: Counting to Survive,91
 3,5.1 Introduction,91
 3,5.2 Ethnic Categories and Survival: 1860–1960,92
 3,5.3 Ethnic and Language Categories in the Context of Catching-up: 1960–1990,94
