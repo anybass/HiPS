@@ -44,7 +44,7 @@ Note: We are currently updating this part of the code with the new LLM-Refined P
 4. Run python [./grobid/check_section_levels.py](./grobid/check_section_levels.py)
 
 ### Marker
-1. Install marker with pip ```pip install "marker-pdf[full]``` (see also: [the marker repo](https://github.com/datalab-to/marker))
+1. Install marker with pip ```pip install marker-pdf[full]``` (see also: [the marker repo](https://github.com/datalab-to/marker))
 2. Make sure you follow our folder structure, having the scripts in a "marker" folder
 3. Run python [./marker/convert_pdfs_with_structure.py](./marker/convert_pdfs_with_structure.py)
 
