@@ -18,6 +18,7 @@ You can find the dataset here:
   - Level, Heading, Page
     
 ## Steps for the Reproduction of the Experiments
+Note: We are currently updating this part of the code with the new LLM-Refined PageParser experiments, stay tuned!
 ### TOC-based PageParser and LLM-Refined PageParser
 1. Make sure you have poppler-utils installed, including [pdftohtml](https://manpages.debian.org/testing/poppler-utils/pdftohtml.1.en.html)
 2. [pdftoxml.py](./toc-based-page-parser/pdftoxml.py)
@@ -29,6 +30,23 @@ You can find the dataset here:
 2. Replicate the folder structure from this repository, and insert the current code of pdfstructure in the folder: [./pdfstructure-master/pdfstructure/](./pdfstructure-master/)
 3. Fix the bug that may still be in pdfminer (otherwise almost no PDF will process). Follow the instruction in [./pdfstructure-master/bugfixing_modification_in_pdfminer.txt](./pdfstructure-master/bugfixing_modification_in_pdfminer.txt).
 4. [extract_structure.ipynb](./pdfstructure-master/extract_structure.ipynb)
+
+### Docling
+1. Install docling with pip, see also [https://github.com/docling-project/docling](https://github.com/docling-project/docling)
+2. Make sure you follow our folder structure, having the scripts in a "docling" folder
+3. Run python [./docling/parse_pdfs_with_docling.py](./docling/parse_pdfs_with_docling.py)
+4. Run python [./docling/check_levels.py](./docling/check_levels.py)
+
+### Grobid
+1. Install grobid in a docker setup using: ```docker pull lfoppiano/grobid:0.8.2```, see also instructions [in the grobid repo](https://github.com/kermitt2/grobid)
+2. Make sure you follow our folder structure, having the scripts in a "grobid" folder
+3. Run python [./grobid/parse_with_grobid.py](./grobid/parse_with_grobid.py)
+4. Run python [./grobid/check_section_levels.py](./grobid/check_section_levels.py)
+
+### Marker
+1. Install marker with pip ```pip install "marker-pdf[full]``` (see also: [the marker repo](https://github.com/datalab-to/marker))
+2. Make sure you follow our folder structure, having the scripts in a "marker" folder
+3. Run python [./marker/convert_pdfs_with_structure.py](./marker/convert_pdfs_with_structure.py)
 
 ### Evaluation 
 1. [evaluate_hierarchies.ipynb](evaluate_hierarchies.ipynb) (it is important to run this evaluation before evaluate_toc.ipynb)
