@@ -1,0 +1,3446 @@
+[
+    {
+        "page": 4,
+        "heading": "Volume 2",
+        "content": " Marc Thommen  Introduction to Swiss Law",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 79,
+            "top": 194,
+            "left": 85
+        }
+    },
+    {
+        "page": 5,
+        "heading": "Editor: Prof. Dr. iur. Marc Thommen",
+        "content": " Zurich, Switzerland  This work has been published as a graduate textbook in the book series sui generis, edited",
+        "features": {
+            "font_id": "3",
+            "height": 12,
+            "width": 41,
+            "top": 93,
+            "left": 81
+        }
+    },
+    {
+        "page": 8,
+        "heading": "How to Use This Book",
+        "content": " The aim of this book was to create an easy-to-read introduction to Swiss Law. The footnotes have therefore been reduced to an absolute minimum. Wherever possible we have referenced literature in English. At the end of",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 321,
+            "top": 97,
+            "left": 81
+        }
+    },
+    {
+        "page": 10,
+        "heading": "Index of Authors",
+        "content": " Martina Becker, M.A. HSG in Law, Assistant Manager Indirect Tax at KPMG AG Tax Law ",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 248,
+            "top": 92,
+            "left": 81
+        }
+    },
+    {
+        "page": 10,
+        "heading": "Martina Becker, M.A. HSG in Law, Assistant Manager Indirect Tax at KPMG AG Tax Law",
+        "content": " Elisabetta Fiocchi Malaspina, Prof. Dr. iur., Assistant Professor at the University of Zurich History of International Law",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 489,
+            "top": 214,
+            "left": 81
+        }
+    },
+    {
+        "page": 10,
+        "heading": "Christoph Beat Graber, Prof. Dr. iur. (PhD), Professor at the University of Zurich Legal Sociology",
+        "content": " Tina Huber-Purtschert, Dr. iur., lic. et mag. rer. pol., Lecturer and Senior Research Fellow at the University of Zurich Law of Obligations",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 129,
+            "top": 292,
+            "left": 81
+        }
+    },
+    {
+        "page": 10,
+        "heading": "Peter Georg Picht, Prof. Dr. iur., LL.M., Professor at the University of Zurich Civil Law",
+        "content": " Madeleine Simonek, Prof. Dr. iur., Professor at the University of Zurich Tax Law ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 129,
+            "top": 292,
+            "left": 81
+        }
+    },
+    {
+        "page": 11,
+        "heading": "x Index of Authors",
+        "content": " Goran Studen, Dr. iur., LLM., Lecturer at the University of Zurich and Attorney at Law at Pestalozzi Attorneys at Law Ltd Civil Law",
+        "features": {
+            "font_id": "9",
+            "height": 12,
+            "width": 8,
+            "top": 46,
+            "left": 87
+        }
+    },
+    {
+        "page": 11,
+        "heading": "Andreas Thier, Prof. Dr. iur., M.A., Professor at the University of Zurich Legal History",
+        "content": " Marc Thommen, Prof. Dr. iur., LL.M., Professor at the University of Zurich Swiss Legal System ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 91,
+            "left": 87
+        }
+    },
+    {
+        "page": 11,
+        "heading": "Criminal Law",
+        "content": " Criminal Procedure  Felix Uhlmann, Prof. Dr. iur., LL.M., Professor at the University of Zurich",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 85,
+            "top": 269,
+            "left": 87
+        }
+    },
+    {
+        "page": 11,
+        "heading": "Criminal Procedure",
+        "content": " Felix Uhlmann, Prof. Dr. iur., LL.M., Professor at the University of Zurich Administrative Law Administrative Procedure",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 123,
+            "top": 289,
+            "left": 87
+        }
+    },
+    {
+        "page": 12,
+        "heading": "xt",
+        "content": " Table of Contents  Preface... 0... cc ce ce ce ce ce ce ce ee te ee te ee ee ee te ee ee ee ee ee ee ee eV",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 490,
+            "top": 221,
+            "left": 81
+        }
+    },
+    {
+        "page": 12,
+        "heading": "Table of Contents",
+        "content": " Preface... 0... cc ce ce ce ce ce ce ce ee te ee te ee ee ee te ee ee ee ee ee ee ee eV Howto Use This Book .. .. 0... ce ce ce ce ce ce ce ce te ee ee ee tees ee ee Vii Index of Authors ..... 0... cece ce ce ce ce ee ee ee eee ee tee teen ee ee 1X",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 257,
+            "top": 97,
+            "left": 81
+        }
+    },
+    {
+        "page": 12,
+        "heading": "Private Law",
+        "content": " Civil Law \u2014 Peter Georg Picht /Goran Studen..............0..4. 271 Law of Obligations \u2014 Tina Huber-Purtschert............0.+4. 305 Civil Procedure \u2014 Sophie-Katharina Matjaz ..............-4. 333",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 78,
+            "top": 663,
+            "left": 81
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Table of Contents (Detailed)",
+        "content": " Preface... How to Use This Book . ",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 417,
+            "top": 97,
+            "left": 81
+        }
+    },
+    {
+        "page": 14,
+        "heading": "1. Official Compilation (BGE) . Le eee eee eee eee",
+        "content": " 2. Publication Online........... 0.00. eee  3. Public Pronouncement .............000eeeeeee",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 375,
+            "left": 81
+        }
+    },
+    {
+        "page": 14,
+        "heading": "2. Publication Online........... 0.00. eee",
+        "content": " 3. Public Pronouncement .............000eeeeeee  4. PressReleases... 2.0... ees",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 375,
+            "left": 81
+        }
+    },
+    {
+        "page": 14,
+        "heading": "3. Public Pronouncement .............000eeeeeee",
+        "content": " 4. PressReleases... 2.0... ees Selected Bibliography .. 0... 1. ce ce ce ce ce ce ce ce ce ee ee ne ee ee ee ee ",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 375,
+            "left": 81
+        }
+    },
+    {
+        "page": 15,
+        "heading": "Table of Contents",
+        "content": " Legal History. . cece eee . 41 I. Plurality and the Traditions of: Swiss Legal Culture beeen ee ee ee 43 II. The Old Confederacy (13\u00b0\"/14\"* Century \u20141798) .. .. 6... ee ee eee 45",
+        "features": {
+            "font_id": "9",
+            "height": 12,
+            "width": 79,
+            "top": 46,
+            "left": 499
+        }
+    },
+    {
+        "page": 24,
+        "heading": "ETH",
+        "content": " EU  Amtliche Sammlung des Bundesrechts (official compila-",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 29,
+            "top": 760,
+            "left": 87
+        }
+    },
+    {
+        "page": 26,
+        "heading": "Swiss Legal System",
+        "content": " Facts and Figures. 6... 6... ce ce ce ce ce ee ee ee ee ee ee ee eee  bs 0S1 0) oh",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 281,
+            "top": 139,
+            "left": 186
+        }
+    },
+    {
+        "page": 27,
+        "heading": "2 Marc Thommen: Swiss Legal System",
+        "content": " The purpose of this chapter is to give an \u201cintroduction to the introduction\u201d to Swiss Law.\u2019 After the discussion of some facts and figures (I.) and a very short glimpse at the historical events that led to the founding of the Switzerland",
+        "features": {
+            "font_id": "9",
+            "height": 12,
+            "width": 7,
+            "top": 46,
+            "left": 87
+        }
+    },
+    {
+        "page": 28,
+        "heading": "I. Facts and Figures",
+        "content": " In a nutshell, Switzerland may be described as a country at the heart of Europe, yet remaining outside of the European Union. It has roughly 8.5 mil- lion inhabitants. In terms of national language, 65.6 % of all Swiss inhabitants",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 58,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 28,
+        "heading": "Figure 1: Language Regions\u201d",
+        "content": " 2 Source: Wikipedia (https://perma.cc/4NgZ-6CgB); originator: Tschubby, translated by Lesqual. ",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 36,
+            "top": 85,
+            "left": 261
+        }
+    },
+    {
+        "page": 29,
+        "heading": "ou",
+        "content": " Switzerland enjoys a positive reputation for its mountains, chocolate, cheese, and watches. Simultaneously, Switzerland and its private banks have long been criticised for offering the wealthy and powerful of this world a safe",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 135,
+            "top": 386,
+            "left": 87
+        }
+    },
+    {
+        "page": 30,
+        "heading": "Source: www.expatica.com (https://perma.cc/N37S-G46N)",
+        "content": " WHO Report on the Global Tobacco Epidemic, 2017 (https://perma.cc/ MUD5-Q6Q2).  10 Youcan find these and more interesting facts about Switzerland on www.expatica.com",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 5,
+            "top": 112,
+            "left": 268
+        }
+    },
+    {
+        "page": 31,
+        "heading": "Il. History",
+        "content": " Figure 2: Federal Charter of 1291\u201d  Figure 3: Oath on the ,Riitli-Wiese\u201c",
+        "features": {
+            "font_id": "23",
+            "height": 19,
+            "width": 12,
+            "top": 844,
+            "left": 202
+        }
+    },
+    {
+        "page": 31,
+        "heading": "Figure 2: Federal Charter of 1291\u201d",
+        "content": " Figure 3: Oath on the ,Riitli-Wiese\u201c  12 Source: Wikipedia (https://perma.cc/DHU4\u20144NK)J).",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 169,
+            "top": 496,
+            "left": 87
+        }
+    },
+    {
+        "page": 31,
+        "heading": "Figure 3: Oath on the ,Riitli-Wiese\u201c",
+        "content": " 12 Source: Wikipedia (https://perma.cc/DHU4\u20144NK)J). 13 Source: Wikipedia (https://perma.cc/35Y3-Q6RK). ",
+        "features": {
+            "font_id": "23",
+            "height": 19,
+            "width": 10,
+            "top": 796,
+            "left": 87
+        }
+    },
+    {
+        "page": 33,
+        "heading": "III. Confederation",
+        "content": " As will be explained in great detail by MATTHIAS OESCH in the Chapter on Constitutional Law,'* the Swiss federal state is defined by its three levels of government: the confederation, the cantons, and the communes.\u201d The confe-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 86,
+            "top": 85,
+            "left": 87
+        }
+    },
+    {
+        "page": 34,
+        "heading": "1. FEDERAL ASSEMBLY",
+        "content": " As mentioned above, the founding fathers of the Swiss Federal State deci- ded to respect the cultural, economic, and religious differences between the various cantons. Following the example of the Constitution of the United",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 15,
+            "top": 91,
+            "left": 209
+        }
+    },
+    {
+        "page": 35,
+        "heading": "Swiss Population",
+        "content": " Implements Enforces the Law the Law ",
+        "features": {
+            "font_id": "23",
+            "height": 19,
+            "width": 3,
+            "top": 337,
+            "left": 304
+        }
+    },
+    {
+        "page": 37,
+        "heading": "3. FEDERAL SUPREME COURT",
+        "content": " The Constitution of 1848 installed the Federal Supreme Court as an ad hoc judicial authority of the Swiss confederation. It was only the Constitution of 1874 that founded the Federal Supreme Court as the permanent federal",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 110,
+            "left": 153
+        }
+    },
+    {
+        "page": 40,
+        "heading": "Conciliation",
+        "content": " Authorities P , f aw Suits cisions Oo! Decisions of Federal Cantonal \u2018 i \u2014 8",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 20,
+            "top": 588,
+            "left": 95
+        }
+    },
+    {
+        "page": 40,
+        "heading": "Figure 6: Swiss Court Hierarchy**",
+        "content": " Its position in the Constitution as the \u2018third power\u2019 is the first indicator that the Federal Supreme Court is the least important branch of gover- nment. Its relative weakness becomes particularly obvious when consi-",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 167,
+            "top": 555,
+            "left": 81
+        }
+    },
+    {
+        "page": 43,
+        "heading": "IV. Cantons",
+        "content": " In 1848, there were 25 cantons in the Swiss Confederation: Zurich, Bern, Lucerne, Uri, Schwyz, Obwalden and Nidwalden, Glarus, Zug, Fribourg, Solothurn, Basel Stadt and Basel Landschaft, Schaffhausen, Appenzell",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 17,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 43,
+        "heading": "Figure 8: The 26 Cantons of Switzerland?\u00b0",
+        "content": " 35 Article 1 Constitution of 1848. 36 Source: Wikipedia (https://perma.cc/5D9M-W82N); originator: TUBS. ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 17,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 46,
+        "heading": "V. Communes",
+        "content": " At the third layer of the Swiss federal landscape are the communes, i.e. cities and villages throughout the country. In 2018, there were 2\u2019222 communes in Switzerland. The city of Zurich is the largest commune (ca. 400\u2019000 inhab-",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 494,
+            "top": 219,
+            "left": 81
+        }
+    },
+    {
+        "page": 47,
+        "heading": "VI. Direct Democracy",
+        "content": " In this chapter, an initial glimpse at direct democracy in Switzerland is taken. Participation at the federal (1.), cantonal (2.), and (3.) communal level will be examined separately. A thorough examination of direct democracy will be",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 32,
+            "top": 85,
+            "left": 244
+        }
+    },
+    {
+        "page": 52,
+        "heading": "VII. Legislative Process",
+        "content": " How are laws made in Switzerland?\u00ae On 13 June 1996, the National Council decided that the possibility of legalising same sex marriage should be exa- mined by the Federal Council. In June 1999, the Federal Council published",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 38,
+            "top": 528,
+            "left": 90
+        }
+    },
+    {
+        "page": 55,
+        "heading": "Sex Couples",
+        "content": " The Federal Council set the act\u2019s date of entry into force as 1 January 2007.  62 Source: Wikipedia (https://perma.cc/P8UD-388D); originator: Jedi Friend.",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 63,
+            "top": 454,
+            "left": 87
+        }
+    },
+    {
+        "page": 56,
+        "heading": "VIII. Publication of Federal Laws",
+        "content": " Preliminary drafts and drafts of federal acts, as well as explanatory reports and the Federal Council\u2019s dispatches, are all published in the Federal Gazette. The Federal Gazette (Bundesblatt, BBI; feuille f\u00e9d\u00e9rale FF) is the official jour-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 17,
+            "top": 85,
+            "left": 484
+        }
+    },
+    {
+        "page": 59,
+        "heading": "I. Constitutional law",
+        "content": " II. Administrative and public international law  III. Civil law, bankruptcy law",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 142,
+            "top": 288,
+            "left": 101
+        }
+    },
+    {
+        "page": 59,
+        "heading": "II. Administrative and public international law",
+        "content": " III. Civil law, bankruptcy law  IV. Criminal law, enforcement of sanctions, and criminal procedure",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 305,
+            "top": 308,
+            "left": 101
+        }
+    },
+    {
+        "page": 59,
+        "heading": "III. Civil law, bankruptcy law",
+        "content": " IV. Criminal law, enforcement of sanctions, and criminal procedure V. Social security law? ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 185,
+            "top": 327,
+            "left": 101
+        }
+    },
+    {
+        "page": 59,
+        "heading": "IV. Criminal law, enforcement of sanctions, and criminal procedure V. Social security law?",
+        "content": " Thus, for example, BGE113 IV 58 isa case regarding criminal law (co-offending in negligent homicide). The last group of digits designates the relevant page(s) within the volume, so in this example, pp. 58. Sometimes more specific cita-",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 10,
+            "top": 113,
+            "left": 87
+        }
+    },
+    {
+        "page": 61,
+        "heading": "mp at Rechtsprechung Bundesgericht \u2014 Presse/Aktuelles LI",
+        "content": " Rechtsprechung (gratis) BGE und EGMR-Entscheide Liste der Neuheiten",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 130,
+            "left": 250
+        }
+    },
+    {
+        "page": 64,
+        "heading": "The Swiss Confederation, Federal Chancellery \u2014 A Brief Guide, 2018, https://perma.cc/YM59-ZMFK",
+        "content": " FRANCOIS DESSEMONTET, TUGRUL ANSAY, Introduction to Swiss Law, 3rd edi- tion, The Hague 2004 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 23,
+            "top": 216,
+            "left": 310
+        }
+    },
+    {
+        "page": 64,
+        "heading": "FRANCOIS DESSEMONTET, TUGRUL ANSAY, Introduction to Swiss Law, 3rd edi- tion, The Hague 2004",
+        "content": " ANDREAS LADNER, Switzerland: Subsidiarity, Power-Sharing, and Direct Democracy, in Frank Hendriks/Anders Lidstr\u00e9m/John Loughlin (eds.), The Oxford Handbook of Local and Regional Democracy in Europe,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 8,
+            "top": 255,
+            "left": 81
+        }
+    },
+    {
+        "page": 66,
+        "heading": "Andreas Thier Legal History",
+        "content": " I. Plurality and the Traditions of Swiss Legal Culture..............  II. The Old Confederacy (13'\"/14'\" Century \u20141798) ....... 2 ee ee ee ee",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 498,
+            "left": 81
+        }
+    },
+    {
+        "page": 66,
+        "heading": "II. The Old Confederacy (13'\"/14'\" Century \u20141798) ....... 2 ee ee ee ee",
+        "content": " 1. Coniuratio, Covenants, and Charters ......  III. The Rise of Modern Swiss Statehood since 1798. .. .. 1... 6... ee ee",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 498,
+            "left": 81
+        }
+    },
+    {
+        "page": 66,
+        "heading": "III. The Rise of Modern Swiss Statehood since 1798. .. .. 1... 6... ee ee",
+        "content": " 1. Constitutional Developments in Europe. . . 2. Constitutional Developments in Switzerland since -e1798.. a) Focusing on Individual Rights:",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 498,
+            "left": 81
+        }
+    },
+    {
+        "page": 66,
+        "heading": "c) Towards the Prevention State. . eee",
+        "content": "3. The Rise of Codifications in Swiss Legal Culture.  Selected Bibliography .. 1. 1... ce ce ce ce ee ce ce ce ee ee ne ee ee ee oe ",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 498,
+            "left": 81
+        }
+    },
+    {
+        "page": 68,
+        "heading": "I. Plurality and the Traditions of Swiss Legal Culture",
+        "content": " If we look for defining elements of Swiss legal culture \u2014 for the totality of Swiss legal rules, for the political, social, and economic preconditions of their cre- ation and application, and for the references to different collective processes",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 290,
+            "top": 132,
+            "left": 120
+        }
+    },
+    {
+        "page": 70,
+        "heading": "Il. The Old Confederacy (13'\"/14'\" Century \u2014 1798)",
+        "content": " 1. CONIURATIO, COVENANTS, AND CHARTERS  The Swiss federal constitution uses inter alia the term Schweizerische",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 39,
+            "top": 132,
+            "left": 133
+        }
+    },
+    {
+        "page": 75,
+        "heading": "III. The Rise of Modern Swiss Statehood since 1798",
+        "content": " 1. CONSTITUTIONAL DEVELOPMENTS IN EUROPE  Since the French Revolution of 1789, the idea of constitutionalism \u2014 the con-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 17,
+            "top": 119,
+            "left": 151
+        }
+    },
+    {
+        "page": 77,
+        "heading": "a) Focusing on Individual Rights: The \u201cBiirgerliche Rechtsstaat\u201d",
+        "content": " In 1798, the age of the Old Confederacy ended with the invasion of French tro- ops and the foundation of the Helvetic Republic.\u201d The new state adopted the constitutional features that were typical for states under French dominance:",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 47,
+            "top": 91,
+            "left": 199
+        }
+    },
+    {
+        "page": 80,
+        "heading": "b) The (Slow) Rise of the Interventionist State",
+        "content": " Federal administrative powers were limited by the end of the 19\" century, with administrative tasks mainly being executed at cantonal level. Nevertheless, with legislative acts like the Federal law about military insurance 1901 and",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 32,
+            "top": 91,
+            "left": 376
+        }
+    },
+    {
+        "page": 81,
+        "heading": "c) Towards the Prevention State",
+        "content": " It was nevertheless telling of the reluctance of a still strongly liberal- dominated legislative body that, in particular in the field of financial regula- tion, stronger mechanisms of oversight were only established in Switzerland",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 91,
+            "left": 100
+        }
+    },
+    {
+        "page": 85,
+        "heading": "Selected Bibliography",
+        "content": " CLIVE H. CHURCH/RANDOLPH C. HEAD, A Concise History of Switzerland, Cambridge 2013 (6\" printing 2017) ",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 322,
+            "top": 97,
+            "left": 87
+        }
+    },
+    {
+        "page": 85,
+        "heading": "CLIVE H. CHURCH/RANDOLPH C. HEAD, A Concise History of Switzerland, Cambridge 2013 (6\" printing 2017)",
+        "content": " RANDOLPH C. HEAD, Shared Lordship, Authority and Administration: The Exercise of Dominion in the Gemeine Herrschaften of the Swiss Confederation, 1417-1600, in Central European History, Volume 30,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 85,
+        "heading": "Boulder 1993",
+        "content": " ROGER SABLONIER, The Swiss Confederation, in Christopher Allmand (ed.), The New Cambridge Medieval History, vol. 7, Cambridge 1998, pp. 645, online available at www.cambridge.org (https://perma.cc/C7W Y-UUGA)",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 216,
+            "left": 546
+        }
+    },
+    {
+        "page": 86,
+        "heading": "Elisabetta Fiocchi Malaspina History of International Law",
+        "content": " I. Introduction... 6... 6. 6 cc ce ce ce ce ce ee ee ee ee ce ce te teen eee  II. Theories of Natural Law and Law of Nations . .",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 24,
+            "top": 669,
+            "left": 117
+        }
+    },
+    {
+        "page": 88,
+        "heading": "I. Introduction",
+        "content": " The aim of this chapter is to give an overview about the peculiarities of Switzerland in the history of international law, looking into the origin of what nowadays Switzerland represents within the international community.",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 51,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 89,
+        "heading": "II. Theories of Natural Law and Law of Nations",
+        "content": " 1. THE SPREAD OF THEORIES OF NATURAL LAW AND THE LAW OF NATIONS ",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 85,
+            "top": 85,
+            "left": 414
+        }
+    },
+    {
+        "page": 94,
+        "heading": "III. The Era of International Humanitarian Law",
+        "content": " Throughout the 19\u2018\" century, the Swiss and European legal environment was characterised by attempts to codify international law and by the develop- ment of international humanitarian law. In fact, the 19\" century can truly be",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 10,
+            "top": 85,
+            "left": 426
+        }
+    },
+    {
+        "page": 96,
+        "heading": "Relief to the wounded without any distinction as to nationality",
+        "content": " \u2014 Neutrality (inviolability) of medical personnel and medical establish- ments and units ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 424,
+            "top": 269,
+            "left": 103
+        }
+    },
+    {
+        "page": 96,
+        "heading": "Neutrality (inviolability) of medical personnel and medical establish- ments and units",
+        "content": " \u2014 The distinctive symbol of the organisation: the red cross on a white ground.\u2019 ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 107,
+            "top": 308,
+            "left": 126
+        }
+    },
+    {
+        "page": 96,
+        "heading": "The distinctive symbol of the organisation: the red cross on a white ground.\u2019",
+        "content": " Figure 1: Henri Dunant, 1828-1910\u00b0  14 International Committee of the Red Cross, The History of the Emblems, 2007, (https://",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 50,
+            "top": 347,
+            "left": 126
+        }
+    },
+    {
+        "page": 96,
+        "heading": "Figure 1: Henri Dunant, 1828-1910\u00b0",
+        "content": " 14 International Committee of the Red Cross, The History of the Emblems, 2007, (https:// perma.cc/M4LV-6XGX). ",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 178,
+            "top": 729,
+            "left": 81
+        }
+    },
+    {
+        "page": 99,
+        "heading": "a) Gustave Moynier (1826 -1910)",
+        "content": " Figure 2: Gustave Moynier (1826\u20141910)\u201d\u00b0  GUSTAVE MOYNIER (1826-1910) played a significant role in shaping the founda-",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 24,
+            "top": 89,
+            "left": 103
+        }
+    },
+    {
+        "page": 99,
+        "heading": "Figure 2: Gustave Moynier (1826\u20141910)\u201d\u00b0",
+        "content": " GUSTAVE MOYNIER (1826-1910) played a significant role in shaping the founda- tions of international humanitarian law, in two key ways. First, together with Henry Dunant, he initiated the founding of the ICRC. Secondly, he was also",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 24,
+            "top": 89,
+            "left": 103
+        }
+    },
+    {
+        "page": 101,
+        "heading": "b) Johann Caspar Bluntschli (1808-1881)",
+        "content": " Figure 3: Johann Caspar Bluntschli (1808-1881)*>  JOHANN CASPAR BLUNTSCHLI (1808-1881) was born in Zurich. He attended",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 17,
+            "top": 89,
+            "left": 104
+        }
+    },
+    {
+        "page": 101,
+        "heading": "Figure 3: Johann Caspar Bluntschli (1808-1881)*>",
+        "content": " JOHANN CASPAR BLUNTSCHLI (1808-1881) was born in Zurich. He attended school in Zurich and consequently moved to complete his legal studies in Berlin and Bonn, eventually being awarded with a doctoral degree from the",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 17,
+            "top": 89,
+            "left": 104
+        }
+    },
+    {
+        "page": 104,
+        "heading": "IV. Conclusion",
+        "content": " Switzerland, its jurists, as VATTEL, MOYNIER, and BLUNTSCHLI, and social activists, as DUNANT, have played a leading role in the development of inter- national law. Studying the emergence of International Humanitarian Law",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 81,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 104,
+        "heading": "The political and legal culture and environment in Switzerland from the",
+        "content": "18'\" century onwards served not only for the natives but also for the intellec- tuals from all over Europe as a safe haven, where they could freely form their ideas without the fear of political persecution. In this sense Switzerland has not only manifestly promoted the development of International Law by its",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 482,
+            "top": 336,
+            "left": 95
+        }
+    },
+    {
+        "page": 105,
+        "heading": "DIETRICH SCHINDLER/JIRi TOMAN, The Laws of Armed Conflicts, Dordrecht 1988",
+        "content": " BENEDICT VON TSCHARNER, Inter Gentes: Statesmen, Diplomats, Political Thinkers, Geneva 2012 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 16,
+            "top": 216,
+            "left": 144
+        }
+    },
+    {
+        "page": 105,
+        "heading": "BENEDICT VON TSCHARNER, Inter Gentes: Statesmen, Diplomats, Political Thinkers, Geneva 2012",
+        "content": " EMER DE VATTEL, The Law of Nations, or, Principles of the Law of Nature, Applied to the Conduct and Affairs of Nations and Sovereigns, with Three Early Essays on the Origin and Nature of Natural Law and on Luxury,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 106,
+        "heading": "Matthias Mahlmann",
+        "content": " Legal Philosophy and Legal Theory ",
+        "features": {
+            "font_id": "19",
+            "height": 12,
+            "width": 388,
+            "top": 836,
+            "left": 81
+        }
+    },
+    {
+        "page": 106,
+        "heading": "Legal Philosophy and Legal Theory",
+        "content": " I. The Problems of the Philosophy of Law and Legal Theory .. .. .. .. 83  II. A Map of Philosophy of Law and Legal Theory... .............. 85",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 366,
+            "left": 81
+        }
+    },
+    {
+        "page": 108,
+        "heading": "I. The Problems of the Philosophy of Law and Legal Theory",
+        "content": " A good starting point for reflecting on legal philosophy and legal theory and its purpose, content, and profound significance in any given legal culture is the following observation: law is a mandatory normative order. It is enforced,",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 284,
+            "top": 132,
+            "left": 120
+        }
+    },
+    {
+        "page": 110,
+        "heading": "II. A Map of Philosophy of Law and Legal Theory",
+        "content": " The questions of legitimacy which legal philosophy and legal theory consider are part of, and are embedded in, a wider theoretical enterprise which cont- ains at minimum the following elements:",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 111,
+            "top": 85,
+            "left": 437
+        }
+    },
+    {
+        "page": 122,
+        "heading": "II. The Point of Philosophy of Law and Legal Theory",
+        "content": " Legal theory and legal philosophy are important in any given legal culture. Theoretical insight is important in two key regards. Firstly, it is important for successful legal practice. It is impossible to solve difficult (or even simple) pro-",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 325,
+            "top": 132,
+            "left": 145
+        }
+    },
+    {
+        "page": 123,
+        "heading": "IV. Theory of Justice",
+        "content": " The theory of justice is one of the core elements of the theory and philosophy of law. The foundations of this theory can be found in the thought of antiquity in the work of authors like SocraTEs, ARISTOTLE, and PLATO; philosophers",
+        "features": {
+            "font_id": "23",
+            "height": 19,
+            "width": 14,
+            "top": 799,
+            "left": 164
+        }
+    },
+    {
+        "page": 125,
+        "heading": "V. A Concept of Justice",
+        "content": " From this discussion, at least six principles may be derived that are helpful in understanding the content of justice. The first one is the necessity of having equal standards to be applied to different agents. Second, these standards",
+        "features": {
+            "font_id": "23",
+            "height": 19,
+            "width": 12,
+            "top": 733,
+            "left": 171
+        }
+    },
+    {
+        "page": 126,
+        "heading": "VI. The Birth of the Human Rights Idea",
+        "content": " Today, human rights are something like a secular Decalogue of our modern era. They are not, however, a modern invention: rights and the reflection about rights have a very long history, in Natural Law and in social contract",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 167,
+            "top": 132,
+            "left": 143
+        }
+    },
+    {
+        "page": 128,
+        "heading": "VII. Contemporary Human Rights Theory",
+        "content": " Questions about the foundations of human rights have not stopped to pro- foundly engage people. The contemporary human rights theory is a place of vivid debate. It draws from the many thoughts in the history of ideas that have",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 33,
+            "top": 85,
+            "left": 373
+        }
+    },
+    {
+        "page": 130,
+        "heading": "ERNST BLocu, Natural Law and Human Dignity, translated by Dennis J. Schmidt, Cambridge 1986 (1985)",
+        "content": " ERNST BLOCH, Naturrecht und menschliche Wiirde, Berlin 1985  RUDOLF CarnapP, Die Uberwindung der Metaphysik durch logische Analyse",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 255,
+            "left": 81
+        }
+    },
+    {
+        "page": 134,
+        "heading": "I. What is Legal Sociology? \u00ab",
+        "content": "1. Discipline..  2. Method... 6. ccc ce cee ce ce ce ee ce ee ee ee ee ee ee ee ee eee II. Law, Society and Direct Democracy ... 1... 0... ce ce ce ee ee ee ee",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 542,
+            "left": 81
+        }
+    },
+    {
+        "page": 136,
+        "heading": "I. What is Legal Sociology?",
+        "content": " 1. DISCIPLINE  Legal sociology, together with legal history and legal philosophy, constitutes",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 390,
+            "left": 248
+        }
+    },
+    {
+        "page": 140,
+        "heading": "II. Law, Society and Direct Democracy",
+        "content": " The political system in Switzerland is characterised by a specific form of direct democracy that exists within the framework of the Federal Constitution.\u00ae In the following section, I will first analyse the autonomy of the political system",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 42,
+            "top": 85,
+            "left": 379
+        }
+    },
+    {
+        "page": 150,
+        "heading": "a) Media Consumption and the Internet",
+        "content": " The most recent empiric research confirms both that media consumption in Switzerland primarily takes place on the Internet and that the mass media have already been eclipsed by social media. Today, the Internet is the most",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 15,
+            "top": 162,
+            "left": 173
+        }
+    },
+    {
+        "page": 152,
+        "heading": "b) Personalisation Technologies",
+        "content": " The establishment of Admeira raises the key question of whether the use of personalisation technologies by the SRG in order to target individual users would be reconcilable with the broadcaster\u2019s public service remit as defined",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 15,
+            "top": 188,
+            "left": 560
+        }
+    },
+    {
+        "page": 156,
+        "heading": "III. Summary",
+        "content": " Legal sociology is an empiric sub-discipline of the law that is primarily inte- rested in observing the emergence and functioning of the law from an objec- tive perspective. It is only ina second step that a change of perspective occurs,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 24,
+            "top": 820,
+            "left": 489
+        }
+    },
+    {
+        "page": 158,
+        "heading": "HANNAH ARENDT, Between Past and Future: Eight Exercises in Political Thought, New York 1993 (1961)",
+        "content": " JouN L. AustIN, How to Do Things with Words, 2\" edition, Oxford 1975 (1962)  C. EDWIN BAKER, Media, Markets, and Democracy, Cambridge 2002",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 11,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 162,
+        "heading": "The Swiss Constitution in force today was introduced as recently as the year",
+        "content": "2000. However, Switzerland\u2019s Constitution has experienced a lengthy his- tory of adaptation and revision. The first section of this chapter examines the history behind the Constitution (1.), before outlining key concepts which are encompassed in its text, like the concept of citizenship (2), the protection",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 495,
+            "top": 219,
+            "left": 81
+        }
+    },
+    {
+        "page": 165,
+        "heading": "a) Citizenship",
+        "content": " Citizenship in Switzerland is based on the concept that a citizen has three citizenships: communal, cantonal, and Swiss (Article 37 Constitution). These citizenships are connected: in particular, cantonal and communal citizen-",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 6,
+            "top": 399,
+            "left": 194
+        }
+    },
+    {
+        "page": 167,
+        "heading": "b) Foreign Nationals",
+        "content": " As briefly mentioned above, Switzerland has traditionally been a country with a high percentage of people who live and work in the country but do not possess Swiss citizenship. Various factors might explain this. Firstly, the eco-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 305,
+            "left": 204
+        }
+    },
+    {
+        "page": 176,
+        "heading": "II. Principles",
+        "content": " The Swiss political system is characterised by various particularities which distinguish it from theoretical models of political systems and from those systems which exist in other states. The following particularities are most",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 15,
+            "top": 597,
+            "left": 364
+        }
+    },
+    {
+        "page": 176,
+        "heading": "a) Popular Initiative",
+        "content": " A popular initiative is an instrument unique to Switzerland: it allows citi- zens to request a vote on a revision of the Constitution (Articles 138-139) Constitution). It requires the approval of a majority of the people who vote",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 22,
+            "top": 544,
+            "left": 97
+        }
+    },
+    {
+        "page": 178,
+        "heading": "b) Referendum",
+        "content": " A referendum allows citizens to vote on a constitutional revision, a federal act or an international treaty (Articles 140-142 Constitution). Two types are provided for:",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 496,
+            "top": 242,
+            "left": 81
+        }
+    },
+    {
+        "page": 179,
+        "heading": "c) \u201cLandsgemeinde\u201d as Cantonal Particularity",
+        "content": " The cantons choose their own models for the participation of their citizens in the political process. A particularity is provided for in the cantons of Appenzell Innerrhoden and Glarus, which have appointed the Landsgemeinde as their",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 28,
+            "top": 420,
+            "left": 103
+        }
+    },
+    {
+        "page": 180,
+        "heading": "of deficiencies inherent in the system\u201d.*\u00ae",
+        "content": " 2. MULTI-PARTY GOVERNMENT  Most European countries adhere to a parliamentary system of govern-",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 246,
+            "top": 113,
+            "left": 81
+        }
+    },
+    {
+        "page": 184,
+        "heading": "III. Landmark Cases",
+        "content": " The Federal Supreme Court has been discussed throughout this chapter; it is the highest court in Switzerland. Although its powers are limited in scope by Article 190 Constitution, which precludes any possibility of constitutional",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 83,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 187,
+        "heading": "CLIVE H. CHURCH/RANDOLPH C. HEAD, A Concise History of Switzerland, Cambridge 2016",
+        "content": " THOMAS COTTIER / MATTHIAS OESCH, Switzerland, in: George Andersen (ed.), Internal Markets and Multi-level Governance: The Experience of the European Union, Australia, Canada, Switzerland, and the United States,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 188,
+        "heading": "Relationship Between International Law and Swiss Law Lee",
+        "content": " Landmark Cases.  1. Supremacy of the Agreement o on 1 the Free Movement of Persons",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 462,
+            "top": 678,
+            "left": 110
+        }
+    },
+    {
+        "page": 188,
+        "heading": "\u00a9 2018 Matthias Oesch, CC-BY 4.0, DOI: 10.24921/2018.94115924.07",
+        "content": " . 165 . 165 167",
+        "features": {
+            "font_id": "19",
+            "height": 12,
+            "width": 360,
+            "top": 836,
+            "left": 81
+        }
+    },
+    {
+        "page": 190,
+        "heading": "I. Treaties",
+        "content": " Switzerland traditionally adopts a friendly and respectful attitude towards international law. As a relatively small export-driven country, Switzerland depends on stable international relations, based on the rule of law. It is no sur-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 10,
+            "top": 85,
+            "left": 198
+        }
+    },
+    {
+        "page": 194,
+        "heading": "a) General Framework",
+        "content": " Switzerland was hesitant about joining European organisations and tre- aty networks after the end of the Second World War, being concerned that such action may compromise its position of neutrality, independency and",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 16,
+            "top": 89,
+            "left": 281
+        }
+    },
+    {
+        "page": 194,
+        "heading": "b) Bilateral Agreements",
+        "content": " Together with the free trade agreement Switzerland concluded with the EEC in 1972, the two sets of bilateral agreements of 1999 and 2004 between Switzerland and the EU (the \u201cBilaterals I\u201d and the \u201cBilaterals II\u201d) provide",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 16,
+            "top": 89,
+            "left": 281
+        }
+    },
+    {
+        "page": 197,
+        "heading": "c) Autonomous Adaptation of Swiss Law to EU Law",
+        "content": " In parallel to the tight network of bilateral agreements Switzerland is party to, it has adopted another approach to mitigate the negative consequences of not being a member of the EU or the EEA: namely, the policy of autonomous",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 23,
+            "top": 186,
+            "left": 103
+        }
+    },
+    {
+        "page": 198,
+        "heading": "II. Constitution",
+        "content": " The Federal Constitution contains many provisions relevant to Switzerland\u2019s international engagement. These provisions regulate a variety of matters from the goals to be pursued in international relations to the different competen-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 74,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 199,
+        "heading": "a) Federation and Cantons",
+        "content": " Foreign relations fall under the competences and responsibilities of the federa- tion (Article 54 Constitution). This includes the competence to conclude tre- aties. This competence for concluding treaties can result in the federation",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 29,
+            "top": 435,
+            "left": 98
+        }
+    },
+    {
+        "page": 200,
+        "heading": "b) Federal Council, Federal Assembly, Federal Courts",
+        "content": " The fundamental principle of the separation of powers between the different branches of government is not just relevant to the Swiss political system in general,\u2019\u00b0 but is also a key principle in Swiss foreign policy. The functions",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 208,
+            "left": 329
+        }
+    },
+    {
+        "page": 201,
+        "heading": "c) Direct Democracy",
+        "content": " Swiss citizens are regularly called upon to vote on issues which either direc- tly or indirectly concern foreign relations and Switzerland\u2019s position on the international plane. The direct democratic tools on offer \u2014 popular initia-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 19,
+            "top": 91,
+            "left": 350
+        }
+    },
+    {
+        "page": 206,
+        "heading": "III. Landmark Cases",
+        "content": " In the following section, two key cases which demonstrate Switzerland's involvement and interaction with the international community will be dis- cussed. One case, which came before the Federal Supreme Court, clarified the",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 83,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 211,
+        "heading": "PATRICIA EGLI, Introduction to Swiss Constitutional Law, Zurich/St. Gallen",
+        "content": "2016  THOMAS FLEINER/ALEXANDER MIsIc/NICOLE TOPPERWIEN, Constitutional Law in Switzerland, 2\u201d edition, Alphen aan den Rijn 2012",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 211,
+        "heading": "THOMAS FLEINER/ALEXANDER MIsIc/NICOLE TOPPERWIEN, Constitutional Law in Switzerland, 2\u201d edition, Alphen aan den Rijn 2012",
+        "content": " WALTER HALLER, The Swiss Constitution in a Comparative Context, 2nd edi- tion, Zurich/St. Gallen 2016 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 211,
+        "heading": "WALTER HALLER, The Swiss Constitution in a Comparative Context, 2nd edi- tion, Zurich/St. Gallen 2016",
+        "content": " MATTHIAS OESCH, Switzerland and the European Union: General Framework, Bilateral Agreements, Autonomous Adaptation, Zurich/St. Gallen 2018 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 211,
+        "heading": "RENE SCHWOK, Switzerland \u2014 EU: an impossible membership?, Brussels 2009",
+        "content": " Marius VAHL/NINA GROLIMUND, Integration without Membership: Switzerland\u2019s Bilateral Agreements with the European Union, Brussels 2006",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 212,
+        "heading": "Felix Uhlmann",
+        "content": " Administrative Law  I. Codes . .. i ce ce ce ce ce ce ce ee ee te ee te ee tee tees eee ee ee 6 189",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 26,
+            "top": 361,
+            "left": 240
+        }
+    },
+    {
+        "page": 212,
+        "heading": "Administrative Law",
+        "content": " I. Codes . .. i ce ce ce ce ce ce ce ee ee te ee te ee tee tees eee ee ee 6 189  II. Principles of Administrative Action ...... ste ee ee ee ee ee + 19O",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 17,
+            "top": 381,
+            "left": 142
+        }
+    },
+    {
+        "page": 212,
+        "heading": "II. Principles of Administrative Action ...... ste ee ee ee ee ee + 19O",
+        "content": "1. Constitutional Principles in Administrative Law. bees ee ee ee 6 190 2. Principle of Legality . RS (0)  a) Legal Basis for Administrative Action. wee ee ee ee ee ee ee \u00ab190",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 17,
+            "top": 381,
+            "left": 142
+        }
+    },
+    {
+        "page": 212,
+        "heading": "aN",
+        "content": " III. Forms of Administrative Action .. 0... 6... ce ce ee ce ee ee ee oe\u00bb 202 1. Administrative Decisions ....... se ee ee ee we ee oe oe aes ZO a) Omnipresence of Administrative Decisions sete ee ee ee ne 6 202",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 13,
+            "top": 556,
+            "left": 198
+        }
+    },
+    {
+        "page": 213,
+        "heading": "\u00a9 2018 Felix Uhlmann, CC-BY 4.0, DOI: 10.24921/2018.94115924.08",
+        "content": " Administrative Rulemaking... 6... 0... ce ee ce ce ce ee eee  . 206",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 17,
+            "top": 129,
+            "left": 148
+        }
+    },
+    {
+        "page": 213,
+        "heading": "Administrative Rulemaking... 6... 0... ce ee ce ce ce ee eee",
+        "content": " . 206 . 207 . 208",
+        "features": {
+            "font_id": "16",
+            "height": 23,
+            "width": 11,
+            "top": 188,
+            "left": 255
+        }
+    },
+    {
+        "page": 214,
+        "heading": "I. Codes",
+        "content": " In Switzerland \u2014 in comparison e.g. with the Netherlands \u2014 there is no gene- ral code on administrative law. Administrative procedure is both regulated by specific acts on the federal and on the cantonal level. Many of the gene-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 61,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 215,
+        "heading": "II. Principles of Administrative Action",
+        "content": " 1. CONSTITUTIONAL PRINCIPLES IN ADMINISTRATIVE LAW ",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 51,
+            "top": 85,
+            "left": 515
+        }
+    },
+    {
+        "page": 215,
+        "heading": "a) Legal Basis for Administrative Action",
+        "content": " The principle of legality (or the rule of law) is prone to many different under- standings and, more problematically, many misunderstandings. Most legal traditions foster distinct traits ofthis principle, and even when internationally",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 51,
+            "top": 85,
+            "left": 515
+        }
+    },
+    {
+        "page": 216,
+        "heading": "b) Legality of the Law",
+        "content": " It is important to realize that the principle of legality is not only a challenge to administrative action without a sufficient legal basis but is also a powerful tool directed against the law itself. The principle requires that the legal basis",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 21,
+            "top": 91,
+            "left": 455
+        }
+    },
+    {
+        "page": 217,
+        "heading": "c) Delegated Legislation",
+        "content": " Delegated legislation is legislation that the parliament has conferred to the executive branch. It comes in two forms: 1. purely executive and 2. quasi-legislative.",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 23,
+            "top": 91,
+            "left": 107
+        }
+    },
+    {
+        "page": 218,
+        "heading": "d) Judicial Review",
+        "content": " It is crucial to note that all aspects of the principle of legality may form the basis of an application for full judicial review. For example, a school-boy expelled for bad behaviour may claim that the authorities have no basis for",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 24,
+            "top": 110,
+            "left": 86
+        }
+    },
+    {
+        "page": 219,
+        "heading": "a) Basis",
+        "content": " The protection of legitimate expectations is primarily based on Article 9 Constitution. The crucial starting point in determining whether legitimate expectations have been created and thus require protection is to evaluate",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 133,
+            "left": 241
+        }
+    },
+    {
+        "page": 220,
+        "heading": "stronger basis than information provided by the authorities about an admi- nistrative issue.\u201d\u00b0",
+        "content": " One may roughly rank the bases in order of the level of protection they will incur from courts. The most cogent basis for establishing a legitimate expec- tation is an administrative contract, which if permissibly concluded may even",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 91,
+            "left": 160
+        }
+    },
+    {
+        "page": 221,
+        "heading": "b) Legitimacy of Expectations",
+        "content": " Regardless of the different potential bases of legitimate expectations, there is one key prerequisite which remains constant: the expectations must always be legitimate. This will not be the case if the private party was aware that the",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 91,
+            "left": 117
+        }
+    },
+    {
+        "page": 221,
+        "heading": "c) Private Arrangements",
+        "content": " Overall, legitimate expectations include situations where, on the basis of some expectation, an individual makes arrangements which conflict with the correct application of the law. Such arrangements made by individuals may",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 110,
+            "left": 102
+        }
+    },
+    {
+        "page": 222,
+        "heading": "d) Causality",
+        "content": " A fourth requirement for the protection of legitimate expectations is a causal link between the legitimate basis and the arrangements.* If the house in the previous example had been built before the faulty permit was given, obviously",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 110,
+            "left": 344
+        }
+    },
+    {
+        "page": 222,
+        "heading": "e) Balancing Test",
+        "content": " The final step a court will take in determining whether a claim of legitimate expectations should be enforced is the conducting of a balancing test between the legality and the expectations. It may be that the basis for the expecta-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 130,
+            "left": 386
+        }
+    },
+    {
+        "page": 223,
+        "heading": "f) Special Doctrines: Administrative Practice and Retroactivity",
+        "content": " Legitimate expectations can also stem from court or administrative practice, not just from action by the legislative or executive branch. Indeed, there is a comparatively strong burden on courts and administrative authorities to",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 27,
+            "top": 91,
+            "left": 87
+        }
+    },
+    {
+        "page": 227,
+        "heading": "III. Forms of Administrative Action",
+        "content": " 1. ADMINISTRATIVE DECISIONS  a) Omnipresence of Administrative Decisions",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 83,
+            "top": 85,
+            "left": 87
+        }
+    },
+    {
+        "page": 227,
+        "heading": "a) Omnipresence of Administrative Decisions",
+        "content": " Administrative decisions can be jocularly considered the Pythagorean Theorem of Swiss administrative law. Admittedly, they are not part of the sub- ject of advanced mathematics nor can they be considered as being even close",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 51,
+            "top": 85,
+            "left": 472
+        }
+    },
+    {
+        "page": 228,
+        "heading": "b) Definition of Administrative Decisions",
+        "content": " The Federal Act on Administrative Procedure\u00ae\u2019 provides for a definition of an administrative decision. In its (unofficial) English translation, Article 5 I reads as follows:",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 20,
+            "top": 91,
+            "left": 258
+        }
+    },
+    {
+        "page": 229,
+        "heading": "c) Administrative Decisions Determining Rights and Obligations",
+        "content": " An administrative decision establishes, amends or withdraws rights or obli- gations. Indeed, this is the raison d\u2019\u00e9tre of an administrative decision.\u00ae\u00b0 Other forms of administrative actions may have legal consequences, which",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 17,
+            "top": 91,
+            "left": 312
+        }
+    },
+    {
+        "page": 230,
+        "heading": "d) Administrative Decisions as Individual Acts",
+        "content": " It is quite clear from the legal definition of administrative decisions and from the afore-mentioned examples of such decisions that they concern individual cases. Swiss doctrine would typically label the decision as individual (one",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 91,
+            "left": 161
+        }
+    },
+    {
+        "page": 231,
+        "heading": "e) Administrative Decisions as Unilateral Acts",
+        "content": " Swiss administrative law unfolds around the idea of the \u201csovereignty\u201d (\u2018Hoheitlichkeit\u201d) of administrative action. Administrative action entails that the state has the privilege to act unilaterally towards its citizens. In this",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 23,
+            "top": 91,
+            "left": 107
+        }
+    },
+    {
+        "page": 232,
+        "heading": "f) Administrative Decisions as Acts Under Public Law",
+        "content": " Administrative decisions must be based on public law, as Article 5 Administrative Procedure Act explicitly states. This prerequisite seems self-evident. However, quite the opposite holds true when one considers the",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 19,
+            "top": 91,
+            "left": 95
+        }
+    },
+    {
+        "page": 233,
+        "heading": "g) Form",
+        "content": " If one goes through the prerequisites of an administrative decision (an indi- vidual, unilateral act under public law determining rights and obligations), one may note that those do not prescribe a certain form that the decision",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 19,
+            "top": 305,
+            "left": 410
+        }
+    },
+    {
+        "page": 237,
+        "heading": "IV. Landmark Cases",
+        "content": " 1. STATE LIABILITY: VACHERIN MONT D\u2019OR?\u00ae  In 1987, an epidemic of the bacteria \u201clisteria monocytogenes\u201d emerged in",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 47,
+            "top": 85,
+            "left": 284
+        }
+    },
+    {
+        "page": 240,
+        "heading": "exclusion orders (Rayonverbot) must last at least one year under any given circumstances; and",
+        "content": " \u2014 the duration of the reporting obligation (Meldeauflage) must man- datorily be doubled if such obligation is breached without excusable grounds.",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 27,
+            "top": 91,
+            "left": 95
+        }
+    },
+    {
+        "page": 242,
+        "heading": "PATRICIA EGLI, Introduction to Swiss Constitutional Law, Zurich/St. Gallen",
+        "content": "2016  THOMAS FLEINER/ALEXANDER MIsIC/NICOLE TOPPERWIEN, Constitutional Law in Switzerland, Alphen aan den Rijn 2012",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 8,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 250,
+        "heading": "II. Procedural Rights and Principles",
+        "content": " 1. ADMINISTRATIVE ACTION  In Switzerland, legal protection from administrative action is traditionally lin-",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 149,
+            "top": 132,
+            "left": 133
+        }
+    },
+    {
+        "page": 257,
+        "heading": "III. Institutional Framework",
+        "content": " 1. ADMINISTRATIVE AUTHORITIES  The administrative authorities themselves play a vital role in providing effec-",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 36,
+            "top": 85,
+            "left": 331
+        }
+    },
+    {
+        "page": 259,
+        "heading": "a",
+        "content": " Federal Council | | pute Supreme Cone  a",
+        "features": {
+            "font_id": "9",
+            "height": 12,
+            "width": 194,
+            "top": 46,
+            "left": 384
+        }
+    },
+    {
+        "page": 259,
+        "heading": "' Federal Administrative Court",
+        "content": " 4 r ~>| Federal Department 7 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 650,
+            "left": 175
+        }
+    },
+    {
+        "page": 259,
+        "heading": "Lower Admin. Authority |  mnm----= > Federal Administrative Court |",
+        "content": " Figure 1: Appeal System before Cantonal (State) and Federal Authorities\u00ae\u00ae  precisely, Swiss courts must apply federal laws even if they are considered",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 650,
+            "left": 175
+        }
+    },
+    {
+        "page": 263,
+        "heading": "DECISION: [WB #8",
+        "content": " X was a tenant in a Basel property. For two years, its owner has not paid the bills for the general electricity supply of the building issued by the canton of Basel-Stadt industrial works (Industrielle Werke des Kantons Basel-Stadt,",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 37,
+            "top": 248,
+            "left": 202
+        }
+    },
+    {
+        "page": 269,
+        "heading": "GIOVANNI BIAGGINI, Kommentar Bundesverfassung der Schweizerischen Eidgenossenschaft, 2\" edition, Zurich 2017, Article 29",
+        "content": " THOMAS FLEINER/ALEXANDER MIsIc/NICOLE TOPPERWIEN, Constitutional Law in Switzerland, Alphen aan den Rijn 2012 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 269,
+        "heading": "THOMAS FLEINER/ALEXANDER MIsIc/NICOLE TOPPERWIEN, Constitutional Law in Switzerland, Alphen aan den Rijn 2012",
+        "content": " SERGIO GIACOMINI, Vom ,Jagdmachen auf die Verfiigung\u201c \u2014 Ein Diskussions- beitrag, Schweizerisches Zentralblatt fiir Staats-und Verwaltungsrecht 1993",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 16,
+            "top": 216,
+            "left": 463
+        }
+    },
+    {
+        "page": 269,
+        "heading": "UxricH HAFELIN/GEORG MULLER/FELIX UHLMANN, Allgemeines Verwal- tungsrecht, 7\u2018 edition, Zurich/St. Gallen 2016",
+        "content": " REGINA KIENER/BERNHARD RUTSCHE/MaTHIAS KuHN,  Offentliches Verfahrensrecht, 2\" edition, Zurich/St. Gallen 2015 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 269,
+        "heading": "REGINA KIENER/BERNHARD RUTSCHE/MaTHIAS KuHN,  Offentliches Verfahrensrecht, 2\" edition, Zurich/St. Gallen 2015",
+        "content": " PIERRE MorR/ETIENNE POLTIER, Droit administratif, Vol. II, Les actes admi- nistratifs et leur contr\u00e9le, 3\"! edition, Bern 2011 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 10,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 270,
+        "heading": "Madeleine Simonek Martina Becker",
+        "content": " Tax Law  Fiscal Sovereignty and Constitutional Principles .............",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 288,
+            "left": 81
+        }
+    },
+    {
+        "page": 270,
+        "heading": "Tax Law",
+        "content": " Fiscal Sovereignty and Constitutional Principles .............  . 247",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 122,
+            "top": 174,
+            "left": 265
+        }
+    },
+    {
+        "page": 271,
+        "heading": "\u00a9 2018 Madeleine Simonek, Martina Becker, CC-BY 4.0, DOI: 10.24921/2018.94115924.10",
+        "content": " . 266 . . 267 . 268",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 457,
+            "top": 835,
+            "left": 87
+        }
+    },
+    {
+        "page": 272,
+        "heading": "I. Fiscal Sovereignty and Constitutional Principles",
+        "content": " 1. FEDERALISM AND FISCAL SOVEREIGNTY  a) Distribution of Fiscal Sovereignty",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 394,
+            "top": 97,
+            "left": 81
+        }
+    },
+    {
+        "page": 272,
+        "heading": "a) Distribution of Fiscal Sovereignty",
+        "content": " As a consequence of Swiss federalism, Switzerland\u2019s tax system incorporates three levels of taxation: taxes are imposed by the federation, the cantons and the municipalities.*",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 16,
+            "top": 283,
+            "left": 262
+        }
+    },
+    {
+        "page": 272,
+        "heading": "Federal direct tax (Article 128 Constitution)",
+        "content": " \u2014 Value added tax (Article 130 Constitution)  \u2014 Stamp duty on securities, receipts for insurance premiums and certain",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 16,
+            "top": 283,
+            "left": 262
+        }
+    },
+    {
+        "page": 272,
+        "heading": "Value added tax (Article 130 Constitution)",
+        "content": " \u2014 Stamp duty on securities, receipts for insurance premiums and certain other commercial deeds (Article 132 I Constitution) ",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 15,
+            "top": 283,
+            "left": 329
+        }
+    },
+    {
+        "page": 273,
+        "heading": "Taxes on gambling houses (Article 106 III Constitution)",
+        "content": " Conversely, the cantons are essentially free to levy any taxes, except those which are exclusively reserved to the federation.+ The cantonal constitu- tions further delegate and organise the division of tasks and powers bet-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 130,
+            "left": 189
+        }
+    },
+    {
+        "page": 273,
+        "heading": "b) Federal Tax Harmonisation Act",
+        "content": " For a long time, fiscal federalism resulted in the existence of 26 (often very) different cantonal tax laws. This situation hindered personal and economic mobility within Switzerland.\u00ae Taxpayers who were liable to be taxed in two or",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 130,
+            "left": 189
+        }
+    },
+    {
+        "page": 274,
+        "heading": "Madeleine Simonek / Martina Becker: Tax Law 249",
+        "content": " The Tax Harmonisation Act significantly improved tax coordination in Switzerland, introducing tax harmonisation with regard to direct taxes bet- ween the federation and the cantons (vertical tax harmonisation) as well as",
+        "features": {
+            "font_id": "9",
+            "height": 12,
+            "width": 216,
+            "top": 46,
+            "left": 81
+        }
+    },
+    {
+        "page": 274,
+        "heading": "a) Principle of Legality",
+        "content": " The principle of legality (Article 5 Constitution) is of fundamental import- ance in Swiss tax law. Article 127 I Constitution ensures its application to tax matters and states that \u201cthe main structural features of any tax, in particular",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 24,
+            "top": 338,
+            "left": 159
+        }
+    },
+    {
+        "page": 274,
+        "heading": "b) Principle of Universality",
+        "content": " The principle of universality is enshrined in Article 127 II Constitution. It demands that each member of acommunity should contribute to the commu- nity\u2019s financial burdens and denotes that all taxpayers or groups of taxpayers",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 24,
+            "top": 338,
+            "left": 159
+        }
+    },
+    {
+        "page": 275,
+        "heading": "c) Principle of Uniformity and Ability-To-Pay Principle",
+        "content": " The principle of uniformity and the ability-to-pay principle share similar con- tent, requiring that each taxpayer must contribute to the fiscal burdens of the state according to his or her economic, financial and personal resources",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 26,
+            "top": 167,
+            "left": 286
+        }
+    },
+    {
+        "page": 275,
+        "heading": "d) Prohibition of Inter-Cantonal Double Taxation",
+        "content": " Since 1874, the Constitution explicitly prohibits inter-cantonal double taxa- tion. Today, the prohibition is enshrined in Article 127 III Constitution. Inter- cantonal double taxation arises if a taxpayer is simultaneously subjected to",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 26,
+            "top": 167,
+            "left": 286
+        }
+    },
+    {
+        "page": 276,
+        "heading": "e) Principle of Good Faith",
+        "content": " The Constitution expressly requires that \u201cstate institutions and private per- sons shall act in good faith\u201d (Article 5 III Constitution). Additionally, Article 9 Constitution states that \u201cevery person has the right to be treated by state",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 16,
+            "top": 415,
+            "left": 444
+        }
+    },
+    {
+        "page": 278,
+        "heading": "II. Most Important Taxes and Tax Codes",
+        "content": " 1. FEDERAL TAXES  a) Federal Direct Taxes",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 452,
+            "top": 97,
+            "left": 81
+        }
+    },
+    {
+        "page": 278,
+        "heading": "aa) Introduction",
+        "content": " The first federal direct tax was introduced during World War I to meet the increasing financial needs of the federation. In the following, the federation\u2019s right to levy a direct federal tax was prolonged ever since, today the compe-",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 127,
+            "top": 384,
+            "left": 81
+        }
+    },
+    {
+        "page": 279,
+        "heading": "bb) Federal Individual Income Tax",
+        "content": " The federal individual income tax is levied from Swiss tax residents as well as from non-residents who have economic attachment to Switzerland. Income taxes are generally considered as the most appropriate indicator for the abi-",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 267,
+            "top": 96,
+            "left": 87
+        }
+    },
+    {
+        "page": 282,
+        "heading": "dd) Source Tax Levied on Income of Certain Individuals and",
+        "content": " Legal Entities  Because the ordinary tax assessment procedure is considered too compli-",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 468,
+            "top": 311,
+            "left": 81
+        }
+    },
+    {
+        "page": 282,
+        "heading": "Legal Entities",
+        "content": " Because the ordinary tax assessment procedure is considered too compli- cated for taxpayers who are only living in Switzerland for a short period of time, Swiss tax residents with foreign citizenship and who do not have a Swiss",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 385,
+            "top": 211,
+            "left": 81
+        }
+    },
+    {
+        "page": 282,
+        "heading": "b) Withholding (Anticipatory) Tax",
+        "content": " The law covering the federal withholding tax is the Federal Act and Ordinance on Withholding Tax.\u201d Withholding tax is levied on the revenue from certain moveable capital assets (particularly dividends and interest on bonds and",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 130,
+            "left": 163
+        }
+    },
+    {
+        "page": 283,
+        "heading": "c) Federal Value Added Tax",
+        "content": " The Federal Value Added Tax (VAT) was introduced in Switzerland on 1 January 1995. The current Value Added Tax Act entered into force on 1 January 2010.8",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 72,
+            "top": 130,
+            "left": 285
+        }
+    },
+    {
+        "page": 283,
+        "heading": "The Federal Value Added Tax (VAT) was introduced in Switzerland on",
+        "content": "1 January 1995. The current Value Added Tax Act entered into force on 1 January 2010.8  The Swiss VAT is a general consumption tax aiming at the taxation of non-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 72,
+            "top": 130,
+            "left": 285
+        }
+    },
+    {
+        "page": 284,
+        "heading": "d) Other Taxes",
+        "content": " According to the Federal Act on Stamp Duties,\u201d? the federation levies three types of stamp duties purposing to tax the constitution or transfer of rights: an issuance stamp duty on the issuance of shares as well as participation and",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 24,
+            "top": 459,
+            "left": 99
+        }
+    },
+    {
+        "page": 285,
+        "heading": "aa) Individual Income Tax",
+        "content": " The cantons are obliged to levy an individual income tax based on the princi- ples and framework outlined by the Tax Harmonisation Act (Articles 3 et seq. Tax Harmonisation Act). Because the Tax Harmonisation Act harmonises not",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 203,
+            "top": 190,
+            "left": 87
+        }
+    },
+    {
+        "page": 286,
+        "heading": "bb) Net Wealth Tax for Individuals",
+        "content": " Based on Article 2 Tax Harmonisation Act, the cantons are obliged to levy a tax on the net wealth of individuals. In general, individuals\u2019 worldwide net wealth is subject to the tax, including for example bank deposits, securities,",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 266,
+            "top": 96,
+            "left": 81
+        }
+    },
+    {
+        "page": 287,
+        "heading": "bb) Capital Tax",
+        "content": " The cantons are also obliged to levy a capital tax on a legal entities\u2019 equity. For corporations, the taxable equity includes the paid-in share capital, any capital contributions made by the shareholders, and both disclosed and taxed",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 117,
+            "top": 155,
+            "left": 87
+        }
+    },
+    {
+        "page": 287,
+        "heading": "aa) Inheritance and Gift Taxes",
+        "content": " Inheritance and gifts are not subject to the income tax, neither on the federal nor the cantonal level. However, almost all cantons levy a special inheri- tance and/or gift tax.\u201d\u00b0 Inheritance and gift taxes are not subject to the Tax",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 238,
+            "top": 355,
+            "left": 87
+        }
+    },
+    {
+        "page": 288,
+        "heading": "cc) Other Property and Expenditure Taxes",
+        "content": " Due to the fiscal sovereignty of the cantons, the cantons or their commu- nes provide for various further taxes. Most cantons levy a real estate transfer tax on the transfer of ownership of immoveable property (house and land)",
+        "features": {
+            "font_id": "51",
+            "height": 18,
+            "width": 327,
+            "top": 233,
+            "left": 81
+        }
+    },
+    {
+        "page": 288,
+        "heading": "a) Multilateral Conventions",
+        "content": " One key multilateral convention recently ratified by Switzerland is the Convention on Mutual Administrative Assistance in Tax Matters entered into force on 1 January 2017. Drafted by the OECD and the Council of Europe,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 91,
+            "left": 93
+        }
+    },
+    {
+        "page": 289,
+        "heading": "b) Double Taxation Treaties",
+        "content": " Switzerland has signed a total of approximately 95 double taxation treaties covering individual and corporate income taxes as well as withholding taxes. Some of them also include net wealth and capital taxes. Swiss double taxation",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 149,
+            "left": 149
+        }
+    },
+    {
+        "page": 289,
+        "heading": "c) Bilateral Agreements with the European Union",
+        "content": " Switzerland is not a member state of the European Union. Nevertheless, a close relationship exists between the two parties on political, economic and cultural levels. Over the years, countless bilateral agreements have been con-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 149,
+            "left": 149
+        }
+    },
+    {
+        "page": 291,
+        "heading": "Taxable Income Tax (in CHF) Tax Rate",
+        "content": "50\u2019000 5784 11.57 % 100000 37834 13.83 % 300\u2019000 46'311 15.43 % 500\u2019000 65/824 13.16 %",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 11,
+            "top": 89,
+            "left": 473
+        }
+    },
+    {
+        "page": 291,
+        "heading": "Figure 1: Tax Income Scale",
+        "content": " A majority of 86 % of the people of the Canton of Obwalden voted in favour of this new income tax scale, most likely being convinced by the government\u2019s argument that low income tax rates for higher taxable income could attract",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 11,
+            "top": 89,
+            "left": 473
+        }
+    },
+    {
+        "page": 292,
+        "heading": "the law has not changed; and",
+        "content": " \u2014 the public interest does not require a strict application of the law where this is contrary to the content of the tax ruling. ",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 45,
+            "top": 89,
+            "left": 201
+        }
+    },
+    {
+        "page": 294,
+        "heading": "ERNST BLUMENSTEIN/PETER LOCHER, System des Steuerrechts, 7 edition, Zurich 2016",
+        "content": " BERNHARD EHRENZELLER/BENJAMIN SCHINDLER/RAINER J. SCHWEIZER/ Kiaus A. VALLENDER (eds.), Die Schweizerische Bundesverfassung, St. Galler Kommentar, 3\" edition, Zurich/St. Gallen 2014",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 299,
+        "heading": "a 3",
+        "content": " Figure 1: Johann Caspar Bluntschli (1808-1881)\u201d  However, the Swiss civil law landscape was to remain heterogeneous",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 5,
+            "top": 489,
+            "left": 233
+        }
+    },
+    {
+        "page": 299,
+        "heading": "Figure 1: Johann Caspar Bluntschli (1808-1881)\u201d",
+        "content": " However, the Swiss civil law landscape was to remain heterogeneous throughout the second half of the 19\" century. Due to their extensive auto- nomy, the 25 cantons? (i.e. federal states) retained their legislative inde-",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 245,
+            "top": 415,
+            "left": 87
+        }
+    },
+    {
+        "page": 300,
+        "heading": "Figure 2: Eugen Huber (1849-1923)\u00b0",
+        "content": " Following the comparative analysis, HUBER published the first draft of the Civil Code in 1900. Until 1904, a commission of experts deliberated on the draft. Finally, on 10 December 1907, the Code was adopted by the Federal",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 133,
+            "left": 280
+        }
+    },
+    {
+        "page": 302,
+        "heading": "the Land Register",
+        "content": " \u2014 Official Measures \u2014 Organisation ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 470,
+            "top": 289,
+            "left": 81
+        }
+    },
+    {
+        "page": 302,
+        "heading": "Official Measures \u2014 Organisation",
+        "content": " Figure 3: Structure of the Civil Code  4. MARITAL PROPERTY LAW",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 23,
+            "top": 149,
+            "left": 90
+        }
+    },
+    {
+        "page": 302,
+        "heading": "Figure 3: Structure of the Civil Code",
+        "content": " 4. MARITAL PROPERTY LAW  Swiss family law establishes three marital property regimes to govern the",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 190,
+            "top": 640,
+            "left": 81
+        }
+    },
+    {
+        "page": 303,
+        "heading": "income derived from individual property; and",
+        "content": " \u2014 property acquired to replace or substitute acquired assets.  By operation of law (Article 197), a spouse\u2019s individual property comprises:",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 319,
+            "top": 445,
+            "left": 110
+        }
+    },
+    {
+        "page": 303,
+        "heading": "claims for satisfaction; and",
+        "content": " \u2014 acquisitions substituting or replacing individual assets.  The marital property regime is dissolved (i) through divorce, (ii) on the",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 197,
+            "top": 620,
+            "left": 110
+        }
+    },
+    {
+        "page": 308,
+        "heading": "II. Principles",
+        "content": " 1. APPLICATION AND INTERPRETATION OF THE LAW  According to Article 1, which addresses the relationship between statutory",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 11,
+            "top": 248,
+            "left": 267
+        }
+    },
+    {
+        "page": 314,
+        "heading": "according to which rights in rem must be made public through suitable means.\u201d>",
+        "content": " With regard to movable property, it is possession (Besitz), i.e. effective control (Article 919 I), that grants publicity. Accordingly, to validly transfer ownership the new owner must legitimately gain possession (traditio) of the",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 180,
+            "top": 94,
+            "left": 81
+        }
+    },
+    {
+        "page": 317,
+        "heading": "usufruct; and",
+        "content": " \u2014 lien (including charges on chattels, charges on immovable property such as mortgages, special liens, and liens on debts). ",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 54,
+            "top": 113,
+            "left": 132
+        }
+    },
+    {
+        "page": 323,
+        "heading": "Firstly, the court held that the malicious act or omission pursuant to Article",
+        "content": "540 I No 3 does not require that a criminal act had been committed. Secondly, the court confirmed the view that there must be a causal relationship bet- ween the malicious act or omission and the fact that the decedent did not make or revoke a will. In cases of a potential failure to provide advice and",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 480,
+            "top": 191,
+            "left": 101
+        }
+    },
+    {
+        "page": 328,
+        "heading": "Lukas HANDSCHIN, Swiss company law, 2\" edition, Zurich 2015",
+        "content": " ANDREAS ROTHELI/CECILE BERGER MEYER, Switzerland, in: The Real Estate Law Review, David Waterfield (ed.), London 2012, pp. 319 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 11,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 328,
+        "heading": "GEORG VON SEGESER, Property and Trust Law in Switzerland, Bern 2016",
+        "content": " PETER TUOR/BERNHARD SCHNYDER/JORG SCHMID/ALEXANDRA JUNGO, Das Schweizerische Zivilgesetzbuch, 14\"\" edition, Zurich 2015 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 11,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 328,
+        "heading": "PETER TUOR/BERNHARD SCHNYDER/JORG SCHMID/ALEXANDRA JUNGO, Das Schweizerische Zivilgesetzbuch, 14\"\" edition, Zurich 2015",
+        "content": " TINA WUSTEMANN/DANIEL BADER, Private client law in Switzerland: over- view, in: Practical Law, Private Client Global Guide 2018 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 11,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 330,
+        "heading": "Tina Huber-Purtschert",
+        "content": " Law of Obligations  I. Contract and Tort Law. .... 0... ce ce ce ce ee ee ee ee ee ee ee ne ne 6 BOQ",
+        "features": {
+            "font_id": "19",
+            "height": 12,
+            "width": 397,
+            "top": 849,
+            "left": 81
+        }
+    },
+    {
+        "page": 330,
+        "heading": "Law of Obligations",
+        "content": " I. Contract and Tort Law. .... 0... ce ce ce ce ee ee ee ee ee ee ee ne ne 6 BOQ  1. Codes 2... . cc ee eee eee eee eee eens 309",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 275,
+            "top": 139,
+            "left": 189
+        }
+    },
+    {
+        "page": 332,
+        "heading": "Division Three: Commercial Enterprises and the Cooperative (Articles",
+        "content": "552-926)  \u2014 Division Four: The Commercial Register, Business Names, and Commercial Accounting (Articles 927-964)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 471,
+            "top": 94,
+            "left": 104
+        }
+    },
+    {
+        "page": 332,
+        "heading": "Division Four: The Commercial Register, Business Names, and Commercial Accounting (Articles 927-964)",
+        "content": " \u2014 Division Five: Negotiable Securities (Articles 965-1186)  The code essentially covers two major subjects: contract and tort law in the",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 277,
+            "top": 152,
+            "left": 126
+        }
+    },
+    {
+        "page": 332,
+        "heading": "Division Five: Negotiable Securities (Articles 965-1186)",
+        "content": " The code essentially covers two major subjects: contract and tort law in the first two divisions and company law (including the law on securities) in the subsequent three divisions. Since the two subjects cover different areas",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 371,
+            "top": 172,
+            "left": 104
+        }
+    },
+    {
+        "page": 334,
+        "heading": "I. Contract and Tort Law",
+        "content": " 1. CODES  As mentioned above, the Articles about contract and tort law can be found in",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 61,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 334,
+        "heading": "Extinction of Obligations (Articles 114-142)",
+        "content": " \u2014 Special Relationships relating to Obligations (joint and several obliga- tions, conditional obligations, earnest money,\u00b0 forfeit money,\u00b0 salary deductions, and contractual penalties; Articles 143-163)",
+        "features": {
+            "font_id": "45",
+            "height": 21,
+            "width": 12,
+            "top": 224,
+            "left": 81
+        }
+    },
+    {
+        "page": 334,
+        "heading": "Assignment of Claims and Assumption of Debt (Articles 164-183)",
+        "content": " It is important to mention that several of the general provisions of the Code of Obligations have a broader application than just within the context of the Code of Obligations. Article 7 Civil Code\u2019 expressly states:",
+        "features": {
+            "font_id": "45",
+            "height": 21,
+            "width": 12,
+            "top": 224,
+            "left": 81
+        }
+    },
+    {
+        "page": 334,
+        "heading": "formance and termination of contracts also apply to other civil law matters.\u201d*\u00ae",
+        "content": " 5 Earnest money is a payment already made upon conclusion of a contract with the mean- ing that the contractual partner may retain the amount in the event of non-performance. ",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 13,
+            "top": 217,
+            "left": 106
+        }
+    },
+    {
+        "page": 335,
+        "heading": "Gift (Articles 239-252)",
+        "content": " \u2014 Lease (Articles 253-2748) and usufructuary lease\u201d (Articles 275-304)  \u2014 Loan for use (Articles 305-311) and fixed-term loan (Articles 312-318)",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 5,
+            "top": 190,
+            "left": 573
+        }
+    },
+    {
+        "page": 335,
+        "heading": "Lease (Articles 253-2748) and usufructuary lease\u201d (Articles 275-304)",
+        "content": " \u2014 Loan for use (Articles 305-311) and fixed-term loan (Articles 312-318)  \u2014 Employment contracts (Articles 319-362), including the individual",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 35,
+            "top": 620,
+            "left": 132
+        }
+    },
+    {
+        "page": 335,
+        "heading": "Loan for use (Articles 305-311) and fixed-term loan (Articles 312-318)",
+        "content": " \u2014 Employment contracts (Articles 319-362), including the individual employment contract and special employment contracts such as the ",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 7,
+            "top": 619,
+            "left": 444
+        }
+    },
+    {
+        "page": 336,
+        "heading": "apprenticeship contract, the commercial traveller contract,\u201d and the homeworker contract",
+        "content": " \u2014 Contract for work and services (Articles 363-379)  \u2014 Publishing contract (Articles 380-393)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 383,
+            "top": 94,
+            "left": 126
+        }
+    },
+    {
+        "page": 339,
+        "heading": "b) Interpretation of a Contract",
+        "content": " The interpretation of a contract orients itself in the first place on the principle of will (subjective interpretation), or as stated in Article 18 I ",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 17,
+            "top": 342,
+            "left": 104
+        }
+    },
+    {
+        "page": 340,
+        "heading": "c) Defects in the Conclusion of a Contract",
+        "content": " The Code of Obligations establishes three cases where there will be a defect in the conclusion of a contract. These defects in the conclusion of a cont- ract result in the contract being null/void ab initio. First, a contract is void",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 24,
+            "top": 303,
+            "left": 96
+        }
+    },
+    {
+        "page": 340,
+        "heading": "d) Defects in Consent",
+        "content": " Falling under defects in consent are error, fraud, and duress.  The error must be fundamental (Article 23). Article 24 enumerates the",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 201,
+            "top": 835,
+            "left": 81
+        }
+    },
+    {
+        "page": 341,
+        "heading": "e) Unfair Advantage",
+        "content": " Somewhat of a \u201cmixture\u201d between defect in consent and defect in content is the case of unfair advantage. This is applicable when there is a clear discre- pancy between performance and consideration under a contract concluded,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 13,
+            "top": 785,
+            "left": 323
+        }
+    },
+    {
+        "page": 342,
+        "heading": "f) Claims According to the General Provisions of the Code of Obligations",
+        "content": " According to the general part of the Code of Obligations, contractual claims can stem from different bases. The most powerful contractual claims are those deriving from defect-free contracts. Other claims have their basis in",
+        "features": {
+            "font_id": "42",
+            "height": 19,
+            "width": 116,
+            "top": 178,
+            "left": 81
+        }
+    },
+    {
+        "page": 344,
+        "heading": "g) Quasi-Contractual Claims",
+        "content": " Quasi-contractual claims arise when parties interact in a contractual context but act without a (valid) contract and when the (at least partial) application of contractual provisions leads to a more appropriate result than the application",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 494,
+            "top": 593,
+            "left": 81
+        }
+    },
+    {
+        "page": 345,
+        "heading": "h) Time Limits",
+        "content": " Under Swiss law, all claims (with some exceptions, particularly in the field of real estate, e.g. Article 807 Civil Code, which states that claims regarding a mortgage that has been recorded in the land register are not subject to time",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 494,
+            "top": 632,
+            "left": 87
+        }
+    },
+    {
+        "page": 346,
+        "heading": "i) Types of Contractual Relationship",
+        "content": " The contracts codified in the Code of Obligations are characterised by stan- dard principal obligations that apply to the contractual parties (\u201cstandard\u201d essentialia negotii). These standard obligations are in general stated in the",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 37,
+            "top": 89,
+            "left": 152
+        }
+    },
+    {
+        "page": 347,
+        "heading": "j) Innominate Contracts",
+        "content": " Articles 184-551 cover so called \u201cnominate\u201d contracts (in the sense of \u201cregula- ted\u201d types of contracts). Since the Code of Obligations follows the principle of freedom of contract, parties can also conclude contracts that do not follow the",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 29,
+            "top": 459,
+            "left": 87
+        }
+    },
+    {
+        "page": 348,
+        "heading": "a) Swissair-Case*\u00b0",
+        "content": " Liability after inspired confidence based on trust  The claimant concluded a contract with a subsidiary company of the",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 17,
+            "top": 89,
+            "left": 212
+        }
+    },
+    {
+        "page": 348,
+        "heading": "Liability after inspired confidence based on trust",
+        "content": " The claimant concluded a contract with a subsidiary company of the Swissair Group concerning membership rights to use luxurious residences near golf courses at home and in foreign countries. The claimant paid an ini-",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 302,
+            "top": 178,
+            "left": 81
+        }
+    },
+    {
+        "page": 348,
+        "heading": "b) Market Value Estimate-Case**",
+        "content": " Delineation between a contract for work and services and a simple agency contract ",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 17,
+            "top": 89,
+            "left": 212
+        }
+    },
+    {
+        "page": 348,
+        "heading": "Delineation between a contract for work and services and a simple agency contract",
+        "content": " The matter in dispute in this case was a market value estimate of the defen- dant of a piece of real estate. This estimate was the basis for the calculation of the claimant\u2019s share in an inheritance case. Five years after the estimate",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 17,
+            "top": 89,
+            "left": 212
+        }
+    },
+    {
+        "page": 349,
+        "heading": "c) Revocability of Simple Agency Contracts-Case\u201d",
+        "content": " Revocability at any time of simple agency contract is compulsory  The claimant and the defendant agreed on an advisory contract concerning",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 151,
+            "top": 250,
+            "left": 87
+        }
+    },
+    {
+        "page": 349,
+        "heading": "Revocability at any time of simple agency contract is compulsory",
+        "content": " The claimant and the defendant agreed on an advisory contract concerning accounting services. It was undisputed between the parties that the consul- tancy agreement qualifies as a simple agency contract. After a few months,",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 402,
+            "top": 320,
+            "left": 87
+        }
+    },
+    {
+        "page": 350,
+        "heading": "II. Company Law",
+        "content": " 1. CODES  As mentioned at the beginning of this chapter, the Articles about company",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 74,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 350,
+        "heading": "a) Company Forms",
+        "content": " Unlike Swiss contract law, the provisions of Swiss company law do not pro- vide for the freedom to create any kind of company. On the contrary, one\u2019s choice is limited to the types of company the law provides for. Most types of",
+        "features": {
+            "font_id": "28",
+            "height": 31,
+            "width": 29,
+            "top": 217,
+            "left": 89
+        }
+    },
+    {
+        "page": 351,
+        "heading": "Figure 1: Types of Business Associations",
+        "content": " By far the far most common business form in Switzerland is the sole prop- rietorship (b.), followed by the company limited by shares (c.), and the limited liability company (d.), respectively. Thus, these three forms will now be stu-",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 209,
+            "top": 436,
+            "left": 87
+        }
+    },
+    {
+        "page": 351,
+        "heading": "b) Sole Proprietorship",
+        "content": " The easiest to create is the sole proprietorship. It has no separate legal perso- nality from the person running the business. ",
+        "features": {
+            "font_id": "41",
+            "height": 29,
+            "width": 6,
+            "top": 565,
+            "left": 201
+        }
+    },
+    {
+        "page": 351,
+        "heading": "bility",
+        "content": "594-619) company Investment (Articles 772-827) Schemes Act \u2014 Cooperative (CISA) with inter (Articles 828-926) alia the investment",
+        "features": {
+            "font_id": "64",
+            "height": 10,
+            "width": 77,
+            "top": 309,
+            "left": 382
+        }
+    },
+    {
+        "page": 352,
+        "heading": "Employment",
+        "content": " Legal basis  \u2014 Founder is self-employed by working under his or her own name and",
+        "features": {
+            "font_id": "63",
+            "height": 12,
+            "width": 58,
+            "top": 100,
+            "left": 87
+        }
+    },
+    {
+        "page": 355,
+        "heading": "Liability of dominating shareholder for company limited by shares",
+        "content": " The claimant, an engineer, sold a patent to a natural person. Under this licence contract, the buyer incurred some obligations, e.g. the obligation to refrain from exporting goods produced with the patent and to share experi-",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 411,
+            "top": 184,
+            "left": 87
+        }
+    },
+    {
+        "page": 355,
+        "heading": "b) Breakthrough-Case II\u00b0",
+        "content": " Liability of company limited by shares for dominating shareholder  To enforce a claim against an obligor, the claimant sequestrated a property.",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 15,
+            "top": 298,
+            "left": 460
+        }
+    },
+    {
+        "page": 355,
+        "heading": "Liability of company limited by shares for dominating shareholder",
+        "content": " To enforce a claim against an obligor, the claimant sequestrated a property. Formally the property had not belonged to the obligor but to a company limi- ted by shares that he dominated. The Federal Supreme Court stated that in",
+        "features": {
+            "font_id": "13",
+            "height": 17,
+            "width": 411,
+            "top": 488,
+            "left": 87
+        }
+    },
+    {
+        "page": 356,
+        "heading": "LUKAS HANDSCHIN, Swiss Company Law, 2\u2122 ed., Zurich/St. Gallen 2015",
+        "content": " DANIEL LENGAUER/MARTIN SCHAAD/THERESE AMSTUTZ (eds.), Company Law in Switzerland, Zurich/Basel/Geneva 2009 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 356,
+        "heading": "DANIEL LENGAUER/MARTIN SCHAAD/THERESE AMSTUTZ (eds.), Company Law in Switzerland, Zurich/Basel/Geneva 2009",
+        "content": " PIERRE TERCIER/DOMINIQUE DREYER, Torts, in: Francois Dessemontet and Tugrul Ansay (eds.), Introduction to Swiss Law, 3\" ed., The Hague 2004, ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 9,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 358,
+        "heading": "Sophie-Katharina Matjaz Civil Procedure",
+        "content": " I. Swiss Civil Procedure Code .. .. 1. 0... ce ce ce ce te ce te ee eens 1. Constitutional Framework .... 1... 0... ce ce ce ce ee ee eee 2. Legislation. 2.0... 6 ce ce ce ce ce ee ee ee ee ee ee ee ee ee ee ee",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 12,
+            "top": 327,
+            "left": 81
+        }
+    },
+    {
+        "page": 364,
+        "heading": "principle use single judge proceedings for cases with a value of up to CHF",
+        "content": "30\u2019000. For proceedings with a value in dispute higher than CHF 30\u2019000, multi-judge courts are provided in these cantons. Other cantons use single judges for cases of higher value or use single judges regardless of the value in dispute (as in Bern where a judgement is delivered by a single judge in first",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 495,
+            "top": 94,
+            "left": 81
+        }
+    },
+    {
+        "page": 381,
+        "heading": "e court investigates the facts children in family matters)",
+        "content": " Principle of Limited Ex-Officio Investigation: the court is responsbile for \\L__ Principle of Ex-Officio establishing the facts (applies for example in disputes concerning matters of Investigation Applies discrimination under employment law and certain tenancy matters, as well as",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 69,
+            "top": 484,
+            "left": 87
+        }
+    },
+    {
+        "page": 381,
+        "heading": "Principle of Party Representation",
+        "content": " Court\u2019s General Duty to Enquire (Article 56): the court gives the parties an Applies  Opportunity to clarify or complete unclear or incomplete submissions by",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 496,
+            "top": 133,
+            "left": 87
+        }
+    },
+    {
+        "page": 382,
+        "heading": "III. Institutions and Procedure",
+        "content": " The institutions and procedure of Swiss civil justice can be best understood by chronologically following the course of a standard case. First, the attempt at conciliation, which is essentially mandatory before a case can be brought",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 27,
+            "top": 85,
+            "left": 384
+        }
+    },
+    {
+        "page": 384,
+        "heading": "Option 3",
+        "content": " Conciliation Attempt  Preparation of the Main Hearing",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 356,
+            "top": 669,
+            "left": 81
+        }
+    },
+    {
+        "page": 392,
+        "heading": "REMCO VAN RHEE, European Traditions in Civil Procedure, Antwerpen/ Oxford (2005)",
+        "content": " LUCIEN W. VALLONI/DANIEL BLOocH, Swiss Civil Procedure Code (CPC), Zurich 2010 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 7,
+            "top": 216,
+            "left": 81
+        }
+    },
+    {
+        "page": 394,
+        "heading": "Criminal Law",
+        "content": " I. Criminal Code .. .. 0. 0... ce ce ce ce ce ce ee ce ee te te eee ee ee 037] 1. HistOry. 6. ee ee ee eee eee ene 371 2. Legislation... 1... ee ee ee ee ne ee ens 373",
+        "features": {
+            "font_id": "10",
+            "height": 34,
+            "width": 204,
+            "top": 139,
+            "left": 225
+        }
+    },
+    {
+        "page": 396,
+        "heading": "I. Criminal Code",
+        "content": " This first section is intended to introduce and explain the development of the Swiss Criminal Code, starting with a brief history of the codification of crimi- nal law across Switzerland (1.). Next, the gradual development of the criminal",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 22,
+            "top": 448,
+            "left": 221
+        }
+    },
+    {
+        "page": 397,
+        "heading": "Figure 1: Ulrich Ochsenbein, 1811-1890\u00b0",
+        "content": " One of the main features of this federal system founded in 1848 is the auto- nomy of the 25 cantons:* the cantons kept their legislative independence. So even after Switzerland was founded as a modern federal state, the cantons",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 23,
+            "top": 208,
+            "left": 187
+        }
+    },
+    {
+        "page": 400,
+        "heading": "Swiss Criminal Code",
+        "content": " General Part Specific Part Introduction of Code Articles 1-110 Articles 111-332 Articles 333-392 ",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 245,
+            "top": 350,
+            "left": 81
+        }
+    },
+    {
+        "page": 400,
+        "heading": "General Part Specific Part Introduction of Code Articles 1-110 Articles 111-332 Articles 333-392",
+        "content": " Criminal Liability Sanctions Articles 1-33 Articles 34-73 ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 422,
+            "left": 315
+        }
+    },
+    {
+        "page": 400,
+        "heading": "Criminal Liability Sanctions Articles 1-33 Articles 34-73",
+        "content": " Figure 2: Structure of the Swiss Criminal Code  The Swiss Criminal Code contains 392 Articles. It is divided up into three",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 422,
+            "left": 315
+        }
+    },
+    {
+        "page": 400,
+        "heading": "Figure 2: Structure of the Swiss Criminal Code",
+        "content": " The Swiss Criminal Code contains 392 Articles. It is divided up into three books. ",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 245,
+            "top": 350,
+            "left": 81
+        }
+    },
+    {
+        "page": 402,
+        "heading": "Proveeive Messe\u2019 Terpy",
+        "content": " Path Forfeiture of Dangerous  {n-Patient Treatment of Indefinite Incarceration Good Behaviour Bond Objects",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 22,
+            "top": 211,
+            "left": 107
+        }
+    },
+    {
+        "page": 411,
+        "heading": "No Customary",
+        "content": " Law  Nulla Poena Praevia No Retro-Activity",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 495,
+            "top": 615,
+            "left": 87
+        }
+    },
+    {
+        "page": 411,
+        "heading": "Certainty No Analogous",
+        "content": " Interpretation Figure 4: Principle of Legality ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 30,
+            "top": 788,
+            "left": 516
+        }
+    },
+    {
+        "page": 411,
+        "heading": "Interpretation Figure 4: Principle of Legality",
+        "content": " The nulla poena sine lege principle is commonly used as a pars pro toto term which encompasses the nullum crimen principle as well. The nulla poena sine lege principle has been refined into a set of sub-principles that have a strong",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 156,
+            "top": 462,
+            "left": 87
+        }
+    },
+    {
+        "page": 412,
+        "heading": "Criminal Liability",
+        "content": " Elements of Crime Objective Elements Subjective Elements - Offender - Direct Intent - Object of the Crime - Conditional Intent",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 49,
+            "top": 286,
+            "left": 105
+        }
+    },
+    {
+        "page": 412,
+        "heading": "Unlawfulness Justification - Self-Defence - Necessity - Consent",
+        "content": " Culpability - Criminal Responsibility Subjective  - Error of Law Blame",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 286,
+            "left": 424
+        }
+    },
+    {
+        "page": 412,
+        "heading": "Culpability - Criminal Responsibility Subjective",
+        "content": " - Error of Law Blame - Unreasonableness ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 286,
+            "left": 424
+        }
+    },
+    {
+        "page": 419,
+        "heading": "ANNA PETRIG/NADINE ZURKINDEN, Swiss Criminal Law, Zurich/St. Gallen 2015",
+        "content": " ANNA PETRIG, Concept and Systematization of the Criminal Offense in Switzerland, in Ulrich Sieber/Konstanze Jarvers/Emily Silverman (eds.), National Criminal Law in a Comparative Legal Context, Defining",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 11,
+            "top": 216,
+            "left": 124
+        }
+    },
+    {
+        "page": 420,
+        "heading": "Criminal Procedure",
+        "content": " I. Criminal Procedure Code... .. 0... 0... cc ce ce ce ee ce ee ee ne ee \u00a9 397 1. Constitutional Framework. ............0 0c cece ee eee 397 2. Legislation... 1... eee ee ee eee eens 399",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 462,
+            "top": 444,
+            "left": 110
+        }
+    },
+    {
+        "page": 422,
+        "heading": "I. Criminal Procedure Code",
+        "content": " The first section of this chapter examines the constitutional framework wit- hin which the laws on criminal procedure in Switzerland operate (1.) and gives a brief history of criminal procedural laws in Switzerland, before embarking",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 39,
+            "top": 85,
+            "left": 81
+        }
+    },
+    {
+        "page": 427,
+        "heading": "Criminal Procedure",
+        "content": " 3. CONTENT\u201d  The Swiss Criminal Procedure Code contains 457 Articles. They are divided",
+        "features": {
+            "font_id": "9",
+            "height": 12,
+            "width": 170,
+            "top": 46,
+            "left": 408
+        }
+    },
+    {
+        "page": 427,
+        "heading": "Figure 1: Criminal Procedure Laws",
+        "content": " 17___ In the following text, where Articles are mentioned without referencing their source of law, they are located in the Swiss Criminal Procedure Code of 5 October 2007 (Criminal Procedure Code, CrimPC), SR 312.0; see for an English version of the Criminal Procedure",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 182,
+            "top": 698,
+            "left": 87
+        }
+    },
+    {
+        "page": 429,
+        "heading": "Aggrieved Persons (Article 115)",
+        "content": " Figure 2: Categories of Harmed Persons  The prosecution only becomes a party to proceedings at the eventual court",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 17,
+            "top": 540,
+            "left": 87
+        }
+    },
+    {
+        "page": 429,
+        "heading": "Figure 2: Categories of Harmed Persons",
+        "content": " The prosecution only becomes a party to proceedings at the eventual court hearing. During the preliminary phase, the prosecution is the head of procee- dings (Article 61 lit. a). This shifting of roles from the head of the proceedings",
+        "features": {
+            "font_id": "22",
+            "height": 14,
+            "width": 208,
+            "top": 421,
+            "left": 87
+        }
+    },
+    {
+        "page": 430,
+        "heading": "f Preliminary Proceedings Penna roceacings",
+        "content": " Act Opening Charges Summons Verdict  )",
+        "features": {
+            "font_id": "23",
+            "height": 19,
+            "width": 3,
+            "top": 298,
+            "left": 332
+        }
+    },
+    {
+        "page": 432,
+        "heading": "Generally inadmissible A (Article 141 II) unless serious crime",
+        "content": " Evidence obtained in violation of \u201cvalidity rules\u201d _ (e.g. caution to witness to tell the truth) ",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 4,
+            "top": 149,
+            "left": 518
+        }
+    },
+    {
+        "page": 435,
+        "heading": "II. Principles",
+        "content": " Criminal procedures in Switzerland are constrained by a set of principles laid out by the Swiss Code of Criminal Procedure. Firstly, the state has a monopoly on criminal justice (Article 2). Further, human dignity and fairness must be",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 36,
+            "top": 274,
+            "left": 546
+        }
+    },
+    {
+        "page": 437,
+        "heading": "the responsible authorities shall refrain from prosecuting him, bringing him to court or punishing him.\u201d",
+        "content": " 33 BGE1ig IV 280.  34 Article 53 Criminal Code: \u201cReparation; If the offender has made reparation for the loss,",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 14,
+            "top": 325,
+            "left": 298
+        }
+    },
+    {
+        "page": 439,
+        "heading": "III. Institutions and Procedure",
+        "content": " The criminal justice institutions and procedure can best be understood when following the course of a standard case. A case involving a pensioner, a farmer and a herd of cows will be discussed to shine light on how the procedural",
+        "features": {
+            "font_id": "24",
+            "height": 52,
+            "width": 27,
+            "top": 85,
+            "left": 390
+        }
+    },
+    {
+        "page": 448,
+        "heading": "is vested in the \u201ccompulsory measures courts\u201d.5*",
+        "content": " 3. CHAMP-DOLLON*?  A had been detained on remand on suspicion of large scale cocaine traffi-",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 67,
+            "top": 110,
+            "left": 89
+        }
+    },
+    {
+        "page": 451,
+        "heading": "KarIM A.A. KHAN/CAROLINE BUISMAN/CHRIS GOSNELL, Principles of Evidence in International Criminal Justice, Oxford 2010",
+        "content": " SARAH J. SUMMERS, English translation of the Swiss Federal Code of Criminal Procedure, in Andreas Donatsch/Thomas Hansjakob/Viktor Lieber (eds.), Kommentar zur Schweizerischen Strafprozessordnung (StPO), Zurich, 2010",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 5,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 451,
+        "heading": "STEFAN TRECHSEL/ SARAH J. SUMMERS, Human Rights in Criminal Proceedings, Oxford 2006",
+        "content": " NADINE ZURKINDEN, National characteristics, fundamental principles, and history of criminal law in Switzerland, in Ulrich Sieber/Konstanze Jarvers/ Emily Silverman (eds.), National Criminal Law in a Comparative Legal",
+        "features": {
+            "font_id": "12",
+            "height": 23,
+            "width": 5,
+            "top": 216,
+            "left": 87
+        }
+    },
+    {
+        "page": 452,
+        "heading": "Edited by Daniel Htirlimann - Marc Thommen",
+        "content": " ISSN 2569-6629 Print ISSN 2625-2910 Online ",
+        "features": {
+            "font_id": "78",
+            "height": 15,
+            "width": 109,
+            "top": 721,
+            "left": 85
+        }
+    }
+]

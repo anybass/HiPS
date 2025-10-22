@@ -1,0 +1,141 @@
+1,Table of Contents,7
+1,Chapter 1 Study Structure,13
+2,A. Project Summary,13
+2,B. Research Activities,15
+2,C. General Overview of the Study,16
+1,"Country Studies on Consumer Data Protection (Brazil, China, Germany) and International Initiatives",19
+2,A. Consumer Data Protection in Brazil (Prot. Dr. Danilo Doneda),19
+3,I. Introduction,19
+3,II. Overview and scope of legislation addressing consumer data protection,20
+4,1. Character of legislation,20
+4,2. General legal framework for consumer data protection,23
+4,3. Telecommunication,23
+4,4. Banks,24
+4,5. Media-related acts,24
+4,6. Specific acts for e-commerce,24
+3,III. Applicability of data protection acts,25
+3,IV. Definitions of consumer and data,26
+3,V. General guiding principles,28
+3,"VI. Collecting, storing and processing consumer data",30
+3,VII. Approaches to consent,30
+3,VIII. Publicity and transparency,31
+3,IX. Data security,32
+3,"X. Data control, data portability and the right to access, modify and delete collected data",32
+3,XI. Roles and responsibilities of intermediaries,33
+3,XII. Access to user data by third parties,34
+3,XIII. Provisions on data retention,34
+3,XV. Enforcement,36
+4,1. Civil law,38
+4,2. Criminal law,39
+4,3. Administrative law,39
+3,XVI. Role of self-regulation and co-regulation,40
+2,B. Consumer Data Protection in China (Prot. Dr. Zhou Hanhua),41
+3,I. Introduction,41
+3,II. Overview and scope of legislation addressing consumer data protection,42
+3,III. Applicability of data protection acts,55
+3,IV. Definition of consumer and data,56
+3,V. General guiding principles,57
+3,"VI. Collecting, storing and processing consumer data",59
+3,VII. Approaches to consent,60
+3,VIII. Publicity and transparency,62
+3,IX. Data security,63
+3,"X. Data control, data portability and the right to access, modify and delete collected data",64
+3,XI. Roles and responsibilities of intermediaries,65
+3,XII. Access to user data by third parties,68
+3,XIII. Provisions on data retention,69
+3,XV. Enforcement,70
+3,XVI. Role of self-regulation and co-regulation,76
+2,C. Consumer Data Protection in Germany (Prof. Dr. Gerald Spindler),77
+3,I. Introduction,77
+3,II. Overview and scope of legislation addressing consumer data protection,78
+3,III. Applicability of data protection acts,83
+3,IV. Definitions of consumer and data,87
+4,a. Definition of personal data,88
+4,"b. Anonymized, pseudonymized and encrypted data",88
+4,c. Absolute and relative approach to the identifiability of persons,89
+3,V. Basic concepts,97
+3,"VI. Collecting, storing and processing consumer data",100
+3,VII. Approaches to consent,101
+3,VIII. Publicity and transparency,105
+3,IX. Data security,108
+3,"X. Data control, data portability and the right to access, modify and delete data collected",109
+3,XI. Roles and responsibilities of intermediaries,110
+4,a. The controller,111
+4,b. Joint controlling,111
+4,c. Processing on behalf of the controller,113
+4,a. Rules for the controller,118
+4,b. Joint controllers,119
+4,c. Rules regarding the processor,119
+3,XII. Access to user data by third parties,121
+3,XIII. Provisions on data retention,121
+4,a. Data Protection Directive,122
+4,b. General Data Protection Regulation,126
+4,c. Place of jurisdiction,129
+4,d. Third-country actions against data controllers,129
+3,XV. Enforcement,131
+4,a. The position of the Data Protection Officer,135
+4,b. Rights and powers of the Data Protection Officer,136
+4,c. Independence of the Data Protection Officer and the special dismissal protection,136
+4,e. The Data Protection Officer and the proposal for a General Data Protection Regulation,138
+3,XVI. Role of self-regulation and co-regulation,139
+4,I. UN Guidelines for Consumer Protection,140
+4,II. OECD Guidelines,141
+4,III. The Global Privacy Enforcement Network (GPEN),147
+4,IV. Convention 108,151
+4,V. Regional Initiatives,153
+3,D. Review of International Initiatives on Consumer Data Protection,154
+4,A. Current Judicial and Administrative Issues of Consumer Data Protection in Brazil (Prot. Dr. Danilo Doneda),159
+5,I. Credit scoring,159
+5,II. Consumer rights violations databases,166
+6,a. Wal-Mart,167
+6,b. Internet connection services,168
+4,B. Current Consumer Data Protection Issues Before Chinese Tribunals (Prof Dr. Zhou Hanhua),169
+5,I. Civil claims,169
+6,Sun Weiguo v. China United Network Communications Limited Shanghai Branch,170
+6,Yan v. Sina and Baidu,173
+5,II. Criminal justice,176
+6,The Case of Zhang 1 and Zhang Wegally Acquiring Mobile Phone Position Information,177
+6,The Case of Xu Zeru Illegally Providing Citizens’ Personal Information,177
+6,The Case of Tan Haodong Illegally Acquiring Citizens’ Personal Information,178
+6,Analysis and Conclusion of Cases,178
+6,The Case of Zhong Donghang Illegally Acquiring Citizens’ Personal Information,180
+6,The Case of Wang Selling Citizens’ Personal Information,180
+6,The Case of Chen Selling Citizens’ Personal Information,180
+6,Analysis and Conclusion of Cases,181
+6,The Case of Zhang and Yang Illegally Acquiring Citizens’ Personal Information,182
+6,The Case of Wen Tao Illegally Acquiring Citizens’ Personal Information,182
+6,The Case of Yang and Xiao Ilegally Acquiring Citizens’ Personal Information,182
+6,Analysis and Conclusion of Cases,183
+4,III. Administrative enforcement of law,185
+2,Data Protection in Germany and Europe (Prof. Dr. Gerald Spindler),187
+3,I. Data protection in social networks,187
+3,II. Credit scoring,187
+3,III. Cloud computing,190
+3,IV. “Big data”,191
+3,V. Profiling,192
+3,VI. Unsolicited e-mails,195
+3,VII. Rating platforms,196
+3,VIL. The right to be forgotten,198
+3,TX. Data Retention,199
+2,D. Challenges of New Technologies for Consumer Data Protection (Privacy International with Consumers International),201
+3,I. Cloud Storage,202
+3,II. Cloud Computing,203
+3,III. Big data,203
+3,IV. Social Media,204
+3,V. Internet of Things,204
+3,"VI. Smart Cities, Buildings and People",204
+3,VII. Privacy friendly technologies,205
+3,VIII. Disk encryption,205
+3,IX. Browser configurations and Ad-blocks,205
+3,X. HTTPS/TLS,206
+3,XI. Virtual Private Networks (VPNs),206
+3,XII. The Onion Router (TOR),206
+3,XIII. Off the Record (OTR),207
+3,I. Fundamentals and the existing legal framework,209
+3,IV. General guiding principles,213
+3,"V. Restrictions to the collection, processing and transfer of (consumer) data",217
+3,VII. Transparency,219
+3,VII. Responsibility,221
+3,X. Data retention,224
+3,XI. Enforcement,225
+3,XII. Self-regulation and co-regulation,227

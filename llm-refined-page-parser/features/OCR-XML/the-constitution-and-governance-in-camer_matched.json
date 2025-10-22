@@ -1,0 +1,2858 @@
+[
+    {
+        "page": 2,
+        "heading": "The Constitution and Governance in Cameroon",
+        "content": " This book provides a systematic analysis of the major structural and institutional governance mechanisms in Cameroon, critically analysing the constitutional and legislative texts on Cameroon\u2019s semi-presidential system, the electoral",
+        "features": {
+            "font_id": "0",
+            "height": 25,
+            "width": 283,
+            "top": 89,
+            "left": 77
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Routledge Studies on Law in Africa",
+        "content": " Series Editor: Makau W. Mutua  The Constitution and Governance in Cameroon",
+        "features": {
+            "font_id": "3",
+            "height": 17,
+            "width": 233,
+            "top": 96,
+            "left": 96
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Series Editor: Makau W. Mutua",
+        "content": " The Constitution and Governance in Cameroon  Laura-Stella E. Enonchong",
+        "features": {
+            "font_id": "4",
+            "height": 17,
+            "width": 252,
+            "top": 147,
+            "left": 96
+        }
+    },
+    {
+        "page": 5,
+        "heading": "and by Routledge 52 Vanderbilt Avenue, New York, NY 10017",
+        "content": " Routledge is an imprint of the Taylor & Francis Group, an informa business \u00a9 2021 Laura-Stella E. Enonchong ",
+        "features": {
+            "font_id": "8",
+            "height": 11,
+            "width": 69,
+            "top": 113,
+            "left": 92
+        }
+    },
+    {
+        "page": 5,
+        "heading": "Library of Congress Cataloging-in-Publication Data",
+        "content": " A catalog record has been requested for this book ISBN: 978-1-138-49310-0 (hbk) ",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 220,
+            "top": 394,
+            "left": 92
+        }
+    },
+    {
+        "page": 5,
+        "heading": "A catalog record has been requested for this book ISBN: 978-1-138-49310-0 (hbk)",
+        "content": " ISBN: 978-1-351-02886-8 (ebk)  Typeset in Baskerville",
+        "features": {
+            "font_id": "8",
+            "height": 11,
+            "width": 249,
+            "top": 410,
+            "left": 92
+        }
+    },
+    {
+        "page": 5,
+        "heading": "ISBN: 978-1-351-02886-8 (ebk)",
+        "content": " Typeset in Baskerville by MPS Limited, Dehradun ",
+        "features": {
+            "font_id": "8",
+            "height": 11,
+            "width": 160,
+            "top": 451,
+            "left": 92
+        }
+    },
+    {
+        "page": 8,
+        "heading": "Contents",
+        "content": " List of Abbreviations wx Table of Cases xt Table of Legislation xw",
+        "features": {
+            "font_id": "0",
+            "height": 25,
+            "width": 122,
+            "top": 89,
+            "left": 77
+        }
+    },
+    {
+        "page": 9,
+        "heading": "vill Contents",
+        "content": " 4 The judiciary, judicial independence and power 110 Introduction 110 Part I. Organisation of the judicial system and jurisdiction of the courts 110",
+        "features": {
+            "font_id": "10",
+            "height": 17,
+            "width": 48,
+            "top": 50,
+            "left": 129
+        }
+    },
+    {
+        "page": 10,
+        "heading": "List of Abbreviations",
+        "content": " AAC All Anglophone Conference ARCAM Assembl\u00e9e Repr\u00e9sentative du Cameroun ALCAM Assembl\u00e9e L\u00e9gislative du Cameroun",
+        "features": {
+            "font_id": "0",
+            "height": 25,
+            "width": 300,
+            "top": 89,
+            "left": 77
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Nigeria",
+        "content": " Gunme & Ors v Attorney General of the Federal Republic of Nigeria. Suit No. FHC/ ABJ/CS/30/2002 ",
+        "features": {
+            "font_id": "2",
+            "height": 14,
+            "width": 57,
+            "top": 80,
+            "left": 92
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Law No. 2019/019 of 24 December 2019 on the Promotion of Official Languages in Cameroon",
+        "content": " Law No. 2019/014 of 19 July 2019 relating to the Establishment, Organisation and Functioning of the Cameroon Human Rights Commission ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 490,
+            "top": 332,
+            "left": 76
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Law No. 2016/007 of 12 July 2016 relating to the Penal Code",
+        "content": " Law No. 2014/028 of 14 December 2014 on the Repression of Acts of Terrorism Law No. 2014/016 of 9 September 2014 to amend and supplement certain provisions of Law No. 73/1 of 8 June 1973 on the Standing Orders of the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 391,
+            "top": 638,
+            "left": 76
+        }
+    },
+    {
+        "page": 17,
+        "heading": "xvi Table of Legislation",
+        "content": " Law No. 2008/001 of 14 April 2008 to amend and supplement some provisions of Law No. 96/6 of 18 January 1996 to amend the Constitution of 2 June 1972 Law No. 2007/001 of 19 April 2007 to institute a Judge in Charge of Litigation",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 22,
+            "top": 53,
+            "left": 96
+        }
+    },
+    {
+        "page": 22,
+        "heading": "Introduction",
+        "content": " In the last three decades, law, politics and governance in Cameroon have been characterised by change and continuity. The decade of the 1990s was a pivotal moment in the democratic governance and political advancement of",
+        "features": {
+            "font_id": "15",
+            "height": 19,
+            "width": 184,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 28,
+        "heading": "Notes",
+        "content": " 1 Augustin K Kouomegni, \u2018Minister of Communication\u2019s Introductory Note to the 1996 Constitutional Amendment\u2019 in Fundamental Legal Texts (vol 1, National Printing Press 1996).",
+        "features": {
+            "font_id": "19",
+            "height": 11,
+            "width": 54,
+            "top": 610,
+            "left": 81
+        }
+    },
+    {
+        "page": 29,
+        "heading": "1 A history of the constitution and governance in Cameroon",
+        "content": " Introduction  This chapter will explore the chequered constitutional history of Cameroon",
+        "features": {
+            "font_id": "22",
+            "height": 25,
+            "width": 414,
+            "top": 90,
+            "left": 96
+        }
+    },
+    {
+        "page": 29,
+        "heading": "Part I. Background",
+        "content": " The Germans were the first European powers to establish colonial administra- tion in Cameroon from 1884 to the outbreak of the First World War in 1914. Following their defeat in the War, an Anglo-French Condominium was set up from",
+        "features": {
+            "font_id": "23",
+            "height": 15,
+            "width": 159,
+            "top": 511,
+            "left": 96
+        }
+    },
+    {
+        "page": 30,
+        "heading": "ENistory of constitution 9 Part II. Colonial governance and administration",
+        "content": " France and Britain adopted a civil law or common law system in their respective sections of the territory. The basis for that transplantation was initially Article 9 of the League of Nations Mandate Agreement with France* and Britain? which",
+        "features": {
+            "font_id": "23",
+            "height": 15,
+            "width": 390,
+            "top": 79,
+            "left": 81
+        }
+    },
+    {
+        "page": 30,
+        "heading": "A. The civil law and governance in French Cameroon",
+        "content": " Unlike other French colonies in Africa which were administered through the administrative structures of French West Africa or French Equatorial Africa, French Cameroon maintained a distinct and separate administrative system.",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 386,
+            "top": 404,
+            "left": 81
+        }
+    },
+    {
+        "page": 31,
+        "heading": "10 History of constitution",
+        "content": " In terms of political participation, a key policy of the French administration known as the imd\u00e9genat, which was repressive in nature, prevented the partici- pation of indigenes in political activity.'\u00b0 The administration did not permit the",
+        "features": {
+            "font_id": "24",
+            "height": 14,
+            "width": 15,
+            "top": 152,
+            "left": 96
+        }
+    },
+    {
+        "page": 32,
+        "heading": "ENstory of constitution 11 B. The common law and governance in British Cameroons",
+        "content": " The British Cameroons had a different colonial experience to its French coun- terpart. It was administered as part of the neighbouring British colony of Nigeria.*\u201d ",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 425,
+            "top": 80,
+            "left": 81
+        }
+    },
+    {
+        "page": 32,
+        "heading": "31 and",
+        "content": " That arrangement was prompted by financial and geographical reasons endorsed by article 9 of the Mandate Agreement which provided inter alia that Britain could constitute the territory (Cameroons) into an administrative union or",
+        "features": {
+            "font_id": "26",
+            "height": 9,
+            "width": 14,
+            "top": 140,
+            "left": 527
+        }
+    },
+    {
+        "page": 34,
+        "heading": "C. The decolonisation process",
+        "content": " I. French Cameroon  After the resignation of Prime Minister Mbida, the new Prime Minister Ahidjo",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 219,
+            "top": 215,
+            "left": 81
+        }
+    },
+    {
+        "page": 34,
+        "heading": "I. French Cameroon",
+        "content": " After the resignation of Prime Minister Mbida, the new Prime Minister Ahidjo immediately began to work closely with the French government towards the independence of French Cameroon. Although no overt statements had been",
+        "features": {
+            "font_id": "25",
+            "height": 17,
+            "width": 111,
+            "top": 248,
+            "left": 81
+        }
+    },
+    {
+        "page": 35,
+        "heading": "IT. Southern Cameroons",
+        "content": " Meanwhile, politics in Southern Gameroons was quite animated, not least by the fact that the colonial administration announced the imminent independence of Nigeria for 1 October 1960. Inevitably, the future of Southern Cameroons had",
+        "features": {
+            "font_id": "24",
+            "height": 14,
+            "width": 69,
+            "top": 134,
+            "left": 96
+        }
+    },
+    {
+        "page": 36,
+        "heading": "(a) Do you wish to achieve independence by joining the independent Federation of Nigeria?",
+        "content": " (b) Do you wish to achieve independence by joining the independent Republic of the Cameroons?\u00ae ",
+        "features": {
+            "font_id": "24",
+            "height": 14,
+            "width": 463,
+            "top": 512,
+            "left": 108
+        }
+    },
+    {
+        "page": 36,
+        "heading": "(b) Do you wish to achieve independence by joining the independent Republic of the Cameroons?\u00ae",
+        "content": " The publication of the plebiscite questions sparked protests and opposition from the Southern Cameroons politicians who felt betrayed. Although consensus had not been attained at the Mamfe Conference, it became clearer that re-",
+        "features": {
+            "font_id": "24",
+            "height": 14,
+            "width": 463,
+            "top": 566,
+            "left": 108
+        }
+    },
+    {
+        "page": 39,
+        "heading": "Part III. Post-independence constitutional developments",
+        "content": " A, Federalism and the coexistence of French and British constitutional traditions ",
+        "features": {
+            "font_id": "23",
+            "height": 15,
+            "width": 339,
+            "top": 79,
+            "left": 96
+        }
+    },
+    {
+        "page": 39,
+        "heading": "A, Federalism and the coexistence of French and British constitutional traditions",
+        "content": " Prior to reunification of the two Cameroonian territories in October 1961, it was expected that their representatives would address the issue of a constitution governing the entire union.\u00ae\u201d This was a complex task given that both territories",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 356,
+            "top": 134,
+            "left": 96
+        }
+    },
+    {
+        "page": 43,
+        "heading": "22 Fiistory of constitution",
+        "content": " B. The Glorious Revolution of May Twentieth and the demise of the Westminster model ",
+        "features": {
+            "font_id": "24",
+            "height": 14,
+            "width": 19,
+            "top": 53,
+            "left": 96
+        }
+    },
+    {
+        "page": 43,
+        "heading": "B. The Glorious Revolution of May Twentieth and the demise of the Westminster model",
+        "content": " After the adoption of the Federal Constitution, there was an indication from the Ahidjo leadership of the intention to consider the creation of a unified party in Cameroon.'\u201d\u00b0 That vision was subsequently strengthened by continuing political",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 436,
+            "top": 80,
+            "left": 96
+        }
+    },
+    {
+        "page": 44,
+        "heading": "C. The return to multi-party democracy",
+        "content": " With the suppression of multi-party politics in Cameroon, Ahidjo\u2019s CNU remained at the centre of politics. However, in 1982, reportedly for health reasons he unexpectedly resigned from power automatically conferring pre-",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 290,
+            "top": 701,
+            "left": 81
+        }
+    },
+    {
+        "page": 48,
+        "heading": "Conclusion",
+        "content": " Contemporary Cameroon is undoubtedly haunted by its chequered history. There is useful debate to be had in respect of the factors that could account for the many legal, political and governance issues bedevilling its development.",
+        "features": {
+            "font_id": "23",
+            "height": 15,
+            "width": 92,
+            "top": 196,
+            "left": 81
+        }
+    },
+    {
+        "page": 48,
+        "heading": "Notes",
+        "content": " 1 Neville Rubin, Cameroon: An African Federation (Pall Mall 1971) 42. See also Emmanuel Chiabi, The Making of Modern Cameroon: A History of Substate Nationalism and Disparate Umon, 1914-1961 (University Press of America 1997) 9-10; Victor J Ngoh, Southern",
+        "features": {
+            "font_id": "23",
+            "height": 15,
+            "width": 54,
+            "top": 574,
+            "left": 81
+        }
+    },
+    {
+        "page": 49,
+        "heading": "ENstory of constitution",
+        "content": " British Mandate for the Cameroons, 20 July 1922. Reproduced in Rubin (n 1) Appendix II, 199-203. ",
+        "features": {
+            "font_id": "25",
+            "height": 17,
+            "width": 119,
+            "top": 50,
+            "left": 126
+        }
+    },
+    {
+        "page": 50,
+        "heading": "The Lyttleton Constitution of 1954. See also Nigerian Constitution, HL Deb",
+        "content": "10 February 1954, vol 185, cols 795-797; Ngoh, Southern Cameroons (n 1) 87-88. Atangana, The End of French Rule in Cameroon (n 29) 85.  See French Government Order No. 58-1357 of 31 December 1958. It went into",
+        "features": {
+            "font_id": "29",
+            "height": 12,
+            "width": 483,
+            "top": 306,
+            "left": 88
+        }
+    },
+    {
+        "page": 51,
+        "heading": "ENstory of constitution",
+        "content": " Atanga (n 32) 47.  Sydney Philipson, Financial and Administrative Consequences to the Southern Cameroons of Separation",
+        "features": {
+            "font_id": "25",
+            "height": 17,
+            "width": 119,
+            "top": 50,
+            "left": 126
+        }
+    },
+    {
+        "page": 51,
+        "heading": "See, for instance, Resolution 1352(XIV) para 4, Resolution 1608(XV) of 21 April",
+        "content": "1961 paras 4(b) and 5.  Awasom, \u201cThe Reunification Question\u2019 (n 68) 109; Atanga (n 32) 46-47. ",
+        "features": {
+            "font_id": "29",
+            "height": 12,
+            "width": 483,
+            "top": 321,
+            "left": 103
+        }
+    },
+    {
+        "page": 51,
+        "heading": "ibid 159-164; Stark, \u2018Federalism in Cameroon\u2019 (n 94) 427. See also Rubin (n 1)",
+        "content": "113-114; Johnson (n 23) 184.  ibid. ",
+        "features": {
+            "font_id": "29",
+            "height": 12,
+            "width": 48,
+            "top": 171,
+            "left": 123
+        }
+    },
+    {
+        "page": 52,
+        "heading": "ibid",
+        "content": " 117 Jacques Benjamin, Les Camerounais Occidentaux. La Minorite\u2019 Dans un Etat Bicommunautaire  (Montreal University Press 1972) 197.",
+        "features": {
+            "font_id": "29",
+            "height": 12,
+            "width": 58,
+            "top": 621,
+            "left": 81
+        }
+    },
+    {
+        "page": 53,
+        "heading": "ENstory of constitution",
+        "content": " Joseph Ebune, \u201cThe Dilemma of the Federal System in West Cameroon, 1961-1972\u2019 (2016) 7(2) Journal of Scientific Research and Studies 133, 135. See generally Stark (n 94).",
+        "features": {
+            "font_id": "25",
+            "height": 17,
+            "width": 119,
+            "top": 50,
+            "left": 126
+        }
+    },
+    {
+        "page": 54,
+        "heading": "ibid. See also Joseph Takougang and Milton Krieger, An African State and Society in the",
+        "content": "1990s: Cameroon\u2019s Political Crossroads (Westview Press 1998) 105.  ibid. ",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 167,
+            "top": 153,
+            "left": 404
+        }
+    },
+    {
+        "page": 54,
+        "heading": "Konings, \u201cThe Anglophone Struggle\u2019 (n 139) 316; Takougang and Krieger (n 157)",
+        "content": "Konings, \u201cThe Anglophone Struggle\u2019 (n 139) 316.  Konings, \u201cThe Anglophone Struggle\u2019 (n 139) 316; Takougang and Krieger (n 157) 183, 190.",
+        "features": {
+            "font_id": "29",
+            "height": 12,
+            "width": 493,
+            "top": 636,
+            "left": 81
+        }
+    },
+    {
+        "page": 54,
+        "heading": "References",
+        "content": " Ahidjo A, Contribution to National Construction (Presence Afrigaine 1964). Allott A, Judicial and Legal Systems in Africa (Butterworths 1962). ",
+        "features": {
+            "font_id": "29",
+            "height": 12,
+            "width": 463,
+            "top": 756,
+            "left": 108
+        }
+    },
+    {
+        "page": 57,
+        "heading": "Part I. Semi-presidentialism and the structure of the executive",
+        "content": " A. Structure of the executive  The Constitution deals primarily with executive power in Part I, whereas",
+        "features": {
+            "font_id": "33",
+            "height": 15,
+            "width": 381,
+            "top": 655,
+            "left": 96
+        }
+    },
+    {
+        "page": 57,
+        "heading": "A. Structure of the executive",
+        "content": " The Constitution deals primarily with executive power in Part I, whereas executive and legislative relations are dealt with in Part IV. The executive branch is made up of the President, who is Head of State, the PM who is head",
+        "features": {
+            "font_id": "33",
+            "height": 15,
+            "width": 128,
+            "top": 673,
+            "left": 96
+        }
+    },
+    {
+        "page": 58,
+        "heading": "B. Semi-presidentialism and executive power",
+        "content": " What is semi-presidentialism and why should we be interested in it? \u2018Semi- presidentialism\u2019 is a term for a political system that combines a presidential system (for mstance, the USA) with a parliamentary system (for imstance, the UK).",
+        "features": {
+            "font_id": "35",
+            "height": 14,
+            "width": 328,
+            "top": 161,
+            "left": 81
+        }
+    },
+    {
+        "page": 58,
+        "heading": "Part II. The President",
+        "content": " A. Election  The conditions for the election of the President of the Republic are laid",
+        "features": {
+            "font_id": "33",
+            "height": 15,
+            "width": 182,
+            "top": 790,
+            "left": 81
+        }
+    },
+    {
+        "page": 58,
+        "heading": "A. Election",
+        "content": " The conditions for the election of the President of the Republic are laid down in the Constitution and the Electoral Code.'\u00b0 The President is elected ",
+        "features": {
+            "font_id": "35",
+            "height": 14,
+            "width": 84,
+            "top": 827,
+            "left": 81
+        }
+    },
+    {
+        "page": 60,
+        "heading": "B. Competencies and powers",
+        "content": " The Constitution grants the President considerable powers generally and powers over specific aspects of governance, unambiguously affirming his su- premacy. Thus, generally the President represents the state in all acts of public",
+        "features": {
+            "font_id": "35",
+            "height": 14,
+            "width": 212,
+            "top": 737,
+            "left": 81
+        }
+    },
+    {
+        "page": 61,
+        "heading": "I. Appointment of the PM, the cabinet and other state officials",
+        "content": " The President is vested with powers to appoint the PM and \u2018on the proposal of the latter, appoint the other members of government\u2019.*\u2019 In practice, however, ministerial appointments are made concurrently with the appointment of a",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 332,
+            "top": 197,
+            "left": 96
+        }
+    },
+    {
+        "page": 62,
+        "heading": "IT. Legislative powers",
+        "content": " Although Parliament is the primary legislative organ, its areas of competence have been specifically delineated and some legislative authority has been ac- corded to the President. This approach follows typically that of France where the",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 118,
+            "top": 521,
+            "left": 81
+        }
+    },
+    {
+        "page": 63,
+        "heading": "IIT, Dissolution powers",
+        "content": " The position of the executive is further strengthened by presidential powers to dissolve the legislature. The Constitution provides that: ",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 128,
+            "top": 413,
+            "left": 96
+        }
+    },
+    {
+        "page": 64,
+        "heading": "IV. Power to extend or abridge the parliamentary term",
+        "content": " Besides power to dissolve the National Assembly, the President can similarly alter the parliamentary term by abridgement or extension. The Constitution provides that:",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 290,
+            "top": 539,
+            "left": 81
+        }
+    },
+    {
+        "page": 66,
+        "heading": "V. Emergency powers",
+        "content": " The Constitution confers powers on the President to declare by decree, a state of emergency where circumstances so warrant and to declare a state of siege in the event of a serious threat to the nation\u2019s territorial integrity or to its",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 118,
+            "top": 341,
+            "left": 81
+        }
+    },
+    {
+        "page": 69,
+        "heading": "VIL. Foreign affairs",
+        "content": " As with most aspects of the Cameroonian governance system, the President is overall responsible for Cameroon\u2019s external relations.''\u00b0 Thus, as head of state, he represents Cameroon abroad, accredits ambassadors and envoys extra-",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 109,
+            "top": 143,
+            "left": 96
+        }
+    },
+    {
+        "page": 69,
+        "heading": "C. Accountability",
+        "content": " An essential feature of a good governance system is accountability. In Cameroon, this point becomes particularly relevant in view of the vast array of presidential powers discussed earlier. Taking into account the wide scope of the powers,",
+        "features": {
+            "font_id": "35",
+            "height": 14,
+            "width": 129,
+            "top": 359,
+            "left": 96
+        }
+    },
+    {
+        "page": 69,
+        "heading": "I. Immunity from prosecution",
+        "content": " Immunity from prosecution is an important principle of public law and may be supported by the supposition that it can promote the consistent functioning of public power and continuity of the state.'!* It is supposedly for the benefit of the",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 158,
+            "top": 575,
+            "left": 96
+        }
+    },
+    {
+        "page": 70,
+        "heading": "accountable for them after the exercise of his functions.'!\u00ae",
+        "content": " There are at least two major aspects of this provision which can be deemed inconsistent with the need for accountability. ",
+        "features": {
+            "font_id": "34",
+            "height": 17,
+            "width": 341,
+            "top": 167,
+            "left": 108
+        }
+    },
+    {
+        "page": 70,
+        "heading": "IT. Impeachment",
+        "content": " Impeachment can provide a useful means of enforcing accountability, if well conceived. Its very existence and the probability of its use can act as a source of pressure to induce a president to respect the rule of law.'?? In Cameroon, the",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 92,
+            "top": 773,
+            "left": 81
+        }
+    },
+    {
+        "page": 72,
+        "heading": "Part III. The PM and the government",
+        "content": " After various phases of abolition, the position of PM was reinstated in 1991 following a constitutional amendment.'\u201d*\u00b0 As noted earlier, the PM is the head of government and is appointed by the President.",
+        "features": {
+            "font_id": "33",
+            "height": 15,
+            "width": 304,
+            "top": 142,
+            "left": 81
+        }
+    },
+    {
+        "page": 72,
+        "heading": "A. Powers of the PM",
+        "content": " Although the office of the PM was consolidated under the 1996 Constitution and seen as an additional separation of powers, it should be noted that it is a largely ceremonial position. As head of government, he is responsible for directing",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 251,
+            "left": 81
+        }
+    },
+    {
+        "page": 72,
+        "heading": "I, Formation of government",
+        "content": " As the PM is the head of government, it would be expected that he has the authority to form his government. However, presidential influence is also clearly entrenched here. Thus, the President appoints the other members of govern-",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 251,
+            "left": 81
+        }
+    },
+    {
+        "page": 72,
+        "heading": "IT. Policy implementation",
+        "content": " As head of government, the PM is responsible for implementing government policy as defined by the President of the Republic.'** This is a rather strange formulation as the PM who is head of government, has no say in defining",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 251,
+            "left": 81
+        }
+    },
+    {
+        "page": 73,
+        "heading": "III, Regulatory powers",
+        "content": " 7 48  The PM can exercise statutory authority'*\u2019 in the form of decrees and orders.",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 124,
+            "top": 80,
+            "left": 96
+        }
+    },
+    {
+        "page": 76,
+        "heading": "Il. The CONAC",
+        "content": " The CONAC was established by presidential decree in March 2006 and went into operation a year later.'*\u00ae The role of that institution is to contribute to the ",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 97,
+            "top": 818,
+            "left": 81
+        }
+    },
+    {
+        "page": 77,
+        "heading": "Conclusion",
+        "content": " The consolidation of semi-presidentialism in the 1996 Constitution appears not to have made a practical difference to an equitable separation of executive power between the PM and the President. Rather, as the chapter has demonstrated, any",
+        "features": {
+            "font_id": "33",
+            "height": 15,
+            "width": 92,
+            "top": 808,
+            "left": 96
+        }
+    },
+    {
+        "page": 78,
+        "heading": "Notes",
+        "content": " \u2014  Maurice Duverger, \u2018A New Political System Model: Semi-Presidential Government\u2019",
+        "features": {
+            "font_id": "33",
+            "height": 15,
+            "width": 54,
+            "top": 484,
+            "left": 81
+        }
+    },
+    {
+        "page": 78,
+        "heading": "Francesco Cavatorta and Robert Elgie, \u201cThe Impact of Semi-Presidentialism on",
+        "content": " Governance in the Palestinian Authority\u2019 (2010) 63(1) Parkamentary Affairs 22, 29-30;  Skach, \u201cThe \u201cNewest\u201d Separation of Powers\u2019 (n 3) 97-98.",
+        "features": {
+            "font_id": "38",
+            "height": 15,
+            "width": 476,
+            "top": 780,
+            "left": 94
+        }
+    },
+    {
+        "page": 79,
+        "heading": "Executive power and semi-presidentialism",
+        "content": " As of January 2020, the ruling CPDM occupied 153 of the 180 seats in Parliament. Law No. 2012/001 of 19 April 2012, relating to the Electoral Code (Electoral Code). Constitution, art 6(2); Electoral Code, s 116(1)(2).",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 219,
+            "top": 53,
+            "left": 126
+        }
+    },
+    {
+        "page": 80,
+        "heading": "See, for instance, BBC News, \u2018Paul Biya: Cameroon\u2019s Absentee President\u2019 (5 October 2018) https://www.bbc.co.uk/news/world-africa-43469758 accessed",
+        "content": "29 November 2019; Emmanuel Freudenthal, Frank William and Gaelle Tyjat, \u2018Paul Biya, Cameroon\u2019s Roaming President\u2019 (Organised Crime and Corruption Reporting Project, 18 February 2018) https://www.occrp.org/en/investigations/ 7653-paul-biya-cameroon-s-roaming-president accessed 29 November 2019;",
+        "features": {
+            "font_id": "38",
+            "height": 15,
+            "width": 463,
+            "top": 93,
+            "left": 108
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Executive power and semi-presidentialism",
+        "content": " Enonchong, \u201cThe Problem of Systemic Violation\u2019 (n 1) 140-142.  Law No. 2008/001 of 14 April 2008 to amend and supplement some provisions of",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 219,
+            "top": 53,
+            "left": 126
+        }
+    },
+    {
+        "page": 85,
+        "heading": "Executive power and semi-presidentialism",
+        "content": " 72 Jirg M Gabriel, \u2018Cameroon\u2019s Neopatrimonial Dilemma\u2019 (1999) 7 Journal of  Contemporary African Studies 187; Dicklitch, \u2018Failed Democratic Transition in",
+        "features": {
+            "font_id": "37",
+            "height": 14,
+            "width": 219,
+            "top": 53,
+            "left": 126
+        }
+    },
+    {
+        "page": 87,
+        "heading": "Inter-Parliamentary Union, \u2018Cameroon National Assembly\u2019 https://data.ipu.org/node/",
+        "content": "31/elections?chamber_id=13357 accessed 5 November 2019.  Inter-Parliamentary Union, \u2018Cameroon (National Assembly)\u2019 (27 August 2007) www.ipu. org/parline-e/reports/Ctr/parlementaire/2053_F.htm accessed 2 February 2012.",
+        "features": {
+            "font_id": "38",
+            "height": 15,
+            "width": 489,
+            "top": 557,
+            "left": 96
+        }
+    },
+    {
+        "page": 88,
+        "heading": "Mbuagbor O and Akoko R, \u2018Roll Back: Democratisation and Social Fragmentation in",
+        "content": " Cameroon\u2019 (2004) /3(1) Nordic Journal of African Studies 1.  Monin M, Textes et Documents Constitutionnels depuis 1958: Analyse et Commentaires (Armand",
+        "features": {
+            "font_id": "38",
+            "height": 15,
+            "width": 489,
+            "top": 309,
+            "left": 81
+        }
+    },
+    {
+        "page": 91,
+        "heading": "A. Structure of the National Electoral Commission",
+        "content": " (ELECAM)  Structurally, ELECAM is composed of the Electoral Board (EB) and the General",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 395,
+            "left": 96
+        }
+    },
+    {
+        "page": 92,
+        "heading": "The electoral system and the legislature 71 I. Role and powers of ELECAM",
+        "content": " ELECAM is prima facie responsible for the organisation, management and su- pervision of all election and referendum operations.'* This is done principally through the EB and the DGE. These duties are summarised below.",
+        "features": {
+            "font_id": "45",
+            "height": 14,
+            "width": 183,
+            "top": 80,
+            "left": 81
+        }
+    },
+    {
+        "page": 93,
+        "heading": "Table 3.1 Jurisdiction, membership and role of sub-commissions",
+        "content": " Territorial Institution Jurisdiction Membership Responsibilities ERRC, Local council Chair (representative Revision of electoral",
+        "features": {
+            "font_id": "47",
+            "height": 13,
+            "width": 52,
+            "top": 369,
+            "left": 96
+        }
+    },
+    {
+        "page": 94,
+        "heading": "Territorial Institution Jurisdiction Membership",
+        "content": " Responsibilities  DSC, ss Administrative Chair (president of the",
+        "features": {
+            "font_id": "47",
+            "height": 13,
+            "width": 51,
+            "top": 103,
+            "left": 81
+        }
+    },
+    {
+        "page": 97,
+        "heading": "Part II. Election of members of parliament",
+        "content": " Elections to both houses of parliament differs, warranting a separate discussion.  A. National Assembly",
+        "features": {
+            "font_id": "41",
+            "height": 15,
+            "width": 349,
+            "top": 358,
+            "left": 96
+        }
+    },
+    {
+        "page": 97,
+        "heading": "A. National Assembly",
+        "content": " The National Assembly is composed of 180 MPs collectively representing the electoral constituencies in Cameroon.\u2019 Each administrative division in the country is a constituency,*\u00ae although some electoral constituencies could",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 431,
+            "left": 96
+        }
+    },
+    {
+        "page": 98,
+        "heading": "B. The Senate",
+        "content": " The eligibility criteria for senatorial elections is similar to that of MPs except that the minimum age is forty years and the candidate must be habitually re- sident in the region concerned.\u201d\u00b0 With respect to composition, it has one hun-",
+        "features": {
+            "font_id": "44",
+            "height": 14,
+            "width": 103,
+            "top": 521,
+            "left": 81
+        }
+    },
+    {
+        "page": 100,
+        "heading": "Table 3.2 Results of legislative elections",
+        "content": " Number of seats  Parties Electoral period",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 754,
+            "left": 81
+        }
+    },
+    {
+        "page": 103,
+        "heading": "of government (when the bill relates to matters falling within the competence of their ministry).!\"\u00b0",
+        "content": " In relation to Special Committees, these are set up for \u2018specific purposes, particularly of major national interest\u2019. What that entails is not stated in the law but it may be inferred from the wording of the law that these would be created",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 490,
+            "top": 77,
+            "left": 96
+        }
+    },
+    {
+        "page": 103,
+        "heading": "of the house hosting the committee shall take precedence.'!\u201d",
+        "content": " C. The relationship between the National Assembly and Senate ",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 67,
+            "top": 203,
+            "left": 96
+        }
+    },
+    {
+        "page": 103,
+        "heading": "C. The relationship between the National Assembly and Senate",
+        "content": " The Senate has sometimes been perceived with suspicion, as an institution in- troduced to dominate the National Assembly.''\u00ae That perception might be in- fluenced partly by the fact that 30% of senators are presidential appointees,",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 20,
+            "top": 359,
+            "left": 96
+        }
+    },
+    {
+        "page": 104,
+        "heading": "receiving the bill (or five days for a bill declared urgent by the government),'\u201d\u201d",
+        "content": " Senate may alternatively, adopt the bill, make amendments to it or fail to adopt the entire bill or parts of it. The procedure is simple where Senate adopts the bill as it is merely forwarded to the Speaker of the National Assembly who in turn",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 469,
+            "top": 77,
+            "left": 81
+        }
+    },
+    {
+        "page": 105,
+        "heading": "Part IV. Powers and functions of the legislature",
+        "content": " A. The legislative domain and law making  One of the principal responsibilities of the legislative arm of government is",
+        "features": {
+            "font_id": "41",
+            "height": 15,
+            "width": 385,
+            "top": 610,
+            "left": 96
+        }
+    },
+    {
+        "page": 105,
+        "heading": "A. The legislative domain and law making",
+        "content": " One of the principal responsibilities of the legislative arm of government is law making and as stated earlier, the Constitution vests this power within the jurisdiction of both houses of parliament.'*\u201d Peculiarly, parliament has been",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 647,
+            "left": 96
+        }
+    },
+    {
+        "page": 106,
+        "heading": "legislative institution, its legislative competence is severely restricted in favour of the executive.\u201c",
+        "content": " This approach to limiting the legislative domain of parliament is consistent with a highly presidential semi-presidential system which favours the vesting of exorbitant and largely uncontrolled powers on the president. Within the",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 490,
+            "top": 77,
+            "left": 81
+        }
+    },
+    {
+        "page": 108,
+        "heading": "Where a bill is not defeated, a general",
+        "content": " A law adopted by the National Assembly is promulgated by the President of the Republic within fifteen days of it being forwarded to him except where he requests a second reading or refers the law to the Constitutional Council.'\u00ae*",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 230,
+            "top": 473,
+            "left": 340
+        }
+    },
+    {
+        "page": 108,
+        "heading": "B. Scrutiny of the executive",
+        "content": " Another important role of parliament as per article 14(2) of the Constitution is to exercise oversight of the government. As discussed later, there are at least five principal mechanisms through which the legislature performs oversight of the",
+        "features": {
+            "font_id": "44",
+            "height": 14,
+            "width": 201,
+            "top": 737,
+            "left": 81
+        }
+    },
+    {
+        "page": 109,
+        "heading": "I. Oral and written questions",
+        "content": " The Constitution provides that, \u2018Parliament shall control government action through oral and written questions\u2019.'\u2019? The government is under obligation to provide any explanation and information, however, subject to the important",
+        "features": {
+            "font_id": "45",
+            "height": 14,
+            "width": 159,
+            "top": 161,
+            "left": 96
+        }
+    },
+    {
+        "page": 110,
+        "heading": "IT. Vote of no confidence and motion of censure",
+        "content": " Motions of censure and confidence votes are important mechanisms through which a legislative body can perform oversight of the executive. According to Rodney Brazier, their real significance lies in the fact that they oblige every",
+        "features": {
+            "font_id": "45",
+            "height": 14,
+            "width": 251,
+            "top": 773,
+            "left": 81
+        }
+    },
+    {
+        "page": 112,
+        "heading": "III, Commissions of inquiry",
+        "content": " Article 35(1) of the Constitution provides the basis for the creation of \u2018committees of inquiry\u2019 within parliament, with specific terms of reference.*\u00b0\u201d In that respect, each of the houses of parliament may adopt a draft resolution to set up a",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 24,
+            "top": 707,
+            "left": 547
+        }
+    },
+    {
+        "page": 114,
+        "heading": "C. Fiscal oversight",
+        "content": " Budgetary scrutiny is the main mechanism through which parliament performs fiscal oversight of the government. An additional mechanism is through com- mittees of inquiry appointed to investigate matters relating to public finance.\u201d\u201d\u2019",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 20,
+            "top": 431,
+            "left": 81
+        }
+    },
+    {
+        "page": 119,
+        "heading": "Conclusion: democratisation and bicameralism in a one-party dominated state",
+        "content": " For decades, the image of the National Assembly remained that of a feasible and compliant institution brimming with self-serving representatives who exercised public office at the pleasure of the President. \u2018This counter-intuitively produced a",
+        "features": {
+            "font_id": "41",
+            "height": 15,
+            "width": 417,
+            "top": 556,
+            "left": 96
+        }
+    },
+    {
+        "page": 120,
+        "heading": "Notes",
+        "content": " 1 Constitution, art 14.  2 Law No. 2000/016 of 19 December 2000 to set up a National Elections",
+        "features": {
+            "font_id": "41",
+            "height": 15,
+            "width": 54,
+            "top": 700,
+            "left": 81
+        }
+    },
+    {
+        "page": 122,
+        "heading": "Standing Orders (NA), s 18",
+        "content": " Standing Orders (NA), s 1 9(3 (4). Standing Orders (NA), s 16(1)(2). ",
+        "features": {
+            "font_id": "48",
+            "height": 15,
+            "width": 183,
+            "top": 828,
+            "left": 88
+        }
+    },
+    {
+        "page": 125,
+        "heading": "Lilian Atanga, Gender, Discourse and Power in the Camerooman Parliament (Langaa RPCIG",
+        "content": "2010) 17. Standing Orders of Senate, s 83(1); Standing Orders (NA), s 78(2).  Standing Orders of Senate, s 81(3); Standing Orders (NA), s 76(2).",
+        "features": {
+            "font_id": "48",
+            "height": 15,
+            "width": 93,
+            "top": 453,
+            "left": 492
+        }
+    },
+    {
+        "page": 125,
+        "heading": "Standing Orders (NA) s 79 (2). See also Fombad, Cameroon Constitutional Law (n 41)",
+        "content": "100-101.  Section 79(2) of the Standing Orders NA states that an examination of the draft resolution shall be according to ordinary procedures. \u2018The Senate\u2019s Standing Orders",
+        "features": {
+            "font_id": "47",
+            "height": 13,
+            "width": 144,
+            "top": 531,
+            "left": 176
+        }
+    },
+    {
+        "page": 126,
+        "heading": "Standing Orders of Senate, art 94; Standing Orders (NA) s 90",
+        "content": " Raanan Sulitzeanu-Kenan, \u2018Reflection in the Shadow of Blame: When Do Politicians Appoint Commissions of Inquiry? (2010) 40 British Journal of Political Science 613-634.",
+        "features": {
+            "font_id": "48",
+            "height": 15,
+            "width": 379,
+            "top": 678,
+            "left": 81
+        }
+    },
+    {
+        "page": 128,
+        "heading": "References",
+        "content": " African Development Bank, \u20182004 Cameroon Country Governance Profile\u2019 (Gountry Operations Department: Central and West Region, September 2004). accessed 19 October 2018. ",
+        "features": {
+            "font_id": "41",
+            "height": 15,
+            "width": 96,
+            "top": 574,
+            "left": 81
+        }
+    },
+    {
+        "page": 129,
+        "heading": "Reuters Africa, \u2018Cameroon Presidential Hopeful Quits Ruling Party\u2019 (11 January",
+        "content": "2011) http://af:reuters.com/article/topNews/idAFJOE70A0HZ20110111 accessed 29 August 2012. ",
+        "features": {
+            "font_id": "48",
+            "height": 15,
+            "width": 489,
+            "top": 821,
+            "left": 96
+        }
+    },
+    {
+        "page": 131,
+        "heading": "Part I. Organisation of the judicial system and jurisdiction of the courts",
+        "content": " According to the Judicial Organisation Law, judicial organisation shall comprise of the following\u2019: ",
+        "features": {
+            "font_id": "53",
+            "height": 15,
+            "width": 378,
+            "top": 673,
+            "left": 96
+        }
+    },
+    {
+        "page": 131,
+        "heading": "The Supreme Court",
+        "content": " \u2014 The Court of Appeal  \u2014 The Special Criminal Court",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 160,
+            "top": 770,
+            "left": 96
+        }
+    },
+    {
+        "page": 131,
+        "heading": "The Court of Appeal",
+        "content": " \u2014 The Special Criminal Court  \u2014 Lower Courts of Administrative Litigation (Regional Administrative Courts)",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 165,
+            "top": 788,
+            "left": 96
+        }
+    },
+    {
+        "page": 131,
+        "heading": "The Special Criminal Court",
+        "content": " \u2014 Lower Courts of Administrative Litigation (Regional Administrative Courts) \u2014 Lower Audit Courts (Regional Audit Courts) ",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 208,
+            "top": 806,
+            "left": 96
+        }
+    },
+    {
+        "page": 132,
+        "heading": "The judiciary, judicial independence and power 111",
+        "content": " \u2014 High Courts \u2014 Courts of First Instance \u2014 Customary Law Courts",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 323,
+            "left": 81
+        }
+    },
+    {
+        "page": 134,
+        "heading": "accounting expressly devolving upon them by law and those referred by the Supreme Court.\u201d",
+        "content": " It is worth noting that the Audit Courts are yet to be established. Their es- tablishment shall be progressive, depending on service requirements and the state\u2019s available resources.\u201d\u2019 In the interim, the Audit Bench of the Supreme",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 490,
+            "top": 77,
+            "left": 81
+        }
+    },
+    {
+        "page": 134,
+        "heading": "C. HIGH COURTS",
+        "content": " High Courts are established in every administrative division\u201d and are located in the headquarters of that division\u2019.*\u201d However, for service purposes, its territorial jurisdiction may cover several divisions by decree of the President of the",
+        "features": {
+            "font_id": "58",
+            "height": 12,
+            "width": 95,
+            "top": 234,
+            "left": 81
+        }
+    },
+    {
+        "page": 135,
+        "heading": "D. COURTS OF FIRST INSTANCE",
+        "content": " In principle, Courts of First Instance are found in every sub-division and located in the headquarters of that sub-division.\u2019 However, for service purposes, its territorial jurisdiction may cover several sub-divisions by decree of the President",
+        "features": {
+            "font_id": "58",
+            "height": 12,
+            "width": 172,
+            "top": 252,
+            "left": 96
+        }
+    },
+    {
+        "page": 136,
+        "heading": "E. CUSTOMARY COURTS",
+        "content": " Customary Courts are the least influential in terms of the administrative and political governance of the country but they play an important role within the local communities in which they operate. They are found in administrative",
+        "features": {
+            "font_id": "58",
+            "height": 12,
+            "width": 134,
+            "top": 144,
+            "left": 81
+        }
+    },
+    {
+        "page": 136,
+        "heading": "II. Ordinary courts with appellate jurisdiction",
+        "content": " The courts with appellate jurisdiction are the Courts of Appeal and the Supreme Court. ",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 245,
+            "top": 392,
+            "left": 81
+        }
+    },
+    {
+        "page": 136,
+        "heading": "A. COURTS OF APPEAL",
+        "content": " The Courts of Appeal are located in the headquarters of each of the ten ad- ministrative regions in Cameroon.\u201d As with the other courts, its territorial jurisdiction may cover other regions where the need arises.\u2019? The Court of",
+        "features": {
+            "font_id": "58",
+            "height": 12,
+            "width": 123,
+            "top": 486,
+            "left": 81
+        }
+    },
+    {
+        "page": 137,
+        "heading": "B. SUPREME COURT",
+        "content": " There is one Supreme Court which has national jurisdiction and is located in Yaound\u00e9, the capital city.\u00ae\u00b0 It is the highest court of record with final jurisdiction in judicial,\u00ae\u2019 administrative and audit matters.\u201d\u00ae The Bench of the Supreme",
+        "features": {
+            "font_id": "58",
+            "height": 12,
+            "width": 110,
+            "top": 432,
+            "left": 96
+        }
+    },
+    {
+        "page": 137,
+        "heading": "matters and those relating to customary law)\u201d*",
+        "content": " \u2014 Panel of Joint Benches (jurisdiction in matters relating to the regulation of 95 )",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 274,
+            "top": 725,
+            "left": 123
+        }
+    },
+    {
+        "page": 137,
+        "heading": "Supreme Court)\u201d",
+        "content": " Each of the Benches is composed of divisions\u2019\u2019 which have a president, at least two justices of the Supreme Court and one or more Advocates General.\u201d\u00ae ",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 490,
+            "top": 167,
+            "left": 96
+        }
+    },
+    {
+        "page": 138,
+        "heading": "Want of jurisdiction",
+        "content": " \u2014  Misinterpretation of facts  \u2014 Default, contradiction or insufficient grounds",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 157,
+            "top": 815,
+            "left": 81
+        }
+    },
+    {
+        "page": 138,
+        "heading": "Misinterpretation of facts",
+        "content": " \u2014 Default, contradiction or insufficient grounds \u2014  Irregularity ",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 189,
+            "top": 833,
+            "left": 81
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Breach of the law",
+        "content": " \u2014 Failure to respond to the submission of the parties or the LD  \u2014 Abuse of office",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 143,
+            "top": 77,
+            "left": 96
+        }
+    },
+    {
+        "page": 140,
+        "heading": "III. Court of Impeachment",
+        "content": " A Court of Impeachment is provided for under article 53 of the Constitution. This provision states very briefly the general competence of the Court.''\u00ae According to article 53(4), the organisation, composition and conditions under",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 145,
+            "top": 698,
+            "left": 81
+        }
+    },
+    {
+        "page": 141,
+        "heading": "IV. State Security Court",
+        "content": " The State Security Court was provided for by a 1990 statute in the context of the democratic uprisings in the 1990s.''\u2019 It has \u2018exclusive\u2019 competence to try felonies and misdemeanours against the internal and external security of the",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 133,
+            "top": 140,
+            "left": 96
+        }
+    },
+    {
+        "page": 141,
+        "heading": "Part II. The status and independence of the judiciary",
+        "content": " Prior to 1996, the status of the judiciary in relation to the executive and the legislature was doubtful. In particular, it could hardly be considered as equal to those two arms of the government. This affected in practice its relation with",
+        "features": {
+            "font_id": "53",
+            "height": 15,
+            "width": 430,
+            "top": 448,
+            "left": 96
+        }
+    },
+    {
+        "page": 141,
+        "heading": "A. Structure and constitutional status of the judiciary",
+        "content": " It is worth stating at the outset that discussions on the judiciary in this part exclude the customary courts, the Court of Impeachment, the State Security Court and the Constitutional Council. With the exception of the customary",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 60,
+            "top": 95,
+            "left": 96
+        }
+    },
+    {
+        "page": 141,
+        "heading": "I. Structure",
+        "content": " Cameroon has a peculiar judicial structure which is based on the French civil law system and therefore different from other judicial systems, particularly ",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 65,
+            "top": 824,
+            "left": 96
+        }
+    },
+    {
+        "page": 142,
+        "heading": "IT. Constitutional status",
+        "content": " A major innovation of the 1996 Constitution with respect to the judiciary is the elevation of that institution from an \u2018authority\u2019 to a \u2018power\u2019 like the legislature and the executive. Both the 1961 and 1972 Constitutions referred to the ju-",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 131,
+            "top": 446,
+            "left": 81
+        }
+    },
+    {
+        "page": 143,
+        "heading": "B. The judicial tenure: appointment, career progression and discipline of judges",
+        "content": " I, Appointment  Unlike common law systems where judges are appointed from senior lawyers",
+        "features": {
+            "font_id": "56",
+            "height": 14,
+            "width": 436,
+            "top": 80,
+            "left": 96
+        }
+    },
+    {
+        "page": 143,
+        "heading": "I, Appointment",
+        "content": " Unlike common law systems where judges are appointed from senior lawyers in private practice, Cameroon follows a typical civil law approach where the ju- diciary is a career judiciary. Judges are appointed following the completion of two",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 84,
+            "top": 131,
+            "left": 96
+        }
+    },
+    {
+        "page": 143,
+        "heading": "II, Career progression",
+        "content": " As career civil servants, judges progress through a certain hierarchy through various means, including promotions or transfers which may in effect be pro- motions. Consistent with the requirement for security of tenure, they have a",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 118,
+            "top": 743,
+            "left": 96
+        }
+    },
+    {
+        "page": 146,
+        "heading": "IIT. Discipline",
+        "content": " Although judges enjoy a fixed term until retirement, they are subject to dis- ciplinary sanctions. This is necessary to maintain their accountability, a quality that is essential to the proper administration of justice. There are a number of",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 82,
+            "top": 500,
+            "left": 81
+        }
+    },
+    {
+        "page": 148,
+        "heading": "lack of independence.'\u00ae\u201d",
+        "content": " C. Judicial independence versus accountability: a tenuous relationship ",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 136,
+            "top": 149,
+            "left": 81
+        }
+    },
+    {
+        "page": 148,
+        "heading": "C. Judicial independence versus accountability: a tenuous relationship",
+        "content": " Stephen Burbank asserts that Judicial independence and accountability can be more appropriately described as \u2018different sides of the same coin\u2019!\u201c* due to their complementary relationship. Judicial independence is instrumental in providing",
+        "features": {
+            "font_id": "56",
+            "height": 14,
+            "width": 349,
+            "top": 197,
+            "left": 81
+        }
+    },
+    {
+        "page": 150,
+        "heading": "D. The prosecutor in the judicial landscape",
+        "content": " Prosecution and adjudication are inherently separate functions, although in Cameroon that distinction is increasingly blurred. As noted earlier, judges as- sume the role of adjudicators or prosecutors at different points in their career.",
+        "features": {
+            "font_id": "35",
+            "height": 14,
+            "width": 20,
+            "top": 341,
+            "left": 81
+        }
+    },
+    {
+        "page": 152,
+        "heading": "E. Judicial scrutiny of the executive",
+        "content": " The main mechanism by which the judiciary performs oversight of the ex- ecutive is through judicial review of administrative acts. The system of review is closely modelled on that of France which has a specialised jurisdiction for",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 161,
+            "left": 81
+        }
+    },
+    {
+        "page": 152,
+        "heading": "I. Scope of review",
+        "content": " Administrative courts have jurisdiction to hear petitions emanating from the acts of administrative authorities carried out in their capacity as administrative officials. Thus, they have competence to entertain petitions for the annulment of",
+        "features": {
+            "font_id": "57",
+            "height": 17,
+            "width": 99,
+            "top": 446,
+            "left": 81
+        }
+    },
+    {
+        "page": 155,
+        "heading": "F. Judicial power and the enforceability of judgments",
+        "content": " In addition to the problem of lack of individual and institutional independence, judicial power to effectively exercise oversight of the executive is limited by the inability to enforce judgments rendered against executive officials.*\u00b0' The",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 52,
+            "top": 653,
+            "left": 292
+        }
+    },
+    {
+        "page": 157,
+        "heading": "decisions, are not brought to book?\u2019.?\u201d\u201d",
+        "content": " Conclusion  The judiciary as demonstrated previously lacks independence as an institution.",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 224,
+            "top": 599,
+            "left": 96
+        }
+    },
+    {
+        "page": 157,
+        "heading": "Conclusion",
+        "content": " The judiciary as demonstrated previously lacks independence as an institution. Its excessive dependence on the executive limits the extent to which it can act as a credible institution and discharge its constitutional mandate effectively.",
+        "features": {
+            "font_id": "53",
+            "height": 15,
+            "width": 92,
+            "top": 646,
+            "left": 96
+        }
+    },
+    {
+        "page": 158,
+        "heading": "activities of the Judicial Power.\u201d\u201d\u201d",
+        "content": " Until such recommendations are heeded, the judiciary remains an institution severely influenced by the executive. Although it has sometimes exercised its independence, such circumstances have been limited and the general environ-",
+        "features": {
+            "font_id": "54",
+            "height": 17,
+            "width": 190,
+            "top": 257,
+            "left": 108
+        }
+    },
+    {
+        "page": 158,
+        "heading": "Notes",
+        "content": " 1 Law No. 2006/015 of 29 December 2006 on the Organisation of the Judiciary (Judicial Organisation Law [JOL]) as amended by Law No. 2011/027 of 14 December 2011, s 3.",
+        "features": {
+            "font_id": "53",
+            "height": 15,
+            "width": 54,
+            "top": 430,
+            "left": 81
+        }
+    },
+    {
+        "page": 159,
+        "heading": "S)",
+        "content": " CoS  NET TLO TTL TILEY",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 246,
+            "top": 78,
+            "left": 103
+        }
+    },
+    {
+        "page": 159,
+        "heading": "S)",
+        "content": " CoS  NET TLO TTL TILEY",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 246,
+            "top": 78,
+            "left": 103
+        }
+    },
+    {
+        "page": 160,
+        "heading": "This area of its competence is complemented by Law No. 2014/028 of 14 December",
+        "content": "2014 on the Repression of Acts of Terrorism (Terrorism Law).  For instance, African Charter on Human and Peoples\u2019 Rights, art 7(1)(d); International Covenant on Civil and Political Rights, art 14(1).",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 489,
+            "top": 678,
+            "left": 81
+        }
+    },
+    {
+        "page": 160,
+        "heading": "Walter Numi, Che Nii & Kongnso Lawrence v The People, Suit No. CANWR/MA/3C/",
+        "content": "2015, SLR 6[2017] 10, 16-17.  Law No 2011/28 of 14 December 2011 relating to the creation of the Special Criminal Court as amended by Law No 2012/011 of 16 July 2012, s 1.",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 174,
+            "top": 738,
+            "left": 397
+        }
+    },
+    {
+        "page": 161,
+        "heading": "Decree No. 95/048 of 8 March 1995 on the Status of the Magistracy (SOM), s",
+        "content": "11(1)(b).  SOM, ss 11(1), (2). ",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 489,
+            "top": 648,
+            "left": 96
+        }
+    },
+    {
+        "page": 165,
+        "heading": "Fombad, \u2018A Preliminary Assessment\u2019 (n 206) 255",
+        "content": " Bertelsmann Stiftung, \u2018Bertelsmann \u2018Transformation Index 2012- Cameroon Country Report\u2019 (Giitersloh: Betlelsmann Stiftung, 2012) 6 www.bti-project.de/ fileadmin/Inhalte/reports/2012/pdf accessed 20 July 2012.",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 304,
+            "top": 93,
+            "left": 96
+        }
+    },
+    {
+        "page": 165,
+        "heading": "Neville Brown and John Bell, French Administratwe Law (5th ed, Oxford University Press",
+        "content": "1998) 127-128; John Allison, A Continental Distinction in the Common Law: A Historical and Comparative Perspective on Enghsh Public Law (Oxford University Press 1996) 142. Administrative Courts Law, s 2 (3) (a)-(e). ",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 175,
+            "top": 603,
+            "left": 410
+        }
+    },
+    {
+        "page": 166,
+        "heading": "Kouang Guillaum v Etat du Cameroun, Judgment No 66 ADD/CS/CA of 31 May",
+        "content": "1979 (unreported). See also John Bell, Sophie Boyron and Simon Whittaker, Principles of French Law (2nd ed, Oxford University Press 2009) 179-180; R\u00e9n\u00e9 Chapus, \u2018L\u2019acte de Gouvernement: Monstre ou Victime?\u2019 (1958) Recueil Dalloz, Chronique II, 5.",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 265,
+            "top": 108,
+            "left": 306
+        }
+    },
+    {
+        "page": 166,
+        "heading": "Social Democratic Front (SDF) v Etat du Cameroun, Ordonance No. 01/OSE/CCA/CS/",
+        "content": "2009 (unreported); Mvogo Jean-Marie v Etat du Cameroun, Judgment No. 1203/CS/ CA/1999\u20142000 (unreported).  Soci\u00e9t\u00e9 Foresti\u00e9re de la Sanaga v Etat du Cameroun, Arr\u00e9t No. 5/CFJ/AP of 15 March 1967",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 215,
+            "top": 363,
+            "left": 355
+        }
+    },
+    {
+        "page": 166,
+        "heading": "Social Democratic Front (SDF) v Etat du Cameroun, Ordonance No. 01/OSE/CCA/CS/",
+        "content": "2009 (unreported); Mvogo Jean-Marie v Etat du Cameroun, Judgment No. 1203/CS/ CA/1999\u20142000 (unreported).  Soci\u00e9t\u00e9 Foresti\u00e9re de la Sanaga v Etat du Cameroun, Arr\u00e9t No. 5/CFJ/AP of 15 March 1967",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 215,
+            "top": 363,
+            "left": 355
+        }
+    },
+    {
+        "page": 166,
+        "heading": "United States Department of State, \u2018Country Reports on Human Rights Practices for 2011: Cameroon\u2019. https://cm.usembassy.gov/wp-content/uploads/sites/240/",
+        "content": "1808142011CGameroon-HR-report.pdf. accessed 18 December 2018. ",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 462,
+            "top": 843,
+            "left": 108
+        }
+    },
+    {
+        "page": 167,
+        "heading": "References",
+        "content": " Aba\u2019a Oyono JC, \u2018L\u2019ins\u00e9curit\u00e9 Juridique en Mati\u00e9re Constitutionnelle: Questionnement S\u00e9lectif sur Particulation et la Pratique Constitutionnelles au Cameroun\u2019 in Maurice Kamto, Stephane Doumbe-Bille and Brusil Metou (eds) Regards Sur le Droit Public en",
+        "features": {
+            "font_id": "53",
+            "height": 15,
+            "width": 91,
+            "top": 364,
+            "left": 96
+        }
+    },
+    {
+        "page": 167,
+        "heading": "Burbank S, \u201cThe Past and Present of Judicial Independence\u2019 (1996) 80(3) Judicature",
+        "content": "117.  Burbank S, \u201cThe Achitecture of Judicial Independence\u2019 (1999) 72 Southern Californa Law Review 315.",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 400,
+            "top": 785,
+            "left": 96
+        }
+    },
+    {
+        "page": 168,
+        "heading": "Embom L, \u2018Droits de !Homme: Amnesty International Epingle le Cameroun\u2019 (Yaound\u00e9",
+        "content": "16 December 2012) www.cameroon-info.net/stories/0,39576,@,droits-de-l-homme- amnesty-international-epingle-le-cameroun.html accessed 16 December 2012.  Enonchong L, \u2018Habeas Corpus under the New Criminal Procedure Code of Cameroon:",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 489,
+            "top": 177,
+            "left": 81
+        }
+    },
+    {
+        "page": 169,
+        "heading": "Ministry of Justice, \u201cReport of the Ministry of Justice on Human Rights in Cameroon in",
+        "content": " 2017\u2019 (Yaound\u00e9, October 2018) 220 http://www.minjustice.gov.cm/components/  com_flexicontent/uploads/rapport_minjustice_2017_en.pdf accessed 02 June 2019.",
+        "features": {
+            "font_id": "59",
+            "height": 15,
+            "width": 489,
+            "top": 111,
+            "left": 96
+        }
+    },
+    {
+        "page": 169,
+        "heading": "for 2011: Cameroon\u2019 _https://cm.usembassy.gov/wp-content/uploads/sites/240/",
+        "content": " 1808142011CGameroon-HR-report.pdf. accessed 18 December 2018.  ",
+        "features": {
+            "font_id": "60",
+            "height": 15,
+            "width": 54,
+            "top": 160,
+            "left": 531
+        }
+    },
+    {
+        "page": 170,
+        "heading": "Part I. Structure and competence of the Constitutional Council",
+        "content": " A. Composition  The Council is composed of eleven members\u00ae appointed by the President of the",
+        "features": {
+            "font_id": "42",
+            "height": 17,
+            "width": 29,
+            "top": 320,
+            "left": 81
+        }
+    },
+    {
+        "page": 173,
+        "heading": "I. Constitutional review",
+        "content": " The framework for constitutional review under the 1996 Constitution replicates many aspects of the 1972 Constitution, although that jurisdiction is now ex- ercised by the Council rather than the Supreme Court. Article 47(1) of the",
+        "features": {
+            "font_id": "66",
+            "height": 14,
+            "width": 129,
+            "top": 647,
+            "left": 96
+        }
+    },
+    {
+        "page": 177,
+        "heading": "president) in the Commission on the Final Counting of Votes.\u201d",
+        "content": " III, Ensuring the regularity of elections  By virtue of article 48(1) of the Constitution, the Council shall ensure the reg-",
+        "features": {
+            "font_id": "63",
+            "height": 17,
+            "width": 382,
+            "top": 374,
+            "left": 96
+        }
+    },
+    {
+        "page": 177,
+        "heading": "III, Ensuring the regularity of elections",
+        "content": " By virtue of article 48(1) of the Constitution, the Council shall ensure the reg- ularity of presidential elections, parliamentary elections and referendum opera- tions and proclaim the results thereof.\u00b0\u00b0 Section 40 of the Constitutional Council",
+        "features": {
+            "font_id": "66",
+            "height": 14,
+            "width": 209,
+            "top": 422,
+            "left": 96
+        }
+    },
+    {
+        "page": 178,
+        "heading": "C. Access",
+        "content": " Access to the Council is one of the features that lend credence to a perception that it is an institution that serves the political organs of the state. To what extent is that view accurate? That question can be answered through a closer ex-",
+        "features": {
+            "font_id": "65",
+            "height": 14,
+            "width": 74,
+            "top": 269,
+            "left": 81
+        }
+    },
+    {
+        "page": 181,
+        "heading": "D. Procedures before the Constitutional Council",
+        "content": " In relation to the procedure in the Council, generally, to deliberate, the minimum composition is nine of its eleven members,\u201d while a simple majority can arrive at a binding decision, with every judge voting.'\"\u00b0 Where there is a tie,",
+        "features": {
+            "font_id": "65",
+            "height": 14,
+            "width": 348,
+            "top": 809,
+            "left": 96
+        }
+    },
+    {
+        "page": 182,
+        "heading": "L. Constitutional review",
+        "content": " In constitutional adjudication, the Council may be seized through a simple petition signed and dated by the petitioner.''! The petitioner must state their complaint and the legal and factual grounds in support thereof.''\u201d The President",
+        "features": {
+            "font_id": "63",
+            "height": 17,
+            "width": 490,
+            "top": 419,
+            "left": 81
+        }
+    },
+    {
+        "page": 183,
+        "heading": "Il. Effect of the Council\u2019s decisions",
+        "content": " The decisions of the Council are final'\u201d\u00ae and binding on all public, administrative, judicial and military authorities, as well as natural and corporate entities.'\u201d Additionally, they must be enforced without delay.'*\u201d Despite the fact that the",
+        "features": {
+            "font_id": "66",
+            "height": 14,
+            "width": 195,
+            "top": 566,
+            "left": 96
+        }
+    },
+    {
+        "page": 183,
+        "heading": "E. Protecting constitutional rights and promoting democratic advancement",
+        "content": " As noted earlier, the Council was created in the context of a democratic uprising as part of the strategy to harness the democratic process. The earlier discussion has highlighted several weaknesses in the institutional framework that make it",
+        "features": {
+            "font_id": "65",
+            "height": 14,
+            "width": 362,
+            "top": 782,
+            "left": 96
+        }
+    },
+    {
+        "page": 187,
+        "heading": "Part II. International treaties and the alternative to constitutional review",
+        "content": " A. International law and the domestic legal order  International law plays an important role in the domestic legal order, not least",
+        "features": {
+            "font_id": "62",
+            "height": 15,
+            "width": 416,
+            "top": 556,
+            "left": 96
+        }
+    },
+    {
+        "page": 187,
+        "heading": "A. International law and the domestic legal order",
+        "content": " International law plays an important role in the domestic legal order, not least because it extends the range of rights in the country. As noted earlier, the President of the Republic is vested with powers to ratify international treaties and",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 611,
+            "left": 96
+        }
+    },
+    {
+        "page": 188,
+        "heading": "Decrees",
+        "content": " Other Regulatory Instruments  Figure 5.1 Hierarchy of norms in the domestic legal order.",
+        "features": {
+            "font_id": "68",
+            "height": 12,
+            "width": 45,
+            "top": 356,
+            "left": 164
+        }
+    },
+    {
+        "page": 188,
+        "heading": "Other Regulatory Instruments",
+        "content": " Figure 5.1 Hierarchy of norms in the domestic legal order.  precedence over domestic law (legislative acts ordinances and regulatory in-",
+        "features": {
+            "font_id": "68",
+            "height": 12,
+            "width": 157,
+            "top": 422,
+            "left": 108
+        }
+    },
+    {
+        "page": 188,
+        "heading": "B. Le contr\u00e9le de conventionnalit\u00e9 des lois",
+        "content": " The hierarchy depicted earlier, has important implications for issues relating to consistency within the domestic legal order. The Constitution is at the apex of that hierarchy and all other norms obtain their validity from it and, therefore,",
+        "features": {
+            "font_id": "65",
+            "height": 14,
+            "width": 308,
+            "top": 620,
+            "left": 81
+        }
+    },
+    {
+        "page": 190,
+        "heading": "Conclusion",
+        "content": " Constitutional jurisdictions are known to play an important part in upholding the rule of law and in protecting constitutional rights and democratic values. This perhaps explains why the \u2018drafters\u2019 of the 1996 Constitution thought that by",
+        "features": {
+            "font_id": "62",
+            "height": 15,
+            "width": 92,
+            "top": 592,
+            "left": 81
+        }
+    },
+    {
+        "page": 192,
+        "heading": "Akiangan Fombin Sebastian v Foto Joseph G Others, Suit No. HCK/3/96 of 6 January",
+        "content": "2000 (unreported).  Decision No. 02/SCCL/G/SG/CC of 12 February 2019. The application con- cerned Decree No. 2016/072 of 15 February 2016 relating to certain aspects of the",
+        "features": {
+            "font_id": "70",
+            "height": 15,
+            "width": 205,
+            "top": 618,
+            "left": 365
+        }
+    },
+    {
+        "page": 193,
+        "heading": "For instance, the International Covenant on Civil and Political Rights ICCPR), arts",
+        "content": "2(1), 26. The prohibition of discrimination under articles 2(1) and 26 have been held to include prohibition of discrimination on the grounds of sexual orientation. See the UN Human Rights Committee in Toonen v Australia, Communication No. 488/192 UN Doc. (GPR/C/50/D) 488/1992 (1994); Young v Australia Communication No.",
+        "features": {
+            "font_id": "70",
+            "height": 15,
+            "width": 483,
+            "top": 123,
+            "left": 103
+        }
+    },
+    {
+        "page": 194,
+        "heading": "Loi Organique No. 2009-1523 of 10 December 2009 on the application of article",
+        "content": "61-1 of the French Constitution, arts 23(1), (2). The new procedure has been acknowl- edged as one that empowers ordinary citizens to assert their rights. Edouard Balladur and Hugues Hourdin, \u2018Comit\u00e9 de R\u00e9flexion et de Proposition sur la Modernisation et Le R\u00e9\u00e9quilibrage des Institutions de La Ve Republique, Une Ve R\u00e9publique plus",
+        "features": {
+            "font_id": "70",
+            "height": 15,
+            "width": 482,
+            "top": 348,
+            "left": 88
+        }
+    },
+    {
+        "page": 194,
+        "heading": "Constitution of the Republic of Benin 1990, art 122; Law No. 91/009 of 4 March",
+        "content": "1991 (as amended, art 22).  Constitution of the Democratic Republic of Congo 2005, art 162. ",
+        "features": {
+            "font_id": "70",
+            "height": 15,
+            "width": 483,
+            "top": 453,
+            "left": 88
+        }
+    },
+    {
+        "page": 194,
+        "heading": "Constitutional Council Law, s 59(1). Affirmed in Decision No. 001/G/SCT/CC/",
+        "content": "2018 of 30 July 2018.  Constitutional Council Law, s 60. ",
+        "features": {
+            "font_id": "70",
+            "height": 15,
+            "width": 489,
+            "top": 798,
+            "left": 81
+        }
+    },
+    {
+        "page": 196,
+        "heading": "References",
+        "content": " Aba\u2019a Oyono JC, \u2018L\u2019ns\u00e9curit\u00e9 Furidique en Mati\u00e9re Constitutionnelle: Questionnement S\u00e9lectif sur Varticulation et la Pratique Constitutionnelles au Cameroun\u2019 in Maunce Kamto, Stephane Doumbe- Bille and Brusil Metou (eds) Regards Sur le Droit Public en Afrique (L\u2019Harmattan 2016).",
+        "features": {
+            "font_id": "62",
+            "height": 15,
+            "width": 91,
+            "top": 694,
+            "left": 81
+        }
+    },
+    {
+        "page": 197,
+        "heading": "Jakab A, \u2018Judicial Reasoning in Constitutional Courts: A European Perspective\u2019 (2013)",
+        "content": "14(8) German Law Journal 1215.  Matonga G and Cotterill J, \u2018Malawi Court Overturns 2019 Presidential Election Result\u2019 ",
+        "features": {
+            "font_id": "70",
+            "height": 15,
+            "width": 489,
+            "top": 804,
+            "left": 96
+        }
+    },
+    {
+        "page": 199,
+        "heading": "self-determination",
+        "content": " Introduction  Since 2016, Cameroon has been embroiled in a crisis that has led to the re-",
+        "features": {
+            "font_id": "74",
+            "height": 28,
+            "width": 193,
+            "top": 149,
+            "left": 141
+        }
+    },
+    {
+        "page": 200,
+        "heading": "Part I. The immediate triggers of the Anglophone crisis in brief",
+        "content": " The current explosion of tension in the Anglophone regions originated on 11 October 2016 when lawyers from the North-West and South-West regions went on strike in protest at the repeated failure of the Ministry of Justice to",
+        "features": {
+            "font_id": "75",
+            "height": 15,
+            "width": 401,
+            "top": 160,
+            "left": 81
+        }
+    },
+    {
+        "page": 200,
+        "heading": "The current explosion of tension in the Anglophone regions originated on",
+        "content": "11 October 2016 when lawyers from the North-West and South-West regions went on strike in protest at the repeated failure of the Ministry of Justice to respond to their grievances, arising from the imposition of civil law trained judges and other judicial personnel on the essentially common law oriented courts and",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 490,
+            "top": 202,
+            "left": 81
+        }
+    },
+    {
+        "page": 202,
+        "heading": "Part II. Responses to the Anglophone problem",
+        "content": " The Anglophone problem is one without an obvious solution and has arguably been made more problematic with the emergence of the armed struggle. While proponents of federalism and secession have persisted in their demands, the",
+        "features": {
+            "font_id": "75",
+            "height": 15,
+            "width": 375,
+            "top": 430,
+            "left": 81
+        }
+    },
+    {
+        "page": 202,
+        "heading": "A. Decentralisation",
+        "content": " Decentralisation (through devolution) is the governance option adopted by the government of Cameroon, introduced partly as a concession to the Anglophones\u2019 demand for federalism in the early 1990s.\u201d! The 1996 Constitution describes",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 611,
+            "left": 81
+        }
+    },
+    {
+        "page": 203,
+        "heading": "I. Justifying decentralisation",
+        "content": " The government of Cameroon has advanced both a legal and a functional basis for decentralisation. ",
+        "features": {
+            "font_id": "78",
+            "height": 14,
+            "width": 153,
+            "top": 197,
+            "left": 96
+        }
+    },
+    {
+        "page": 206,
+        "heading": "B. Special autonomy status",
+        "content": " On 10 September 2019, in a rare address to the nation, President Biya an- nounced plans to convene a broad-based national dialogue to seek solutions to the crisis rocking the Anglophone regions.\u00b0\u2019 The dialogue was preceded",
+        "features": {
+            "font_id": "79",
+            "height": 14,
+            "width": 200,
+            "top": 683,
+            "left": 81
+        }
+    },
+    {
+        "page": 207,
+        "heading": "Bilingualism, Cultural Diversity, and Social Cohesion",
+        "content": " \u2014 Educational System  \u2014 Judicial System",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 362,
+            "top": 221,
+            "left": 96
+        }
+    },
+    {
+        "page": 209,
+        "heading": "A. DEVOLVED POWERS",
+        "content": " The powers devolved on all the ten regions of the state are covered in sections 267 to 273. They include defined competencies in the areas of economic development, health and social development and education, sports and cultural development. All",
+        "features": {
+            "font_id": "80",
+            "height": 12,
+            "width": 125,
+            "top": 513,
+            "left": 96
+        }
+    },
+    {
+        "page": 209,
+        "heading": "Participating in the formulation of national public policies relating to the Anglophone education subsystem",
+        "content": " \u2014 Setting up and managing regional development authorities  \u2014 Participating in defining the status of traditional chiefdoms",
+        "features": {
+            "font_id": "78",
+            "height": 14,
+            "width": 45,
+            "top": 809,
+            "left": 348
+        }
+    },
+    {
+        "page": 209,
+        "heading": "Setting up and managing regional development authorities",
+        "content": " \u2014 Participating in defining the status of traditional chiefdoms ",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 395,
+            "top": 841,
+            "left": 96
+        }
+    },
+    {
+        "page": 211,
+        "heading": "LTT. Institutional structures",
+        "content": " A. DELIBERATIVE AND EXECUTIVE ORGANS  With regard to the organisational structure of the regions, the relevant organs are",
+        "features": {
+            "font_id": "78",
+            "height": 14,
+            "width": 145,
+            "top": 611,
+            "left": 96
+        }
+    },
+    {
+        "page": 211,
+        "heading": "A. DELIBERATIVE AND EXECUTIVE ORGANS",
+        "content": " With regard to the organisational structure of the regions, the relevant organs are the Regional Council and the President of the Regional Council, both charged with the administration of the region.\u00ae\u201d The Regional Council is the deliberative organ",
+        "features": {
+            "font_id": "80",
+            "height": 12,
+            "width": 236,
+            "top": 648,
+            "left": 96
+        }
+    },
+    {
+        "page": 214,
+        "heading": "B. THE PUBLIC INDEPENDENT CONCILIATOR",
+        "content": " Perhaps the most distinctive and innovative institution is that of the Public Independent Conciliator (PIC).''? The law provides that \u2014 the PIC shall be a highly experienced personality with reputed integrity and proven objectivity.''*",
+        "features": {
+            "font_id": "80",
+            "height": 12,
+            "width": 240,
+            "top": 144,
+            "left": 81
+        }
+    },
+    {
+        "page": 215,
+        "heading": "IV. Procedural considerations",
+        "content": " The RLA Code, which makes provision for the special status of the North-West and South-West regions, as already noted, was a response to recommendations from the Major National Dialogue. Besides that consultative phase, there is no",
+        "features": {
+            "font_id": "78",
+            "height": 14,
+            "width": 158,
+            "top": 647,
+            "left": 96
+        }
+    },
+    {
+        "page": 216,
+        "heading": "A. NEGOTIATING A SPECIAL STATUS AGREEMENT",
+        "content": " The process of conflict resolution and determination of minority issues is as important as the outcome. This observation warrants a reconsideration of the traditional approach to political decision making in Cameroon, which is often",
+        "features": {
+            "font_id": "80",
+            "height": 12,
+            "width": 267,
+            "top": 306,
+            "left": 81
+        }
+    },
+    {
+        "page": 217,
+        "heading": "B. NORMATIVE FOUNDATIONS OF THE SPECIAL STATUS AGREEMENT",
+        "content": " A further weakness embodying the special status of the Anglophone regions is that there is no independent document dealing with the special status arrange- ments. Instead, the relevant provisions appear as part of the general law on",
+        "features": {
+            "font_id": "80",
+            "height": 12,
+            "width": 371,
+            "top": 702,
+            "left": 96
+        }
+    },
+    {
+        "page": 219,
+        "heading": "C. Federalism",
+        "content": " In Chapter 1, it was demonstrated that the option of federalism dominated the Anglophone struggle for identity even in the late 1990s when some radical political groups began to emerge. Renewed calls for federalism often alluded",
+        "features": {
+            "font_id": "79",
+            "height": 14,
+            "width": 106,
+            "top": 611,
+            "left": 96
+        }
+    },
+    {
+        "page": 219,
+        "heading": "I. Justifying a return to federalism",
+        "content": " Despite the misgivings about Cameroon\u2019s experience of federalism, discussed in Chapter 1, proponents of federalism still see it as the best alternative to resolving ",
+        "features": {
+            "font_id": "78",
+            "height": 14,
+            "width": 186,
+            "top": 827,
+            "left": 96
+        }
+    },
+    {
+        "page": 220,
+        "heading": "On the first issue, the argument is that the very foundation of the union in",
+        "content": "1961 was on the basis of a federation.'\u201d\u201d Although Southern Cameroons was not eventually accorded the loose federation that it advocated for, their under- standing on entering the union was that it would be on the basis of a federation. Foncha\u2019s campaign during the prelude to reunification was framed around the",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 475,
+            "top": 238,
+            "left": 96
+        }
+    },
+    {
+        "page": 222,
+        "heading": "D. Secession",
+        "content": " The secessionist agenda propagated by Gorji Dinka for which he was arrested and tried for treason in 1985 remained unobtrusive for some time, although not completely unsupported.'\u2019' The AAC I did not advocate an overt secessionist",
+        "features": {
+            "font_id": "79",
+            "height": 14,
+            "width": 95,
+            "top": 413,
+            "left": 81
+        }
+    },
+    {
+        "page": 222,
+        "heading": "I, Justefying secession",
+        "content": " Proponents of secessionist discourse identify unitarism with the theme of sub- ordination \u2014 a continuity of the colonial sate in the guise of autonomy and unity. ",
+        "features": {
+            "font_id": "78",
+            "height": 14,
+            "width": 118,
+            "top": 827,
+            "left": 81
+        }
+    },
+    {
+        "page": 225,
+        "heading": "determination of the Southern Cameroonian people.'\u00ae\u00b0",
+        "content": " It is not clear why the Commission evaded the thorny issues of 1961 and 1972. One view is that there was a danger of \u2018emboldening\u2019 the government of Cameroon by declaring that the 1961 arrangements did not amount to",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 324,
+            "top": 526,
+            "left": 123
+        }
+    },
+    {
+        "page": 225,
+        "heading": "It is not clear why the Commission evaded the thorny issues of 1961 and",
+        "content": "1972. One view is that there was a danger of \u2018emboldening\u2019 the government of Cameroon by declaring that the 1961 arrangements did not amount to an international agreement, a decision which would further antagonise the disillusioned Southern Cameroonians.'\u00ae* Alternatively, it may be that \u2018the",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 472,
+            "top": 562,
+            "left": 114
+        }
+    },
+    {
+        "page": 226,
+        "heading": "Republic of Cameroon.'\u00ae\u201d",
+        "content": " The Commission seems emphatically averse to upheaving the territorial in- tegrity of its member states and in fact has a mandate to the contrary.'** Individuals such as the complainants have a duty under the African Charter to",
+        "features": {
+            "font_id": "76",
+            "height": 17,
+            "width": 145,
+            "top": 310,
+            "left": 108
+        }
+    },
+    {
+        "page": 229,
+        "heading": "Conclusion",
+        "content": " This chapter has analysed the main contending views on the governance structure best suited to mediating the Anglophone quest for self-determination. The government\u2019s decentralisation option has thus far been unsuccessful and",
+        "features": {
+            "font_id": "75",
+            "height": 15,
+            "width": 92,
+            "top": 232,
+            "left": 96
+        }
+    },
+    {
+        "page": 230,
+        "heading": "Decree No. 2017/013 of 23 January 2017 on the creation of the National",
+        "content": " Commission for Bilingualism and Multiculturalism.  International Crisis Group (n 1) 12.",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 476,
+            "top": 252,
+            "left": 94
+        }
+    },
+    {
+        "page": 232,
+        "heading": "ibid",
+        "content": " Law on Decentralisation, 2004, s 4, restated in RLA Code, ss 17 and 18.  See, for instance, RLA Code, s 18(2).",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 51,
+            "top": 303,
+            "left": 88
+        }
+    },
+    {
+        "page": 232,
+        "heading": "The speech is available at https://www.prc.cm/en/news/speeches-of-the-president/",
+        "content": "3777-the-head-of-state-s-message-to-the-nation-10-sept-2019.  A comprehensive list can be obtained from \u2018Office of the Prime Minister: Official Program of Consultations of the Prime Minister, Head of Government, in View of",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 483,
+            "top": 603,
+            "left": 88
+        }
+    },
+    {
+        "page": 234,
+        "heading": "Marc Weller, \u2018Settling Self-determination Conflicts: Recent Developments\u2019 (2009)",
+        "content": "20(1) European Journal of International Law 111, 140.  Weller, \u2018Settling Self-determination Conflicts\u2019 (n 140) 140. ",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 489,
+            "top": 723,
+            "left": 81
+        }
+    },
+    {
+        "page": 236,
+        "heading": "Gunme & Ors v Attorney General of the Federal Republic of Nigeria. Suit No. FHC/ABJ/CS/",
+        "content": "30/2002.  This case has been discussed extensively in Nelson Enonchong, \u2018Foreign State Assistance in Enforcing the Right to Self-determination under the African Charter\u2019",
+        "features": {
+            "font_id": "82",
+            "height": 13,
+            "width": 315,
+            "top": 261,
+            "left": 108
+        }
+    },
+    {
+        "page": 237,
+        "heading": "References",
+        "content": " Afoni V, \u2018Anglophone Crisis: Ghost Towns and Social Unrest Hamper Education\u2019 NO0.042, April 2018 Born Free (Magazine of the NCHRF). ",
+        "features": {
+            "font_id": "75",
+            "height": 15,
+            "width": 91,
+            "top": 304,
+            "left": 96
+        }
+    },
+    {
+        "page": 238,
+        "heading": "Managing dwersity 217",
+        "content": " Edwards B and Yilmaz S \u2018Decentralisation as a Post-Conflict Stabilisation Tool: The Case of Sierra Leone\u2019 (2016) 36 Public Administration and Development 347. ",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 17,
+            "top": 127,
+            "left": 300
+        }
+    },
+    {
+        "page": 238,
+        "heading": "International Crisis Group, \u2018Cameroon Anglophone Crisis at the Crossroads\u2019 (2 August",
+        "content": "2017, Africa Report No. 250) 9 https://d207landvip0Owj.cloudfront.net/250- cameroons-anglophone-crisis-at-the-crossroads_O.pdf accessed 24 June 2018.  Kathyola J and Job O (eds), Decentrahisation in Commonwealth Africa: Experiences from Botswana,",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 489,
+            "top": 358,
+            "left": 81
+        }
+    },
+    {
+        "page": 239,
+        "heading": "Mbuagbo O, \u2018Cameroon: Flawed Decentralisation & the Politics of Identity in the Urban",
+        "content": " Space\u2019 (2012) 12(11) Global Journal of Human Social Science, Sociology, Economics @ Political  Science 14.",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 489,
+            "top": 177,
+            "left": 96
+        }
+    },
+    {
+        "page": 242,
+        "heading": "Part I. Overview of constitutional provisions",
+        "content": " This section does not attempt to provide a detailed analysis of all the human rights provisions in the preamble. Nevertheless, a brief discussion of the justiciability of human rights and the substantive features of the constitutional provisions is",
+        "features": {
+            "font_id": "85",
+            "height": 15,
+            "width": 360,
+            "top": 394,
+            "left": 81
+        }
+    },
+    {
+        "page": 242,
+        "heading": "A. Justiciability of human rights",
+        "content": " The Constitution is clear in its preamble on its attachment to international human rights. It states that, the people of Cameroon, ",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 521,
+            "left": 81
+        }
+    },
+    {
+        "page": 243,
+        "heading": "B. Substantive features of human rights provisions",
+        "content": " I. Indivisibility of human rights  Despite the absence of a comprehensive bill of rights, the preamble to the",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 737,
+            "left": 96
+        }
+    },
+    {
+        "page": 243,
+        "heading": "I. Indivisibility of human rights",
+        "content": " Despite the absence of a comprehensive bill of rights, the preamble to the Constitution contains a number of rights in the traditional three generations of rights. Although no overt statement is made as to their indivisibility, the inclusion",
+        "features": {
+            "font_id": "89",
+            "height": 14,
+            "width": 172,
+            "top": 773,
+            "left": 96
+        }
+    },
+    {
+        "page": 244,
+        "heading": "I. The concept of \u2018duties\u2019",
+        "content": " The preamble displays further distinctiveness by adopting the concept of \u2018duties\u2019 introduced in the ACHPR.'\u00b0 In addition to the duty to protect the environment, paragraphs 22 to 24 impose such duties as the obligation to work, to pay taxes and",
+        "features": {
+            "font_id": "89",
+            "height": 14,
+            "width": 142,
+            "top": 665,
+            "left": 81
+        }
+    },
+    {
+        "page": 245,
+        "heading": "LTT, \u2018Claw-back\u2019 clauses",
+        "content": " It is also worthy to mention the lack of normative clarity in the constitutional provisions due, in particular, to the distinctive inclusion of \u2018claw-back\u2019 clauses in some of the provisions on specific human rights, akin to the approach of the",
+        "features": {
+            "font_id": "86",
+            "height": 14,
+            "width": 418,
+            "top": 296,
+            "left": 168
+        }
+    },
+    {
+        "page": 246,
+        "heading": "elements constituting the threat\u2019.\u201d\u00ae",
+        "content": " IV. Institutional protection mechanisms  Besides the need for clarity in the normative provisions of human rights, their",
+        "features": {
+            "font_id": "86",
+            "height": 14,
+            "width": 200,
+            "top": 98,
+            "left": 81
+        }
+    },
+    {
+        "page": 248,
+        "heading": "II. Mandate",
+        "content": " According to section 1(2) of the 2004 Law, the Commission shall be an independent institution for consultation, monitoring, evaluation, dialogue and concerted action in the promotion and protection of human rights. That",
+        "features": {
+            "font_id": "89",
+            "height": 14,
+            "width": 77,
+            "top": 611,
+            "left": 81
+        }
+    },
+    {
+        "page": 253,
+        "heading": "V. Prospects and challenges",
+        "content": " The Commission is an institution with potential to make significant contributions to the protection and promotion of human rights in Cameroon. Its broad mandate provides the opportunity to influence the respect for human rights. This",
+        "features": {
+            "font_id": "89",
+            "height": 14,
+            "width": 149,
+            "top": 233,
+            "left": 96
+        }
+    },
+    {
+        "page": 254,
+        "heading": "B. The Directorate for Human Rights and International Cooperation",
+        "content": " The Directorate for Human Rights and International Cooperation (DHRIC) is a department in the Ministry of Justice. It was created by a 2005 law\u00ae\u2019 re- organising the Ministry of Justice in relation to the role of the Minister of Justice",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 19,
+            "top": 359,
+            "left": 81
+        }
+    },
+    {
+        "page": 254,
+        "heading": "I, Overview of the institutional structure",
+        "content": " The Directorate consists of a Card Index and Filing Office and two sub- departments \u2014 the Sub-Directorate of Human Rights and the Sub-Directorate for International Cooperation, each headed by a sub-director. The overall head",
+        "features": {
+            "font_id": "86",
+            "height": 14,
+            "width": 17,
+            "top": 422,
+            "left": 550
+        }
+    },
+    {
+        "page": 254,
+        "heading": "II. Mandate and powers",
+        "content": " The Directorate is vested with three main supervisory duties\u201d\u2019:  \u2014 To follow up human rights concerns, the prevention of torture and other",
+        "features": {
+            "font_id": "89",
+            "height": 14,
+            "width": 135,
+            "top": 647,
+            "left": 81
+        }
+    },
+    {
+        "page": 255,
+        "heading": "III, Assessment of its role in the protection and promotion of human rights",
+        "content": " One major area where the DHRIC has made a significant contribution to human rights is through the publication of the annual human rights reports. These reports provide the government\u2019s perspective on the state of human",
+        "features": {
+            "font_id": "89",
+            "height": 14,
+            "width": 394,
+            "top": 557,
+            "left": 96
+        }
+    },
+    {
+        "page": 257,
+        "heading": "Conclusion",
+        "content": " The protection of human rights and fundamental freedoms remains a challenge in Cameroon. The constitution purports to respect and provide for these rights, indicating a certain commitment to their fulfilment. The mechanisms",
+        "features": {
+            "font_id": "85",
+            "height": 15,
+            "width": 92,
+            "top": 340,
+            "left": 96
+        }
+    },
+    {
+        "page": 257,
+        "heading": "Notes",
+        "content": " 1 Law No. 90/052 on the Freedom of Social Communication (FSC); Law No. 90/053 on Freedom of Association; Law No. 90/055 on Public Meetings and Processions; Law No. 90/056 on Political Parties, all promulgated on 19 December 1990.",
+        "features": {
+            "font_id": "85",
+            "height": 15,
+            "width": 54,
+            "top": 772,
+            "left": 96
+        }
+    },
+    {
+        "page": 258,
+        "heading": "See, for instance, Freedom House, \u2018Freedom in the World 2019: Gameroon Country Report\u2019 https://freedomhouse.org/report/freedom-world/2019/cameroon accessed",
+        "content": "10 September 2019; US Department of State, \u20182018 Country Reports on Human Rights Practices: Gameroon\u2019 (13 March 2019) https://www.state.gov/wp-content/ uploads/2019/03/Cameroon-2018.pdf accessed 10 September 2019. ",
+        "features": {
+            "font_id": "90",
+            "height": 12,
+            "width": 469,
+            "top": 96,
+            "left": 101
+        }
+    },
+    {
+        "page": 260,
+        "heading": "Paris Principles, para A(2). See also, Commonwealth Best Practice, chapter II, section",
+        "content": "3.1 at para 1.  Commonwealth Best Practice 19. ",
+        "features": {
+            "font_id": "90",
+            "height": 12,
+            "width": 489,
+            "top": 246,
+            "left": 81
+        }
+    },
+    {
+        "page": 261,
+        "heading": "References",
+        "content": " Afoni V, \u2018Situation in the North West and South West Regions: An Overview of the Crisis\u2019 NO.042, April 2018 Born Free (Magazine of the NCHRF). ",
+        "features": {
+            "font_id": "85",
+            "height": 15,
+            "width": 91,
+            "top": 664,
+            "left": 96
+        }
+    },
+    {
+        "page": 262,
+        "heading": "Human Rights Watch, \u2018Government Human Rights Commissions in Africa-Activities\u2019 (2001) http://www.hrw.org/reports/2001/africa/cameroon/cameroon?2.html accessed",
+        "content": "20 June 2019.  Human Rights Watch, \u2018Cameroon: Separatist Leaders Appeal Conviction \u2014 Grave Questions about Fairness of Trial\u2019 (3 September 2019) https://www.hrw.org/news/2019/09/03/",
+        "features": {
+            "font_id": "90",
+            "height": 12,
+            "width": 489,
+            "top": 213,
+            "left": 81
+        }
+    },
+    {
+        "page": 265,
+        "heading": "Constitutional engineering",
+        "content": " Pursuant to the preceding argument, a pertinent issue to consider is the method of constitutional engineering. The process of making a new constitution has great ",
+        "features": {
+            "font_id": "95",
+            "height": 15,
+            "width": 215,
+            "top": 826,
+            "left": 96
+        }
+    },
+    {
+        "page": 266,
+        "heading": "Notes",
+        "content": " 1 See Rose Macharia and Yash Ghai, \u201cThe Role of Participation in the Two Kenyan Constitution Building Processes of 2000-2005 and 2010\u2019 in Tania Abbiate, Markus Bockenforde and Veronica Federico (eds) Public Participation in African Constitutionalism",
+        "features": {
+            "font_id": "95",
+            "height": 15,
+            "width": 54,
+            "top": 610,
+            "left": 81
+        }
+    },
+    {
+        "page": 267,
+        "heading": "References",
+        "content": " Abbiate T, Bockenforde M and Federico F (eds), Public Participation in African Constitutionalism (Routledge 2018). ",
+        "features": {
+            "font_id": "95",
+            "height": 15,
+            "width": 91,
+            "top": 199,
+            "left": 96
+        }
+    },
+    {
+        "page": 268,
+        "heading": "Index",
+        "content": " 1996 Constitution; see Constitution of 1996 (current constitution) ",
+        "features": {
+            "font_id": "99",
+            "height": 19,
+            "width": 94,
+            "top": 90,
+            "left": 81
+        }
+    }
+]

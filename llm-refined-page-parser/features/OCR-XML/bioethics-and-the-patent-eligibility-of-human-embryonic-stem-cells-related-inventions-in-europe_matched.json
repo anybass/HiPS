@@ -1,0 +1,866 @@
+[
+    {
+        "page": 1,
+        "heading": "MIPLC Studies 22",
+        "content": " Bioethics and the Patent Eligibility of Human Embryonic Stem ",
+        "features": {
+            "font_id": "0",
+            "height": 22,
+            "width": 138,
+            "top": 40,
+            "left": 40
+        }
+    },
+    {
+        "page": 1,
+        "heading": "Bioethics and the Patent Eligibility of Human Embryonic Stem",
+        "content": " Cells-Related Inventions in Europe  Property Washington DC",
+        "features": {
+            "font_id": "1",
+            "height": 36,
+            "width": 551,
+            "top": 172,
+            "left": 38
+        }
+    },
+    {
+        "page": 1,
+        "heading": "Cells-Related Inventions in Europe",
+        "content": " Property Washington DC Law Center ",
+        "features": {
+            "font_id": "1",
+            "height": 36,
+            "width": 530,
+            "top": 256,
+            "left": 38
+        }
+    },
+    {
+        "page": 3,
+        "heading": "e \u2014____. UND UNA THE GEORGE WASHINGTON",
+        "content": " Universitat TECHNISCHE UNIVERSITY  Augsburg UNIVERSITAT = =\u2014\u00a7 \u2014\u2014\u2014______",
+        "features": {
+            "font_id": "4",
+            "height": 18,
+            "width": 105,
+            "top": 481,
+            "left": 155
+        }
+    },
+    {
+        "page": 4,
+        "heading": "Bioethics and the Patent Eligibility of Human Embryonic Stem Cells-Related Inventions in Europe",
+        "content": " Munich Augsburg  N @] m OSs MIPLC Intellectual Miinchen",
+        "features": {
+            "font_id": "6",
+            "height": 31,
+            "width": 444,
+            "top": 225,
+            "left": 117
+        }
+    },
+    {
+        "page": 5,
+        "heading": "ISBN: | HB (Nomos) 978-3-8487-1471-1",
+        "content": " British Library Cataloguing-in-Publication Data A catalogue record for this book is available from the British Library. ",
+        "features": {
+            "font_id": "8",
+            "height": 13,
+            "width": 35,
+            "top": 361,
+            "left": 142
+        }
+    },
+    {
+        "page": 8,
+        "heading": "Introduction",
+        "content": " Background to the Science  A. What Are Stem Cells?",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 78,
+            "top": 378,
+            "left": 232
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Il. Background to the Science",
+        "content": " A. What Are Stem Cells?  Stem cells are the \u201cbody\u2019s natural reservoir.\u201d4 They have the capacity of self-",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 193,
+            "top": 248,
+            "left": 223
+        }
+    },
+    {
+        "page": 14,
+        "heading": "A. What Are Stem Cells?",
+        "content": " Stem cells are the \u201cbody\u2019s natural reservoir.\u201d4 They have the capacity of self- renewal or differentiation. In other words, they can copy themselves or be- come other specialized cell types.(Annex IT) For instance, blood and muscle",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 139,
+            "top": 340,
+            "left": 220
+        }
+    },
+    {
+        "page": 14,
+        "heading": "B. Source of stem cells",
+        "content": " There are three types of human stem cells known so far with regard to their sources. These are adult stem cells, ESCs and iPSCs.\u00b0 ",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 126,
+            "top": 644,
+            "left": 220
+        }
+    },
+    {
+        "page": 15,
+        "heading": "II. Background to the Science",
+        "content": " 1. Adult Stem Cells  The first isolation of blood-forming adult stem cells was accomplished by",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 160,
+            "top": 208,
+            "left": 223
+        }
+    },
+    {
+        "page": 15,
+        "heading": "1. Adult Stem Cells",
+        "content": " The first isolation of blood-forming adult stem cells was accomplished by Irving Weismann of Stanford University.\u2019 Adult stem cells should not be confused because of the use of the term \u2018adult\u2019 to create a false impression",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 109,
+            "top": 248,
+            "left": 244
+        }
+    },
+    {
+        "page": 15,
+        "heading": "2. ESCs",
+        "content": " With regard to the history of the research in this field, ESCs were derived for the first time in 1970 by Leroy Stevens at the Jackson Laboratory. Also ",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 35,
+            "top": 801,
+            "left": 244
+        }
+    },
+    {
+        "page": 16,
+        "heading": "3. iPSCs",
+        "content": " In a fervent research environment dealing with stem cells, some exciting developments continue to occur. In 2006, Dr. Yamanaka and Takahashi showed that a regular cell being with a particular purpose which is not",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 39,
+            "top": 572,
+            "left": 218
+        }
+    },
+    {
+        "page": 18,
+        "heading": "III. Legal Provisions Applicable to the Patent Eligibility of hESC-Related Inventions",
+        "content": " A, EPC  The EPC\u201d governs a centralized examination procedure which results in the",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 397,
+            "top": 248,
+            "left": 229
+        }
+    },
+    {
+        "page": 18,
+        "heading": "A, EPC",
+        "content": " The EPC\u201d governs a centralized examination procedure which results in the grant of a bundle of national patents. At the very beginning, this procedure starts with the assessment whether an invention is patent eligible. This is the",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 30,
+            "top": 363,
+            "left": 220
+        }
+    },
+    {
+        "page": 19,
+        "heading": "B. TRIPs",
+        "content": " Art. 27 of TRIPs\u201d? draws the contours of the patentable subject-matter. This article is significant because its first paragraph points out that patents should be available for all inventions \u201cwithout discrimination as to the place of",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 39,
+            "top": 247,
+            "left": 245
+        }
+    },
+    {
+        "page": 22,
+        "heading": "IV. Ethics and Stem Cell Related Patents",
+        "content": " A. Ethics and Patent Law  The issue of morality based exclusion to the patent law is discussed under",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 267,
+            "top": 248,
+            "left": 230
+        }
+    },
+    {
+        "page": 22,
+        "heading": "A. Ethics and Patent Law",
+        "content": " The issue of morality based exclusion to the patent law is discussed under the term ethics as well. In the framework of this research, the interchangeable use of concepts \u2018morals\u2019 and \u2018ethics\u2019 would not create any ambiguity to",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 143,
+            "top": 340,
+            "left": 220
+        }
+    },
+    {
+        "page": 23,
+        "heading": "1. Patent Law Isolated from Morality Based Provisions? A Look into the Legislative Discretion",
+        "content": " First, let us take a brief look into the history. As we learn from Karet, the first patent legislation dealing with morality was the French Patent Law 1844.39 According to its Article 30 para.4, all patents would be void if they",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 443,
+            "top": 419,
+            "left": 244
+        }
+    },
+    {
+        "page": 26,
+        "heading": "a) A Closer Look at the EPC",
+        "content": " The main provision related to the morality is the Art. 53(a) of the EPC. Ac- cording to it, the commercial exploitation of inventions which is in contro- ",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 165,
+            "top": 820,
+            "left": 218
+        }
+    },
+    {
+        "page": 29,
+        "heading": "b) Specific Examples of Immorality in the Biotech Directive",
+        "content": " As mentioned earlier, the legislator in the Biotech Directive followed the path of the EPC by including morality based provisions. As evidenced from the discussion occurred in the European Commission and Parliament, the",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 364,
+            "top": 381,
+            "left": 245
+        }
+    },
+    {
+        "page": 31,
+        "heading": "1. Moral Status of Human Embryos and Its Implications for the hESC Research",
+        "content": " The ardent discussion on the moral status of the human embryo could be summarised under two opposing approaches: the biological humanity view and the person view.\u20192 Under the former, human life begins at conception",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 424,
+            "top": 419,
+            "left": 244
+        }
+    },
+    {
+        "page": 32,
+        "heading": "a) Debate on whether Human Embryo Has Human Dignity",
+        "content": " As far as the idea of human dignity is concerned, the reference can be made to the German philosopher Immanuel Kant, who contributed to the devel- opment of the human dignity view in the western philosophy. By doing so,",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 355,
+            "top": 248,
+            "left": 218
+        }
+    },
+    {
+        "page": 33,
+        "heading": "b) Double-Edged Sword: A Need of Compromise Considering Different Methods of Obtaining hESCs",
+        "content": " Before ardently defending any of the previously stated views, one must be aware of the fact that both sets of arguments make a double-edged sword, mainly, due to weaknesses they present. Neither of them would help reduce",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 439,
+            "top": 476,
+            "left": 245
+        }
+    },
+    {
+        "page": 33,
+        "heading": "(1) Research on Embryos Within 14 days After Fertilisation",
+        "content": " In the biological conception itself, there is a slightly divergent view that the human organism appears after 14 days after fertilisation. We learn from the reference made to R.M Green by Steinbock*\u00ae that the early embryo is not an",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 356,
+            "top": 723,
+            "left": 250
+        }
+    },
+    {
+        "page": 34,
+        "heading": "(2) Research with Supernumerous Embryos",
+        "content": " According to another argument, an embryo deserves protection as it develops and becomes more human-like. Put in another way, a human being does not have the same moral status at all stages of its life. Unlike the restriction of",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 253,
+            "top": 361,
+            "left": 225
+        }
+    },
+    {
+        "page": 35,
+        "heading": "(3) Research with Embryos from SCNT",
+        "content": " Ethical debate becomes more important in regard to the method used in the SCNT technology. This technique to create human embryos for the purpose of research and their subsequent destruction makes the compromise more",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 229,
+            "top": 419,
+            "left": 250
+        }
+    },
+    {
+        "page": 36,
+        "heading": "V. The Panorama in Europe",
+        "content": " There is no place for speculation in the law and one should defend her ar- gument based on strong justification. The previous chapter represented the blurred situation constituted of a wide array of views regarding the",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 179,
+            "top": 248,
+            "left": 224
+        }
+    },
+    {
+        "page": 37,
+        "heading": "2. The Patent Eligibility of hESC-related Inventions",
+        "content": " The patent eligibility of hESC-related inventions is the most controversial issue. Since hESCs do not have the potential to develop into the human body, it is not possible to consider them within the framework related to em-",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 17,
+            "top": 343,
+            "left": 678
+        }
+    },
+    {
+        "page": 38,
+        "heading": "a) The Destruction of Human Embryos for hESCs",
+        "content": " The most relevant provision related to the patentability of hESCs obtained by the destruction of human embryos is possibly Art. 6(2)(c) of the Biotech Directive. This is an example of a provision that EU Member States have no",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 299,
+            "top": 248,
+            "left": 218
+        }
+    },
+    {
+        "page": 40,
+        "heading": "b) The Creation of Human Embryos for hESCs",
+        "content": " As mentioned previously\u2019, the morality concern is tried to be overcome usually by the use of frozen blastocysts from the IVF treatment. These em- bryos are no more capable to develop into a human body. Here, the moral",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 280,
+            "top": 323,
+            "left": 219
+        }
+    },
+    {
+        "page": 41,
+        "heading": "B. Application of the EPC 1. Lack of Uniform Moral Standard",
+        "content": " The diversity and the relativity of the morality conception among different States are previously mentioned.!\u00b0 But when it comes to the EPC, the leg- islator\u2019s intent could possibly be the creation of a uniform European morality",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 147,
+            "top": 361,
+            "left": 245
+        }
+    },
+    {
+        "page": 42,
+        "heading": "B. Application of the EPC",
+        "content": " States. !\u00b0 In that context, the suitable approach to be taken by the EPO should be that inventions in conformity with the morality of, at least, one Contract- ing State get the patent protection.! It ia also possible to bring some vari-",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 141,
+            "top": 208,
+            "left": 529
+        }
+    },
+    {
+        "page": 43,
+        "heading": "2. Attempts to Create a Uniform Morality Standard",
+        "content": " The EPO\u2019s Examining Division\u2019s practice to grant patent protection for in- ventions is mainly based on some internal rules without binding force. These instructions called \u2018Guidelines for Examination in the European Patent Of-",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 307,
+            "top": 248,
+            "left": 244
+        }
+    },
+    {
+        "page": 48,
+        "heading": "VI. EPO\u2019s Web of Precedents",
+        "content": " A. University of Edinburgh Case  The University of Edinburgh filed a patent application on Apr.21, 1994 be-",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 187,
+            "top": 248,
+            "left": 230
+        }
+    },
+    {
+        "page": 48,
+        "heading": "A. University of Edinburgh Case",
+        "content": " The University of Edinburgh filed a patent application on Apr.21, 1994 be- fore the EPO. The patent claims refer to a method involving the \u201cuse of a selectable marker to isolate and/or enrich and/or selectively propagate an-",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 189,
+            "top": 340,
+            "left": 220
+        }
+    },
+    {
+        "page": 51,
+        "heading": "2. The Rationale",
+        "content": " In regard to the first question, the EBA stated that the implementation of the new rule has not introduced a change as to the patentability criteria. Ac- cordingly, EPC Rule 23d did not make unpatentable something which was",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 89,
+            "top": 323,
+            "left": 244
+        }
+    },
+    {
+        "page": 53,
+        "heading": "an integral part of the industrial or commercial exploitation of the claimed invention. !48",
+        "content": " I would tend to disagree with the EBA because of the erroneous deter- mination of the scope of patent protection. The process of hESC generation to form hESC cultures does not exist in claims of the patent application.",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 472,
+            "top": 248,
+            "left": 223
+        }
+    },
+    {
+        "page": 56,
+        "heading": "VII. CJEU\u2019s Briistle Judgment",
+        "content": " A. Background  Dr. Oliver Briistle, from University of Bonn, applied for a patent on Feb. 19,",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 29,
+            "top": 248,
+            "left": 198
+        }
+    },
+    {
+        "page": 56,
+        "heading": "A. Background",
+        "content": " Dr. Oliver Briistle, from University of Bonn, applied for a patent on Feb. 19, 1997. The German Patent Office issued the patent on Apr. 29, 1999. The application covered a product claim and a method claim, respectively, neural",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 77,
+            "top": 340,
+            "left": 220
+        }
+    },
+    {
+        "page": 56,
+        "heading": "cells were obtained from oocytes after nuclear transfer",
+        "content": " Cam 6: Cells according to any one of claims | to 4, wherein the embryonic stem  cells obtained from embryonic germ cells",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 297,
+            "top": 701,
+            "left": 227
+        }
+    },
+    {
+        "page": 56,
+        "heading": "cells obtained from embryonic germ cells",
+        "content": " CLaiM 7: Cells according to any one of claim 1 to 6, wherein said cells are mam-  malian cells.",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 224,
+            "top": 732,
+            "left": 227
+        }
+    },
+    {
+        "page": 58,
+        "heading": "B. The Rationale",
+        "content": " B. The Rationale  The CJEU made its preliminary ruling regarding the questions referred by",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 91,
+            "top": 208,
+            "left": 579
+        }
+    },
+    {
+        "page": 63,
+        "heading": "C. Comparison of WARF and Briistle Cases",
+        "content": " Since the EU is not a contracting party to the EPC, the EBA and the CJEU are not bound with the decision of each other, but it is possible that one inspire the other. Although the CJEU has reached similar conclusion with",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 42,
+            "top": 533,
+            "left": 281
+        }
+    },
+    {
+        "page": 67,
+        "heading": "E. Implications of the CJEU\u2019s Judgment to the Future of hESC-Related Inventions",
+        "content": " The CJEU\u2019s interpretation of the Biotech Directive is binding for the EU Member States. Below, we refer to the situation in different jurisdictions with the latest developments in Germany, in the U.K. and at the EPO.",
+        "features": {
+            "font_id": "12",
+            "height": 21,
+            "width": 379,
+            "top": 247,
+            "left": 245
+        }
+    },
+    {
+        "page": 67,
+        "heading": "1. Germany",
+        "content": " Approximately one year after the CJEU\u2019s decision, the referring court, namely the BGH rendered its final decision about the validity of the Briistle patent.2\u00b04 The Court in its judgment stated that in case the technical teaching",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 59,
+            "top": 399,
+            "left": 244
+        }
+    },
+    {
+        "page": 68,
+        "heading": "E. Implications of the CJEU\u2019s Judgment to the Future of hESC-Related Inventions",
+        "content": " The BGH made also some statements about the definition of the \u2018embryo\u2019. The criteria that the BGH pointed out was the \u201ccommenc[ing] the process of development of a human being.\u2019\u201d2!2. If this development process of em-",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 445,
+            "top": 208,
+            "left": 224
+        }
+    },
+    {
+        "page": 71,
+        "heading": "3. The EPO",
+        "content": " What the possible reaction of the EPO after this case would be more impor- tant. After its WARF decision, the attitude of the EPO was to grant patents for hESC-related inventions with a filing date after May 2003 if they fulfill",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 58,
+            "top": 361,
+            "left": 244
+        }
+    },
+    {
+        "page": 73,
+        "heading": "VII. Conclusion",
+        "content": " This research demonstrated some possible ways to approach the hESC-re- lated inventions. However, to solve the polarization and to reach \u2018the middle- of-the road\u2019 position is nota straightforward task. Because current provisions",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 82,
+            "top": 248,
+            "left": 267
+        }
+    },
+    {
+        "page": 74,
+        "heading": "outlined in the Horizon 2020 program, which is on the agenda of the EU.242",
+        "content": " To conclude, patent law should preserve its incentivizing role of seminal technology, especially, considering the continuous improvement in the field.243 Therefore the boundaries of exclusionary provisions of patent law",
+        "features": {
+            "font_id": "11",
+            "height": 21,
+            "width": 472,
+            "top": 248,
+            "left": 198
+        }
+    },
+    {
+        "page": 76,
+        "heading": "inner cell mass",
+        "content": " The development cycle until the birth. ",
+        "features": {
+            "font_id": "28",
+            "height": 10,
+            "width": 70,
+            "top": 578,
+            "left": 379
+        }
+    },
+    {
+        "page": 77,
+        "heading": "TWO PATH FOLLOWED BY STEM CELLS: SELF COPYING AND DIFFERENTIATION stem cell",
+        "content": " /  self copying stem cell",
+        "features": {
+            "font_id": "30",
+            "height": 10,
+            "width": 343,
+            "top": 291,
+            "left": 226
+        }
+    },
+    {
+        "page": 77,
+        "heading": "self copying stem cell differentiated stem cell to specialized cell",
+        "content": " \u00a9EuroStem Cell: Europes\u2019s stem cell hub www.eurostemcell.org Use with permission",
+        "features": {
+            "font_id": "28",
+            "height": 10,
+            "width": 43,
+            "top": 317,
+            "left": 325
+        }
+    },
+    {
+        "page": 78,
+        "heading": "ANNEX III",
+        "content": " EMBRYONIC STEM CELL EXTRACTION AND THEIR DIFFERENTIATION  Nutrition materials for cells",
+        "features": {
+            "font_id": "26",
+            "height": 12,
+            "width": 68,
+            "top": 251,
+            "left": 200
+        }
+    },
+    {
+        "page": 79,
+        "heading": "blood stem cell is found in bone marrow",
+        "content": " \u2014\u2014\u2014\u2014_  \u00a9EuroStem Cell: Europes\u2019s stem cell hub",
+        "features": {
+            "font_id": "28",
+            "height": 10,
+            "width": 71,
+            "top": 414,
+            "left": 226
+        }
+    },
+    {
+        "page": 80,
+        "heading": "ANNEX V",
+        "content": " SOMATIC CELL NUCLEAR TRANSFER (SCNT)  hESCs from nuclear transfer",
+        "features": {
+            "font_id": "26",
+            "height": 12,
+            "width": 63,
+            "top": 251,
+            "left": 200
+        }
+    },
+    {
+        "page": 80,
+        "heading": "\u00a9 R.Gambari&A.Finotti, Bioethics and Freedom of Scientific Research in Gene",
+        "content": " Therapy and Stem Cell Biology, in Biotech Innovation and Fundemental Rights (Bin R.  et al. eds, Springer-Verlag Italia 2012)",
+        "features": {
+            "font_id": "30",
+            "height": 10,
+            "width": 383,
+            "top": 614,
+            "left": 200
+        }
+    },
+    {
+        "page": 81,
+        "heading": "INDUCED PLURIPOTENT STEM CELLS (iPSCs)",
+        "content": " \u2018genetic reprogramming\u2019 = add certain genes to the cell ",
+        "features": {
+            "font_id": "30",
+            "height": 10,
+            "width": 252,
+            "top": 291,
+            "left": 226
+        }
+    },
+    {
+        "page": 81,
+        "heading": "\u2018genetic reprogramming\u2019 = add certain genes to the cell",
+        "content": " > \u00a9 induced pluripotent stem (iPS) cell behaves like an embryonic stem cell",
+        "features": {
+            "font_id": "42",
+            "height": 11,
+            "width": 131,
+            "top": 321,
+            "left": 370
+        }
+    },
+    {
+        "page": 82,
+        "heading": "List of Works Cited",
+        "content": " Articles  Annas, George J., A French Homunculus in a Tennessee Court, 19 The Hastincs CEn-",
+        "features": {
+            "font_id": "10",
+            "height": 24,
+            "width": 143,
+            "top": 248,
+            "left": 198
+        }
+    },
+    {
+        "page": 82,
+        "heading": "Articles",
+        "content": " Annas, George J., A French Homunculus in a Tennessee Court, 19 The Hastincs CEn- TER Rep. 20, 22 (1989) available at http://www.jstor.org/stable/3561982 (last visited 11.8.2012)",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 42,
+            "top": 288,
+            "left": 198
+        }
+    },
+    {
+        "page": 82,
+        "heading": "Bonadio, Enrico, Biotech Patents Morality After Briistle, 7 EUROPEAN INTELLECTUAL Property Review [E.I.P.R] 441 (2012)",
+        "content": " Burley, Justine, An Abstract Approach to the Regulation of Human Genetics: Law, morality and Social Policy in THE REGULATORY CHALLENGE OF BIOTECHNOLOGY, BIOTECHNOLOGY REGULATION SERIES 86 (Han Somsen ed., Edward Elgar Publishing",
+        "features": {
+            "font_id": "15",
+            "height": 18,
+            "width": 13,
+            "top": 314,
+            "left": 641
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Nielsen, T.Hviid, What Happened to the Stem Cells?, 34 J. Mep. Etuics 852, 853 (2008)",
+        "content": " Oduncu, Fuat S., Stem Cell Research in Germany: Ethics of Healing vs. Human Digni- ty, Meb., HEALTH CARE AND Putt. 5, 12 (2003) ",
+        "features": {
+            "font_id": "15",
+            "height": 18,
+            "width": 10,
+            "top": 314,
+            "left": 686
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Shevde, Nirupama, Flexible Friends, 483 NATuRE, S23 (2012)",
+        "content": " Solanki, Gurpreet, Preliminary Ruling of the Court of Justice of the European Union in Oliver Briistle v. Greenpeace e.V: Impacts on Patenting of Human Embryonic Stem Cells in Europe, 2 Biotecu. L. Rep. 135, (2012)",
+        "features": {
+            "font_id": "15",
+            "height": 18,
+            "width": 10,
+            "top": 314,
+            "left": 686
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Straus, Joseph, Patenting Human Genes and Living Organisms \u2014 The Legal Situation in",
+        "content": " Europe, in PATENTING of HuMAN Genes and Livinc Orcanisms (F. Vogel & R.Grun- wald, eds. Springer 1994) ",
+        "features": {
+            "font_id": "17",
+            "height": 12,
+            "width": 29,
+            "top": 318,
+            "left": 616
+        }
+    },
+    {
+        "page": 84,
+        "heading": "Straus, Joseph, Biotechnology and Patents, 54 Cuimia 294 (2000)",
+        "content": " Straus, Joseph Intellectual Property Rights: Ethical Aspects, 11 INTERNATIONAL ENCyY- CLOPEDIA OF THE SOCIAL& BEHAVIORAL SCIENCES, 7621 (Neil J.Smelser&Paul B.Baltes eds, Elsevier, 2001)",
+        "features": {
+            "font_id": "15",
+            "height": 18,
+            "width": 84,
+            "top": 248,
+            "left": 198
+        }
+    },
+    {
+        "page": 84,
+        "heading": "Monographies",
+        "content": " Budinger, Thomas F. & Budinger, Miriam D., Ethics of Emerging Technologies, 342 (John Wiley&Sons, 2006) ",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 79,
+            "top": 710,
+            "left": 198
+        }
+    },
+    {
+        "page": 84,
+        "heading": "Budinger, Thomas F. & Budinger, Miriam D., Ethics of Emerging Technologies, 342 (John Wiley&Sons, 2006)",
+        "content": " Cornish, W.et al., Intellectual Property: Patents, Copyright, Trade Marks and Allied Rights 21-24 at 946 (Sweet&Maxvell,7.ed, 2010) (1981) ",
+        "features": {
+            "font_id": "15",
+            "height": 18,
+            "width": 13,
+            "top": 267,
+            "left": 634
+        }
+    },
+    {
+        "page": 85,
+        "heading": "International Treaties",
+        "content": " Agreement on Trade Related Aspects of Intellectual Property, Apr. 15, 1994 Convention on the Grant of European Patents ratified, Oct. 5, 1973, revised Dec.13, 2007 ",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 119,
+            "top": 248,
+            "left": 223
+        }
+    },
+    {
+        "page": 87,
+        "heading": "The Oxford English Dictionary 421 (2nd ed. 1989)",
+        "content": " MIPLC Class Materials  Prof. Joseph Straus, Protection of Biotechnological Inventions (June 5-6, 2012), (unpus-",
+        "features": {
+            "font_id": "15",
+            "height": 18,
+            "width": 275,
+            "top": 273,
+            "left": 223
+        }
+    },
+    {
+        "page": 87,
+        "heading": "MIPLC Class Materials",
+        "content": " Prof. Joseph Straus, Protection of Biotechnological Inventions (June 5-6, 2012), (unpus- blished slides used in summer term class of the Munich Intellectual Property Law Center)",
+        "features": {
+            "font_id": "14",
+            "height": 18,
+            "width": 130,
+            "top": 307,
+            "left": 223
+        }
+    }
+]

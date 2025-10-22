@@ -1,0 +1,2882 @@
+[
+    {
+        "page": 2,
+        "heading": "Series Editor",
+        "content": " David Freestone  This series publishes work on all aspects of the international legal",
+        "features": {
+            "font_id": "2",
+            "height": 18,
+            "width": 91,
+            "top": 255,
+            "left": 423
+        }
+    },
+    {
+        "page": 2,
+        "heading": "David Freestone",
+        "content": " This series publishes work on all aspects of the international legal dimensions of the concept of sustainable development. Its aim is to publish important works of scholarship on a range",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 121,
+            "top": 302,
+            "left": 408
+        }
+    },
+    {
+        "page": 2,
+        "heading": "VOLUME 23",
+        "content": " The titles published in this series are listed at brill.com/lasd ",
+        "features": {
+            "font_id": "3",
+            "height": 20,
+            "width": 97,
+            "top": 589,
+            "left": 420
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Climate Change and International Shipping",
+        "content": " The Regulatory Framework for the Reduction of  Greenhouse Gas Emissions",
+        "features": {
+            "font_id": "1",
+            "height": 39,
+            "width": 358,
+            "top": 95,
+            "left": 278
+        }
+    },
+    {
+        "page": 4,
+        "heading": "Library of Congress Cataloging-in-Publication Data",
+        "content": " Names: Shi, Yubing, author.  Title: Climate change and international shipping : the regulatory framework",
+        "features": {
+            "font_id": "8",
+            "height": 15,
+            "width": 313,
+            "top": 362,
+            "left": 123
+        }
+    },
+    {
+        "page": 4,
+        "heading": "Classification: LCC K3593.5.C37 $449 2017 (print) | LCC K3593.5.C37 (ebook) | DDC 344.05/738746\u2014dc23",
+        "content": " Lc record available at https://lccn.loc.gov/2016036874  Typeface for the Latin, Greek, and Cyrillic scripts: \u201cBrill\u201d. See and download: brill.com/brill-typeface.",
+        "features": {
+            "font_id": "6",
+            "height": 15,
+            "width": 53,
+            "top": 813,
+            "left": 273
+        }
+    },
+    {
+        "page": 4,
+        "heading": "Lc record available at https://lccn.loc.gov/2016036874",
+        "content": " Typeface for the Latin, Greek, and Cyrillic scripts: \u201cBrill\u201d. See and download: brill.com/brill-typeface.  ISSN 1875-0923",
+        "features": {
+            "font_id": "8",
+            "height": 15,
+            "width": 331,
+            "top": 695,
+            "left": 123
+        }
+    },
+    {
+        "page": 4,
+        "heading": "ISSN 1875-0923 ISBN 978-90-04-32930-0 (hardback) ISBN 978-90-04-32931-7 (e-book)",
+        "content": " Copyright 2017 by Yubing Shi. Published by Koninklijke Brill Nv, Leiden, The Netherlands. Koninklijke Brill Nv incorporates the imprints Brill, Brill Nijhoff, Brill Hotei, Brill Schoningh, Brill Fink, Brill mentis, Vandenhoeck & Ruprecht, Bohlau, V&R unipress and Wageningen Academic.",
+        "features": {
+            "font_id": "7",
+            "height": 22,
+            "width": 102,
+            "top": 769,
+            "left": 123
+        }
+    },
+    {
+        "page": 5,
+        "heading": "Contents",
+        "content": " Foreword 1x  Series Editor Preface x",
+        "features": {
+            "font_id": "9",
+            "height": 26,
+            "width": 103,
+            "top": 105,
+            "left": 158
+        }
+    },
+    {
+        "page": 7,
+        "heading": "7:7",
+        "content": " Institutional Fragmentation, Imbalance of Interests, and Proposed Reforms 410 Conclusion 421",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 169,
+            "top": 158,
+            "left": 178
+        }
+    },
+    {
+        "page": 7,
+        "heading": "8.4",
+        "content": " Introduction 423  Applicable International Environmental Law Principles 423",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 391,
+            "top": 326,
+            "left": 178
+        }
+    },
+    {
+        "page": 7,
+        "heading": "Introduction 423",
+        "content": " Applicable International Environmental Law Principles 423 Findings on Main Stakeholders in GHG Emissions from International Shipping 426",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 182,
+            "top": 230,
+            "left": 178
+        }
+    },
+    {
+        "page": 9,
+        "heading": "Foreword",
+        "content": " The process to regulate the reduction of greenhouse gas (GHG) emissions from international shipping is comprehensive and controversial. It involves politi- cal, historical, economic and technical considerations and cuts across interna-",
+        "features": {
+            "font_id": "9",
+            "height": 26,
+            "width": 108,
+            "top": 105,
+            "left": 158
+        }
+    },
+    {
+        "page": 10,
+        "heading": "Series Editor Preface",
+        "content": " This is the twenty-third volume in the Brill Nijhoff series on Legal Aspects of Sustainable Development published under my General Editorship. The aim of this series is to publish works at the cutting edge of legal scholarship that",
+        "features": {
+            "font_id": "9",
+            "height": 26,
+            "width": 233,
+            "top": 105,
+            "left": 178
+        }
+    },
+    {
+        "page": 11,
+        "heading": "Acknowledgements",
+        "content": " This book is substantially based on my doctoral thesis conducted at the Australian National Centre for Ocean Resources and Security (ANCORS), University of Wollongong, Australia. Through this process I was lucky to have",
+        "features": {
+            "font_id": "9",
+            "height": 26,
+            "width": 228,
+            "top": 104,
+            "left": 158
+        }
+    },
+    {
+        "page": 12,
+        "heading": "6.1 7.1",
+        "content": " 7:3  Global anthropogenic GHG emissions 9",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 22,
+            "top": 470,
+            "left": 178
+        }
+    },
+    {
+        "page": 19,
+        "heading": "Introduction",
+        "content": " Climate change has been discussed broadly around the world and is recognised as a factor contributing to all global issues.! As an environmental, cultural and political phenomenon, climate change has been reshaping the way that people",
+        "features": {
+            "font_id": "14",
+            "height": 19,
+            "width": 146,
+            "top": 153,
+            "left": 158
+        }
+    },
+    {
+        "page": 21,
+        "heading": "INTRODUCTION 3",
+        "content": " Organization (IMO) have responded to this imperative and have commenced development of a regulatory framework. ",
+        "features": {
+            "font_id": "18",
+            "height": 18,
+            "width": 12,
+            "top": 62,
+            "left": 728
+        }
+    },
+    {
+        "page": 22,
+        "heading": "11 Greenhouse Gas Emissions as a Regulatory Challenge",
+        "content": " In a broad sense, GHGs consist of natural gases and anthropogenically pro- duced gases. The former comprises water vapour (H20), carbon dioxide (C03), nitrous oxide (N,0), methane (CH,) and ozone (03), and the latter includes the",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 20,
+            "top": 231,
+            "left": 178
+        }
+    },
+    {
+        "page": 23,
+        "heading": "11.1. Greenhouse Gas Emissions and Climate Change",
+        "content": " Excessive GHG emissions have been regarded as the main contribution to global climate change. However, this view has not been agreed by all. This section briefly reviews the debate on climate change and examines how GHG",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 27,
+            "top": 207,
+            "left": 158
+        }
+    },
+    {
+        "page": 23,
+        "heading": "L111 An Overview of Climate Change",
+        "content": " Technically, climate change refers to \u2018a change in the state of the climate that can be identified by changes in the mean and/or the variability of its prop- erties, and that persists for an extended period, typically decades or longer\u2019,",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 27,
+            "top": 207,
+            "left": 158
+        }
+    },
+    {
+        "page": 27,
+        "heading": "FIGURE 1.1 Global anthropogenic GHG emissions.*\u00ae",
+        "content": " 1.1.2 Transboundary Nature of Greenhouse Gas Emissions  As far as climate change is concerned, oceans have been treated \u2018both as vic-",
+        "features": {
+            "font_id": "19",
+            "height": 15,
+            "width": 67,
+            "top": 401,
+            "left": 158
+        }
+    },
+    {
+        "page": 27,
+        "heading": "1.1.2 Transboundary Nature of Greenhouse Gas Emissions",
+        "content": " As far as climate change is concerned, oceans have been treated \u2018both as vic- tims of the problem and as part of the solution.\u20194\u201d On the positive side, the oceans can transfer the heat between surface waters of the ocean and the lower",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 29,
+            "top": 471,
+            "left": 158
+        }
+    },
+    {
+        "page": 32,
+        "heading": "1.2 Contribution of International Shipping to Greenhouse Gas Emissions",
+        "content": " The contribution of GHG emissions to climate change has been underpinned by increasing scientific observations and analyses, and there has also been mounting evidence that international shipping contributes to GHG emis-",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 23,
+            "top": 207,
+            "left": 178
+        }
+    },
+    {
+        "page": 32,
+        "heading": "1.2.1. Introduction to International Shipping",
+        "content": " International shipping has been defined by the IMO as \u2018shipping between ports of different countries, as opposed to domestic shipping\u2019,\u00ae\u00ae and excludes mili- tary and fishing vessels engaged on such voyages. For the purpose of this book,",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 23,
+            "top": 207,
+            "left": 178
+        }
+    },
+    {
+        "page": 35,
+        "heading": "TABLE 1.1 Definitions of the ship categories that have been used in the emissions inventory\u00ae\u00ae",
+        "content": " Ship Type Sub-type of Ships and their Definitions Cargo Ships Crude Carriers: include tankers which are intended for carrying crude oil.",
+        "features": {
+            "font_id": "19",
+            "height": 15,
+            "width": 59,
+            "top": 113,
+            "left": 158
+        }
+    },
+    {
+        "page": 36,
+        "heading": "Ship Type Sub-type of Ships and their Definitions",
+        "content": " Other Ferries: carry cars and passengers on regular schedules. This also  includes overnight ferries.",
+        "features": {
+            "font_id": "23",
+            "height": 15,
+            "width": 62,
+            "top": 161,
+            "left": 178
+        }
+    },
+    {
+        "page": 37,
+        "heading": "Seaborne trade and World Merchant fleet > 100 GT",
+        "content": " 800 35000 a 30000 aaa 25000 2",
+        "features": {
+            "font_id": "20",
+            "height": 15,
+            "width": 371,
+            "top": 761,
+            "left": 228
+        }
+    },
+    {
+        "page": 37,
+        "heading": "FIGURE 1.2 World seaborne trade and merchant fleet (Fearnleys Review).!\u00b03",
+        "content": " 100 Sujith Kollamthodi et al., \u2018Greenhouse Gas Emissions from Shipping: Trends, Projections and Abatement Potential: Final Report\u2019 (The Shadow Committee on Climate Change, 2008) 3. ",
+        "features": {
+            "font_id": "19",
+            "height": 15,
+            "width": 69,
+            "top": 761,
+            "left": 158
+        }
+    },
+    {
+        "page": 38,
+        "heading": "1.2.2 Greenhouse Gas Emissions from International Shipping",
+        "content": " The increase in fuel consumption associated with growing seaborne trade has led to a rise in atmospheric emissions from international shipping, which has attracted growing global attention.!\u00b0 This section examines the categories,",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 32,
+            "top": 279,
+            "left": 178
+        }
+    },
+    {
+        "page": 40,
+        "heading": "1.2.2.2 General Emissions Statistics from International Shipping",
+        "content": " The emissions from shipping, especially international shipping, have been increasing in recent years at a high rate. In 2007, CO, emissions from international shipping reached 870 million tonnes (Table 1.2), which",
+        "features": {
+            "font_id": "18",
+            "height": 18,
+            "width": 17,
+            "top": 62,
+            "left": 178
+        }
+    },
+    {
+        "page": 41,
+        "heading": "TABLE 1.2 Summary of GHG emissions from shipping * during 2007",
+        "content": " Total shipping International shipping (million tonnes) million tonnes CO, equivalent",
+        "features": {
+            "font_id": "19",
+            "height": 15,
+            "width": 61,
+            "top": 473,
+            "left": 158
+        }
+    },
+    {
+        "page": 44,
+        "heading": "1.3 Statement of the Problem",
+        "content": " The global community is experiencing rapid physical and technological changes, shaping every aspect of human life. Climate change is altering eco- systems and affecting communities around the globe. It has become one of",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 23,
+            "top": 567,
+            "left": 178
+        }
+    },
+    {
+        "page": 47,
+        "heading": "1.4 Scope of the Book and Chapter Outline",
+        "content": " This book aims to provide an analysis of international law principles relevant to the reduction of GHG emissions from international shipping, and the legal and policy responses to this issue from the key stakeholders: the UN, the IMO,",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 23,
+            "top": 207,
+            "left": 158
+        }
+    },
+    {
+        "page": 47,
+        "heading": "(4) Identifying gaps existing in the current regulatory framework; and",
+        "content": " (5) Proposing gap-filling options for improving the current regulatory frame- work for the reduction of GHG emissions from international shipping. ",
+        "features": {
+            "font_id": "18",
+            "height": 18,
+            "width": 533,
+            "top": 663,
+            "left": 158
+        }
+    },
+    {
+        "page": 48,
+        "heading": "TABLE 1.3. Book chapters and main line of argument",
+        "content": " Chapter Main line of argument  One Introduction to book topic, an overview of research",
+        "features": {
+            "font_id": "19",
+            "height": 15,
+            "width": 61,
+            "top": 593,
+            "left": 178
+        }
+    },
+    {
+        "page": 51,
+        "heading": "GHG EMISSIONS FROM INTERNATIONAL SHIPPING 33",
+        "content": " GHG emissions issue and \u2018pollution\u2019 will first be examined. Various law of the sea obligations will apply if the GHG emissions from international shipping come under the definition of \u2018pollution\u2019 in the 1982 United Nations Convention",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 17,
+            "top": 62,
+            "left": 723
+        }
+    },
+    {
+        "page": 51,
+        "heading": "2.1.1 The Concept of \u2018Pollution\u2019",
+        "content": " There is no uniform definition of \u2018pollution\u2019 in international law.? The term \u2018pollution\u2019 is used with different meanings depending on differing contexts and purposes.* For the purpose of this book, a definition of \u2018marine pollution\u2019",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 11,
+            "top": 182,
+            "left": 366
+        }
+    },
+    {
+        "page": 55,
+        "heading": "2.1.2 \u2018Pollution\u2019 and Greenhouse Gas Emissions from International Shipping",
+        "content": " As discussed in Chapter 1, GHG emissions from international shipping mainly include CO,, CH4, N20 and HFC with Co, as the most important GHG. The question of whether GHG emissions from international shipping are a type of",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 32,
+            "top": 471,
+            "left": 158
+        }
+    },
+    {
+        "page": 55,
+        "heading": "2.1.2.1 Legal Analysis of Treaty Definition of Pollution",
+        "content": " The five factors drawn from the Losc definition of pollution as discussed in the previous section can be summarised into three questions in the context of GHG emissions from international shipping. They are: (1) whether GHG",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 32,
+            "top": 471,
+            "left": 158
+        }
+    },
+    {
+        "page": 58,
+        "heading": "2.1.2.2 National Legislation on the Legal Nature of GHG Emissions",
+        "content": " Given that GHG emissions from ships are a type of \u2018conditional\u2019 pollution, different countries have adopted national legislation on the basis that GHG emissions, including those from international shipping, are pollutants. Some",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 47,
+            "top": 759,
+            "left": 178
+        }
+    },
+    {
+        "page": 62,
+        "heading": "2.2 Jurisdiction over Greenhouse Gas Emissions from International Shipping",
+        "content": " In international law, responsibility occurs when the legal interest of one sub- ject of the law is invaded by another legal person.*\u00ae To determine international environmental law responsibility and how it applies to specific areas, a good",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 25,
+            "top": 111,
+            "left": 178
+        }
+    },
+    {
+        "page": 62,
+        "heading": "2.2.1 The Concept of Jurisdiction\u2019",
+        "content": " As a fundamental concept of international law, State jurisdiction over a par- ticular event is a key to analysing many international disputes. In the context of marine pollution regulation, \u2018jurisdiction\u2019 refers to \u2018the competence of states",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 25,
+            "top": 111,
+            "left": 178
+        }
+    },
+    {
+        "page": 67,
+        "heading": "2.2.3 Coastal State Jurisdiction",
+        "content": " Churchill and Lowe provide an apposite definition of coastal State, based on which a coastal State is \u2018the State in one of whose maritime zones a particular vessel lies\u2019.8\u00ae Different from flag States, coastal States have incentives to impose",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 34,
+            "top": 519,
+            "left": 158
+        }
+    },
+    {
+        "page": 71,
+        "heading": "2.2.4 Port State Jurisdiction",
+        "content": " A port State refers to \u2018the State in one of whose ports a particular vessel lies.\" In contrast to the limited jurisdiction of coastal States, port States have substan- tial jurisdiction over pollution within their jurisdiction. This has been deemed",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 35,
+            "top": 471,
+            "left": 158
+        }
+    },
+    {
+        "page": 74,
+        "heading": "2.3 Environmental Liability for Transboundary Harm Caused by Greenhouse Gas Emissions from International Shipping",
+        "content": " As observed by Sands, two opposite fundamental objectives guided the devel- opment of the rules of international environmental law, namely \u2018that states have sovereign rights over their natural resources\u2019 and \u2018that states must not",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 25,
+            "top": 255,
+            "left": 178
+        }
+    },
+    {
+        "page": 75,
+        "heading": "2.3.1 An Overview of Transboundary Harm",
+        "content": " As a broader concept than transboundary pollution,'\u00ae \u2018transboundary harm\u2019 generally refers to \u2018harm caused in the territory of or in other places under the jurisdiction or control of a State other than the State of origin, whether or not",
+        "features": {
+            "font_id": "10",
+            "height": 18,
+            "width": 32,
+            "top": 111,
+            "left": 158
+        }
+    },
+    {
+        "page": 80,
+        "heading": "previous treaties, is generally a condition of being responsible. Secondly, Article",
+        "content": "194(2) utilises strong language to indicate such commitment. It provides that,  States shall take all measures necessary to ensure that activities under their jurisdiction or control are so conducted as not to cause damage by",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 584,
+            "top": 110,
+            "left": 178
+        }
+    },
+    {
+        "page": 86,
+        "heading": "When applying this provision to the adoption of amended Annex vi to MARPOL",
+        "content": "73/78, it can be argued that this amendment is \u2018internationally agreed\u2019 rather than \u2018gener- ally accepted\u2019 as indicated in Article 211(2) of the Losc. This is because the amendment was adopted by a majority vote within the IMo in July 2011 when some large shipping nations, such as China, India, Brazil, Chile, Kuwait and Saudi Arabia, voted against this",
+        "features": {
+            "font_id": "37",
+            "height": 15,
+            "width": 469,
+            "top": 899,
+            "left": 239
+        }
+    },
+    {
+        "page": 95,
+        "heading": "* Apply precautionary measures pursuant to the doctrine of \u201cno regrets\u2019.23!",
+        "content": " These four approaches may be utilised to provide appropriate precautionary measures for a proposed activity. It can be inferred that the requirements on how much is known about a possible outcome increase when the precaution-",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 559,
+            "top": 254,
+            "left": 166
+        }
+    },
+    {
+        "page": 103,
+        "heading": "Recognizing the integral and interdependent nature of the Earth, our home.?62",
+        "content": " To gain the above \u2018equitable global partnership\u2019 so as to protect \u2018our home\u2019, Agenda 21 also put forward similar objectives, and urged States to ",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 548,
+            "top": 278,
+            "left": 199
+        }
+    },
+    {
+        "page": 103,
+        "heading": "\u201d",
+        "content": " Responsibilities\u201d (2002) 2(2) International Environmental Agreements: Politics, Law and Economics 15), 153. ",
+        "features": {
+            "font_id": "37",
+            "height": 15,
+            "width": 183,
+            "top": 921,
+            "left": 199
+        }
+    },
+    {
+        "page": 108,
+        "heading": "treatment as an incentive for developing States to participate in multilateral environmental agreements.?%4",
+        "content": " 2.5.1.3 Legal Status and Application The inclusion of the CBDR principle in various treaties and UN documents has successfully increased the participation of developing States in international",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 587,
+            "top": 110,
+            "left": 178
+        }
+    },
+    {
+        "page": 110,
+        "heading": "To date this principle has been consistently applied without exception to all",
+        "content": "53 IMO treaty instruments currently in existence.3\u00b0\u00ae  2.5.2.2 Legal Status and Application ",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 565,
+            "top": 543,
+            "left": 199
+        }
+    },
+    {
+        "page": 112,
+        "heading": "the global climate change regime, whereas the NMFT principle applies to all",
+        "content": " IMO treaties. Regulating GHG emissions from international shipping involves  both global climate change and the 1mo. In this case, how the two principles",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 587,
+            "top": 230,
+            "left": 178
+        }
+    },
+    {
+        "page": 113,
+        "heading": "Civil Aviation Organization and the International Maritime Organization, respectively.3!> [emphasis added]",
+        "content": " Marine bunker fuel, also called degraded residue heavy fuel oil, is the main fuel used by ships on international voyages.*!\u00a9 Therefore, it is arguable that the above article can be interpreted as meaning that the Mo has a mandate",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 237,
+            "top": 110,
+            "left": 199
+        }
+    },
+    {
+        "page": 125,
+        "heading": "TABLE 2.1 Different categories of polluters?\u201d\u00b0",
+        "content": " Category Criteria of Polluters Types of Persons as Polluters  Personality States, corporations, industries, individuals",
+        "features": {
+            "font_id": "37",
+            "height": 15,
+            "width": 61,
+            "top": 425,
+            "left": 158
+        }
+    },
+    {
+        "page": 125,
+        "heading": "Category Criteria of Polluters Types of Persons as Polluters",
+        "content": " Personality States, corporations, industries, individuals  Nature and effects of conduct or Any activity that contributes to the",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 185,
+            "top": 473,
+            "left": 158
+        }
+    },
+    {
+        "page": 125,
+        "heading": "Personality States, corporations, industries, individuals",
+        "content": " Nature and effects of conduct or Any activity that contributes to the  activity deterioration of the environment, including",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 76,
+            "top": 520,
+            "left": 158
+        }
+    },
+    {
+        "page": 126,
+        "heading": "TABLE 2.1 Different categories of polluters (cont.)",
+        "content": " Category Criteria of Polluters Types of Persons as Polluters  Scope of responsibility Subject: individual or collective, partial or total,",
+        "features": {
+            "font_id": "37",
+            "height": 15,
+            "width": 61,
+            "top": 113,
+            "left": 178
+        }
+    },
+    {
+        "page": 126,
+        "heading": "Category Criteria of Polluters Types of Persons as Polluters",
+        "content": " Scope of responsibility Subject: individual or collective, partial or total, actual or potential Measures: aid, technology transfer, or emission",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 185,
+            "top": 161,
+            "left": 178
+        }
+    },
+    {
+        "page": 126,
+        "heading": "TABLE 2.2 Different cost bearing arrangements by regional or international instruments?\u00ae\u00b0",
+        "content": " Regional or International Types of Cost Bearing Instruments OECD 1972, 1974 (1) Cost related to measures needed to prevent,",
+        "features": {
+            "font_id": "37",
+            "height": 15,
+            "width": 63,
+            "top": 689,
+            "left": 178
+        }
+    },
+    {
+        "page": 127,
+        "heading": "Regional or International",
+        "content": " Instruments  Types of Cost Bearing",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 164,
+            "top": 137,
+            "left": 158
+        }
+    },
+    {
+        "page": 128,
+        "heading": "Category Sub-category Examples",
+        "content": " Regulatory Regime Command and control \u2014_ Fuel sulphur emission limits in MARPOL Annex VI Self-regulation Market-based instruments,",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 57,
+            "top": 449,
+            "left": 178
+        }
+    },
+    {
+        "page": 129,
+        "heading": "Category Sub-category Examples",
+        "content": " Innovations Advocate investment by adopting new measures, technology designs or",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 57,
+            "top": 137,
+            "left": 158
+        }
+    },
+    {
+        "page": 136,
+        "heading": "The UN Response to the Issue of Greenhouse Gas Emissions from International Shipping",
+        "content": " 3.1 Introduction  Greenhouse gas (GHG) emissions from international shipping contribute to",
+        "features": {
+            "font_id": "47",
+            "height": 26,
+            "width": 553,
+            "top": 153,
+            "left": 178
+        }
+    },
+    {
+        "page": 160,
+        "heading": "TABLE 3.1 Evolution of the international climate change regime\u00ae",
+        "content": " Stage of Development Major Outcomes Meeting Date Early International UNGA Resolution 43/53 6 Dec 1988 Responses",
+        "features": {
+            "font_id": "54",
+            "height": 15,
+            "width": 61,
+            "top": 113,
+            "left": 178
+        }
+    },
+    {
+        "page": 161,
+        "heading": "IPCC",
+        "content": " Second World Climate Change  Conference",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 353,
+            "top": 232,
+            "left": 335
+        }
+    },
+    {
+        "page": 161,
+        "heading": "UNFCCC COP 1",
+        "content": " COP 2  1. Climate change as a \u2018common concern of mankind\u2019;",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 21,
+            "top": 208,
+            "left": 113
+        }
+    },
+    {
+        "page": 161,
+        "heading": "COP 2",
+        "content": " 1. Climate change as a \u2018common concern of mankind\u2019;  2. Endorsed the action in establishing the 1pcc and",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 42,
+            "top": 880,
+            "left": 113
+        }
+    },
+    {
+        "page": 161,
+        "heading": "Global mean temperature likely to increase by about",
+        "content": "0.3\u00b0C per decade, under business-as-usual emission scenario.  1. Countries need to stabilise GHG emissions, developed",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 364,
+            "top": 304,
+            "left": 335
+        }
+    },
+    {
+        "page": 162,
+        "heading": "TABLE 3.1 Evolution of the International Climate Change Regime (cont.)",
+        "content": " Stage of Development Major Outcomes Meeting Date  Kyoto Protocol (KP) 1-10 Dec 1997",
+        "features": {
+            "font_id": "54",
+            "height": 15,
+            "width": 61,
+            "top": 113,
+            "left": 178
+        }
+    },
+    {
+        "page": 164,
+        "heading": "TABLE 3.1 Evolution of the International Climate Change Regime (cont.)",
+        "content": " Stage of Development Major Outcomes Meeting Date  1-12 Dec 2003",
+        "features": {
+            "font_id": "54",
+            "height": 15,
+            "width": 61,
+            "top": 113,
+            "left": 178
+        }
+    },
+    {
+        "page": 164,
+        "heading": "Stage of Development Major Outcomes Meeting Date",
+        "content": " 1-12 Dec 2003  6-17 Dec 2004",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 34,
+            "top": 161,
+            "left": 178
+        }
+    },
+    {
+        "page": 164,
+        "heading": "Montreal Action Plan 28 Nov\u2014g Dec 2005",
+        "content": " 6-17 Nov 2006  Bali Road Map (Bali Action 3-14 Dec 2007",
+        "features": {
+            "font_id": "59",
+            "height": 16,
+            "width": 151,
+            "top": 376,
+            "left": 381
+        }
+    },
+    {
+        "page": 165,
+        "heading": "cop/cMpP or Organiser Key Elements/Contributions",
+        "content": " COP 9 The Milan conference adopted decisions on the institutions and procedures of the Kyoto Protocol and the implementation of the UNFCCC.",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 182,
+            "top": 161,
+            "left": 335
+        }
+    },
+    {
+        "page": 165,
+        "heading": "COP 12 Accepted Belarus as an Annex B Party under the KP. /CMP 2",
+        "content": " COP 13 1. Endorsed the 1pcc Fourth Assessment Report of 2007; /CMP 3 2. Bali Road Map is made up of a set of decisions that ",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 50,
+            "top": 472,
+            "left": 113
+        }
+    },
+    {
+        "page": 166,
+        "heading": "TABLE 3.1 Evolution of the International Climate Change Regime (cont.)",
+        "content": " Stage of Development Major Outcomes Meeting Date Copenhagen Accord 7-18 Dec 2009 Cancun Agreements 29 Nov\u201410 Dec 2010",
+        "features": {
+            "font_id": "54",
+            "height": 15,
+            "width": 61,
+            "top": 113,
+            "left": 178
+        }
+    },
+    {
+        "page": 167,
+        "heading": "COP 15 /CMP5",
+        "content": " COP 16  | CMP 6",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 50,
+            "top": 208,
+            "left": 113
+        }
+    },
+    {
+        "page": 167,
+        "heading": "COP 16",
+        "content": " | CMP 6  COP 17",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 50,
+            "top": 376,
+            "left": 113
+        }
+    },
+    {
+        "page": 167,
+        "heading": "| CMP 6",
+        "content": " COP 17 / CMP 7 ",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 54,
+            "top": 400,
+            "left": 113
+        }
+    },
+    {
+        "page": 167,
+        "heading": "COP 17 / CMP 7",
+        "content": " 1. Raised climate change policy to \u2018the highest political level\u2019; ",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 50,
+            "top": 664,
+            "left": 113
+        }
+    },
+    {
+        "page": 168,
+        "heading": "Lima Call for Climate Action",
+        "content": " Paris Agreement  1-12 Dec 2014",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 194,
+            "top": 496,
+            "left": 381
+        }
+    },
+    {
+        "page": 168,
+        "heading": "Paris Agreement",
+        "content": " 1-12 Dec 2014  30 Nov\u201411 Dec 2015",
+        "features": {
+            "font_id": "59",
+            "height": 16,
+            "width": 117,
+            "top": 592,
+            "left": 381
+        }
+    },
+    {
+        "page": 169,
+        "heading": "COP 20 /CMP 10",
+        "content": " COP 21/CMP 11  1. Adopted the Doha Amendment to the KP, which",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 16,
+            "top": 328,
+            "left": 335
+        }
+    },
+    {
+        "page": 169,
+        "heading": "COP 21/CMP 11",
+        "content": " 1. Adopted the Doha Amendment to the KP, which includes new commitments for annex I parties to the KP who agreed to take on commitments in a second",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 109,
+            "top": 592,
+            "left": 113
+        }
+    },
+    {
+        "page": 169,
+        "heading": "framework\u20199",
+        "content": " As discussed earlier in this chapter, the establishment of the 1Pcc served as a bridge between the scientific community and the political agenda. To incorporate the international consensus achieved into the drafting of a cli-",
+        "features": {
+            "font_id": "53",
+            "height": 17,
+            "width": 311,
+            "top": 472,
+            "left": 335
+        }
+    },
+    {
+        "page": 171,
+        "heading": "UNFCCC, Bodies (2016) <http://UNFCCC.int/bodies/items/6241.php> accessed 22 April",
+        "content": "2016.  g. Buhaug et al., \u2018Second IMO GHG Study 2009\u2019 (International Maritime Organization (IMO), 2009) 1; see also ch. 1, 1.1.1.2.",
+        "features": {
+            "font_id": "20",
+            "height": 15,
+            "width": 39,
+            "top": 919,
+            "left": 260
+        }
+    },
+    {
+        "page": 184,
+        "heading": "At the Durban Climate Change Conference, held in November and December",
+        "content": "2011, parties to the UNFCCC agreed to launch the Ad Hoc Working Group on the Durban Platform for Enhanced Action (ADP) with a mandate to develop a \u2018pro- tocol, another legal instrument or an agreed outcome with legal force under the Convention applicable to all Parties\u2019.2\u00b03 This universal climate change",
+        "features": {
+            "font_id": "52",
+            "height": 18,
+            "width": 586,
+            "top": 158,
+            "left": 178
+        }
+    },
+    {
+        "page": 195,
+        "heading": "The 1MOo Response to the Issue of Greenhouse Gas Emissions from International Shipping",
+        "content": " 4.1 Introduction  The previous chapters revealed that the problem of greenhouse gas (GHG)",
+        "features": {
+            "font_id": "47",
+            "height": 26,
+            "width": 49,
+            "top": 153,
+            "left": 158
+        }
+    },
+    {
+        "page": 198,
+        "heading": "The 1mMo currently has 171 member States, three associate members, and",
+        "content": "77 international non-governmental organisations (NGOs) under consultative status.!* The 1mo\u2019s structure has developed, reflecting its evolving mandate. Initially, the imo only comprised the Assembly, the Council and the Maritime Safety Committee (Msc).!* Currently, the IMO consists of an Assembly,",
+        "features": {
+            "font_id": "70",
+            "height": 18,
+            "width": 45,
+            "top": 519,
+            "left": 579
+        }
+    },
+    {
+        "page": 203,
+        "heading": "TABLE 4.1 Main events of 1Mo\u2019s work on GHG emissions from international shipping*!",
+        "content": " Meetings Meeting Major Outcomes Base Documents Date ",
+        "features": {
+            "font_id": "73",
+            "height": 15,
+            "width": 61,
+            "top": 328,
+            "left": 158
+        }
+    },
+    {
+        "page": 203,
+        "heading": "Meetings Meeting Major Outcomes Base Documents Date",
+        "content": " MARPOL  Sepigg7__ Resolution 8 on \u2018CO, emissions from ships\u2019 MARPOL  Conference requested the IMO to undertake a study on Annex VI;",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 59,
+            "top": 375,
+            "left": 158
+        }
+    },
+    {
+        "page": 203,
+        "heading": "MARPOL  Sepigg7__ Resolution 8 on \u2018CO, emissions from ships\u2019 MARPOL",
+        "content": " Conference requested the IMO to undertake a study on Annex VI; GHG emissions from ships and consider Resolution 8 feasible CO, reduction strategies.",
+        "features": {
+            "font_id": "77",
+            "height": 16,
+            "width": 65,
+            "top": 443,
+            "left": 158
+        }
+    },
+    {
+        "page": 203,
+        "heading": "MEPC 45  Jun2000_ First Mo Study on GHG Emissions from MEPC 45/8",
+        "content": " Ships. IMO Dec 2003 Urged the MEPC to develop mechanisms Assembly Res. Assembly to tackle the GHG emissions issue; A.963(23)",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 62,
+            "top": 542,
+            "left": 158
+        }
+    },
+    {
+        "page": 204,
+        "heading": "MEPC 59",
+        "content": " Jul 2009  (designated Emission Control Area for sox",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 92,
+            "top": 722,
+            "left": 653
+        }
+    },
+    {
+        "page": 204,
+        "heading": "Jul 2009",
+        "content": " (designated Emission Control Area for sox  and NOx);",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 57,
+            "top": 798,
+            "left": 269
+        }
+    },
+    {
+        "page": 204,
+        "heading": "MEPC 59/ INF.10",
+        "content": " MEPC 59/24 MEPC 59/24/ Add.1",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 62,
+            "top": 798,
+            "left": 178
+        }
+    },
+    {
+        "page": 205,
+        "heading": "THE IMO RESPONSE TO THE ISSUE OF GHG EMISSIONS",
+        "content": " 187  Meetings Meeting Major Outcomes Base Documents",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 391,
+            "top": 64,
+            "left": 158
+        }
+    },
+    {
+        "page": 205,
+        "heading": "Meetings Meeting Major Outcomes Base Documents Date",
+        "content": " MEPC 60 + Mar 2010 _ Discussed the relations between attained MEPC 60/22 EEDI and required EEDI; Agreed to MEPC 60/ establish an Expert Group (EG) to INF.21",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 59,
+            "top": 136,
+            "left": 158
+        }
+    },
+    {
+        "page": 205,
+        "heading": "MEPC 64 Oct2012 Implementation of energy efficiency; MEPC.224(64)",
+        "content": " MBMs: updated emission estimate, impact on developing States are scheduled to be conducted.",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 62,
+            "top": 885,
+            "left": 158
+        }
+    },
+    {
+        "page": 206,
+        "heading": "TABLE 4.1 Main events of IMo\u2019s work on GHG emissions from international shipping (cont.)",
+        "content": " Meetings Meeting Major Outcomes Base Documents Date ",
+        "features": {
+            "font_id": "73",
+            "height": 15,
+            "width": 65,
+            "top": 112,
+            "left": 178
+        }
+    },
+    {
+        "page": 206,
+        "heading": "Meetings Meeting Major Outcomes Base Documents Date",
+        "content": " MEPC65 + May2013 Further discussions on EEDI, particularly on MEPC.229(65) Us\u2019s proposal on enhancing energy MEPC 65/22 efficiency of ships; discussion on MBMs MEPC.232(65)",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 59,
+            "top": 161,
+            "left": 178
+        }
+    },
+    {
+        "page": 207,
+        "heading": "Meeting Date",
+        "content": " Major Outcomes Base Documents  MEPC 67",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 56,
+            "top": 136,
+            "left": 248
+        }
+    },
+    {
+        "page": 216,
+        "heading": "* alternative sources of energy.\u201d",
+        "content": " Compared with the seven types of technologies available for new ships as indi- cated in the First IMO GHG Study, there are currently more choices available for the shipping industry.\u20194 It is projected that during Phases 0 and 1 (1 January",
+        "features": {
+            "font_id": "70",
+            "height": 18,
+            "width": 247,
+            "top": 350,
+            "left": 186
+        }
+    },
+    {
+        "page": 217,
+        "heading": "TABLE 4.2",
+        "content": " 199  Technologies for EEDI reduction\u201d\u00ae",
+        "features": {
+            "font_id": "73",
+            "height": 15,
+            "width": 63,
+            "top": 113,
+            "left": 158
+        }
+    },
+    {
+        "page": 217,
+        "heading": "Remark",
+        "content": " Optimised hull  dimensions and form",
+        "features": {
+            "font_id": "81",
+            "height": 15,
+            "width": 50,
+            "top": 161,
+            "left": 403
+        }
+    },
+    {
+        "page": 217,
+        "heading": "dimensions and form",
+        "content": " Ship design for efficiency via choice of main dimensions ",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 145,
+            "top": 227,
+            "left": 211
+        }
+    },
+    {
+        "page": 217,
+        "heading": "Ship design for efficiency via choice of main dimensions",
+        "content": " (port and canal restrictions) and hull forms.  2 Lightweight construction New lightweight ship construction material.",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 303,
+            "top": 203,
+            "left": 405
+        }
+    },
+    {
+        "page": 221,
+        "heading": "SEEMP related measures?*",
+        "content": " No. Energy Efficiency Measure Remark 1 Engine tuning and Engine operational performance and condition monitoring optimisation.",
+        "features": {
+            "font_id": "74",
+            "height": 15,
+            "width": 148,
+            "top": 113,
+            "left": 239
+        }
+    },
+    {
+        "page": 221,
+        "heading": "No. Energy Efficiency Measure Remark",
+        "content": "1 Engine tuning and Engine operational performance and condition monitoring optimisation. 2 Hull condition Hull operational fouling and damage avoidance. 3 Propeller condition Propeller operational fouling and damage avoidance.",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 21,
+            "top": 162,
+            "left": 158
+        }
+    },
+    {
+        "page": 227,
+        "heading": "FIGURE 4.2 Annual emission reduction by 2050 and new emissions levels (scenario A1B-4).!29",
+        "content": " 127 IMO, Status of Conventions (25 June 2014) <http://www.imo.org/About/Conventions/ StatusOfConventions/Pages/Default.aspx> accessed 28 June 2014. As of 25 June 2014, 75 countries which account for 94.77 percent of world tonnage had ratified Annex v1 to",
+        "features": {
+            "font_id": "73",
+            "height": 15,
+            "width": 72,
+            "top": 856,
+            "left": 158
+        }
+    },
+    {
+        "page": 234,
+        "heading": "TABLE 4.4 Seven types of MBM troposals submitted to the 1Mo (as of May 2013)!53",
+        "content": " MBM proposals Proponents  Working mechanisms / Grouping of Base documents",
+        "features": {
+            "font_id": "73",
+            "height": 15,
+            "width": 63,
+            "top": 113,
+            "left": 178
+        }
+    },
+    {
+        "page": 235,
+        "heading": "mechanism. (Grouping: \u2018Focus on",
+        "content": " In-Sector\u2019 and \u2018In-Sector &  Out-of-Sector\u2019)",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 93,
+            "top": 411,
+            "left": 382
+        }
+    },
+    {
+        "page": 235,
+        "heading": "In-Sector\u2019 and \u2018In-Sector &",
+        "content": " Out-of-Sector\u2019) Efficiency Japan and All new ships, except for those = MEPC 60/4/37, Incentive World that meet pre-set EEDI MEPC 60/4/39,",
+        "features": {
+            "font_id": "30",
+            "height": 16,
+            "width": 178,
+            "top": 435,
+            "left": 382
+        }
+    },
+    {
+        "page": 235,
+        "heading": "In-Sector)",
+        "content": "Ship Efficiency UnitedSates Subjects all ships to mandatory MEPC 60/4/12, and Credit energy-efficiency standards. As = MEPC 61/5/16, Trading (SECT) one means of complying with = MEPC 61/ ",
+        "features": {
+            "font_id": "30",
+            "height": 16,
+            "width": 178,
+            "top": 435,
+            "left": 382
+        }
+    },
+    {
+        "page": 236,
+        "heading": "emission reduction",
+        "content": " Global Norway Sets a sector-wide cap on net MEPC 60/4/22; Emissions (later emissions from international MEPC 60/4/26; Trading System added as shipping. A number of MEPC 60/4/41;",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 122,
+            "top": 185,
+            "left": 402
+        }
+    },
+    {
+        "page": 236,
+        "heading": "(Grouping: In-Sector & Out-of-Sector)",
+        "content": " Penalty on Bahamas The imposition of any costs MEPC 60/4/10, Trade and should be proportionate tothe = GHG-WG 3/2 Development contribution by international",
+        "features": {
+            "font_id": "30",
+            "height": 16,
+            "width": 237,
+            "top": 766,
+            "left": 303
+        }
+    },
+    {
+        "page": 237,
+        "heading": "emission reduction",
+        "content": " Rebate IUCN (WWF Compensate developing countriesMEPC 60/4/55, Mechanism for provides for the financial impact of an MEPC 61/5/33; amarket-based add-on MBM. It could be either applied toMEPC 64/5/10,",
+        "features": {
+            "font_id": "44",
+            "height": 15,
+            "width": 122,
+            "top": 160,
+            "left": 382
+        }
+    },
+    {
+        "page": 237,
+        "heading": "shipping integrated with the International",
+        "content": " Maritime Emission Reduction Scheme. (integrated option) (Grouping: Focus on In-Sector\u2019 and",
+        "features": {
+            "font_id": "69",
+            "height": 17,
+            "width": 91,
+            "top": 295,
+            "left": 158
+        }
+    },
+    {
+        "page": 245,
+        "heading": "The origin of the modern shipping industry can be traced back to the year",
+        "content": "1787 when steamships emerged. With the development of information and communications technologies (ICT) and the opening of the Suez Canal in 1869, the shipping industry grew exponentially to facilitate faster trade between Europe and Asia. To address the \u2018unsustainable predatory competition\u2019 asso-",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 566,
+            "top": 302,
+            "left": 178
+        }
+    },
+    {
+        "page": 246,
+        "heading": "* views and practice on proposed market-based measures (MBMs); and",
+        "content": " \u00a2 views and practice on other issues in relation to the reduction of GHG emis- sions from ships. ",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 530,
+            "top": 375,
+            "left": 186
+        }
+    },
+    {
+        "page": 252,
+        "heading": "Shipbuilding Deliveries (GT)",
+        "content": " 80,000 70,000 +\u2014| \u2014\u2014= Far East ",
+        "features": {
+            "font_id": "20",
+            "height": 15,
+            "width": 186,
+            "top": 473,
+            "left": 248
+        }
+    },
+    {
+        "page": 253,
+        "heading": "as polluters who should be held responsible for employing the services of sub- standard vessels.34",
+        "content": " As discussed in Chapter 2, the polluter-pays principle applies to the reduc- tion of GHG emissions from international shipping. The polluter may include the flag State, ship owners and operators, or in some cases, individuals. Among",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 581,
+            "top": 110,
+            "left": 158
+        }
+    },
+    {
+        "page": 255,
+        "heading": "(8) accommodating to leading technologies in the field of energy efficiency; and",
+        "content": " (g) practical, transparent, fraud free and easy to administer\u2019  44 The Revision of MARPOL Annex V1, submitted by the International Chamber of Shipping",
+        "features": {
+            "font_id": "90",
+            "height": 15,
+            "width": 488,
+            "top": 750,
+            "left": 222
+        }
+    },
+    {
+        "page": 255,
+        "heading": "(g) practical, transparent, fraud free and easy to administer\u2019",
+        "content": " 44 The Revision of MARPOL Annex V1, submitted by the International Chamber of Shipping (Ics), MEPC 57th Session, Agenda Item 4, IMO Doc MEPC 57/4/28 (13 February 2008) para. 3.",
+        "features": {
+            "font_id": "90",
+            "height": 15,
+            "width": 364,
+            "top": 771,
+            "left": 222
+        }
+    },
+    {
+        "page": 264,
+        "heading": "the desired transparency will be provided.9\u00b0",
+        "content": " Compared with the views from Ics, the Round Table opposed any ETS because it would be \u2018unworkable\u2019 for the shipping industry.\u00b0! Similarly, the Asian Shipowners Forum (ASF) has also opposed an ETs on the grounds that it is",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 353,
+            "top": 495,
+            "left": 219
+        }
+    },
+    {
+        "page": 279,
+        "heading": "* resonates with other legislative developments around the world; and",
+        "content": " * fits well with other existing carbon reduction infrastructure, such as Clean Development Mechanisms and Joint Implementation processes under the Kyoto Protocol.!5\u00ae",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 525,
+            "top": 519,
+            "left": 166
+        }
+    },
+    {
+        "page": 283,
+        "heading": "monitor a ship\u2019s performance, which combined with the SEEMP could achieve better efficiency.!\u201d4",
+        "content": " The MBMs have aroused more attention from the Greek shipping indus- try than the technical and operational measures. First, both national ship- ping organisations and individual shipping companies generally oppose an",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 585,
+            "top": 110,
+            "left": 158
+        }
+    },
+    {
+        "page": 295,
+        "heading": "n11293472/n11293832/n11294132/n12858417/n12858628/15121853.html> accessed 16 April",
+        "content": "2013.  235 llfigy@ [Liu Nengye], \u2018(Mii dks El brit) Ih] )) [New Development of Interna- tional Law on the Reduction of Greenhouse Gas Emissions from Shipping] (2011) 34(9)",
+        "features": {
+            "font_id": "90",
+            "height": 15,
+            "width": 550,
+            "top": 899,
+            "left": 199
+        }
+    },
+    {
+        "page": 299,
+        "heading": "* \u2018complexity in defining responsible bodies about emission rights and obli- gations\u2019; and",
+        "content": " * \u2018uncertainty in ETS market\u2019.256  This result is consistent with the opinions from the Korea Maritime Institute",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 574,
+            "top": 519,
+            "left": 166
+        }
+    },
+    {
+        "page": 299,
+        "heading": "* \u2018uncertainty in ETS market\u2019.256",
+        "content": " This result is consistent with the opinions from the Korea Maritime Institute (KMI).757 At the sixth Seoul International Maritime Forum held on 31 October 2012, the Vice President of the KMI asserted that among current proposed",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 243,
+            "top": 567,
+            "left": 166
+        }
+    },
+    {
+        "page": 301,
+        "heading": "India is peninsular in nature having a long coastline of about 7517 km and",
+        "content": "1197 islands. Its natural resources, together with 13 major ports and 176 noti- fied non-major ports,?\u00b0? support the development of its seaborne trade and the shipping industry. As at 1 January 2015, India owned 844 vessels with 697 registered under Indian flags and 147 registered under other flags, ranking it",
+        "features": {
+            "font_id": "87",
+            "height": 18,
+            "width": 588,
+            "top": 134,
+            "left": 158
+        }
+    },
+    {
+        "page": 307,
+        "heading": "RESPONSE FROM FLAG & PORT STATES TO THE ISSUE OF GHG EMISSIONS 289",
+        "content": " (UNFCCC),\u00b0 and Panama, China and Vanuatu which are not listed in Annex 1 to the unFccc. This chapter then examines the response from port States from two perspectives. The views from some influential global and regional port",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 27,
+            "top": 62,
+            "left": 713
+        }
+    },
+    {
+        "page": 316,
+        "heading": "to the calculation process of that study.4\u00ae At the 65th MEPC meeting in May",
+        "content": "2013, the IMO suspended its regulatory discussion on MBMs and attempted to establish attained energy efficiency standards for new and existing ships through a phased approach, as proposed by the us.*9 Therefore, it is premature for Greece to assert the second principle, which may reflect its priority in pro-",
+        "features": {
+            "font_id": "109",
+            "height": 15,
+            "width": 47,
+            "top": 771,
+            "left": 716
+        }
+    },
+    {
+        "page": 317,
+        "heading": "Improvement, submitted by Greece, MEPC 62nd Session, Agenda Item 5, 1MO Doc MEPC",
+        "content": "62/5/6 (5 May 2011) p. 2.  54 Regulations 20 and 21 of the revised Annex VI to MARPOL 73/78 divide the EEDI into attained EEDI and required EEDI, and both of them are calculated by a formula based on",
+        "features": {
+            "font_id": "110",
+            "height": 15,
+            "width": 80,
+            "top": 536,
+            "left": 199
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Efficiency Incentive Scheme (EIS), proposed by Japan and World Shipping Council (wsc);6",
+        "content": " Ship Efficiency and Credit Trading (SECT), proposed by the United States;6\u201d Global Emissions Trading System (ETS) for international shipping, three options proposed by Norway (Germany was later added as co-sponsor),",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 579,
+            "top": 206,
+            "left": 166
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Penalty on Trade and Development, proposed by Bahamas;\u00ae? and",
+        "content": " This proposal is to establish a global reduction target for international shipping, set by either UNFCCC or IMO. Emissions above the target line would be offset largely by pur- chasing approved emission reduction credits. The offsetting activities would be financed",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 500,
+            "top": 350,
+            "left": 166
+        }
+    },
+    {
+        "page": 323,
+        "heading": "g1 Report of the Marine Environment Protection Committee on its 58th Session, IMO Doc MEPC",
+        "content": "58/23 (16 October 2008) annex 9, p. 19.  g2 The 59th MEPC meeting concluded that the use of the word \u2018agree\u2019 would not imply approval, adoption or decision. Report of the Marine Environment Protection Committee",
+        "features": {
+            "font_id": "110",
+            "height": 15,
+            "width": 336,
+            "top": 878,
+            "left": 406
+        }
+    },
+    {
+        "page": 326,
+        "heading": "However, this proposal was not adopted due to the opposition of many devel- oping countries.!02",
+        "content": " Through submitting various proposals to the IMO, Japan expressed its tech- nical and regulatory preferences relating to the GHG issue, diversified the debate and expedited the regulatory process within the 1mo. Firstly, Japan",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 581,
+            "top": 110,
+            "left": 178
+        }
+    },
+    {
+        "page": 336,
+        "heading": "its Resolution A.963(23) adopted at the 23rd Session of the 1mo Assembly on",
+        "content": "5 December 2003.1\u201d Indeed during the course of deliberations on this resolu- tion, the MEPC recommended that the resolution  should be based on a common policy applicable to all ships, rather than",
+        "features": {
+            "font_id": "109",
+            "height": 15,
+            "width": 64,
+            "top": 728,
+            "left": 219
+        }
+    },
+    {
+        "page": 339,
+        "heading": "Or",
+        "content": " The regulations of EEDI and SEEMP shall be phased in over a period of eight years for ships built for developing countries and during the period ",
+        "features": {
+            "font_id": "107",
+            "height": 17,
+            "width": 524,
+            "top": 64,
+            "left": 158
+        }
+    },
+    {
+        "page": 340,
+        "heading": "of phasing in, developing countries shall only apply 50% of the required EEDI reduction rate.!\u201d",
+        "content": " This proposed article offered a phased-in approach for developing countries in implementing the EEDI and sEEMP. This approach belongs to the \u2018differ- entiated implementation arrangement\u2019 element of the CBDR principle. These",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 545,
+            "top": 110,
+            "left": 219
+        }
+    },
+    {
+        "page": 350,
+        "heading": "* Sources of funding and financing; and",
+        "content": " \u00a2 Evaluation and reporting.?2  Based on these arguments, China, supported by some developing countries,",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 296,
+            "top": 278,
+            "left": 186
+        }
+    },
+    {
+        "page": 350,
+        "heading": "\u00a2 Evaluation and reporting.?2",
+        "content": " Based on these arguments, China, supported by some developing countries, proposed a draft MEPC resolution on this issue to the 1mo. In this proposal, China underscored the CBDR principle and suggested establishing an Ad Hoc",
+        "features": {
+            "font_id": "106",
+            "height": 18,
+            "width": 226,
+            "top": 302,
+            "left": 186
+        }
+    },
+    {
+        "page": 360,
+        "heading": "SCOPE 1",
+        "content": " Port Direct SCOPE 3 SCOPE 2 Port Tenants ",
+        "features": {
+            "font_id": "110",
+            "height": 15,
+            "width": 302,
+            "top": 497,
+            "left": 249
+        }
+    },
+    {
+        "page": 360,
+        "heading": "FIGURE 6.1 GHG emissions scopes relating to port operations.?8\u00b0",
+        "content": " In April 2008 the IAPH requested its Port Environment Committee to work out a mechanism for assisting ports to tackle climate change. As a result, in July 2008 at the C4o World Ports Climate Conference the World Ports Climate",
+        "features": {
+            "font_id": "109",
+            "height": 15,
+            "width": 70,
+            "top": 497,
+            "left": 178
+        }
+    },
+    {
+        "page": 375,
+        "heading": "LEGAL & INSTITUTIONAL FRAMEWORKS FOR REGULATING GHG EMISSIONS 357",
+        "content": " 7-2 Influence and Interaction of Various Stakeholders in Regulating and Implementing GHG Emissions from International Shipping ",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 25,
+            "top": 62,
+            "left": 714
+        }
+    },
+    {
+        "page": 387,
+        "heading": "The EED! is the main technical measure that the Mo has adopted in tackling",
+        "content": " GHG emissions from international shipping. However, this technical measure  needs to be improved so as to reduce GHG emissions more effectively and",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 586,
+            "top": 591,
+            "left": 158
+        }
+    },
+    {
+        "page": 387,
+        "heading": "needs to be improved so as to reduce GHG emissions more effectively and",
+        "content": " 45 See, e.g., Harrison, above n. 32, 16-18; Derya Aydin Okur, The Challenge of Regulating Greenhouse Gas Emissions from International Shipping and the Complicated Principle of \u2018Common but Differentiated Responsibilities\u2019 (2012) <http://web.deu.edu.tr/hukuk/derg-",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 588,
+            "top": 639,
+            "left": 158
+        }
+    },
+    {
+        "page": 391,
+        "heading": "\u00a2 more collaboration between industry stakeholders and a solution to the issue of split-incentives; and",
+        "content": " * effective monitoring of SEEMP implementation via rigorous audits and reviews. 66 ",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 581,
+            "top": 711,
+            "left": 166
+        }
+    },
+    {
+        "page": 391,
+        "heading": "* effective monitoring of SEEMP implementation via rigorous audits and reviews. 66",
+        "content": " Currently monitoring of the SEEMP mainly relies on the voluntary use of the Energy Efficiency Operational Indicator (EEOI) or other performance indicators that ship operators choose. However, as a monitoring tool and a",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 582,
+            "top": 759,
+            "left": 166
+        }
+    },
+    {
+        "page": 392,
+        "heading": "international and domestic regulations and standards, whereas port States",
+        "content": " 67 IMO, above n. 19, 4.  68 Guidelines for Voluntary Use of the Ship Energy Efficiency Operational Indicator (EEO1I),",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 588,
+            "top": 711,
+            "left": 178
+        }
+    },
+    {
+        "page": 404,
+        "heading": "* Port State Levy (PSL), proposed by Jamaica;!25",
+        "content": " * Efficiency Incentive Scheme (EIS), proposed by Japan and the World Shipping Council (wsc);!26 ",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 355,
+            "top": 326,
+            "left": 186
+        }
+    },
+    {
+        "page": 404,
+        "heading": "* Efficiency Incentive Scheme (EIS), proposed by Japan and the World Shipping Council (wsc);!26",
+        "content": " * Ship Efficiency and Credit Trading (SECT), proposed by the United States;!2\u201d  123 A table on these seven types of MBM proposals, as well as relevant base documents, is",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 571,
+            "top": 350,
+            "left": 199
+        }
+    },
+    {
+        "page": 404,
+        "heading": "* Ship Efficiency and Credit Trading (SECT), proposed by the United States;!2\u201d",
+        "content": " 123 A table on these seven types of MBM proposals, as well as relevant base documents, is provided at section 4.3.4.2 of chapter 4. ",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 574,
+            "top": 399,
+            "left": 186
+        }
+    },
+    {
+        "page": 405,
+        "heading": "* Penalty on Trade and Development (Bahamas), proposed by Bahamas;!29 and",
+        "content": " \u00a2 Rebate Mechanism (RM) for a market-based instrument for international shipping, proposed by the International Union for Conservation of Nature (IUCN). It consists of integrated RM and add-on RM.!8\u00b0",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 29,
+            "top": 206,
+            "left": 178
+        }
+    },
+    {
+        "page": 407,
+        "heading": "TABLE 7.1. Grouping of the MBM proposals based on the reduction sectors!36",
+        "content": " MBM Proposals GHG ETS EIS SECT PSL Bahamas RM RM! Fund (integrated) (add-on) ",
+        "features": {
+            "font_id": "122",
+            "height": 15,
+            "width": 60,
+            "top": 112,
+            "left": 158
+        }
+    },
+    {
+        "page": 410,
+        "heading": "(",
+        "content": " (2) the incentive to technological change;  (3) practical feasibility of implementation;",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 428,
+            "top": 278,
+            "left": 178
+        }
+    },
+    {
+        "page": 411,
+        "heading": "(",
+        "content": " (2) the incentive to technological change;  (3) practical feasibility of implementation;",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 428,
+            "top": 495,
+            "left": 158
+        }
+    },
+    {
+        "page": 423,
+        "heading": "technical and operational! improvements",
+        "content": " Amount of GHG to be offset via the GHG Fund ",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 585,
+            "top": 254,
+            "left": 158
+        }
+    },
+    {
+        "page": 428,
+        "heading": "it has also been described as reflecting an \u2018unprecedented normative and",
+        "content": " 216 Steinar Andresen and Ellen Hey, \u2018The Effectiveness and Legitimacy of International Environmental Institutions\u2019 (2005) 5(3) International Environmental Agreements: Politics, Law and Economics 2n1, 223.",
+        "features": {
+            "font_id": "119",
+            "height": 18,
+            "width": 589,
+            "top": 687,
+            "left": 178
+        }
+    },
+    {
+        "page": 441,
+        "heading": "Conclusion",
+        "content": " [We] seek solutions that benefit the environment. A differentiated deal is better for the environment than no deal at all, and time is short... Statement by World Wide Fund for Nature (wwF)!",
+        "features": {
+            "font_id": "130",
+            "height": 26,
+            "width": 128,
+            "top": 153,
+            "left": 158
+        }
+    },
+    {
+        "page": 442,
+        "heading": "\u00a2 The harm is caused between the flag State and a third State; or",
+        "content": " \u00a2 The harm is caused between two flag States.  On this basis, the duties associated with transboundary harm would apply in",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 41,
+            "top": 591,
+            "left": 199
+        }
+    },
+    {
+        "page": 451,
+        "heading": "Bibliography",
+        "content": " 1 Articles/Books/Reports  Anderson, Kevin and Alice Bows, \u2018Executing A Scharnow Turn: Reconciling Shipping",
+        "features": {
+            "font_id": "134",
+            "height": 26,
+            "width": 145,
+            "top": 105,
+            "left": 158
+        }
+    },
+    {
+        "page": 451,
+        "heading": "Australian Government: Department of Infrastructure and Transport, \u2018Australian Sea Freight 2013-14\u2019 (2015) <http://bitre.gov.au/publications/2015/files/asf_2013_14.pdf>",
+        "content": " Australian Shipowners Association, Proposed Carbon Tax Considerations and Implications for the Australian Shipping Industry (10 May 2011) <http://www.asa .com.au/wp-content/uploads/ASA-Submission-Carbon-Price-May-2011.pdf>",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 586,
+            "top": 496,
+            "left": 158
+        }
+    },
+    {
+        "page": 451,
+        "heading": "Australian Shipowners Association, Reforming Australia\u2019s Shipping: Stakeholder Discussion Paper (31 January 2011) <http://www.asa.com.au/wp-content/uploads/ ASA-Submssion-Shipping-Reform-Discussion-Paper.pdf>",
+        "content": " Australian Shipowners Association et al., A Global Cap-and-Trade System to Reduce Carbon Emissions from International Shipping (2009) <http://www.asa.com.au/wp- content/uploads/Joint-Industry-ETS-Discussion-PapervFINAL1.pdf>",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 273,
+            "top": 544,
+            "left": 158
+        }
+    },
+    {
+        "page": 452,
+        "heading": "BIMCO, GHG and Market-based Measures: BIMCO\u2019s Position (October 2011) <https:// www.bimco.org/en/About/Viewpoint/o07_Greenhouse_Gases.aspx>",
+        "content": " Birnie, Patricia W., Alan E. Boyle and Catherine Redgwell, International Law and the Environment (Oxford University Press, 3rd ed., 2009) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 56,
+            "top": 520,
+            "left": 178
+        }
+    },
+    {
+        "page": 452,
+        "heading": "Boczek, B.A., Flags of Convenience: An International Legal Study (Oxford University Press, 1962)",
+        "content": " Bodansky, D. M., \u2018The Emerging Climate Change Regime\u2019 (1995) 20(1) ANNUAL REVIEW OF ENERGY AND THE ENVIRONMENT 425 ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 95,
+            "top": 616,
+            "left": 178
+        }
+    },
+    {
+        "page": 452,
+        "heading": "Bode, Sven, \u2018Long-Term Greenhouse Gas Emission Reductions\u2014What\u2019s Possible, What's Necessary?\u2019 (2006) 34(9) Energy Policy 971",
+        "content": " Bolin, Bert, A History of the Science and Politics of Climate Change: the Role of the Intergovernmental Panel on Climate Change (Cambridge University Press, 2007) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 590,
+            "top": 784,
+            "left": 178
+        }
+    },
+    {
+        "page": 453,
+        "heading": "BIBLIOGRAPHY 435",
+        "content": " Bratspies, Rebecca M. and Russell A. Miller (eds), Transboundary Harm in International Law: Lessons from the Trail Smelter Arbitration (Cambridge University Press, 2006) ",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 26,
+            "top": 62,
+            "left": 713
+        }
+    },
+    {
+        "page": 453,
+        "heading": "Brunner, Ronald D., \u2018Science and the Climate Change Regime\u2019 (2001) 34(1) Policy Sciences 1",
+        "content": " Buhaug, \u00a2. et al., \u2018Second IMO GHG Study 2009\u2019 (International Maritime Organization (IMO), 2009) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 542,
+            "top": 304,
+            "left": 158
+        }
+    },
+    {
+        "page": 453,
+        "heading": "Buhaug, \u00a2. et al., \u2018Second IMO GHG Study 2009\u2019 (International Maritime Organization (IMO), 2009)",
+        "content": " Carlson, Scott N., \u2018The Montreal Protocol\u2019s Environmental Subsidies and GATT: A Needed Reconciliation\u2019 (1994) 29(2) Texas International Law Journal 211 ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 87,
+            "top": 376,
+            "left": 178
+        }
+    },
+    {
+        "page": 453,
+        "heading": "Clark, R.B., Marine Pollution (Oxford University Press, 5th ed., 2001)",
+        "content": " Cogliati-Bantz, Vincent P., \u2018Disentangling the \u201cGenuine Link\u201d: Enquiries in Sea, Air and Space Law\u2019 (2010) 79(3) Nordic Journal of International Law 383 ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 9,
+            "top": 328,
+            "left": 234
+        }
+    },
+    {
+        "page": 454,
+        "heading": "Corbett, James et al., \u2018Morality from Ship Emissions: A Global Assessment\u2019 (2007)",
+        "content": "41(24) Environmental Science & Technology 8512  Corbett, James J., Paul S. Fischbeck and Spyros N. Pandis, \u2018Global Nitrogen and Sulfur Inventories for Oceangoing Ships\u2019 (1999) 104(3) Journal of Geophysical Research 3457",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 588,
+            "top": 232,
+            "left": 178
+        }
+    },
+    {
+        "page": 454,
+        "heading": "Crist, P., \u2018Greenhouse Gas Emissions Reduction Potential from International Shipping\u2019 (OECD/ITF, 2009)",
+        "content": " Cristea, Anca et al., \u2018Trade and the Greenhouse Gas Emissions from International Freight Transport\u2019 (2013) 65(1) Journal of Environmental Economics and Management 153",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 585,
+            "top": 400,
+            "left": 178
+        }
+    },
+    {
+        "page": 455,
+        "heading": "Dubash, Navroz K. and Lavanya Rajamani, \u2018Beyond Copenhagen: Next Steps\u2019 (2010)",
+        "content": "10(6) Climate Policy 593  Durrant, Nicola, \u2018Carbon Capture and Storage Laws in Australia: Project Facilitation or a Precautionary Approach?\u2019 (2010) 18(4) Environmental Liability Journal 148",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 587,
+            "top": 112,
+            "left": 158
+        }
+    },
+    {
+        "page": 457,
+        "heading": "Hassan, Daud, Protecting the Marine Environment from Land Based Sources of Pollution (Ashagate, 2006)",
+        "content": " Hasan, S.M. Rashidul, Impact of EEDI on Ship Design and Hydrodynamics: A Study of the Energy Efficiency Design Index and Other Related Emission Control Indexes (Master of Science Thesis, Chalmers University of Technology, 2011) <http://publications.lib",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 100,
+            "top": 712,
+            "left": 158
+        }
+    },
+    {
+        "page": 457,
+        "heading": "Hodgkinson, D.J. and R. Garner, Global Climate Change: Australian Law and Policy (LexisNexis Butterworths, 2008)",
+        "content": " Hoffman, Jennifer, Ana Fonseca and Carlos Drews(eds), \u2018Cetaceans and Other Marine Biodiversity of the Eastern Tropical Pacific: Options for Adapting to Climate Change\u2019 ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 349,
+            "top": 952,
+            "left": 391
+        }
+    },
+    {
+        "page": 458,
+        "heading": "(Report from a workshop held at San Jose, Costa Rica, 2009) <http://wwf.panda .org/?uNewsID=166824>",
+        "content": " Horner, Christopher, The Politically Incorrect Guide to Global Warming and Environmentalism (Regnery Publishing, 2007) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 565,
+            "top": 112,
+            "left": 199
+        }
+    },
+    {
+        "page": 459,
+        "heading": "International Monetary Fund (IMF), \u2018World Economic Outlook, April 2011 (2011) <http://www.ioha2012.net/?page_id=1945>",
+        "content": " Jiang, Liping and Jorgen T. Lauridsen, \u2018Price Formation of Dry Bulk Carriers in the Chinese Shipbuilding Industry\u2019 (2012) 39(3) Maritime Policy & Management 339 ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 104,
+            "top": 112,
+            "left": 639
+        }
+    },
+    {
+        "page": 459,
+        "heading": "Kageson, Per, \u2018Linking Co, Emissions from International Shipping to the EU ETS\u2019 (2007) <http://www.natureassociates.se/pdf/nya/CO2%zoshipping%2ofinal.pdf>",
+        "content": " Karim, Md. Saiful, \u2018Imo Mandatory Energy Efficiency Measures for International Shipping: The First Mandatory Global Greenhouse Gas Reduction Instrument for an International Industry\u2019 (2011) 7(1) Macquarie Journal of International and",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 104,
+            "top": 112,
+            "left": 639
+        }
+    },
+    {
+        "page": 459,
+        "heading": "Kiss, Alexandre Charles and Dinah Shelton, International Environmental Law (Transnational Publishers, 3rd ed., 2004)",
+        "content": " Koivurova, Timo, \u2018International Legal Avenues to Address the Plight of Victims of Climate Change: Problems and Prospects\u2019 (2007) 22(2) Journal of Environmental Law and Litigation 267",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 104,
+            "top": 112,
+            "left": 639
+        }
+    },
+    {
+        "page": 460,
+        "heading": "Legality of the Threat or Use of Nuclear Weapons (Advisory Opinion) (1996) 1cJ Reports",
+        "content": "241, para. 29  Lindstad, H., B. E. Asbjgrnslett and A. H. Stramman, \u2018Reductions in Greenhouse Gas Emissions and Cost by Shipping at Lower Speeds\u2019 (2011) 39(6) Energy Policy 3456",
+        "features": {
+            "font_id": "135",
+            "height": 16,
+            "width": 454,
+            "top": 400,
+            "left": 178
+        }
+    },
+    {
+        "page": 461,
+        "heading": "Morris, Julian, Rethinking Risk and the Precautionary Principle (Butterworth- Heinemann, 2000)",
+        "content": " Morrison, Anthony, Places of Refuge for Ships in Distress: Problems and Methods of Resolution (Martinus Nijhoff Publishers, 2012) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 117,
+            "top": 376,
+            "left": 158
+        }
+    },
+    {
+        "page": 462,
+        "heading": "O\u2019Riordan, Timothy and James Cameron, Interpreting the Precautionary Principle (Earthscan Publications, 1994)",
+        "content": " Oberthiir, Sebastian, \u2018The Climate Change Regime: Interactions with ICAO, IMO, and the EU Burden-Sharing Agreement\u2019 in Sebastian Oberthiir and Thomas Gehring (eds), Institutional Interaction in Global Environmental Governance (The MIT Press,",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 305,
+            "top": 328,
+            "left": 178
+        }
+    },
+    {
+        "page": 464,
+        "heading": "Report of the Conference of the Parties on Its Eighteenth Session, Held in Doha from",
+        "content": "26 November to 8 December 2012, Doc FCCC/CP/2012/8 (28 February 2013)  Report of the Conference of the Parties on Its Nineteenth Session, Held in Warsaw from 11 to 23 November 2013, Doc FCCC/CP/2013/10 (31 January 2014)",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 587,
+            "top": 688,
+            "left": 178
+        }
+    },
+    {
+        "page": 464,
+        "heading": "Report of the Conference of the Parties on Its Nineteenth Session, Held in Warsaw from",
+        "content": "11 to 23 November 2013, Doc FCCC/CP/2013/10 (31 January 2014)  Report of the Conference of the Parties on Its Seventeenth Session, Held in Durban from 28 November to 11 December 20n, Doc FCCC/CP/2011/9/Add.1 (15 March 2012)",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 586,
+            "top": 736,
+            "left": 178
+        }
+    },
+    {
+        "page": 464,
+        "heading": "Report of the Conference of the Parties on Its Seventeenth Session, Held in Durban from",
+        "content": "28 November to 11 December 20n, Doc FCCC/CP/2011/9/Add.1 (15 March 2012)  Report of the Conference of the Parties Serving as the Meeting of the Parties to the Kyoto Protocol on Its Ninth Session, Held in Warsaw from 1 to 23 November 2013, Doc FCCC/",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 585,
+            "top": 784,
+            "left": 178
+        }
+    },
+    {
+        "page": 465,
+        "heading": "Report of the Marine Environment Protection Committee on Its Fifty-Sixth Session, MEPC",
+        "content": "56th Session, Agenda Item 23, IMO Doc MEPC 56/23 (30 July 2007)  Report of the Marine Environment Protection Committee on Its Forty\u2014Ninth Session, MEPC 4gth Session, Agenda Item 22, IMO Doc MEPC 49/22 (8 August 2003)",
+        "features": {
+            "font_id": "135",
+            "height": 16,
+            "width": 535,
+            "top": 400,
+            "left": 158
+        }
+    },
+    {
+        "page": 465,
+        "heading": "Report of the Marine Environment Protection Committee on Its Sixtieth Session, MEPC",
+        "content": "6oth Session, Agenda Item 22, IMO Doc MEPC 60/22 (12 April 2010)  Report of the Marine Environment Protection Committee on Its Sixty\u2014Fifth Session, MEPC 65th Session, Agenda Item 22, IMO Doc MEPC 65/22 (24 May 2013)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 50,
+            "top": 400,
+            "left": 693
+        }
+    },
+    {
+        "page": 465,
+        "heading": "Report of the Marine Environment Protection Committee on Its Sixty\u2014Fifth Session, MEPC",
+        "content": "65th Session, Agenda Item 22, IMO Doc MEPC 65/22 (24 May 2013)  Report of the Marine Environment Protection Committee on Its Sixty\u2014First Session, MEPC 6ist Session, Agenda Item 24, IMO Doc MEPC 61/24 (6 October 2010)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 50,
+            "top": 400,
+            "left": 693
+        }
+    },
+    {
+        "page": 465,
+        "heading": "Report of the Marine Environment Protection Committee on Its Sixty\u2014First Session, MEPC",
+        "content": "6ist Session, Agenda Item 24, IMO Doc MEPC 61/24 (6 October 2010)  Report of the Marine Environment Protection Committee on Its Sixty\u2014Fourth Session, MEPC 64th Session, Agenda Item 23, IMO Doc MEPC 64/23 (11 October 2012)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 50,
+            "top": 400,
+            "left": 693
+        }
+    },
+    {
+        "page": 466,
+        "heading": "Report of the United Nations Conference on Environment and Development, UN Doc.A/ CONF.151/26 (1992)",
+        "content": " Report of the Working Group on Energy Efficiency Measures for Ships, MEPC 61st Session, IMO Doc MEPC 61/WP.10 (30 September 2010) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 500,
+            "top": 256,
+            "left": 178
+        }
+    },
+    {
+        "page": 468,
+        "heading": "United Nations Environment Programme (UNEP), \u2018Annual Report 2010\u2019 (2011) <www .unep.org/annualreport>",
+        "content": " United Nations Environment Programme (UNEP), Key Achievements of the Montreal Protocol To Date <http://ozone.unep.org/Publications/MP_Key_Achievements-E .pdf>",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 585,
+            "top": 688,
+            "left": 178
+        }
+    },
+    {
+        "page": 468,
+        "heading": "United Nations Environment Programme (UNEP), Key Achievements of the Montreal Protocol To Date <http://ozone.unep.org/Publications/MP_Key_Achievements-E .pdf>",
+        "content": " United Nations Environment Programme (UNEP), \u2018The Emissions Gap Report 2012: A UNEP Synthesis Report\u2019 (November 2012) <http://www.unep.org/pdf/2012gapreport .pdf>",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 349,
+            "top": 736,
+            "left": 178
+        }
+    },
+    {
+        "page": 469,
+        "heading": "World Commission on Environment and Development (WCED), \u2018Our Common Future\u2019 (Oxford University Press, 1987)",
+        "content": " Xue, Hangin, Transboundary Damage in International Law (Cambridge University Press, 2003) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 584,
+            "top": 664,
+            "left": 158
+        }
+    },
+    {
+        "page": 469,
+        "heading": "Xue, Hangin, Transboundary Damage in International Law (Cambridge University Press, 2003)",
+        "content": " Yamin, Farhana and Joanna Depledge, The International Climate Change Regime: A Guide to Rules, Institutions and Procedures (Cambridge University Press, 2004) ",
+        "features": {
+            "font_id": "135",
+            "height": 16,
+            "width": 28,
+            "top": 400,
+            "left": 178
+        }
+    },
+    {
+        "page": 470,
+        "heading": "building Output Exceeds 60000000 Dwr and New Orders Decreased by 40%]",
+        "content": " (14 January 2013) <http://www.miit.gov.cn/n11293472/n11293832/n11294132/n12858417/ n12858628/15121853.html> ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 569,
+            "top": 136,
+            "left": 199
+        }
+    },
+    {
+        "page": 471,
+        "heading": "Australian Clean Energy Bill 20n (Explanatory Memorandum), Policy Context",
+        "content": " Clean Air Act of the United States of America, 17 December 1963, 42 USC 7401-7626  Clean Air Act of the United States of America, Pub L No 108-201, Stat, 42 USC \u00a77401 et",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 110,
+            "top": 448,
+            "left": 568
+        }
+    },
+    {
+        "page": 471,
+        "heading": "Clean Air Act of the United States of America, 17 December 1963, 42 USC 7401-7626",
+        "content": " Clean Air Act of the United States of America, Pub L No 108-201, Stat, 42 USC \u00a77401 et seq. (1970, as amended in 1977 and 1990) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 296,
+            "top": 472,
+            "left": 158
+        }
+    },
+    {
+        "page": 471,
+        "heading": "Charter of the United Nations and Statute of the International Court of Justice, signed",
+        "content": "26 June 1945, 59 STAT 1031 (entered into force 24 October 1945)  Convention for the Prevention of Marine Pollution from Land-based Sources, opened for signature 4 June 1974, 13 ILM 352 (entered into force 6 May 1978)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 26,
+            "top": 832,
+            "left": 178
+        }
+    },
+    {
+        "page": 472,
+        "heading": "Convention for the Protection of the Mediterranean Sea against Pollution, signed",
+        "content": "16 February 1976, 15 ILM 300 (entered into force 12 February 1978)  Convention for the Protection of the Marine Environment of the North-East Atlantic, opened for signature 22 September 1992, 32 ILM 1068 (entered into force 25 March",
+        "features": {
+            "font_id": "135",
+            "height": 16,
+            "width": 524,
+            "top": 112,
+            "left": 178
+        }
+    },
+    {
+        "page": 473,
+        "heading": "International Convention on Load Lines, opened for signature 5 April 1966, 640 UNTS",
+        "content": "133 (entered into force 21 July 1968) (Protocol of 11 November 1988, entered into force 3 February 2000)  International Convention on Oil Pollution Preparedness, Response and Cooperation,",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 129,
+            "top": 304,
+            "left": 611
+        }
+    },
+    {
+        "page": 473,
+        "heading": "Midwest Greenhouse Gas Reduction Accord, signed on 15 November 2007, <http://www .c2es.org/us-states-regions/regional-climate-initiatives/mggra>",
+        "content": " Montreal Protocol on Substances that Deplete the Ozone Layer, opened for signature 16 September 1987, 26 ILM 1550 (entered into force 1 January 1989) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 286,
+            "top": 952,
+            "left": 158
+        }
+    },
+    {
+        "page": 473,
+        "heading": "Montreal Protocol on Substances that Deplete the Ozone Layer, opened for signature",
+        "content": "16 September 1987, 26 ILM 1550 (entered into force 1 January 1989)  OECD Convention on Third Party Liability in the Field of Nuclear Energy, opened for sig- nature 29 July 1960, 956 UNTS 251 (entered into force 1 April 1968)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 129,
+            "top": 304,
+            "left": 611
+        }
+    },
+    {
+        "page": 474,
+        "heading": "United Nations Convention on the Law of the Sea, opened for signature 10 December",
+        "content": "1982, 1833 UNTS 3 (entered into force 16 November 1994)  United Nations Framework Convention on Climate Change, opened for signature 9 May 1992, 31 ILM 848 (entered into force 21 March 1994)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 183,
+            "top": 184,
+            "left": 588
+        }
+    },
+    {
+        "page": 474,
+        "heading": "United Nations Framework Convention on Climate Change, opened for signature 9 May",
+        "content": "1992, 31 ILM 848 (entered into force 21 March 1994)  Vienna Convention for the Protection of the Ozone Layer, opened for signature 22 March 1985, 26 ILM 1529 (entered into force 22 September 1988)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 183,
+            "top": 184,
+            "left": 588
+        }
+    },
+    {
+        "page": 474,
+        "heading": "Vienna Convention for the Protection of the Ozone Layer, opened for signature 22 March",
+        "content": "1985, 26 ILM 1529 (entered into force 22 September 1988)  Vienna Convention on the Law of Treaties, opened for signature 23 May 1969, 8 ILM 679 (entered into force 27 January 1980)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 183,
+            "top": 184,
+            "left": 588
+        }
+    },
+    {
+        "page": 475,
+        "heading": "Agenda 21, A/CONF.151/26 (Vols. 1, 11, 111) (13 June 1992)",
+        "content": " Amendment to Draft Compromise MEPC Resolution on Promotion of Technical Co-operation and Transfer of Technology relating to the Improvement of Energy Efficiency of Ships, submitted by South Africa, MEPC 65th Session, Agenda Item 4,",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 67,
+            "top": 496,
+            "left": 158
+        }
+    },
+    {
+        "page": 475,
+        "heading": "Amendments to the Procedures for Port State Control, imo Doc Res A.882(21) (25 November 1999)",
+        "content": " Application of EEDI to Ships other than Those Operating with Conventional Machinery and Power Distribution Arrangements, submitted by ICs, CLIA, INTERFERRY and the Marshall Islands, Intersessional Meeting of the Greenhouse Gas Working Group",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 96,
+            "top": 160,
+            "left": 646
+        }
+    },
+    {
+        "page": 476,
+        "heading": "Bergen Ministerial Declaration on Sustainable Development, 20 EPL 200 (15 May 1990)",
+        "content": " Charter of Economic Rights and Duties of States, UNGA Res.3281(XXIX), 29th Sess, Agenda Item 48, A/RES/29/3281 (12 December 1974) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 395,
+            "top": 328,
+            "left": 178
+        }
+    },
+    {
+        "page": 476,
+        "heading": "Agenda Item 4, IMO Doc MEPC 60/4/15 (15 January 2010)",
+        "content": " Comments on the Guidelines on the Method of Calculation of the Energy Efficiency Design Index for New Ships, submitted by Vanuatu, MEPC 62nd Session, Agenda Item 5, IMO Doc MEPC 62/5/31 (20 May 2011)",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 382,
+            "top": 808,
+            "left": 199
+        }
+    },
+    {
+        "page": 478,
+        "heading": "Decision 1/CP.21 Aoption of the Paris Agreement, Doc FCCC/CP/2015/10/Add.1 (29 January",
+        "content": "2016)  Declaration on Sustainable Development and Plan of Implementation of the World Summit on Sustainable Development, A/CONF.199/CRP/7 and A/CONF/L/6/Rev.2",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 306,
+            "top": 448,
+            "left": 178
+        }
+    },
+    {
+        "page": 479,
+        "heading": "Framework and Procedures for the Voluntary IMO Member State Audit Scheme, Assembly",
+        "content": "24th Session, Agenda Item 19, IMO Doc Res A.g74 (24) (21 December 2005)  Further Details on the Proposal of the United Nations to Reduce Greenhouse Gas Emissions from International Shipping, submitted by the United States of America, MEPC 64th",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 509,
+            "top": 928,
+            "left": 158
+        }
+    },
+    {
+        "page": 481,
+        "heading": "II Yearbook International Law Commission (1980) Pt, 160, 138-139",
+        "content": " IMO Instruments Implementation Code (III Code), MO Doc Res A.1070(28) (4 December 2013) ",
+        "features": {
+            "font_id": "135",
+            "height": 16,
+            "width": 282,
+            "top": 208,
+            "left": 158
+        }
+    },
+    {
+        "page": 481,
+        "heading": "IMO Instruments Implementation Code (III Code), MO Doc Res A.1070(28) (4 December",
+        "content": "2013)  IMO Must Act Decisively to Reduce GHG Emissions from Shipping If It Is to Retain Its Competence in Technical and Political Matters Related to Shipping and GHGs, submit-",
+        "features": {
+            "font_id": "135",
+            "height": 16,
+            "width": 324,
+            "top": 232,
+            "left": 158
+        }
+    },
+    {
+        "page": 482,
+        "heading": "Doc MEPC 63/5/8 (23 December 2011)",
+        "content": " MBM Proposals: A Way Ahead, submitted by Greece, MEPC 62nd Session, Agenda Item 5, IMO Doc MEPC 62/5/7 (6 May 2011) ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 253,
+            "top": 904,
+            "left": 199
+        }
+    },
+    {
+        "page": 483,
+        "heading": "Nordic Council's International Conference on Pollution of the Seas, Greenpeace 18, Annex 2 (1990)",
+        "content": " Operational Energy Efficiency of New and Existing Ships, submitted by the International Chamber of Shipping (Ics), MEPC 64th Session, Agenda Item 5, IMO Doc MEPC 64/5/11 (27 July 2012)",
+        "features": {
+            "font_id": "136",
+            "height": 13,
+            "width": 6,
+            "top": 142,
+            "left": 524
+        }
+    },
+    {
+        "page": 483,
+        "heading": "Paris MOU, New Targeting Lists Paris MOU (16 June 2014) <https://www.parismou.org/ new-targeting-lists-paris-mou>",
+        "content": " Partnerships in Environmental Management for the Seas of East Asia, Korea Maritime Institute (KMI) <http://www.pemsea.org/organization/kmi> ",
+        "features": {
+            "font_id": "136",
+            "height": 13,
+            "width": 6,
+            "top": 142,
+            "left": 524
+        }
+    },
+    {
+        "page": 483,
+        "heading": "Partnerships in Environmental Management for the Seas of East Asia, Korea Maritime Institute (KMI) <http://www.pemsea.org/organization/kmi>",
+        "content": " Phase-in Implementation of the Energy Efficiency Design Index for Standard and Complex Ship Types, submitted by the Community of European Shipyards\u2019 Associations (CESA), MEPC 59th Session, Agenda Item 4, IMO Doc MEPC 59/4/38",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 476,
+            "top": 448,
+            "left": 158
+        }
+    },
+    {
+        "page": 483,
+        "heading": "Procedures for Port State Control, MO Doc Res A. 787(19) (23 November 1995)",
+        "content": " Project to Develop a SEEMP Using a Structured Methodology and the Resulting Improvement in Energy Efficiency, submitted by Oil Companies International Marine Forum (OCIMF), MEPC 62nd Session, Agenda Item 5, IMO Doc MEPC 62/",
+        "features": {
+            "font_id": "136",
+            "height": 13,
+            "width": 6,
+            "top": 142,
+            "left": 524
+        }
+    },
+    {
+        "page": 484,
+        "heading": "Proposal Submitted on behalf of the Group 77, UN Doc.A/CONF.151/PC/WG.111/L.20/ REV.1 (1992)",
+        "content": " Protection of Global Climate for Present and Future Generations of Mankind, GA/Res 43/53, 43rd sess, 7oth plen mtg, UN Doc A/RES/43/53 (6 December 1988) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 318,
+            "top": 376,
+            "left": 178
+        }
+    },
+    {
+        "page": 484,
+        "heading": "Protection of Global Climate for Present and Future Generations of Mankind, GA/Res",
+        "content": "43/53, 43rd sess, 7oth plen mtg, UN Doc A/RES/43/53 (6 December 1988)  Protection of Global Climate for Present and Future Generations of Mankind, UNGA. A/ RES/44/207 (22 December 1989)",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 522,
+            "top": 424,
+            "left": 178
+        }
+    },
+    {
+        "page": 485,
+        "heading": "Rio Declaration on Environment and Development, 31 1LM 874 (14 June 1992)",
+        "content": " Scientific Study on International Shipping and Market-Based Instruments, IMO Doc. MEPC 60/INF.21 (15 January 2010) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 332,
+            "top": 352,
+            "left": 158
+        }
+    },
+    {
+        "page": 485,
+        "heading": "Scientific Study on International Shipping and Market-Based Instruments, IMO Doc. MEPC 60/INF.21 (15 January 2010)",
+        "content": " Ship Efficiency Management Plan, submitted by ICs, BIMCO, Intercargo, Intertanko and OCIMF, MEPC 58th Session, Agenda Item 4, IMO Doc MEPC 58/INF.7 (28 July 2008) ",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 504,
+            "top": 376,
+            "left": 158
+        }
+    },
+    {
+        "page": 485,
+        "heading": "Stockholm Declaration on the Human Environment, 11 1LM 1416 (16 June 1972)",
+        "content": " Technical Evaluation of Market-based Instruments, submitted by Oil Companies International Marine Forum (OCIMF), MEPC 59th Session, Agenda Item 4, IMO Doc MEPC 59/4/17 (7 May 2009)",
+        "features": {
+            "font_id": "45",
+            "height": 16,
+            "width": 338,
+            "top": 544,
+            "left": 158
+        }
+    },
+    {
+        "page": 485,
+        "heading": "Abbott, Tony, The Coalition\u2019s Plan to Abolish the Carbon Tax (2013) <https://www.lib- eral.org.au/our-plan-abolish-carbon-tax>",
+        "content": " American Mathematical Society, Developing Countries List <http://www.ams.org/ membership/individual/types/mem-develop> ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 34,
+            "top": 256,
+            "left": 178
+        }
+    },
+    {
+        "page": 486,
+        "heading": "Ares, Elena, EU ETS and Aviation (23 May 2012) <www.parliament.uk/briefing-papers/ SNo5533.pdf>",
+        "content": " Asia Shipbuilding & Offshore Information Service (AsIAsIs), Korea Welcomes EU Environmental Regulations (17 November 2010) <http://www.simic.net.cn/news_ show.php?lan=en&id=80211>",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 84,
+            "top": 112,
+            "left": 178
+        }
+    },
+    {
+        "page": 493,
+        "heading": "World Meteorological Organization (WMO), WMO at UNFCCC/COP Sessions <http:// www.wmo.int/pages/prog/wep/cop17/background_en.html>",
+        "content": " World Ports Climate Initiative, World Ports Climate Declaration (July 2008) <http:// www.wpci.nl/docs/Declaration.pdf> ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 305,
+            "top": 112,
+            "left": 158
+        }
+    },
+    {
+        "page": 493,
+        "heading": "World Ports Climate Initiative, World Ports Climate Declaration (July 2008) <http:// www.wpci.nl/docs/Declaration.pdf>",
+        "content": " World Trade Organization (wTo), Chronological List of Disputes Cases <http://www .wto.org/english/tratop_e/dispu_e/dispu_status_e.htm> ",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 58,
+            "top": 160,
+            "left": 681
+        }
+    },
+    {
+        "page": 493,
+        "heading": "World Trade Organization (wTo), Chronological List of Disputes Cases <http://www .wto.org/english/tratop_e/dispu_e/dispu_status_e.htm>",
+        "content": " KAFK[Takungpao], (AH EEREATEE ALTA Se RAE BOTT TATE) [New Ship Built by SinoPacific Shipbuilding Group First Obtained the EEDI Certificate] (24 February 2012) <http://www.csoa.cn/xuliebd/jienengjp/201202/t20120224_",
+        "features": {
+            "font_id": "11",
+            "height": 17,
+            "width": 97,
+            "top": 112,
+            "left": 646
+        }
+    },
+    {
+        "page": 494,
+        "heading": "Index",
+        "content": " App (Ad Hoc Working Group on the Durban  Platform for Enhanced Action) 127, 166,",
+        "features": {
+            "font_id": "134",
+            "height": 26,
+            "width": 65,
+            "top": 105,
+            "left": 178
+        }
+    },
+    {
+        "page": 495,
+        "heading": "HCS (Hellenic Chamber of Shipping) 263 Hybrid market-based measure 223",
+        "content": " IACS (International Association of Classification Societies) 253, 254 n. 128 IAPH (International Association of Ports and",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 263,
+            "top": 564,
+            "left": 460
+        }
+    },
+    {
+        "page": 496,
+        "heading": "IsF (International Shipping Federation)",
+        "content": "235  Iso (International Organization for Standardization) 253",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 268,
+            "top": 112,
+            "left": 480
+        }
+    },
+    {
+        "page": 496,
+        "heading": "Iso (International Organization for Standardization) 253",
+        "content": " ITLOS (International Tribunal for the Law of the Seas) 75 ",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 220,
+            "top": 152,
+            "left": 480
+        }
+    },
+    {
+        "page": 496,
+        "heading": "ITLOS (International Tribunal for the Law of the Seas) 75",
+        "content": " IUCN (International Union for Conservation of Nature) 102, 303, 387, 402 n. 191, 402, ",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 275,
+            "top": 191,
+            "left": 480
+        }
+    },
+    {
+        "page": 497,
+        "heading": "NDC (Nationally Determined Contribution)",
+        "content": "88, 151, 162, 166, 168, 273, 409  479 ",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 286,
+            "top": 1054,
+            "left": 158
+        }
+    },
+    {
+        "page": 498,
+        "heading": "based measure 221",
+        "content": " Transboundary harm 30, 32, 35, 36 n. 17, 40 N. 32, 56-62, 63 n. 163 234, 252, 366, 424 ",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 126,
+            "top": 682,
+            "left": 199
+        }
+    },
+    {
+        "page": 498,
+        "heading": "UNCED (United Nations Conference on Environment and Development)",
+        "content": "84 N. 255, 199 UNCTAD (United Nations Conference on Trade and Development) 18 n. 99, 80 n. 241, 101 N. 341, 259 N. 141, 263",
+        "features": {
+            "font_id": "139",
+            "height": 15,
+            "width": 244,
+            "top": 113,
+            "left": 480
+        }
+    }
+]

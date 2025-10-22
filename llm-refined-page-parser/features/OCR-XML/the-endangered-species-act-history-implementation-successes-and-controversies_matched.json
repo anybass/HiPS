@@ -1,0 +1,986 @@
+[
+    {
+        "page": 4,
+        "heading": "History, Implementation, Successes, and Controversies",
+        "content": " J. Peyton Doub  Taylor & Francis Group, an informa business",
+        "features": {
+            "font_id": "2",
+            "height": 34,
+            "width": 427,
+            "top": 339,
+            "left": 108
+        }
+    },
+    {
+        "page": 4,
+        "heading": "J. Peyton Doub",
+        "content": " Taylor & Francis Group, an informa business ",
+        "features": {
+            "font_id": "8",
+            "height": 31,
+            "width": 178,
+            "top": 454,
+            "left": 107
+        }
+    },
+    {
+        "page": 5,
+        "heading": "CRC Press",
+        "content": " Taylor & Francis Group  6000 Broken Sound Parkway NW, Suite 300",
+        "features": {
+            "font_id": "10",
+            "height": 11,
+            "width": 50,
+            "top": 166,
+            "left": 73
+        }
+    },
+    {
+        "page": 10,
+        "heading": "5.6.6 Cumulative Impacts in a Biological Assessment............. 129",
+        "content": " 5.6.7 Biological Assessment Conclusion ............ccceseeseeeees 131  NOteS .....cecsesesesessessseseseseeeesesesesescsesesseececsessesessesesssecsesensesssesensseeessesenseeeesseetens 135",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 444,
+            "top": 122,
+            "left": 147
+        }
+    },
+    {
+        "page": 12,
+        "heading": "xi",
+        "content": "Species Act. In 2005, the government declared the bald eagle recovery com- plete enough to remove (delist) it from the group of species directly protected by the Endangered Species Act. And most American bird-watchers, a hobby of understated importance to more of the American population than ever",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 508,
+            "top": 552,
+            "left": 80
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Author",
+        "content": " Peyton Doub has more than 20 years\u2019 experience as an environmental con- sultant working with the Endangered Species Act and related environmen- tal regulations and 4 years working on the environmental staff of a federal",
+        "features": {
+            "font_id": "17",
+            "height": 27,
+            "width": 86,
+            "top": 123,
+            "left": 80
+        }
+    },
+    {
+        "page": 18,
+        "heading": "Roots of Endangered Species Conservation",
+        "content": " 1.1 Introduction  Most Americans know of the Endangered Species Act, many admire its",
+        "features": {
+            "font_id": "26",
+            "height": 27,
+            "width": 486,
+            "top": 178,
+            "left": 80
+        }
+    },
+    {
+        "page": 31,
+        "heading": "Notes",
+        "content": " 1. Parks and Gardens Data Services. 2007. Deer Parks and Hunting\u2014Parks and Hunting. Available at http://www.parksandgardens.ac.uk/274/explore-31/ feature-articles-151 /deer-parks-and-hunting-548.html?limit=1&limitstart=1.",
+        "features": {
+            "font_id": "27",
+            "height": 16,
+            "width": 50,
+            "top": 839,
+            "left": 80
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Name King\u2019s Mark? February 24. Available at http: //ccrpa.org/km/King\u2019s%20 Mark%20Why%20The%20Name%20King\u2019s%20Mark.htm. Accessed January",
+        "content": "14, 2012.  . Eccleston, Charles H. and Doub, J. Peyton. 2012. Preparing NEPA Environmental ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 482,
+            "top": 156,
+            "left": 113
+        }
+    },
+    {
+        "page": 34,
+        "heading": "Some Basic Concepts",
+        "content": " 2.1 Introduction  Although the Endangered Species Act constitutes a national policy to pro-",
+        "features": {
+            "font_id": "26",
+            "height": 27,
+            "width": 248,
+            "top": 178,
+            "left": 80
+        }
+    },
+    {
+        "page": 35,
+        "heading": "Eastern indigo snake",
+        "content": " Kemps Ridley sea turtle Botany Plants Swamp pink ",
+        "features": {
+            "font_id": "35",
+            "height": 12,
+            "width": 114,
+            "top": 696,
+            "left": 392
+        }
+    },
+    {
+        "page": 48,
+        "heading": "Species",
+        "content": " For Linnaeus, kingdom was easy\u2014plant or animal. Animal, vegetable, or mineral\u2014and minerals are nonliving and hence out of the process. Most naturalists at the time considered themselves zoologists or botanists. For his",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 507,
+            "top": 415,
+            "left": 80
+        }
+    },
+    {
+        "page": 75,
+        "heading": "(D) the inadequacy of existing regulatory mechanisms; or",
+        "content": " (E) other natural or manmade factors affecting its continued existence.\u201d ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 356,
+            "top": 550,
+            "left": 124
+        }
+    },
+    {
+        "page": 75,
+        "heading": "(E) other natural or manmade factors affecting its continued existence.\u201d",
+        "content": " The regulatory language is virtually identical and provides little addi- tional insight. The regulations issued by the FWS in 50 C.F.R. 424 state: ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 413,
+            "top": 567,
+            "left": 125
+        }
+    },
+    {
+        "page": 75,
+        "heading": "(4) The inadequacy of existing regulatory mechanisms; or",
+        "content": " (5) Other natural or manmade factors affecting its continued existence.*\u00b0 ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 350,
+            "top": 830,
+            "left": 133
+        }
+    },
+    {
+        "page": 75,
+        "heading": "(5) Other natural or manmade factors affecting its continued existence.*\u00b0",
+        "content": " Note that the criteria for listing, as established in the statutory and regula- tory language, are not limited to human-made exploitation. Most listed (or ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 58,
+            "top": 583,
+            "left": 152
+        }
+    },
+    {
+        "page": 85,
+        "heading": "\u00a2 Provide a global index of the state of change of biodiversity.**",
+        "content": " Assignments to the Red List take place only following a peer review by at least two qualified specialists and are reviewed at least once every 10 years (every 5 years if possible). Since 2006, IUCN has recognized species in seven",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 413,
+            "top": 215,
+            "left": 98
+        }
+    },
+    {
+        "page": 85,
+        "heading": "Threatened conservation statuses",
+        "content": " \u00a2 Critically endangered (CR): Taxa facing an extremely high risk of extinction in the wild. Examples are the leatherback sea turtle (Dermochelys coriacea) and California condor (Gymnogyps",
+        "features": {
+            "font_id": "14",
+            "height": 15,
+            "width": 205,
+            "top": 720,
+            "left": 98
+        }
+    },
+    {
+        "page": 90,
+        "heading": "PHOTO 1",
+        "content": " Brown pelican (Pelecanus occidentalis). This piscivorous (diet consisting mainly of fish) bird, ranging along the south Atlantic and Gulf coasts, was formerly listed as endangered through- out the range. Due to recovery, it was delisted on November 17, 2009 (74 FR 59444\u2014-594720) and",
+        "features": {
+            "font_id": "42",
+            "height": 12,
+            "width": 56,
+            "top": 352,
+            "left": 80
+        }
+    },
+    {
+        "page": 93,
+        "heading": "ay",
+        "content": " PHOTO 6 Florida scrub-jay (Aphelocoma coerulescens). This medium-sized passerine bird is, as it name ",
+        "features": {
+            "font_id": "35",
+            "height": 12,
+            "width": 101,
+            "top": 698,
+            "left": 80
+        }
+    },
+    {
+        "page": 94,
+        "heading": "Related Environmental Statutes and Regulations",
+        "content": " 4.1 Introduction  The Endangered Species Act does not exist in a vacuum. It is one of dozens of",
+        "features": {
+            "font_id": "26",
+            "height": 27,
+            "width": 359,
+            "top": 178,
+            "left": 80
+        }
+    },
+    {
+        "page": 96,
+        "heading": "TABLE 4.1",
+        "content": " 75  Examples of Federal Environmental Acts Potentially Applicable to Land",
+        "features": {
+            "font_id": "33",
+            "height": 14,
+            "width": 67,
+            "top": 122,
+            "left": 80
+        }
+    },
+    {
+        "page": 98,
+        "heading": "Topics Commonly Covered in Environmental Impact Statements",
+        "content": " Topic Typical Considerations  Land use Land availability, compatibility with existing and proposed",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 391,
+            "top": 369,
+            "left": 80
+        }
+    },
+    {
+        "page": 98,
+        "heading": "Topic Typical Considerations",
+        "content": " Land use Land availability, compatibility with existing and proposed  uses of nearby property, compliance with local zoning",
+        "features": {
+            "font_id": "34",
+            "height": 12,
+            "width": 33,
+            "top": 394,
+            "left": 80
+        }
+    },
+    {
+        "page": 100,
+        "heading": "Commission",
+        "content": "Federal Energy Regulatory 18 C.ER. 380  Commission ",
+        "features": {
+            "font_id": "35",
+            "height": 12,
+            "width": 178,
+            "top": 877,
+            "left": 80
+        }
+    },
+    {
+        "page": 107,
+        "heading": "\u00a2 visual quality and aesthetics (value); and",
+        "content": " \u00a2 threatened or endangered species habitat (value).  Several semiquantitative functional assessment methods involve the cal-",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 292,
+            "top": 552,
+            "left": 98
+        }
+    },
+    {
+        "page": 109,
+        "heading": "\u201cAmerican eagle\u201d is another common name for the bald eagle. Until June",
+        "content": "2007, the bald eagle was also protected in most geographic areas under the Endangered Species Act, first as endangered, then since 1995 as threatened.\u201d The protections offered under the Eagle Act were in addition to those under the Endangered Species Act. Until delisting, the bald eagle was addressed in",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 495,
+            "top": 478,
+            "left": 93
+        }
+    },
+    {
+        "page": 118,
+        "heading": "Unlike the better-known and more controversial Clean Water Act Section",
+        "content": "404, Executive Order 11990 specifically instructs federal agencies, and not other parties, to minimize impacts to wetlands. Executive Order 11990 does not rely on authority to protect \u201cwaters of the United States\u201d but directly addresses wetlands, defined (with minor wording differences) in a manner",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 510,
+            "top": 370,
+            "left": 80
+        }
+    },
+    {
+        "page": 123,
+        "heading": "Notes",
+        "content": " 1. 42 U.S.C. 4321 et seq., the National Environmental Policy Act of 1969, as amended. ",
+        "features": {
+            "font_id": "27",
+            "height": 16,
+            "width": 50,
+            "top": 438,
+            "left": 80
+        }
+    },
+    {
+        "page": 126,
+        "heading": "te)",
+        "content": " Section 7: The Federal Consultation Process  5.1 Introduction",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 504,
+            "top": 385,
+            "left": 80
+        }
+    },
+    {
+        "page": 126,
+        "heading": "Section 7: The Federal Consultation Process",
+        "content": " 5.1 Introduction  Section 7 is the part of the Endangered Species Act most commonly encoun-",
+        "features": {
+            "font_id": "26",
+            "height": 27,
+            "width": 496,
+            "top": 178,
+            "left": 80
+        }
+    },
+    {
+        "page": 126,
+        "heading": "\u00a2 Availability of relevant data; \u00a2 Frequent and effective communication with experts; and",
+        "content": " \u00a2 Careful evaluation of possible impacts and how those impacts may be mitigated. ",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 210,
+            "top": 763,
+            "left": 98
+        }
+    },
+    {
+        "page": 129,
+        "heading": "TABLE 5.1",
+        "content": " Examples of Federal Permits and Authorizations Potentially Requiring Section 7 Consultation ",
+        "features": {
+            "font_id": "33",
+            "height": 14,
+            "width": 67,
+            "top": 122,
+            "left": 89
+        }
+    },
+    {
+        "page": 137,
+        "heading": "(Campanula robinsiae) (E)",
+        "content": " Britton\u2019s beargrass March 2011 Lake, Hernando, 412, 413, 421, No individuals (Nolina Marion, Polk 427, 432 observed, but one brittoniana) (E) individual had",
+        "features": {
+            "font_id": "43",
+            "height": 12,
+            "width": 59,
+            "top": 255,
+            "left": 90
+        }
+    },
+    {
+        "page": 137,
+        "heading": "way in 2009",
+        "content": " Florida bonamia July 2011 Lake, 412, 413, 421, No individuals (Bonamia Hillsborough, 432 observed grandiflora) (T) Marion, Polk",
+        "features": {
+            "font_id": "35",
+            "height": 12,
+            "width": 66,
+            "top": 363,
+            "left": 481
+        }
+    },
+    {
+        "page": 137,
+        "heading": "Long-spurred October 2011 Marion,Sumter 412, 413, 421, No individuals mint (Dicerandra 432 observed comutissima) (E)",
+        "content": " Cooley\u2019s water- October 2011 Hernando, 414, 423, 425, No individuals willow (Justicia Sumter 431, 434, 438, observed cooleyi) (E) 615, 617, 630",
+        "features": {
+            "font_id": "35",
+            "height": 12,
+            "width": 83,
+            "top": 225,
+            "left": 475
+        }
+    },
+    {
+        "page": 145,
+        "heading": "\u00a2 Historic range",
+        "content": " \u00a2 Current range  \u00a2 Suitable habitat",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 122,
+            "top": 122,
+            "left": 98
+        }
+    },
+    {
+        "page": 147,
+        "heading": "Severity of disturbances.\u201d!",
+        "content": " The first four factors generally parallel CEQ\u2019s context factor. The last three factors generally parallel CEQ\u2019s intensity factor. The factors are interrelated and overlap substantially. For example, the proximity of an action influences",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 167,
+            "top": 752,
+            "left": 134
+        }
+    },
+    {
+        "page": 152,
+        "heading": "\u00a2 Is not likely to adversely affect (NLAA); e Nonconcurrence;?6",
+        "content": " \u00a2 Is likely to adversely affect (LAA); and \u00a2 Is likely to jeopardize.\u201d\u201d ",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 286,
+            "top": 337,
+            "left": 98
+        }
+    },
+    {
+        "page": 152,
+        "heading": "\u00a2 Is likely to adversely affect (LAA); and \u00a2 Is likely to jeopardize.\u201d\u201d",
+        "content": " The act, the regulations, and the handbook do not require action agencies to word their conclusions using these choices, but many action agencies elect to do so. Doing so, however, is a good idea because it helps the Services better",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 277,
+            "top": 382,
+            "left": 98
+        }
+    },
+    {
+        "page": 156,
+        "heading": "Notes",
+        "content": " 1. This text alludes to similar language used by the CEQ in developing regulatory guidance for NEPA compliance in 40 C.F.R. 1500 et seq., specifically 40 C.FR. 1500(1)(c), which states \u201cUltimately, of course, it is not better documents but",
+        "features": {
+            "font_id": "27",
+            "height": 16,
+            "width": 50,
+            "top": 353,
+            "left": 80
+        }
+    },
+    {
+        "page": 158,
+        "heading": "Take Permits and Mitigation",
+        "content": " 6.1 Introduction  In an ideal world, there would be no take permits. After all, if scientific evi-",
+        "features": {
+            "font_id": "26",
+            "height": 27,
+            "width": 331,
+            "top": 178,
+            "left": 80
+        }
+    },
+    {
+        "page": 166,
+        "heading": "\u00a2 Introductory paragraph",
+        "content": " \u00a2 Amount or extent of take anticipated  \u00a2 Effect of the take (to comply with Item i)",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 185,
+            "top": 122,
+            "left": 98
+        }
+    },
+    {
+        "page": 174,
+        "heading": "e) Compensating for the impact by replacing or providing substi- tute resources or environments.\u201d\u00b0",
+        "content": " Mitigation is arguably the most important, and certainly the most tan- gible, element of environmental planning and regulation. Identifying and evaluating possible effects on environmental resources, including threat-",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 397,
+            "top": 156,
+            "left": 132
+        }
+    },
+    {
+        "page": 179,
+        "heading": "aatsuadxa aroun ATTe1aua5 suorssaidap ssa00ns UTe}120U) Arp ojut yyouns Suysaatq",
+        "content": "0D) aqqey ures [euolpuny pure a8eanDy J3}VM 0} ISOPD BdeFINS punoss INJIO APAIUIIOJ 3OU pIp uojeaio 01g ysi[qeyse 0} spueydn Sunearoxy Aay a1ayM spuepyjem Surysitqeysy puepay :u0D",
+        "features": {
+            "font_id": "46",
+            "height": 14,
+            "width": 0,
+            "top": 917,
+            "left": 216
+        }
+    },
+    {
+        "page": 191,
+        "heading": "Notes",
+        "content": " 1. 50 C.ER. 402.02.  2. The regulations require consulting action agencies to prepare and submit a",
+        "features": {
+            "font_id": "27",
+            "height": 16,
+            "width": 50,
+            "top": 571,
+            "left": 80
+        }
+    },
+    {
+        "page": 200,
+        "heading": "Dr",
+        "content": " 7.3 Examples of State Endangered Species Acts  There is not enough room in this book to summarize the endangered species",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 507,
+            "top": 177,
+            "left": 80
+        }
+    },
+    {
+        "page": 221,
+        "heading": "Notes",
+        "content": " 1. U.S. Department of Agriculture. 2011. PLANTS Profile for American Lotus (Nelundo lutea). Available at http://plants.usda.gov/java/profile?symbol= NELU. Accessed September 23, 2011.",
+        "features": {
+            "font_id": "27",
+            "height": 16,
+            "width": 50,
+            "top": 542,
+            "left": 80
+        }
+    },
+    {
+        "page": 221,
+        "heading": "N",
+        "content": " 1. U.S. Department of Agriculture. 2011. PLANTS Profile for American Lotus (Nelundo lutea). Available at http://plants.usda.gov/java/profile?symbol= NELU. Accessed September 23, 2011.",
+        "features": {
+            "font_id": "24",
+            "height": 15,
+            "width": 180,
+            "top": 61,
+            "left": 407
+        }
+    },
+    {
+        "page": 221,
+        "heading": "=",
+        "content": "NELU. Accessed September 23, 2011.  . Braun, E.L. 2001. Deciduous Forests of Eastern North America, reprint of first edi- tion, 1950, Blackburn Press, Caldwell, NJ, 506 pp.",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 62,
+            "top": 586,
+            "left": 532
+        }
+    },
+    {
+        "page": 222,
+        "heading": "Miami Herald. 2012. Wood Storks Shun Corkscrew Swamp Sanctuary. March",
+        "content": "5. Available at http://www.miamiherald.com/2012/02/25/2660035 /wood- storks-shun-corkscrew-swamp.html. Accessed March 5, 2012.  Chapter 62-340, Florida Administrative Code, Delineation of the Landward Extent",
+        "features": {
+            "font_id": "32",
+            "height": 14,
+            "width": 80,
+            "top": 815,
+            "left": 113
+        }
+    },
+    {
+        "page": 224,
+        "heading": "Future of the Endangered Species Act",
+        "content": " 8.1 Introduction  The first seven chapters of this book have been largely factual, examin-",
+        "features": {
+            "font_id": "26",
+            "height": 27,
+            "width": 425,
+            "top": 178,
+            "left": 80
+        }
+    },
+    {
+        "page": 238,
+        "heading": "Throughout the late 1980s and the 1990s, the USACE had exerted Section",
+        "content": "404 jurisdiction over nearly all wetlands meeting the technical criteria for delineation as wetlands. However, the Clean Water Act statutory language limits the act\u2019s jurisdiction to \u201cwaters of the United States\u201d presently or for- merly used for navigation or otherwise involved in interstate commerce. The",
+        "features": {
+            "font_id": "15",
+            "height": 15,
+            "width": 495,
+            "top": 195,
+            "left": 93
+        }
+    },
+    {
+        "page": 255,
+        "heading": "Notes",
+        "content": " 1. Muir, J. 1911. My First Summer in the Sierra, Houghton Mifflin, Boston.  2. Leopold, A. 1966. A Sand County Almanac: With Other Essays on Conservation from",
+        "features": {
+            "font_id": "27",
+            "height": 16,
+            "width": 50,
+            "top": 621,
+            "left": 80
+        }
+    },
+    {
+        "page": 258,
+        "heading": "Republicans for Environmental Protection. 2006. Congressional Scorecard for",
+        "content": "2006. Available at http://www.rep.org/2006_scorecard.pdf. Accessed March 11, 2012.  Hooper, T. 2012. Santorum and Gingrich Dismiss Climate Change, Vow to",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 499,
+            "top": 172,
+            "left": 90
+        }
+    },
+    {
+        "page": 260,
+        "heading": "Index",
+        "content": " Note: CI indicates color insert  100-year floodplain, 95",
+        "features": {
+            "font_id": "17",
+            "height": 27,
+            "width": 68,
+            "top": 123,
+            "left": 80
+        }
+    },
+    {
+        "page": 260,
+        "heading": "Note: CI indicates color insert",
+        "content": " 100-year floodplain, 95  2012 Presidential election",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 36,
+            "top": 210,
+            "left": 80
+        }
+    },
+    {
+        "page": 260,
+        "heading": "A",
+        "content": "Obama\u2019s position on ESA, 230-232 Paul\u2019s position on ESA, 228-229 Romney\u2019s position on ESA, 227 Santorum\u2019s position on ESA, 229-230",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 132,
+            "top": 210,
+            "left": 131
+        }
+    },
+    {
+        "page": 261,
+        "heading": "B",
+        "content": " Bacteria, 24 as separate kingdom, 33 Bald and Golden Eagle Protection Act, 9,",
+        "features": {
+            "font_id": "53",
+            "height": 13,
+            "width": 12,
+            "top": 123,
+            "left": 80
+        }
+    },
+    {
+        "page": 264,
+        "heading": "D",
+        "content": "Manual, 85, 211 Council on Environmental Quality (CEQ), 78, 109 County lists, 110",
+        "features": {
+            "font_id": "24",
+            "height": 15,
+            "width": 39,
+            "top": 61,
+            "left": 80
+        }
+    },
+    {
+        "page": 265,
+        "heading": "E",
+        "content": "Dunes sagebrush lizard (Sceloporus arenicolus), 57 Dusky seaside sparrow (Ammodramus maritimus nigrescens), 54",
+        "features": {
+            "font_id": "24",
+            "height": 15,
+            "width": 42,
+            "top": 61,
+            "left": 549
+        }
+    },
+    {
+        "page": 266,
+        "heading": "non-delegation to states, 174",
+        "content": " Obama\u2019s position on, 230-232  original lack of incidental take",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 175,
+            "top": 420,
+            "left": 98
+        }
+    },
+    {
+        "page": 267,
+        "heading": "F",
+        "content": "Management), 94-97 Executive Order 13112, 99-100 Expected value concept, 95, 96 ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 183,
+            "top": 156,
+            "left": 98
+        }
+    },
+    {
+        "page": 267,
+        "heading": "Family, 31, 33",
+        "content": " Farmland Protection Policy Act, 75  Fauna, 24",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 87,
+            "top": 752,
+            "left": 341
+        }
+    },
+    {
+        "page": 267,
+        "heading": "Fecundity, 124",
+        "content": " Federal agencies as action agencies, 144 administering ESA, 13",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 93,
+            "top": 801,
+            "left": 341
+        }
+    },
+    {
+        "page": 269,
+        "heading": "G",
+        "content": " Gaur bull (Bos gaurus), cloning experiments, 204-205 General location figures, 121",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 175,
+            "top": 122,
+            "left": 98
+        }
+    },
+    {
+        "page": 269,
+        "heading": "H",
+        "content": "Refuge, 193 Great white shark (Carcharodon carcharias), 68 Greenhouse gas emissions, 221",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 175,
+            "top": 122,
+            "left": 98
+        }
+    },
+    {
+        "page": 271,
+        "heading": "J",
+        "content": " Jack pine (Pinus banksiana), 26 temporal avoidance measures, 163 Japanese honeysuckle (Lonicera japonica),",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 244,
+            "top": 520,
+            "left": 80
+        }
+    },
+    {
+        "page": 271,
+        "heading": "K",
+        "content": " K-selected species, 22 Key deer (Odocoileus virginianus clavium), 35",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 216,
+            "top": 139,
+            "left": 98
+        }
+    },
+    {
+        "page": 271,
+        "heading": "L",
+        "content": "100 Jeopardy conclusions, 140 Job Creation and Wage Enhancement Act (proposed), 214-215",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 217,
+            "top": 122,
+            "left": 98
+        }
+    },
+    {
+        "page": 271,
+        "heading": "Lacey Act of 1900, 5, 6, 12 expansion of scope, 6",
+        "content": " Land use, 77 restrictions imposed on, 212 ",
+        "features": {
+            "font_id": "53",
+            "height": 13,
+            "width": 12,
+            "top": 842,
+            "left": 341
+        }
+    },
+    {
+        "page": 273,
+        "heading": "loss, 230",
+        "content": " Logistic growth equation, 21  Longleaf pine (Pinus palustris), 188",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 56,
+            "top": 139,
+            "left": 134
+        }
+    },
+    {
+        "page": 275,
+        "heading": "N N",
+        "content": " O  Oak-pine forest region, in Maryland,",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 207,
+            "top": 832,
+            "left": 80
+        }
+    },
+    {
+        "page": 275,
+        "heading": "O",
+        "content": " Oak-pine forest region, in Maryland, 180 Obama administration, 223",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 246,
+            "top": 122,
+            "left": 80
+        }
+    },
+    {
+        "page": 275,
+        "heading": "P",
+        "content": "Repatriation Act, 75 Native bird protection, 92 Natural history, 61 including in biological assessments,",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 246,
+            "top": 122,
+            "left": 80
+        }
+    },
+    {
+        "page": 277,
+        "heading": "Pyrenean ibex (Capra pyrenaica pyrenaica), cloning experiments, 205",
+        "content": " Q  Qualified surveyors, 117, 133",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 89,
+            "top": 123,
+            "left": 341
+        }
+    },
+    {
+        "page": 277,
+        "heading": "Q",
+        "content": " Qualified surveyors, 117, 133 Quayle, Dan, position on ESA, 212 ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 106,
+            "top": 156,
+            "left": 98
+        }
+    },
+    {
+        "page": 278,
+        "heading": "Roosevelt, Theodore, Pelican Island protection, 4",
+        "content": " Royal forests, 2  Runoff, 125",
+        "features": {
+            "font_id": "32",
+            "height": 14,
+            "width": 5,
+            "top": 579,
+            "left": 113
+        }
+    },
+    {
+        "page": 278,
+        "heading": "Runoff, 125",
+        "content": " S  Safe Drinking Water Act, 74, 75",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 75,
+            "top": 172,
+            "left": 341
+        }
+    },
+    {
+        "page": 278,
+        "heading": "S",
+        "content": "Legislation Executive Order 11988 (Floodplain Management), 94-97 Executive Order 11990 (Protection of",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 87,
+            "top": 122,
+            "left": 80
+        }
+    },
+    {
+        "page": 280,
+        "heading": "Take amount/extent of anticipated, 145 effects of, 145 Florida definitions, 191 terms and conditions, 145",
+        "content": " 259  Take permits, 24, 62, 80, 89, 137-138. See",
+        "features": {
+            "font_id": "53",
+            "height": 13,
+            "width": 12,
+            "top": 825,
+            "left": 80
+        }
+    },
+    {
+        "page": 281,
+        "heading": "Tree cutting, as violation of take prohibitions, 64",
+        "content": " Tribal historic preservation officers (TPHOs), 101-102 ",
+        "features": {
+            "font_id": "29",
+            "height": 14,
+            "width": 200,
+            "top": 123,
+            "left": 341
+        }
+    }
+]

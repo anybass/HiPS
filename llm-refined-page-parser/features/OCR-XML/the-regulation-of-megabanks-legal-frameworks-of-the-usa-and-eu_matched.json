@@ -1,0 +1,2318 @@
+[
+    {
+        "page": 2,
+        "heading": "The Regulation of Megabanks",
+        "content": " Global systemically important banks (G-SIBs) are the largest, most complex and, in the event of their potential failure, most threatening banking institutions in the world. The Global Financial Crisis (GFC) was a turning point for G-SIBs, many",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 347,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Routledge Research in Finance and Banking Law",
+        "content": " Vulnerable Consumers and Fair Access to Financial Services Present and Future Challenges Edited by Catalin Gabriel Stanescu and Asress Adimi Gikay",
+        "features": {
+            "font_id": "4",
+            "height": 16,
+            "width": 380,
+            "top": 96,
+            "left": 96
+        }
+    },
+    {
+        "page": 5,
+        "heading": "and by Routledge 605 Third Avenue, New York, NY 10158",
+        "content": " Routledge is an imprint of the Taylor & Francis Group, an informa business \u00a9 2023 Katarzyna M. Parchimowicz ",
+        "features": {
+            "font_id": "9",
+            "height": 11,
+            "width": 64,
+            "top": 113,
+            "left": 96
+        }
+    },
+    {
+        "page": 8,
+        "heading": "Contents",
+        "content": " Acknowledgments xi List of abbreviations Xili Introduction 1",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 103,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 10,
+        "heading": "3.3",
+        "content": " 3.4  3.2.1 International level 109",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 179,
+            "top": 231,
+            "left": 99
+        }
+    },
+    {
+        "page": 12,
+        "heading": "Acknowledgments",
+        "content": " My journey with this book started after I read Fragile by Design by Charles Calomiris and Stephen Haber. It made me realize that I wanted to enter this maze of legal issues plaguing international banking and finance. When I presented the",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 211,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 13,
+        "heading": "xli_ Acknowledgments",
+        "content": " This book would not have been published without my Routledge editors Siobhan Poole, who saw some potential in my proposal and decided to send it to further reviewers, and Sanjo Joseph Puthumana, who answered all of my (some-",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 123,
+            "top": 48,
+            "left": 112
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Abbreviations",
+        "content": " ABCP asset-backed commercial paper  ATI Additional Tier |",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 163,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Context and rationale",
+        "content": " Global systemically important banks (G-SIBs), known as \u2018megabanks\u2019 or \u2018big banks\u2019, surround us \u2014 even if we do not think that we are their direct customers, we most probably have an account with one of their subsidiaries or use services of",
+        "features": {
+            "font_id": "14",
+            "height": 23,
+            "width": 154,
+            "top": 288,
+            "left": 81
+        }
+    },
+    {
+        "page": 17,
+        "heading": "2 Introduction",
+        "content": " There are some signs that this has happened already and that they are under control. The latest report by the Financial Stability Board (FSB)\u00b0 optimistically concludes that significant progress in the G-SIB context has been made since",
+        "features": {
+            "font_id": "0",
+            "height": 14,
+            "width": 8,
+            "top": 52,
+            "left": 96
+        }
+    },
+    {
+        "page": 17,
+        "heading": "nN",
+        "content": " FSB, \u2018Evaluation of the effects of too-big-to-fail reforms. Final Report\u2019, 31 March 2021 (further as FSB TBTF Report 2021). ",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 490,
+            "top": 326,
+            "left": 96
+        }
+    },
+    {
+        "page": 19,
+        "heading": "Structure",
+        "content": " In the first chapter, the focus is solely on G-SIBs, starting from the transformation of banking services that took place in the last decades. Changes in capital flows, technology, and economic theories redefined banking and led to the emergence of",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 68,
+            "top": 214,
+            "left": 96
+        }
+    },
+    {
+        "page": 20,
+        "heading": "Methodology and terminology",
+        "content": " This book is based methodologically on a comparative analysis of the US and the EU regimes, as well as the international framework constituting the founda- tion of the national rules. The choice of the USA and the EU was simple, given",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 213,
+            "top": 574,
+            "left": 81
+        }
+    },
+    {
+        "page": 22,
+        "heading": "Limitations",
+        "content": " The main limitation encountered during this research project is data availability. Many details about G-SIBs\u2019 functioning and operations or supervisors\u2019 decisions related to them are not disclosed to the public. This is especially visible in the",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 82,
+            "top": 538,
+            "left": 81
+        }
+    },
+    {
+        "page": 23,
+        "heading": "Place in existing literature",
+        "content": " This book seems necessary to fill the gap in G-SIB-related literature. Undoubtedly, these institutions constitute a topic of numerous publications, especially since the Global Financial Crisis. However, none of them examine G-SIB-specific regula-",
+        "features": {
+            "font_id": "14",
+            "height": 23,
+            "width": 185,
+            "top": 442,
+            "left": 96
+        }
+    },
+    {
+        "page": 24,
+        "heading": "Bibliography",
+        "content": " Admati, Anat and Hellwig, Martin. The Bankers\u2019 New Clothes: What\u2019s Wrong with Banking and What to Do about It, Princeton University Press, 2014. ",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 93,
+            "top": 358,
+            "left": 81
+        }
+    },
+    {
+        "page": 26,
+        "heading": "1 G-SIBs in the USA and in the EU",
+        "content": " Diversity, not unity  Around 70% of adults in the world have a bank account, and in our European",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 14,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 26,
+        "heading": "Diversity, not unity",
+        "content": " Around 70% of adults in the world have a bank account, and in our European bubble it seems like almost every grown-up has one.' Some additionally invest or engage in more complex banking. Undeniably, finances surround us and define",
+        "features": {
+            "font_id": "23",
+            "height": 32,
+            "width": 187,
+            "top": 119,
+            "left": 126
+        }
+    },
+    {
+        "page": 27,
+        "heading": "1.1 General shift from traditional banking business",
+        "content": " Banking institutions have always been controversial. Already Thomas Jefferson believed that \u2018banking establishments are more dangerous to our liberties than standing armies.\u2019* Even though he was mainly referring to the currency-issu-",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 364,
+            "top": 538,
+            "left": 96
+        }
+    },
+    {
+        "page": 28,
+        "heading": "1.1.1 Traditional banking and change-driving forces",
+        "content": " Originally, banking business was based on two simple relations \u2014 with depos- itors and borrowers. People wanting to save and earn on those savings would entrust their money to a bank in return for (normally modest) interest. On the",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 328,
+            "top": 170,
+            "left": 81
+        }
+    },
+    {
+        "page": 29,
+        "heading": "Societies continued to evolve, especially after the fall of communism in",
+        "content": " Central and Eastern Europe. \u2018Reaganomics\u2019 '\u201d in the USA and a quickly spreading  9 Carlo Altamura, European Banks and the Rise of International Finance. The post-Bretton Woods",
+        "features": {
+            "font_id": "0",
+            "height": 14,
+            "width": 476,
+            "top": 682,
+            "left": 114
+        }
+    },
+    {
+        "page": 29,
+        "heading": "Central and Eastern Europe. \u2018Reaganomics\u2019 '\u201d in the USA and a quickly spreading",
+        "content": " 9 Carlo Altamura, European Banks and the Rise of International Finance. The post-Bretton Woods  era, Routledge, 2017, p. 1.",
+        "features": {
+            "font_id": "0",
+            "height": 14,
+            "width": 262,
+            "top": 700,
+            "left": 96
+        }
+    },
+    {
+        "page": 30,
+        "heading": "1.1.1.2 Information technology and financial innovations",
+        "content": " Global expansion and an increase in international capital flows were accompa- nied by technological as well as financial developments. A simple deposit/loan exchange was not enough to meet new needs and utilize the international oppor-",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 346,
+            "top": 480,
+            "left": 81
+        }
+    },
+    {
+        "page": 32,
+        "heading": "1.1.1.3 Political and regulatory adjustments",
+        "content": " Both expansionary capital flows and innovations have revealed the inadequacy of regulation with regards to a fast-changing banking reality. Instead of incentivizing regulators to tailor the rules accordingly, these factors contributed to the deregula-",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 269,
+            "top": 174,
+            "left": 81
+        }
+    },
+    {
+        "page": 33,
+        "heading": "push for financial integration\u2019.*?",
+        "content": " 1.1.2 Modern activities of banks  One of the obvious symptoms of the dawn of traditional banking was the growing",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 183,
+            "top": 524,
+            "left": 96
+        }
+    },
+    {
+        "page": 33,
+        "heading": "1.1.2 Modern activities of banks",
+        "content": " One of the obvious symptoms of the dawn of traditional banking was the growing involvement of banks in activities other than the basic borrower/depositor scheme. With capital flowing freely, accessible international markets, more sophisticated",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 201,
+            "top": 572,
+            "left": 96
+        }
+    },
+    {
+        "page": 35,
+        "heading": "1.1.3 Modern ways of funding",
+        "content": " The transformation of banking not only modified the tools used to channel funds to the real economy, such as loans or bond issues, but it also influenced the bank- ing funding patterns. Originally, banks relied on deposits and equity as sources",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 190,
+            "top": 485,
+            "left": 96
+        }
+    },
+    {
+        "page": 36,
+        "heading": "1.1.4 Risks of modern banking",
+        "content": " New activities of banks and corresponding ways of funding contribute to higher profit and increase the client base as well as scales and scope of operations. Yet they also generate modern forms of risks, absent in the world of traditional lender/",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 193,
+            "top": 539,
+            "left": 81
+        }
+    },
+    {
+        "page": 38,
+        "heading": "1.1.5 Modern banking business models",
+        "content": " Naturally, banks started combining different activities and funding sources in order to create the most profitable business model for each of them. Historically, first in London, but later also in continental Europe and in the USA, three basic",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 245,
+            "top": 143,
+            "left": 81
+        }
+    },
+    {
+        "page": 39,
+        "heading": "1.2 Rise of the G-SIBs \u2014 differences at the outset",
+        "content": " During this transformation of the banking industry, even though almost all banks tweaked their mode of operation, a particular group would attract atten- tion in the years to come. G-SIBs, as they were dubbed many years later,\u201d",
+        "features": {
+            "font_id": "14",
+            "height": 23,
+            "width": 341,
+            "top": 334,
+            "left": 96
+        }
+    },
+    {
+        "page": 40,
+        "heading": "G-SIBs in the USA and in the EU 25 1.2.1 Combining and expanding",
+        "content": " Some of them were not even originally established as banks in the traditional sense. Today\u2019s most systemically important bank in the world, JP Morgan Chase & Co., started as the Manhattan Company and was to provide \u2018pure and whole-",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 203,
+            "top": 48,
+            "left": 338
+        }
+    },
+    {
+        "page": 41,
+        "heading": "1.2.2 Growth",
+        "content": " It comes as no surprise that banking sectors both in the USA and in the EU increased vastly over time.\u00b0> Within the sector it was the large systemic banks whose size magnified the most, especially at the end of the 20th century.* In the",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 84,
+            "top": 377,
+            "left": 96
+        }
+    },
+    {
+        "page": 42,
+        "heading": "1.2.3 Internationalization",
+        "content": " Analogically to activities and growth, also in the context of the international development of G-SIBs, the common presumption is that they have been pursuing cross-border business from the outset, especially given their first activities related",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 162,
+            "top": 665,
+            "left": 81
+        }
+    },
+    {
+        "page": 43,
+        "heading": "1.3 G-SIBs as an un-uniform group \u2014 differences now",
+        "content": " Undoubtedly, all of the G-SIBs constituted a vital part of the transformation wave in the banking world. Yet their development paths should not be merged into ",
+        "features": {
+            "font_id": "14",
+            "height": 23,
+            "width": 378,
+            "top": 730,
+            "left": 96
+        }
+    },
+    {
+        "page": 44,
+        "heading": "1.3.1 An un-uniform group",
+        "content": " The tendency to treat G-SIBs as a uniform group could stem from the fact that they indeed share common features. Empirical studies show a clear pattern distin- guishing them from small and medium-sized banks. As a group they engage more",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 173,
+            "top": 206,
+            "left": 81
+        }
+    },
+    {
+        "page": 44,
+        "heading": "1.3.1.1 Activities",
+        "content": " Modern bank activities as described in Section 1.1.2 encompass consumer and commercial banking, corporate and investment operations, and asset manage- ment. In detail, consumer services normally cover mortgage, card, student, and",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 105,
+            "top": 426,
+            "left": 81
+        }
+    },
+    {
+        "page": 47,
+        "heading": "1.3.1.2 Funding",
+        "content": " The same is valid for the funding structure of G-SIBs. Each of these banks con- structs unique financing schemes, visible on its liabilities side of the balance sheet. Even though the accounting standards introduce some uniformity with regards to",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 100,
+            "top": 165,
+            "left": 96
+        }
+    },
+    {
+        "page": 48,
+        "heading": "1.3.1.3 Risks",
+        "content": " Riskiness of G-SIBs has been the subject of extensive empirical studies. Some of the results are intuitive, such as general higher level of risk generated by large banks in comparison to smaller banks, or increase of risk proportional",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 80,
+            "top": 282,
+            "left": 81
+        }
+    },
+    {
+        "page": 52,
+        "heading": "1.3.1.4 Legal structure",
+        "content": " In contrast to all of the above-described individualistic features of G-SIBs, which are exclusively institution-dependent, regulatory requirements can constitute one of the crucial external determinants in terms of the legal structure. Bearing",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 141,
+            "top": 480,
+            "left": 81
+        }
+    },
+    {
+        "page": 54,
+        "heading": "1.3.1.5 Ownership",
+        "content": " Ownership structure is one of the commonly omitted features of G-SIBs that actu- ally also vastly contributes to their individualism. Depending on the strategies, goals and intentions of the majority owners, G-SIBs can either become weapons",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 115,
+            "top": 489,
+            "left": 81
+        }
+    },
+    {
+        "page": 56,
+        "heading": "1.3.2 Attempts at business model classification",
+        "content": " Regardless of the complex and individualistic character of these institutions out- lined above, there have been many academic attempts to classify them or to iden- tify their business model. Four methodologies are especially worth mentioning, as",
+        "features": {
+            "font_id": "25",
+            "height": 20,
+            "width": 289,
+            "top": 210,
+            "left": 81
+        }
+    },
+    {
+        "page": 59,
+        "heading": "1.4 Challenges and opportunities facing G-SIBs \u2014 differences in the future?",
+        "content": " G-SIBs differ from each other, and this will not change. Thus, it is essential to take these differences into account when considering the future of G-SIBs \u2014 how will they play out in the context of new challenges and opportunities? G-SIB diversity",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 286,
+            "top": 151,
+            "left": 96
+        }
+    },
+    {
+        "page": 59,
+        "heading": "1.4.1 Big Tech",
+        "content": " Big Tech companies rock the world. They are present in countless aspects of our lives, including in finance. The Financial Stability Board defines them as \u2018large companies with established technology platforms and extensive established cus-",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 94,
+            "top": 341,
+            "left": 96
+        }
+    },
+    {
+        "page": 62,
+        "heading": "1.4.2 Green revolution",
+        "content": " \u2018Green\u2019 and \u2018sustainable\u2019 have recently become key adjectives for all industries, not only the ones directly engaged in climate-related businesses involving fossil fuels or greenhouse gas emissions. In this vein \u2018green finance\u2019 is understood as",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 143,
+            "top": 242,
+            "left": 81
+        }
+    },
+    {
+        "page": 63,
+        "heading": "155 Rainforest Action Network, \u2018Banking on climate chaos. Fossil fuel finance report 2021\u2019, www",
+        "content": " .ran.org/wp-content/uploads/202 1/03/Banking-on-Climate-Chaos-2021.pdf, accessed 29 Sep-  tember 2021.",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 165,
+            "top": 417,
+            "left": 400
+        }
+    },
+    {
+        "page": 67,
+        "heading": "1.5 Summary",
+        "content": " By the end of the 20th century the process of banking transformation from simple deposit-taking and lending into comprehensive financial services was practically completed. From the mixture of favorable circumstances, such as loosened capital",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 99,
+            "top": 583,
+            "left": 96
+        }
+    },
+    {
+        "page": 67,
+        "heading": "COVID\u2019, VOXEU, 22 March 2020, https://voxeu.org/article/stress-tests-banks-liquidity-insurers",
+        "content": " -time-covid, accessed 29 September 2021.  Owen Walker et al., \u2018Banks Close to Business as Usual in US and Europe Despite Pandemic",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 466,
+            "top": 781,
+            "left": 120
+        }
+    },
+    {
+        "page": 70,
+        "heading": "o7e1S URIs[Og oy} JO Fyeyoqg uo Suljoe (owAuoue 9191908) Auedwioo poyuny ysoroqut-otyqnd y",
+        "content": " (syueg [euoIsoy pue ouAuouy 9191908)",
+        "features": {
+            "font_id": "28",
+            "height": 18,
+            "width": 0,
+            "top": 622,
+            "left": -454
+        }
+    },
+    {
+        "page": 78,
+        "heading": "https://www.milkenreview.org/articles/big-techs-invasion-of-banking, accessed 30",
+        "content": " August 2021.  Niskanen, William A. \u2018Reaganomics\u2019 in \u2018The Concise Encyclopedia of Economics\u2019,",
+        "features": {
+            "font_id": "21",
+            "height": 13,
+            "width": 483,
+            "top": 343,
+            "left": 99
+        }
+    },
+    {
+        "page": 78,
+        "heading": "https://www.econlib.org/library/Enc1/Reaganomics.html, accessed 29 November",
+        "content": " 2021.  Noth, Felix and Schtiwer, Ulrich. \u2018Natural Disasters and Bank Stability: Evidence from the",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 472,
+            "top": 388,
+            "left": 99
+        }
+    },
+    {
+        "page": 81,
+        "heading": "2 G-SIBs and the Global Financial Crisis",
+        "content": " Deregulation vastly contributed to the Global Financial Crisis (GFC). However, the aim of this chapter is not to reconstruct the historical process of regulatory dismantling. Rather, it is to demonstrate a process that enabled some G-SIBs",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 14,
+            "top": 90,
+            "left": 96
+        }
+    },
+    {
+        "page": 81,
+        "heading": "2.1 Regulation before the GFC: Regulatory loopholes and generalization",
+        "content": " The regulatory landscape for banks in the years preceding the crisis was shaped by the prevailing economic theories and stable macroeconomic conditions seemingly ",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 14,
+            "top": 90,
+            "left": 96
+        }
+    },
+    {
+        "page": 82,
+        "heading": "2.1.1 Non-existent regulation",
+        "content": " If one looks comprehensively at the banking regulation pre-crisis, omissions, not flaws, are the most striking. Many aspects of the functioning of large systemic banks were not regulated at all, whether the basic consideration of their designa-",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 185,
+            "top": 395,
+            "left": 81
+        }
+    },
+    {
+        "page": 85,
+        "heading": "2.1.2 Overly general regulation",
+        "content": " One could argue that the regulatory omissions are justified, because you cannot regulate for a future crisis, predict how it will unfold, or what regulation would turn out to be essential. As Ben Bernanke explained, \u2018It is hard to fix something",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 197,
+            "top": 251,
+            "left": 96
+        }
+    },
+    {
+        "page": 87,
+        "heading": "2.1.3 Lack of supervisory discretion",
+        "content": " Any adverse impact of such general rules could normally be mitigated by means of supervisory discretion. If supervisors have powers to adjust the provisions according to a bank\u2019s individual character, they are able to address the vast dis-",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 224,
+            "top": 338,
+            "left": 96
+        }
+    },
+    {
+        "page": 89,
+        "heading": "2.2. G-SIBs\u2019 adjustments to the general rules",
+        "content": " Even though there are many different accounts on what exactly happened dur- ing the crisis and why it happened, almost all involved scholars and regulators agree on the set of features that are perceived as reasons for the severity of the",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 315,
+            "top": 223,
+            "left": 96
+        }
+    },
+    {
+        "page": 89,
+        "heading": "2.2.1 Size of assets",
+        "content": " Undeniably, most G-SIBs vastly increased in size at the beginning of the 21st cen- tury. The five biggest US G-SIBs \u2014 JP Morgan Chase, Bank of America (BoA), Citigroup, Wachovia, and Wells Fargo \u2014 rose to a combined size of $6.8 trillion in",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 118,
+            "top": 498,
+            "left": 96
+        }
+    },
+    {
+        "page": 90,
+        "heading": "of 400 percent of GDP, and in the United Kingdom the figure approached 500 percent.*?",
+        "content": " Objectively, size cannot be treated as an accurate indicator of financial health (or illness). The banks that faced the worst problems during the crisis were not the big- gest ones. Lehman Brothers, which had to file for bankruptcy, and Bear Stearns,",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 463,
+            "top": 74,
+            "left": 108
+        }
+    },
+    {
+        "page": 94,
+        "heading": "2.2.3 Capital, losses, and raising capital",
+        "content": " Capital ratios and losses to capital constitute two sides of the same coin. The higher the capital ratios, the bigger the probability of withstanding losses and still retaining reasonable levels of capital. Losses on assets, or write-downs in assets,",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 249,
+            "top": 269,
+            "left": 81
+        }
+    },
+    {
+        "page": 94,
+        "heading": "Losses and write-downs in relation to mortgage-backed assets. OECD, Economic Surveys: United",
+        "content": " States 2008, www.oecd-ilibrary.org/economics/oecd-economic-surveys-united-states-2008 eco  _ surveys-usa-2008-en, accessed 3 December 2021, p. 76.",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 489,
+            "top": 781,
+            "left": 81
+        }
+    },
+    {
+        "page": 94,
+        "heading": "States 2008, www.oecd-ilibrary.org/economics/oecd-economic-surveys-united-states-2008 eco",
+        "content": " _ surveys-usa-2008-en, accessed 3 December 2021, p. 76.  72 BNY Mellon, \u2018Annual Report 2007\u2019, and State Street, \u2018Annual Report 2007\u2019, https://s26.q4cdn",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 471,
+            "top": 796,
+            "left": 99
+        }
+    },
+    {
+        "page": 97,
+        "heading": "2.2.4 Funding patterns, liquidity, and resolution",
+        "content": " We can distinguish between two main types of funding, the so-called \u2018stable sources\u2019 such as deposits and equity and the \u2018unstable\u2019 or \u2018market-based\u2019 fund- ing, including wholesale borrowing, repo transactions, and commercial paper.",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 301,
+            "top": 197,
+            "left": 96
+        }
+    },
+    {
+        "page": 100,
+        "heading": "2.2.4.2 Liquidity supplementation",
+        "content": " Several G-SIBs avoided the threat of failure thanks to liquidity facilities offered by the governments. The analysis of liquidity-providing programs can clarify the picture and contribute to the assessment of which G-SIBs actually had sufficient",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 206,
+            "top": 336,
+            "left": 81
+        }
+    },
+    {
+        "page": 101,
+        "heading": "2.2.5 Securitization",
+        "content": " Securitization constitutes one of the financial innovations that became popular at the end of the 20th century. Especially after the savings and loan crisis in the USA in 1980, when the maturity mismatches between long-term mortgages and their",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 123,
+            "top": 701,
+            "left": 96
+        }
+    },
+    {
+        "page": 102,
+        "heading": "2.2.5.1 Origination",
+        "content": " As described above,'\u00ae no legal provisions created a safe framework for mortgage origination. Before the crisis, real estate was perceived as one of the most reliable and stable assets. Regulators did not see reasons to limit the booming market.",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 120,
+            "top": 354,
+            "left": 81
+        }
+    },
+    {
+        "page": 103,
+        "heading": "2.2.5.2 Underwriting",
+        "content": " The G-SIB landscape looked a bit different in the context of the actual securiti- zation of mortgages. After the origination, they had to be \u2018turned into\u2019 liquid, high-rating securities.''* Whichever entity originated the loans, they needed to",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 130,
+            "top": 453,
+            "left": 96
+        }
+    },
+    {
+        "page": 105,
+        "heading": "2.2.6 Contagion",
+        "content": " Ten years after the Global Financial Crisis, Warren Buffet was asked by a CNBC correspondent to reflect on this downturn. He stressed that \u2018we\u2019 re [financial insti- tutions] all dominoes. And we\u2019re all very close together\u2019,'*> pointing at the threat",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 103,
+            "top": 170,
+            "left": 96
+        }
+    },
+    {
+        "page": 108,
+        "heading": "2.3 Authorities awaken",
+        "content": " When the crisis struck, supervisors and regulators were \u2018forced to stare into the abyss\u2019.'* First, they realized that scarce regulation and the lack of discretion to adjust rules to specific institutions had resulted in a \u2018legal bubble\u2019. Banking insti-",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 167,
+            "top": 322,
+            "left": 81
+        }
+    },
+    {
+        "page": 108,
+        "heading": "2.3.1 Ad-hoc help",
+        "content": " Apart from strictly liquidity-related injections described in Section 2.2.4.2, gov- ernments organized other forms of financial help for banks. They introduced more long-term solutions, aimed at restructuring and/or improving the overall",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 113,
+            "top": 629,
+            "left": 81
+        }
+    },
+    {
+        "page": 111,
+        "heading": "2.3.2 G-SIBs\u2019 redemption",
+        "content": " Supervisors did not stop at the ad-hoc measures saving the entities and calming the markets. Actually, the governments seemed to be \u201cthe only thing between [the G-SIBs] and the pitchforks\u2019.'*\u2019 Indeed, the public wanted to see G-SIBs punished",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 162,
+            "top": 161,
+            "left": 96
+        }
+    },
+    {
+        "page": 112,
+        "heading": "2.3.3 Regulatory resolutions",
+        "content": " In the aftermath of the crisis, regulators decided to prove that they had learned their lesson and that the proactive attitude was here to stay. Many resolutions have been articulated. Hillary Clinton stated that \u2018Wall Street can never be allowed to",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 178,
+            "top": 215,
+            "left": 81
+        }
+    },
+    {
+        "page": 112,
+        "heading": "2.4 Summary",
+        "content": " Before the GFC, the legal regimes of the USA and the EU applying to G-SIBs were full of omissions and did not take into account their specific nature. In retro- spect, among the non-existent regulations one can identify a lack of a designation",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 99,
+            "top": 610,
+            "left": 81
+        }
+    },
+    {
+        "page": 114,
+        "heading": "Bibliography",
+        "content": " Acharya, Viral and Richardson, Matthew. \u2018Causes of the Financial Crisis\u2019, Critical Review, 2009, 21/2&3. ",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 93,
+            "top": 187,
+            "left": 81
+        }
+    },
+    {
+        "page": 116,
+        "heading": "Evidence From 2007-10\u2019, Discussion Paper Series, Oxford University, September",
+        "content": " 2012.  Markose, Sheri, Giansante, Simone and Rais Shaghaghi, Ali. \u201cToo Interconnected to",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 33,
+            "top": 278,
+            "left": 99
+        }
+    },
+    {
+        "page": 116,
+        "heading": "Markose, Sheri, Giansante, Simone and Rais Shaghaghi, Ali. \u201cToo Interconnected to",
+        "content": " Fail\u201d Financial Network of US CDS Market: Topological Fragility and Systemic Risk\u2019,  Journal of Economic Behavior & Organization, 2012, 83.",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 490,
+            "top": 405,
+            "left": 81
+        }
+    },
+    {
+        "page": 116,
+        "heading": "Mayo, Mike. Exile on Wall Street: One Analyst's Fight to Save the Big Banks from",
+        "content": " Themselves, Wiley, 2011.  Nakamoto, Michiyo and Wighton, David. \u2018Citigroup Chief Stays Bullish on Buy-Outs\u2019,",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 76,
+            "top": 454,
+            "left": 81
+        }
+    },
+    {
+        "page": 118,
+        "heading": "3 Regulation of G-SIBs in the USA and the EU",
+        "content": " Overly general, but fixable?  A wave of regulatory reforms was inevitable after the crisis. Some experts clearly",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 14,
+            "top": 90,
+            "left": 81
+        }
+    },
+    {
+        "page": 118,
+        "heading": "Overly general, but fixable?",
+        "content": " A wave of regulatory reforms was inevitable after the crisis. Some experts clearly stated that the regulatory stagnation practiced before the downturn was no longer an option. \u2018Markets overreact so policy needs to overreact as well\u2019, as Larry",
+        "features": {
+            "font_id": "23",
+            "height": 32,
+            "width": 268,
+            "top": 149,
+            "left": 126
+        }
+    },
+    {
+        "page": 119,
+        "heading": "3.1 Institutional supervisory framework",
+        "content": " Post-crisis supervisory reform regarding G-SIBs was one of the most far-reach- ing, given both the supervisors\u2019 inaction before the GFC and noticeable lack of clear powers to intervene.* The framework for supervision of systemic entities",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 286,
+            "top": 304,
+            "left": 96
+        }
+    },
+    {
+        "page": 119,
+        "heading": "3.1.1 International level",
+        "content": " Globally, there are three main actors involved in establishing a framework of standards for the international banking system: the G20, the Financial Stability Board (FSB), and the Basel Committee on Banking Supervision (BCBS). The",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 152,
+            "top": 485,
+            "left": 96
+        }
+    },
+    {
+        "page": 121,
+        "heading": "3.1.2.1 USA",
+        "content": " Supervisors before the crisis did not act preventively for many reasons, one of them being a lack of formal powers to do so.'\u2019 When worst came to worst, they ended up fighting the crisis \u2018with duct tape and baling wire\u2019.'* That is why the",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 200,
+            "left": 96
+        }
+    },
+    {
+        "page": 121,
+        "heading": "\u201c\u201cDynamic Precaution\u201d in Maintaining Financial Stability. The Importance of FSOC\u2019, in Sharyn",
+        "content": " O\u2019Halloran, Thomas Groll (eds), After the Crash: Financial Crises and Regulatory Responses,  Columbia University Press, 2019.",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 471,
+            "top": 811,
+            "left": 114
+        }
+    },
+    {
+        "page": 122,
+        "heading": "3.1.2.2 EU",
+        "content": " In contrast to the USA, the EU institutional supervisory set-up changed pro- foundly in the aftermath of the crisis. In the context of EU G-SIBs, three changes ",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 570,
+            "left": 81
+        }
+    },
+    {
+        "page": 124,
+        "heading": "3.2 Designation",
+        "content": " Arguably the most important realization after the GFC referred to the fact that some banking institutions turned out to be more threatening to the economy than others due to their systemic importance. The concept of G-SIBs touches upon the",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 112,
+            "top": 232,
+            "left": 81
+        }
+    },
+    {
+        "page": 124,
+        "heading": "3.2.1 International level",
+        "content": " Soon after the crisis, the BCBS was tasked** with drafting the methodology to designate the most systemically important banks in the world. The first version of these assessment rules was published in 2011.*\u00b0 The official term \u2018G-SIB\u2019 was",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 152,
+            "top": 431,
+            "left": 81
+        }
+    },
+    {
+        "page": 124,
+        "heading": "assessment methodology and the higher loss absorbency requirement, 5 July 2018 (BCBS G-SIB",
+        "content": " Methodology 2018).  In this thesis, I shall refer to this latest version of the methodology (further as BCBS G-SIB Meth-",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 471,
+            "top": 751,
+            "left": 99
+        }
+    },
+    {
+        "page": 124,
+        "heading": "new details on global systemically important banks\u2019, Press Release, 11 November 2020, www.bis",
+        "content": " .org/press/p201111.htm, accessed 8 December 2021). After a thorough analysis of both versions  4",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 426,
+            "top": 856,
+            "left": 99
+        }
+    },
+    {
+        "page": 126,
+        "heading": "50 Luca Enriques, Alessandro Romano, Thom Wetzer, \u2018Network-sensitive financial regulation\u2019, The",
+        "content": " Journal of Corporation Law, 2020, 45/2.  Xavier Freixas, Luc Laeven, Jos\u00e9-Luis Peydro, \u2018A Primer on Systemic Risk\u2019, in Xavier Freixas,",
+        "features": {
+            "font_id": "16",
+            "height": 8,
+            "width": 9,
+            "top": 403,
+            "left": 234
+        }
+    },
+    {
+        "page": 126,
+        "heading": "Jos\u00e9-Luis Peydr\u00e9, Luc Laeven (eds), Systemic Risk, Crises, and Macroprudential Regulation, MIT",
+        "content": " Press, 2015.  52 Lukas Becker, \u2018Banks\u2019 G-Sibs criticism summarised\u2019, /nternational Financial Law Review, 2011.",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 264,
+            "top": 841,
+            "left": 276
+        }
+    },
+    {
+        "page": 128,
+        "heading": "Table 3.1 Indicators and sub-indicators from the BCBS G-SIB Methodology 2018",
+        "content": " Indicators Sub-indicators Weighting  Size Total exposure as defined in Basel HI leverage ratio 20%",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 51,
+            "top": 95,
+            "left": 81
+        }
+    },
+    {
+        "page": 128,
+        "heading": "Indicators Sub-indicators Weighting",
+        "content": " Size Total exposure as defined in Basel HI leverage ratio 20% Interconnectedness Intra-financial system assets 6.67% Intra-financial system liabilities 6.67%",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 55,
+            "top": 123,
+            "left": 81
+        }
+    },
+    {
+        "page": 131,
+        "heading": "3.2.2 Regional level",
+        "content": " Basel standards are non-binding per se, and they require implementation at the national or regional level. In the case of designation of G-SIBs, both American and EU regimes closely followed solutions included in the Basel methodology.",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 125,
+            "top": 251,
+            "left": 96
+        }
+    },
+    {
+        "page": 131,
+        "heading": "3.2.2.1 USA",
+        "content": " In the USA the designation of G-SIBs is regulated at two levels. First, the Dodd- Frank Act, the major post-crisis reform bill enacted by Congress, tasks the Federal Reserve Board of Governors with establishing enhanced prudential standards",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 480,
+            "left": 96
+        }
+    },
+    {
+        "page": 132,
+        "heading": "3.2.2.2 EU",
+        "content": " In the EU, there are two methods of designating systemic entities, each serv- ing a different purpose. EU-wide designation of G-SIBs based on the provisions of the Capital Requirements Directive (CRD)** and the Capital Requirements",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 516,
+            "left": 81
+        }
+    },
+    {
+        "page": 135,
+        "heading": "3.3. G-SIB capital buffer",
+        "content": " The main goal of G-SIB designation is not to stigmatize banks, or worse to pro- vide a list of ones too big to fail that ought to be saved when worst comes to worst. Designation serves the purpose of subjecting G-SIBs to specific more stringent",
+        "features": {
+            "font_id": "14",
+            "height": 23,
+            "width": 172,
+            "top": 433,
+            "left": 96
+        }
+    },
+    {
+        "page": 135,
+        "heading": "3.3.1 International level",
+        "content": " Already the first version of the Basel Accord, the so-called Basel I, included bank capital adequacy rules. Basel II broadened and specified that framework, while Basel II strengthened it remarkably in the wake of the Global Financial Crisis.'\u00b0",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 152,
+            "top": 611,
+            "left": 96
+        }
+    },
+    {
+        "page": 138,
+        "heading": "3.3.2 Regional level",
+        "content": " Analogically to the G-SIB designation framework, the US and EU implementa- tions of the G-SIB buffer rules also closely resemble the original Basel III stand- ards. However, there are some important differences, especially when it comes to",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 125,
+            "top": 197,
+            "left": 81
+        }
+    },
+    {
+        "page": 138,
+        "heading": "3.3.2.1 USA",
+        "content": " In the post-crisis time of reflection and reform, Tim Geithner, then Treasury Secretary, was known for one mantra: \u2018Capital, capital, capital.\u2019!\u201d4 This is visible in the American implementation of the G-SIB buffer. There are two important depar-",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 318,
+            "left": 81
+        }
+    },
+    {
+        "page": 138,
+        "heading": "Table 3.2 Brief comparison of US G-SIB buffer calculation methods",
+        "content": " Method 1 Method 2  Substitutability Wholesale short-term funding",
+        "features": {
+            "font_id": "0",
+            "height": 14,
+            "width": 65,
+            "top": 547,
+            "left": 465
+        }
+    },
+    {
+        "page": 138,
+        "heading": "Method 1 Method 2",
+        "content": " Substitutability Wholesale short-term funding Simple average Sum of sub-indicator scores Lower overall scores Higher overall scores",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 51,
+            "top": 667,
+            "left": 81
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Table 3.3 Method 1 scores and respective surcharges",
+        "content": " Method I score Method I surcharge Below 130 0.0% 130-229 1.0%",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 51,
+            "top": 95,
+            "left": 96
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Table 3.4 Method 2 scores and respective surcharges",
+        "content": " Method 2 score Method 2 surcharge Below 130 0.0% 130-229 1.0%",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 51,
+            "top": 265,
+            "left": 96
+        }
+    },
+    {
+        "page": 140,
+        "heading": "3.3.2.2 EU",
+        "content": " Implementation of the G-SIB surcharge in the EU follows the Basel framework very closely. There are no diverging points, as in the case of the US regime. G-SIlIs shall maintain an additional buffer on a consolidated basis, in accordance",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 570,
+            "left": 81
+        }
+    },
+    {
+        "page": 141,
+        "heading": "3.4 G-SIB leverage ratio",
+        "content": " There is a common perception that in pre-crisis times G-SIBs held too much debt and not enough equity (or core capital). Due to their risk-independence, leverage limits constitute not only a prudential requirement in itself but also a credible",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 175,
+            "top": 389,
+            "left": 96
+        }
+    },
+    {
+        "page": 141,
+        "heading": "3.4.1 International level",
+        "content": " In 2014, the BCBS in its Basel III framework introduced a minimum 3% leverage ratio requirement.'** This means that for each banking institution the Tier 1 capital ",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 152,
+            "top": 584,
+            "left": 96
+        }
+    },
+    {
+        "page": 142,
+        "heading": "3+(2/2)=4",
+        "content": " In turn, ING, allocated in the lowest bucket (1% G-SIB buffer), should maintain a minimum 3.5% leverage ratio: ",
+        "features": {
+            "font_id": "38",
+            "height": 11,
+            "width": 8,
+            "top": 351,
+            "left": 113
+        }
+    },
+    {
+        "page": 142,
+        "heading": "3+(1/2)=3.5",
+        "content": " Theoretically, in this way the minimum leverage ratio requirement should increase proportionally to a G-SIB\u2019s systemic importance. However, the systemic impor- tance assessment is rather flawed'*! and does not take into account the highly indi-",
+        "features": {
+            "font_id": "38",
+            "height": 11,
+            "width": 8,
+            "top": 351,
+            "left": 113
+        }
+    },
+    {
+        "page": 143,
+        "heading": "3.4.2 Regional level",
+        "content": " Similarly to risk-based buffers, the general leverage ratio is not an entirely new requirement at the regional level. It functioned in the USA before the GFC but was absent from the EU legal regime. This divergence constituted the main rea-",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 125,
+            "top": 449,
+            "left": 96
+        }
+    },
+    {
+        "page": 143,
+        "heading": "3.4.2.1 USA",
+        "content": " In the USA, the leverage ratio was introduced already in the 1990s as a part of capital requirements reform. It was set at the level of 3% or 4%, depending mostly ",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 588,
+            "left": 96
+        }
+    },
+    {
+        "page": 145,
+        "heading": "3.4.2.2 EU",
+        "content": " EU lawmakers have historically been more reluctant in the context of the lever- age ratio requirement. Originally, the Capital Requirements Regulation'\u00ae only imposed monitoring duties on national supervisors with the discretion to assess",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 183,
+            "left": 96
+        }
+    },
+    {
+        "page": 145,
+        "heading": "3.5 Large exposure limit",
+        "content": " The risk-based G-SIB surcharge and the G-SIB leverage ratio buffer are mainly supposed to address the stability of the individual institution.\u201c They improve individual resilience but do not directly address the risk of contagion should one",
+        "features": {
+            "font_id": "14",
+            "height": 23,
+            "width": 176,
+            "top": 559,
+            "left": 96
+        }
+    },
+    {
+        "page": 145,
+        "heading": "risk is considered in calculating capital requirements\u2019 .'\u00ae",
+        "content": " 59 Congressional Research Service, \u2018Enhanced Prudential\u2019, p. 25.  60 Recitals 94 and 95 of CRR.",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 325,
+            "top": 677,
+            "left": 96
+        }
+    },
+    {
+        "page": 147,
+        "heading": "3.5.2 Regional level",
+        "content": " As described in Chapter 2,'% limits on credit exposure were binding already before the crisis both in the USA and in the EU. However, they encompassed a rather narrow scope of entities, applying for instance to depositary institutions",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 125,
+            "top": 138,
+            "left": 96
+        }
+    },
+    {
+        "page": 147,
+        "heading": "3.5.2.1 USA",
+        "content": " Implementation in the USA does not significantly depart from the BCBS stand- ards. Most importantly, the limits are the same: 25% of Tier | capital for exposures between non-G-SIB institutions and in relations between G-SIBs and non-G-SIBs,",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 273,
+            "left": 96
+        }
+    },
+    {
+        "page": 147,
+        "heading": "3.5.2.2 EU",
+        "content": " The original general limit on intrabank exposures adopted in the EU in 2006 was actually more stringent than the present Basel proposal. It set the threshold at 20% of capital.'*\u00b0 After the crisis, a new standard was drafted. EU lawmakers chose a",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 628,
+            "left": 96
+        }
+    },
+    {
+        "page": 148,
+        "heading": "3.6 Resolution of G-SIBs and TLAC",
+        "content": " Failures of systemic entities during the Global Financial Crisis have revealed the inadequacy of resolution regimes not only in the context of banks but especially in the context of G-SIBs \u2014 internationally active, complex, and interconnected insti-",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 258,
+            "top": 439,
+            "left": 81
+        }
+    },
+    {
+        "page": 148,
+        "heading": "3.6.1 International level",
+        "content": " At the international level there are two documents describing resolution-related standards for G-SIBs, and they are both authored by the Financial Stability Board, so the body annually publishing the G-SIB list.",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 152,
+            "top": 629,
+            "left": 81
+        }
+    },
+    {
+        "page": 151,
+        "heading": "3.6.2 Regional level",
+        "content": " Many changes in the regional systems for unwinding financial institutions have been introduced post-crisis. National authorities also tried to implement the FSB\u2019s standards, with various results.",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 125,
+            "top": 512,
+            "left": 96
+        }
+    },
+    {
+        "page": 151,
+        "heading": "3.6.2.1 USA",
+        "content": " A specific FDIC-sponsored resolution regime for banks existed in the USA already before the crisis, but its scope was limited to FDIC-insured institutions. After the downturn, Title II of the Dodd\u2014Frank Act introduced the Orderly Liquidation",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 624,
+            "left": 96
+        }
+    },
+    {
+        "page": 154,
+        "heading": "3.6.2.2 EU",
+        "content": " The EU resolution framework consists of two important legal acts: the recently amended Bank Recovery and Resolution Directive (BRRD)*\u201d' and the Single Resolution Mechanism Regulation (SRMR).?\u201d While in the USA the Federal",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 291,
+            "left": 81
+        }
+    },
+    {
+        "page": 158,
+        "heading": "3.7 Pillar 2 powers",
+        "content": " Apart from the institutional supervisory framework for G-SIBs,\u2019? Pillar 2 provisions and standards have also profoundly changed. One should look at the supervisory material provisions from two perspectives \u2014 first, through the lens of",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 135,
+            "top": 241,
+            "left": 81
+        }
+    },
+    {
+        "page": 158,
+        "heading": "3.7.1 International level",
+        "content": " Apart from the institutional novelties, such as the creation of the FSB, new mate- rial standards have been adopted at the international level. These material rules can be divided into the two groups mentioned above: Pillar 2 in a narrow sense, so",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 152,
+            "top": 449,
+            "left": 81
+        }
+    },
+    {
+        "page": 160,
+        "heading": "3.7.2 Regional level",
+        "content": " Given the relatively general recommendations issued by the FSB and BCBS in the context of G-SIB supervision, regional lawmakers had more freedom than in the case of the implementation of simple standards such as leverage or large",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 125,
+            "top": 494,
+            "left": 81
+        }
+    },
+    {
+        "page": 160,
+        "heading": "3.7.2.1 USA",
+        "content": " The core of the US post-crisis supervisory reform and biggest improvement should be seen in powers supervisors received, both in the narrower aspect of Pillar 2, and regarding general G-SIB-oriented rules.",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 76,
+            "top": 660,
+            "left": 81
+        }
+    },
+    {
+        "page": 163,
+        "heading": "3.7.2.2 EU",
+        "content": " Because of the national/EU dualism implanted in the functioning of EU bank- ing law, Pillar 2 powers and stress testing function on several different levels. ",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 69,
+            "top": 624,
+            "left": 96
+        }
+    },
+    {
+        "page": 166,
+        "heading": "3.8 Summary",
+        "content": " The Global Financial Crisis revealed two significant flaws in the regulation of G-SIBs that urgently needed fixing. An overly general approach, not taking into account the specific features of G-SIBs and their systemic importance, combined",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 99,
+            "top": 142,
+            "left": 81
+        }
+    },
+    {
+        "page": 167,
+        "heading": "jploubUuly juojsoduy Ayjooiuaysag SSadppY 0} Sainspayy AoOg \u201c{SA) asd",
+        "content": " (sist GIS-D Sasa STIOZ JOQUIDAON \u201cJuawaunbas Aauagsosqv SSO] [DUOI]Ippv ay) pup",
+        "features": {
+            "font_id": "34",
+            "height": 17,
+            "width": 0,
+            "top": 181,
+            "left": 921
+        }
+    },
+    {
+        "page": 171,
+        "heading": "duo (OD Tel \u2018Vv \u2014 (uonososip uOTBOOT[e JONG WOT PoAliop)",
+        "content": " (O\\B)LL 7ST \u00a7 UAO TI  \u2014 S[OA9] JOU \u2018suUOT}dUDXa JO SUID} UT]",
+        "features": {
+            "font_id": "34",
+            "height": 16,
+            "width": 0,
+            "top": 382,
+            "left": 1144
+        }
+    },
+    {
+        "page": 171,
+        "heading": "(O\\B)LL 7ST \u00a7 UAO TI",
+        "content": " \u2014 S[OA9] JOU \u2018suUOT}dUDXa JO SUID} UT] ur yuourspnf Arostarodns yoolIq: QUON e oinsodxo oS5Ie'T] sof dioulig a10d joseg | \u2018ON",
+        "features": {
+            "font_id": "34",
+            "height": 16,
+            "width": 0,
+            "top": 382,
+            "left": 1144
+        }
+    },
+    {
+        "page": 172,
+        "heading": "quowionber [euontppe Aue ouruniajop 0} UOT}OIOSIp AJOSTAJOdns 1991",
+        "content": " UU 8I \u201cLT \u201cHV \u2014 ernyysoarp 0} dn \u201cAUIQVA[OSAI 0} syudtUIpodul Suronpos SoINSKoU dye} 0} AWWUS Ue oIMbo1",
+        "features": {
+            "font_id": "26",
+            "height": 18,
+            "width": 0,
+            "top": 290,
+            "left": -433
+        }
+    },
+    {
+        "page": 179,
+        "heading": "Macroeconomic Assessment Group. Assessment of the Macroeconomic Impact of Higher",
+        "content": " Loss Absorbency for Globally Systemically Important Banks, Bank for International  Settlements, October 2011.",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 200,
+            "top": 108,
+            "left": 96
+        }
+    },
+    {
+        "page": 179,
+        "heading": "Loss Absorbency for Globally Systemically Important Banks, Bank for International",
+        "content": " Settlements, October 2011.  Martino, Edoardo and Parchimowicz, Katarzyna. \u2018Go Preventive or Go Home \u2014 The",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 336,
+            "top": 125,
+            "left": 114
+        }
+    },
+    {
+        "page": 179,
+        "heading": "Martino, Edoardo and Parchimowicz, Katarzyna. \u2018Go Preventive or Go Home \u2014 The",
+        "content": " Double Nature of MREL\u2019, European Company and Financial Law Review, 2021, 18/4.  Masters, Brooke. \u2018Crisis Management Groups to Aid World Banks\u2019, Financial Times, 20",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 490,
+            "top": 157,
+            "left": 96
+        }
+    },
+    {
+        "page": 179,
+        "heading": "Masters, Brooke. \u2018Crisis Management Groups to Aid World Banks\u2019, Financial Times, 20",
+        "content": " June 2012.  McDermott, Mark. \u2018Analysis of the Orderly Liquidation Authority, Title IT of the Dodd-",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 377,
+            "top": 190,
+            "left": 96
+        }
+    },
+    {
+        "page": 181,
+        "heading": "4 G-SIBs and supervisory discretion",
+        "content": " The currently binding G-SIB-oriented regulatory framework is a noticeable achievement, especially given the lack of such rules before the crisis.' However, as demonstrated in Chapter 3, G-SIB-specific provisions remain overly general.",
+        "features": {
+            "font_id": "3",
+            "height": 24,
+            "width": 14,
+            "top": 90,
+            "left": 96
+        }
+    },
+    {
+        "page": 182,
+        "heading": "G-SIBs and supervisory discretion 167 4.1 General theory behind supervisory discretion",
+        "content": " In all legal systems, we have been witnessing a constant war between proponents of principles- or goals-based regulation and the supporters of rules-based pro- visions. The former establishes some final outcomes, standards to be followed,",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 210,
+            "top": 48,
+            "left": 323
+        }
+    },
+    {
+        "page": 182,
+        "heading": "4.1.1 Discretion as a double-edged sword",
+        "content": " Supervisory discretion can be used both for good and evil. The benefits are relatively clear and closely reflect those of principles-based regulation. Wisely utilized, discretion introduces flexibility and adjusts overly general rules to the",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 257,
+            "top": 531,
+            "left": 81
+        }
+    },
+    {
+        "page": 183,
+        "heading": "nn",
+        "content": "21/175. In the context of the too simplistic dichotomy of regulatory capture v. regulatory repression in the EU, its unobvious nature is presented in Eric Monnet, Stefano Pagliari, and Shahin Vall\u00e9e, \u2018Europe Between Financial Repression and Regulatory Capture\u2019, Bruegel Working Paper, 2014/08. 16 Stigler, \u2018The Theory\u2019.",
+        "features": {
+            "font_id": "9",
+            "height": 11,
+            "width": 239,
+            "top": 800,
+            "left": 114
+        }
+    },
+    {
+        "page": 184,
+        "heading": "4.1.3 Behavioral aspects of discretion",
+        "content": " If possible, people choose a default option. This behavioral phenomenon has been empirically proven on many examples. Research regarding different aspects of life, from insurance and retirement policies to organ donation,\u201d internet privacy",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 235,
+            "top": 512,
+            "left": 81
+        }
+    },
+    {
+        "page": 184,
+        "heading": "20 Christopher Baum et al., \u2018Credit Rating Agency Downgrades and the Eurozone Sovereign Debt",
+        "content": " Crises\u2019, National Bank of Poland Working Paper No. 177, 15 May 2014.  Giorgio Barba Navaretti, Giacomo Calzolari, Alberto Franco Pozzolo, \u2018What are the wider super-",
+        "features": {
+            "font_id": "16",
+            "height": 8,
+            "width": 9,
+            "top": 286,
+            "left": 401
+        }
+    },
+    {
+        "page": 185,
+        "heading": "4.2 Supervisory discretion to adjust regulation on G-SIBs",
+        "content": " Supervisory discretion in the G-SIB context is especially crucial, as using it could address the issue of overly general G-SIB-oriented rules. But this is not the only benefit stemming from utilizing discretionary tools \u2014 further ones will be described",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 407,
+            "top": 376,
+            "left": 96
+        }
+    },
+    {
+        "page": 185,
+        "heading": "4.2.1 Positive potential of supervisory discretion",
+        "content": " The supervisory discretion included in the legal rules on G-SIBs equips regula- tors with tools to adjust these material provisions to their individual character and consequently, if need be, to address other potential flaws of the framework.*",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 299,
+            "top": 539,
+            "left": 96
+        }
+    },
+    {
+        "page": 185,
+        "heading": "28 Johnson, Goldstein, \u2018Decisions\u2019, p. 420",
+        "content": " 29 Thaler, Sunstein, The Nudge, p. 93; Johnson, Goldstein, \u2018Decisions\u2019, p. 421.  30 Jason Dana, \u2018The default pull: An experimental demonstration of subtle default effects on prefer-",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 207,
+            "top": 766,
+            "left": 96
+        }
+    },
+    {
+        "page": 187,
+        "heading": "4.2.1.2 Breaking up the big banks",
+        "content": " Apart from the issue of more accurate individualization of G-SIB regulation, supervisory discretion could also serve as a means to address a long-discussed postulate of some scholarly and regulatory circles \u2014 namely it actually provides",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 206,
+            "top": 336,
+            "left": 96
+        }
+    },
+    {
+        "page": 187,
+        "heading": "Video of Mervyn King, BBC News, 19 June 2013, www.bbc.com/news/av/business-22980749/sir",
+        "content": " -mervyn-king-too-big-to-fail-too-big-to-jail-or-simply-too-big, accessed 20 December 2021.  42 Johan Lybeck, The Future of Financial Regulation. Who Should Pay for the Failure of American",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 52,
+            "top": 769,
+            "left": 230
+        }
+    },
+    {
+        "page": 188,
+        "heading": "=",
+        "content": "20 December 2021.  49 See Section 2.2.1 and Nils Moch, \u2018Contribution of large banking institutions to systemic risk: What do we know? A literature review\u2019, Review of Economics, 2018, 69/3.",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 414,
+            "top": 667,
+            "left": 99
+        }
+    },
+    {
+        "page": 189,
+        "heading": "4.2.1.3. Remedy for \u2018too low capital requirements, too low leverage ratio\u2019",
+        "content": " The second most common mantra after the post-crisis rules on G-SIBs had been adopted is the persistent criticism that the capital levels and leverage ratio are generally still too low. Also this potential flaw could be remedied by means of",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 445,
+            "top": 570,
+            "left": 96
+        }
+    },
+    {
+        "page": 190,
+        "heading": "in Douglas Amer, Emilios Avgouleas, Danny Busch, Steven Schwarcz (eds), Systemic Risk in the",
+        "content": " Financial Sector. Ten Years after the Great Crash, Centre for International Governance Innova-  tion, 2019, p. 118.",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 99,
+            "top": 646,
+            "left": 471
+        }
+    },
+    {
+        "page": 191,
+        "heading": "4.2.1.4 Real flexibility for real economy",
+        "content": " The argument that is often heard from the side of the industry is that all strict pru- dential rules prevent banks from aiding the real economy, both in normal times and especially in the face of a downturn.\u201d Supervisory discretion in the context of",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 242,
+            "top": 363,
+            "left": 96
+        }
+    },
+    {
+        "page": 192,
+        "heading": "and allow banks to continue lending to creditworthy households and businesses\u2019, Press Release, 23",
+        "content": " March 2020, www.federalreserve.gov/newsevents/pressreleases/bcreg20200323a.htm, accessed  20 December 2021.",
+        "features": {
+            "font_id": "9",
+            "height": 11,
+            "width": 471,
+            "top": 659,
+            "left": 99
+        }
+    },
+    {
+        "page": 192,
+        "heading": "March 2020, www.federalreserve.gov/newsevents/pressreleases/bcreg20200323a.htm, accessed",
+        "content": " 20 December 2021.  Federal Reserve, \u2018Federal Reserve provides additional information to financial institutions on how",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 67,
+            "top": 670,
+            "left": 99
+        }
+    },
+    {
+        "page": 192,
+        "heading": "www.federalreserve.gov/newsevents/pressreleases/bcreg20200324a.htm, accessed 20 December",
+        "content": " 2021.  82 Federal Reserve, \u2018Federal Reserve Board releases results of stress tests for 2020 and additional",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 122,
+            "top": 730,
+            "left": 449
+        }
+    },
+    {
+        "page": 194,
+        "heading": "4.2.1.5 Greener path",
+        "content": " G-SIB-related discretion could also turn out to be vital in an ongoing global cri- sis that we have been facing for years \u2014 namely in the fight to tackle climate change. Regulators on both sides of the Atlantic Ocean are working intensively",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 129,
+            "top": 444,
+            "left": 81
+        }
+    },
+    {
+        "page": 196,
+        "heading": "4.2.2 Supervisory discretion, unused",
+        "content": " Even though the supervisory discretion is present in almost all regulatory areas concerning G-SIBs and this tool exhibits great potential to improve G-SIB- specific regulation, some odd aversion'\u201d to adjust the G-SIB-oriented rules to",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 228,
+            "top": 287,
+            "left": 81
+        }
+    },
+    {
+        "page": 196,
+        "heading": "4.2.2.1 International level",
+        "content": " In the case of the international bodies engaged in drafting G-SIB regulation, Financial Stability Board (FSB) and Basel Committee on Banking Supervision (BCBS), supervisors\u2019 unwillingness to tailor the rules can be spotted in the context",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 160,
+            "top": 462,
+            "left": 81
+        }
+    },
+    {
+        "page": 197,
+        "heading": "Table 4.1 Supervisory judgment in the FSB/BCBS G-SIB designation process",
+        "content": " Year of Allocations/designations based on Overall allocations/designations publication supervisory judgment ",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 11,
+            "top": 348,
+            "left": 480
+        }
+    },
+    {
+        "page": 197,
+        "heading": "Year of Allocations/designations based on Overall allocations/designations publication supervisory judgment",
+        "content": " 2014 2 30 2015 1 30 2016 3 30",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 43,
+            "top": 123,
+            "left": 96
+        }
+    },
+    {
+        "page": 198,
+        "heading": "4.2.2.2 Regional level",
+        "content": " A similarly passive attitude but in an even wider range of regulatory aspects is visible at the regional level in the USA and in the EU. ",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 135,
+            "top": 277,
+            "left": 81
+        }
+    },
+    {
+        "page": 198,
+        "heading": "4.2.2.2.1 USA",
+        "content": " Supervisory reluctance characterizes several areas of US G-SIB regulation, whether designation, G-SIB surcharge and resolution aspects, or stress testing. Firstly, the Federal Reserve Board never used the discretion''\u00ae to apply G-SIB-",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 73,
+            "top": 361,
+            "left": 81
+        }
+    },
+    {
+        "page": 200,
+        "heading": "Table 4.2 Results of the CCAR exercise",
+        "content": " Year Objections Number of all firms undergoing",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 51,
+            "top": 95,
+            "left": 81
+        }
+    },
+    {
+        "page": 200,
+        "heading": "Year Objections Number of all firms undergoing",
+        "content": " Quantitative Qualitative Regarding Regarding US G-SIBs US firms of ",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 93,
+            "top": 123,
+            "left": 81
+        }
+    },
+    {
+        "page": 200,
+        "heading": "Quantitative Qualitative Regarding Regarding US G-SIBs US firms of",
+        "content": " EU G-sIBs CCAR 2013 1 2 0 0 18 2014 1 4 1 3 30",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 201,
+            "top": 146,
+            "left": 116
+        }
+    },
+    {
+        "page": 201,
+        "heading": "4.2.2.2.2 EU",
+        "content": " In the EU the inaction of supervisors is equally visible as in the US. The EU G-SIBs are designated separately for two purposes \u2014 within the EU-wide frame- work for the sake of setting specific prudential standards (such as G-SII buffer,",
+        "features": {
+            "font_id": "9",
+            "height": 11,
+            "width": 65,
+            "top": 450,
+            "left": 96
+        }
+    },
+    {
+        "page": 202,
+        "heading": "Table 4.3 Supervisory judgment exercised in the aspect of G-SH designation",
+        "content": " Year of decision Supervisory judgment- based G-SII All G-SII designations designations ",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 51,
+            "top": 95,
+            "left": 81
+        }
+    },
+    {
+        "page": 202,
+        "heading": "Year of decision Supervisory judgment- based G-SII All G-SII designations designations",
+        "content": " 2014 0 12 2015 1 14 2016 2 11",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 288,
+            "top": 123,
+            "left": 81
+        }
+    },
+    {
+        "page": 204,
+        "heading": "Table 4.4 Changes in Pillar 2 Requirement for EU G-SIBs",
+        "content": " Year of EU G-SIBs and their Pillar 2 Requirement  en Deutsche BNP BPCE Cr\u00e9dit Soci\u00e9t\u00e9 Banco UniCredit ING",
+        "features": {
+            "font_id": "0",
+            "height": 14,
+            "width": 58,
+            "top": 319,
+            "left": 454
+        }
+    },
+    {
+        "page": 204,
+        "heading": "en Deutsche BNP BPCE Cr\u00e9dit Soci\u00e9t\u00e9 Banco UniCredit ING : Bank Paribas Agricole G\u00e9n\u00e9rale Santander",
+        "content": " 2016 2.75% 1.25% 1.5% 1.5% 1.5% 1.5% 2.5% 1.75%  2017 2.75% 1.25% 1.5% 1.5% 1.5% 1.5% 2% 1.75%",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 54,
+            "top": 146,
+            "left": 134
+        }
+    },
+    {
+        "page": 204,
+        "heading": "2016 2.75% 1.25% 1.5% 1.5% 1.5% 1.5% 2.5% 1.75%",
+        "content": " 2017 2.75% 1.25% 1.5% 1.5% 1.5% 1.5% 2% 1.75% 2018 2.75% 1.25% 1.75% 1.5% 1.75% 1.5% 2% 1.75% 2019 2.5% 1.25% 1.75% 1.5% 1.75% 1.5% 1.75% 1.75%",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 27,
+            "top": 186,
+            "left": 81
+        }
+    },
+    {
+        "page": 205,
+        "heading": "4.2.3 Obstacles for the application of supervisory discretion",
+        "content": " Supervisory inaction in the context of individual adjustments of regulation on G-SIBs seems to cancel out the potential of supervisory discretion to tailor overly general rules binding these entities, both in the USA and in the EU. Supervisors",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 370,
+            "top": 170,
+            "left": 96
+        }
+    },
+    {
+        "page": 205,
+        "heading": "4.2.3.1 Uncertainty",
+        "content": " Uncertainty is looming over all types of legal discretion. Namely, granting pow- ers to public authorities to adjust legal provisions could potentially undermine the notion of certainty of the law, one of the fundaments of modern democracies",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 120,
+            "top": 408,
+            "left": 96
+        }
+    },
+    {
+        "page": 207,
+        "heading": "Table 4.5 Entities involved in the supervisory discretion proceedings",
+        "content": " Legal areas Supervisory entities involved International US EU Designation/ \u00a2 Home and host e Federal e National authorities",
+        "features": {
+            "font_id": "20",
+            "height": 18,
+            "width": 51,
+            "top": 95,
+            "left": 96
+        }
+    },
+    {
+        "page": 209,
+        "heading": "4.2.3.2 Arbitrariness",
+        "content": " One of the detailed concerns stemming from legal uncertainty, appearing when- ever individually oriented supervisory discretion is to be exercised, is the potential arbitrary character of the rules resulting from such discretionary processes. The",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 129,
+            "top": 372,
+            "left": 96
+        }
+    },
+    {
+        "page": 210,
+        "heading": "4.2.3.3 Regulatory capture",
+        "content": " Regulatory capture\u2019 is common in many areas of law. Why does it constitute  an obstacle for the discretionary G-SIB-oriented adjustments to be introduced?",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 165,
+            "top": 138,
+            "left": 81
+        }
+    },
+    {
+        "page": 211,
+        "heading": "4.2.4 How to make supervisory discretion work",
+        "content": " Supervisory discretion to adjust material provisions more individually is inher- ently built into G-SIB-specific regulation, both in the USA and in the EU. However, it is hardly exercised by the regulators,'\u201d even though this more ade-",
+        "features": {
+            "font_id": "24",
+            "height": 13,
+            "width": 293,
+            "top": 521,
+            "left": 96
+        }
+    },
+    {
+        "page": 212,
+        "heading": "4.2.4.1 Funding, training, and compensation of supervisors",
+        "content": " There are actual people behind the regulatory power that should be materializing in the form of a more individualized legal framework for G-SIBs. These people are subject to both internal and external influences.'\u201d Not only do they tend to",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 361,
+            "top": 210,
+            "left": 81
+        }
+    },
+    {
+        "page": 214,
+        "heading": "4.2.4.2 Choice architecture and system of guidelines",
+        "content": " Discretion could be exercised more often if lack of action was not considered a default option.'\u201d' In this vein, a nudge to utilize discretionary tools would be ",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 319,
+            "top": 624,
+            "left": 81
+        }
+    },
+    {
+        "page": 217,
+        "heading": "4.2.4.3 Concept of ultimate decision maker",
+        "content": " Clarity in exercising supervisory discretion is necessary not only in the area of guidelines to be taken into consideration while making the final decision. In the case of multiple bodies engaged in the process, it is equally important for the",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 262,
+            "top": 606,
+            "left": 96
+        }
+    },
+    {
+        "page": 219,
+        "heading": "4.2.4.4 Transparency",
+        "content": " Once the system of guidelines and clarity of inter-agency coordination lead to the application of discretion, it is necessary for the procedure and its result to be adequately transparent.\u2019'* Transparency of such actions is relevant firstly from the",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 132,
+            "top": 156,
+            "left": 96
+        }
+    },
+    {
+        "page": 219,
+        "heading": "4.2.4.5 Independent checks",
+        "content": " Discretionary framework in the context of G-SIBs could remain incomplete with- out an external oversight body. Such an entity would mitigate the threat of arbi- trariness, deregulation, and potential capture problem, as supervisors would know",
+        "features": {
+            "font_id": "6",
+            "height": 20,
+            "width": 167,
+            "top": 678,
+            "left": 96
+        }
+    },
+    {
+        "page": 221,
+        "heading": "4.3 Summary",
+        "content": " Post-crisis regulation of G-SIBs still remains overly general. However, a tool to address this flaw has been built into the framework. Namely, the vast major- ity of the provisions\u201d include an element of supervisory discretion \u2014 regulators",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 99,
+            "top": 178,
+            "left": 96
+        }
+    },
+    {
+        "page": 223,
+        "heading": "Bibliography",
+        "content": " Admati, Anat and Hellwig, Martin. The Bankers\u2019 New Clothes: What\u2019s Wrong with Banking and What to Do about It, Princeton University Press, 2014. ",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 93,
+            "top": 214,
+            "left": 96
+        }
+    },
+    {
+        "page": 223,
+        "heading": "Baxter, Lawrence. \u2018Capture Nuances in the Contest for Financial Regulation\u2019, Wake Forest",
+        "content": "Law Review, 2012, 47.  Baxter, Lawrence. \u2018Understanding Regulatory Capture: An Academic Perspective from the United States\u2019, in Stefano Pagliari (ed.), The Making of Good Financial Regulation.",
+        "features": {
+            "font_id": "21",
+            "height": 13,
+            "width": 418,
+            "top": 752,
+            "left": 96
+        }
+    },
+    {
+        "page": 228,
+        "heading": "Mayo, Mike. Exile on Wall Street: One Analyst\u2019s Fight to Save the Big Banks from",
+        "content": " Themselves, Wiley, 2011.  Moch, Nils. \u2018Contribution of Large Banking Institutions to Systemic Risk: What Do We",
+        "features": {
+            "font_id": "17",
+            "height": 18,
+            "width": 76,
+            "top": 355,
+            "left": 81
+        }
+    },
+    {
+        "page": 231,
+        "heading": "Concluding remarks",
+        "content": " G-SIBs, or too big to fail banks, constantly constitute a subject of public dis- course. Over ten years have passed since the GFC. Many reforms have been intro- duced, even more recommended, but the too-big-to-fail issue does not seem to",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 145,
+            "top": 294,
+            "left": 96
+        }
+    },
+    {
+        "page": 235,
+        "heading": "Perspectives beyond G-SIBs",
+        "content": " Looking further, even though it remains to be explored in more depth, it seems that the supervisory discretion could also constitute a key to an enhanced regulation of other systemically important entities, such as insurers or central clearing counter-",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 198,
+            "top": 668,
+            "left": 96
+        }
+    },
+    {
+        "page": 236,
+        "heading": "2 FSB, \u2018CCPs that are systemically important in more than one jurisdiction (SI>1 CCPs)\u2019, September",
+        "content": " 2020.  See FSB, \u2018Statement\u2019; US Department of the Treasury, \u2018Financial Stability Oversight Council",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 333,
+            "top": 74,
+            "left": 81
+        }
+    },
+    {
+        "page": 236,
+        "heading": "See FSB, \u2018Statement\u2019; US Department of the Treasury, \u2018Financial Stability Oversight Council",
+        "content": " Issues Final Guidance on Nonbank Designations\u2019, 4 December 2019.  4 This reasoning is shared by Danny Busch, Mirik van Rijn, \u2018Towards single supervision and resolu-",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 477,
+            "top": 661,
+            "left": 93
+        }
+    },
+    {
+        "page": 236,
+        "heading": "tion of systemically important non-bank financial institutions in the European Union\u2019, European",
+        "content": " Business Organization Law Review, 2018/2.  For instance in the EU several systemically important CCPs are based in Germany and the Neth-",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 427,
+            "top": 706,
+            "left": 93
+        }
+    },
+    {
+        "page": 236,
+        "heading": "the Union\u2019, 4 January 2021. Consequently, they are supervised by Bafin and De Nederlandsche",
+        "content": " Bank respectively, two agencies responsible for Deutsche Bank\u2019s and ING\u2019s prudential conduct  and supervision of insurers. Similarly in the US CCPs and insurers are supervised by the SEC and",
+        "features": {
+            "font_id": "10",
+            "height": 16,
+            "width": 477,
+            "top": 766,
+            "left": 93
+        }
+    },
+    {
+        "page": 237,
+        "heading": "Perspectives beyond the USA and EU",
+        "content": " Even though the majority of G-SIBs stem from the two jurisdictions described in this book, namely from the USA and EU, these are not the only legal systems in which such institutions are incorporated.'\u00b0 China is in third place when it comes",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 264,
+            "top": 268,
+            "left": 96
+        }
+    },
+    {
+        "page": 237,
+        "heading": "an",
+        "content": "Between 2000 and 2018 payouts to shareholders increased by almost 400 per cent. Simultaneously, investments in R&D have not increased.* Big Pharma took on more and more debt, but mostly to make payouts and acquire smaller com- panies together with their intellectual property instead of developing their own",
+        "features": {
+            "font_id": "1",
+            "height": 20,
+            "width": 490,
+            "top": 74,
+            "left": 96
+        }
+    },
+    {
+        "page": 238,
+        "heading": "Bibliography",
+        "content": " BCBS. Progress Report on Adoption of the Basel Regulatory Framework, October 2021.  Busch, Danny and van Rijn, Mirik. \u2018Towards Single Supervision and Resolution of",
+        "features": {
+            "font_id": "18",
+            "height": 15,
+            "width": 93,
+            "top": 466,
+            "left": 81
+        }
+    },
+    {
+        "page": 240,
+        "heading": "Index",
+        "content": " **Page numbers in bold reference tables.  Abacus 2004-1, 89",
+        "features": {
+            "font_id": "47",
+            "height": 37,
+            "width": 66,
+            "top": 80,
+            "left": 81
+        }
+    }
+]

@@ -1,0 +1,1502 @@
+[
+    {
+        "page": 2,
+        "heading": "BANK REGULATION, RISK MANAGEMENT, AND COMPLIANCE",
+        "content": " Bank Regulation, Risk Management, and Compliance is a concise yet comprehensive treatment of the primary areas of US banking regulation \u2014 micro-prudential, macro- prudential, financial consumer protection, and AML/CFT regulation \u2014 and their",
+        "features": {
+            "font_id": "1",
+            "height": 13,
+            "width": 304,
+            "top": 286,
+            "left": 81
+        }
+    },
+    {
+        "page": 3,
+        "heading": "PRACTICAL FINANCE AND BANKING GUIDES",
+        "content": " Consumer Credit: Law and Practice Second edition Alexander Hill-Smith",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 319,
+            "top": 84,
+            "left": 182
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Consumer Credit: Law and Practice Second edition Alexander Hill-Smith",
+        "content": " Bank Regulation, Risk Management, and Compliance Theory, Practice, and Key Problem Areas Alexander Dill",
+        "features": {
+            "font_id": "6",
+            "height": 11,
+            "width": 175,
+            "top": 121,
+            "left": 253
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Bank Regulation, Risk Management, and Compliance Theory, Practice, and Key Problem Areas Alexander Dill",
+        "content": " For more information about this series, please visit: www.routledge.com/law/series/PFBG ",
+        "features": {
+            "font_id": "6",
+            "height": 11,
+            "width": 258,
+            "top": 174,
+            "left": 212
+        }
+    },
+    {
+        "page": 4,
+        "heading": "BANK REGULATION, RISK MANAGEMENT, AND COMPLIANCE",
+        "content": " THEORY, PRACTICE, AND KEY PROBLEM AREAS ",
+        "features": {
+            "font_id": "9",
+            "height": 25,
+            "width": 301,
+            "top": 97,
+            "left": 171
+        }
+    },
+    {
+        "page": 4,
+        "heading": "THEORY, PRACTICE, AND KEY PROBLEM AREAS",
+        "content": " ALEXANDER DILL  ro| informa law",
+        "features": {
+            "font_id": "10",
+            "height": 19,
+            "width": 318,
+            "top": 249,
+            "left": 166
+        }
+    },
+    {
+        "page": 5,
+        "heading": "and by Informa Law from Routledge 52 Vanderbilt Avenue, New York, NY 10017",
+        "content": " Informa Law from Routledge is an imprint of the Taylor & Francis Group, an informa business \u00a9 2020 Alexander Dill ",
+        "features": {
+            "font_id": "13",
+            "height": 11,
+            "width": 157,
+            "top": 104,
+            "left": 101
+        }
+    },
+    {
+        "page": 5,
+        "heading": "Library of Congress Cataloging-in-Publication Data A catalog record for this book has been requested",
+        "content": " ISBN: 978-0-367-36749-7 (hbk) ISBN: 978-0-429-35 116-7 (ebk) ",
+        "features": {
+            "font_id": "14",
+            "height": 11,
+            "width": 254,
+            "top": 536,
+            "left": 101
+        }
+    },
+    {
+        "page": 5,
+        "heading": "ISBN: 978-0-367-36749-7 (hbk) ISBN: 978-0-429-35 116-7 (ebk)",
+        "content": " Typeset in Times New Roman by Apex CoVantage, LLC ",
+        "features": {
+            "font_id": "12",
+            "height": 16,
+            "width": 157,
+            "top": 573,
+            "left": 101
+        }
+    },
+    {
+        "page": 8,
+        "heading": "CONTENTS",
+        "content": " List of figures  List of tables",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 110,
+            "top": 156,
+            "left": 266
+        }
+    },
+    {
+        "page": 11,
+        "heading": "Conclusion",
+        "content": " CHAPTERS THE ROLE OF RISK MANAGEMENT AND  5.1",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 107,
+            "top": 408,
+            "left": 108
+        }
+    },
+    {
+        "page": 11,
+        "heading": "COMPLIANCE IN MICRO-PRUDENTIAL OVERSIGHT Introductory overview General overview of Pillar II bank supervision",
+        "content": "5.2.1 Rationales for bank supervision 5.2.2 Capital: focus of supervisory review for all banks 5.2.3. Scope and nature of bank supervision through examinations",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 276,
+            "top": 466,
+            "left": 202
+        }
+    },
+    {
+        "page": 12,
+        "heading": "IN MACRO-PRUDENTIAL REGULATION OF SYSTEMIC RISK",
+        "content": " Introductory overview  The role of the GFC in the formulation of macro-prudential",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 299,
+            "top": 192,
+            "left": 182
+        }
+    },
+    {
+        "page": 13,
+        "heading": "CHAPTER9 THE ROLE OF RISK MANAGEMENT AND COMPLIANCE IN CONSUMER PROTECTION REGULATION",
+        "content": " 9.1 Introductory overview 9.2 Overview of compliance risk in financial consumer services 9.2.1 Factors creating unique compliance risks in banking",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 305,
+            "top": 610,
+            "left": 202
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Conclusion",
+        "content": " CHAPTER 10 THE ROLE OF RISK MANAGEMENT AND  10.1",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 107,
+            "top": 213,
+            "left": 89
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Originate-and-distribute model: MBS securitization Growth in commercial banking assets over time Pyramid of regulatory expectations",
+        "content": " Principal-agent relationship  Principal-agent relationship in a corporation",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 12,
+            "top": 156,
+            "left": 393
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Principal-agent relationship",
+        "content": " Principal-agent relationship in a corporation Evolution of bank capital ratio in the US ",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 201,
+            "top": 336,
+            "left": 81
+        }
+    },
+    {
+        "page": 18,
+        "heading": "LIST OF TABLES",
+        "content": " Adverse selection and moral hazard risks faced by banks and bank regulators ",
+        "features": {
+            "font_id": "20",
+            "height": 28,
+            "width": 81,
+            "top": 150,
+            "left": 242
+        }
+    },
+    {
+        "page": 26,
+        "heading": "INTERNATIONAL",
+        "content": " Guidance and Standards Bank for International Settlements, \u2018Countercyclical capital buffer (CCyB)\u2019 ",
+        "features": {
+            "font_id": "23",
+            "height": 12,
+            "width": 455,
+            "top": 287,
+            "left": 111
+        }
+    },
+    {
+        "page": 26,
+        "heading": "Guidance and Standards Bank for International Settlements, \u2018Countercyclical capital buffer (CCyB)\u2019",
+        "content": " (13 February 2018), at <https://www.bis.org/bcbs/ccyb/> ......ceeeseeeeseeecteeeteeeees 195 Basel Committee on Banking Supervision \u2018Framework for Internal Control Systems in Banking Organizations\u2019 (1998) .o....eceeeesseseceeceeceseceseeeseeseeeeeseeeeeeeteees 96",
+        "features": {
+            "font_id": "25",
+            "height": 12,
+            "width": 115,
+            "top": 348,
+            "left": 81
+        }
+    },
+    {
+        "page": 26,
+        "heading": "DOOK? (2009)... ceceeccesecsesescsseecseseessescscsessssesesesecscsesesssesssessceesesasseecsesecessesesaeesaegs 135 , \u2018International Convergence of Capital Measurement and Capital",
+        "content": " Standards\u2019 (June 2006)... ccceeecceeceecsseeseesecsecsecseeseeseeseeeeseceeceecseeaeeaeeaecaeenaeaaente 143 ",
+        "features": {
+            "font_id": "25",
+            "height": 12,
+            "width": 115,
+            "top": 348,
+            "left": 81
+        }
+    },
+    {
+        "page": 27,
+        "heading": "\u2018Principles of Corporate Governance\u2019 (2004)... cececessetecseceeceeeeeeeeseeseeseeseeeees 2, 68",
+        "content": " Organization for Economic Co-operation and Development, \u2018Policy Framework for Effective and Efficient Financial Regulation: General Guidance and High- Level Checklist\u2019 (29 January 2010), OECD Journal: Financial Market Trends",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 242,
+            "top": 473,
+            "left": 128
+        }
+    },
+    {
+        "page": 27,
+        "heading": "Bank of England, \u2018The Bank of England\u2019s approach to resolution\u2019 (October 2017).....218 EUROPEAN UNION Statutory",
+        "content": " European Commission, Bank recovery and resolution - Directive 2014/59/EU (2014) eee eceescsectessesnecseecsesssesesesescsesesssesssecsesceessesesesesssesssesesesecseasasessesesesesenents 218 ",
+        "features": {
+            "font_id": "26",
+            "height": 12,
+            "width": 51,
+            "top": 619,
+            "left": 101
+        }
+    },
+    {
+        "page": 27,
+        "heading": "European Commission, Bank recovery and resolution - Directive 2014/59/EU (2014) eee eceescsectessesnecseecsesssesesesescsesesssesssecsesceessesesesesssesssesesesecseasasessesesesesenents 218",
+        "content": " Guidance European Banking Authority, \u2018Final Report: Guidelines on internal governance ",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 7,
+            "top": 645,
+            "left": 576
+        }
+    },
+    {
+        "page": 28,
+        "heading": "ACDD79CTSDGA> eee eseceseeeeseeeeeeeseseescssesesseseesceaeseeecseesceecseeecsecaeeecsesaseesaeeeceesaseeenees 229 European Banking Authority, \u2018The Single Rulebook\u2019, at <http://www.eba.europa. eu/regulation-and-policy/single-ruleDOOk>..........ceceseeseeseesceseeeeeeeeeeceeceeceseeeeaeeneenes 56",
+        "content": " UNITED STATES  Statutory Law - Federal",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 20,
+            "top": 156,
+            "left": 543
+        }
+    },
+    {
+        "page": 28,
+        "heading": "UNITED STATES",
+        "content": " Statutory Law - Federal Annunzio-Wylie Anti-Money Laundering Act of 1992, Pub. L. 102\u2014550, 106 Stat. ",
+        "features": {
+            "font_id": "25",
+            "height": 12,
+            "width": 106,
+            "top": 232,
+            "left": 81
+        }
+    },
+    {
+        "page": 28,
+        "heading": "Glass-Steagall Act of 1933, Pub. L. 73\u201466, 48 Stat. 162 (1933) oo. ceeeeeceseeseeteereeee 25, 32",
+        "content": " Gramm-Leach Bliley Act of 1999, Pub. L. 106\u2014102, 113 Stat. 1338 (1999) oe 32 Home Mortgage Disclosure Act, 12 USC \u00a7 2801 et Seq....eceeeeeeseeeceeereeeees ve ",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 7,
+            "top": 188,
+            "left": 556
+        }
+    },
+    {
+        "page": 29,
+        "heading": "Truth in Lending Act, 15 USC \u00a7 1601 et seq",
+        "content": " Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001, Pub. L. 107\u201456, 115 Stat. 272 ",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 239,
+            "top": 122,
+            "left": 101
+        }
+    },
+    {
+        "page": 31,
+        "heading": "gov/regulations/safety/mamal/> 0.0.0... eecseeeeseseeseeseeeeseeeseeeeseesceeeeceasseeecseeeeeeenees 146",
+        "content": " Federal Financial Institutions Examinations Council, Bank Secrecy Act/Anti-Money Laundering Examination Manual\u2014 BSA/AML Compliance Program\u2014 Overview, at <https://www.ffiec.gov/bsa_aml_infobase/pages_manual/manual_online.htm>.. 251",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 20,
+            "top": 187,
+            "left": 562
+        }
+    },
+    {
+        "page": 34,
+        "heading": "NOTE ABOUT THE AUTHOR",
+        "content": " Alexander Dill has worked in the finance industry since 1986. He is Lecturer in the University of Chicago\u2019s Financial Mathematics Program and Lecturer in Law at the UCLA School of Law. Before joining UCLA in 2019, he was Sen-",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 269,
+            "top": 156,
+            "left": 185
+        }
+    },
+    {
+        "page": 36,
+        "heading": "ACKNOWLEDGMENTS",
+        "content": " Many people have helped me bring this book to fruition. My debts lie in the intel- lectual impetus that I have received and the support and institutional resources permitting me to conceive of the ideas underlying the book, develop and deepen",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 222,
+            "top": 156,
+            "left": 210
+        }
+    },
+    {
+        "page": 40,
+        "heading": "Introduction",
+        "content": " A transformation of governing assumptions  The global financial crisis of 2007\u201409 (GFC) forced policymakers, econo-",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 127,
+            "top": 156,
+            "left": 256
+        }
+    },
+    {
+        "page": 40,
+        "heading": "A transformation of governing assumptions",
+        "content": " The global financial crisis of 2007\u201409 (GFC) forced policymakers, econo- mists, financial commentators, and other market participants to rethink their governing assumptions on how the financial markets operate. Prior to the",
+        "features": {
+            "font_id": "27",
+            "height": 13,
+            "width": 278,
+            "top": 260,
+            "left": 81
+        }
+    },
+    {
+        "page": 41,
+        "heading": "Themes in bank regulation and banks\u2019 internal governance",
+        "content": " Three major themes run throughout this book.  1 Cooptation of corporate governance",
+        "features": {
+            "font_id": "27",
+            "height": 13,
+            "width": 377,
+            "top": 314,
+            "left": 100
+        }
+    },
+    {
+        "page": 41,
+        "heading": "1 Cooptation of corporate governance",
+        "content": " First, even before the crisis, policymakers had been increasingly incorporating key components of firms\u2019 corporate governance systems into their regulatory expectations. This continued a trend from a \u2018regulatory\u2019 to a \u2018supervisory\u2019 regime",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 235,
+            "top": 385,
+            "left": 100
+        }
+    },
+    {
+        "page": 42,
+        "heading": "2 Tensions between banks\u2019 business models and regulatory mandates",
+        "content": " The second theme, related to the first, concerns the challenges firms face in meeting the banking agencies\u2019 expectations when these expectations interfere directly with business models and strategy. The imperatives of banks\u2019 models of",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 417,
+            "top": 385,
+            "left": 81
+        }
+    },
+    {
+        "page": 43,
+        "heading": "3 Flexibility and broad variety of means in conveying regulatory expectations",
+        "content": " Third, regulators employ a broad array of means to convey regulatory expec- tations, both for the industry and for each banking organization individually. In the US, the system of regulation and supervision is adaptable, flexible, and",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 470,
+            "top": 457,
+            "left": 100
+        }
+    },
+    {
+        "page": 45,
+        "heading": "Contribution to the literature and intended readership",
+        "content": " The book makes two contributions to the literature on bank regulation and banks\u2019 systems of internal governance. First, it establishes a conceptual framework that enables students and practitioners to understand the structure and rationale of",
+        "features": {
+            "font_id": "27",
+            "height": 13,
+            "width": 349,
+            "top": 350,
+            "left": 100
+        }
+    },
+    {
+        "page": 46,
+        "heading": "Book overview",
+        "content": " The book is in two parts. Part I, Chapters | through 3, is foundational to under- standing the subject matter of Part II. Part I provides the concepts and tools nec- essary for readers to engage fully with Part II\u2019s chapters on the substantive areas",
+        "features": {
+            "font_id": "27",
+            "height": 13,
+            "width": 95,
+            "top": 710,
+            "left": 81
+        }
+    },
+    {
+        "page": 48,
+        "heading": "Part IT",
+        "content": " Part II covers the four primary areas of bank regulation and their associated regu- latory expectations for internal governance. It adopts the Basel \u2018Pillar I\u2019 and \u2018Pil- lar IP concepts to organize its treatment of micro-prudential and macro-prudential",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 40,
+            "top": 457,
+            "left": 81
+        }
+    },
+    {
+        "page": 54,
+        "heading": "CHAPTER 1",
+        "content": " The banking business model and rise of the financial conglomerate ",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 92,
+            "top": 102,
+            "left": 276
+        }
+    },
+    {
+        "page": 54,
+        "heading": "The banking business model and rise of the financial conglomerate",
+        "content": " Banking is now, and has always been, a risky business. The key to success in operating a bank and in supervising a banking system is management of risk.' ",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 321,
+            "top": 156,
+            "left": 166
+        }
+    },
+    {
+        "page": 55,
+        "heading": "FOUNDATIONS",
+        "content": " National authorities seek to achieve three fundamental objectives in finan- cial regulation: (1) the safety and soundness of individual financial institutions (micro-prudential regulation); (2) protection of investors and consumers of finan-",
+        "features": {
+            "font_id": "19",
+            "height": 7,
+            "width": 89,
+            "top": 65,
+            "left": 296
+        }
+    },
+    {
+        "page": 58,
+        "heading": "of banks\u2019 key business strategies on the liability side of their balance sheet is to",
+        "content": " 12 The Federal Reserve operates Fedwire, through which financial institutions transfer funds to one another. It debits and credits firm\u2019s reserve accounts upon receiving requisite wiring instructions. ",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 486,
+            "top": 772,
+            "left": 81
+        }
+    },
+    {
+        "page": 61,
+        "heading": "factoring in recoveries. They thus seek to establish a risk return on their capital in",
+        "content": " 25 \u00a7 4.3.7.4.  26 The Volcker rule is the subject of \u00a7 8.3.1.",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 485,
+            "top": 754,
+            "left": 100
+        }
+    },
+    {
+        "page": 63,
+        "heading": "Table 1.1 Adverse selection and moral hazard risks faced by banks and bank regulators",
+        "content": " Adverse selection  How it is manifested",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 50,
+            "top": 88,
+            "left": 100
+        }
+    },
+    {
+        "page": 63,
+        "heading": "Adverse selection",
+        "content": " Adverse selection  How it is manifested",
+        "features": {
+            "font_id": "23",
+            "height": 12,
+            "width": 423,
+            "top": 89,
+            "left": 149
+        }
+    },
+    {
+        "page": 63,
+        "heading": "Measures against adverse selection",
+        "content": " Definition  Party A to a transaction",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 95,
+            "top": 118,
+            "left": 100
+        }
+    },
+    {
+        "page": 63,
+        "heading": "Definition",
+        "content": " Party A to a transaction knows more about the material issues than",
+        "features": {
+            "font_id": "34",
+            "height": 18,
+            "width": 57,
+            "top": 156,
+            "left": 100
+        }
+    },
+    {
+        "page": 69,
+        "heading": "Origination parties",
+        "content": " 4 3 1 2 Mortgage Securitizer (purchases mortgages and pools",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 487,
+            "top": 232,
+            "left": 101
+        }
+    },
+    {
+        "page": 74,
+        "heading": "Figure 1.2 Growth in commercial banking assets over time",
+        "content": " 87 Federal Reserve Bank of New York, \u2018Quarterly trends for consolidated U.S. banking organizations \u2014 second quarter 2018 \u2014 data\u2019, at <www.newyorkfed.org/medialibrary/media/research/ banking research/quarterlytrends2018q2.pdf?la=en>. The figures include both bank and non-bank",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 62,
+            "top": 192,
+            "left": 96
+        }
+    },
+    {
+        "page": 76,
+        "heading": "The bank regulatory framework and formation and conveyance of regulatory expectations",
+        "content": " 2.1 Introductory overview  This chapter takes up where Chapter | leaves off. It covers the US bank regula-",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 432,
+            "top": 156,
+            "left": 108
+        }
+    },
+    {
+        "page": 78,
+        "heading": "BANK REGULATORY FRAMEWORK AND EXPECTATIONS",
+        "content": " The BCBS considers its regulatory and supervisory standards to be minimum thresholds for bank regulation and supervision and encourages national author- ities to impose requirements that go beyond these standards. In fact, the US\u2019s",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 62,
+            "top": 574,
+            "left": 241
+        }
+    },
+    {
+        "page": 82,
+        "heading": "Table 2.1 The four supervisory structures of financial regulation: efficiency/effectiveness",
+        "content": " Supervisory Structural features Efficiency/effectiveness structure ",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 50,
+            "top": 88,
+            "left": 81
+        }
+    },
+    {
+        "page": 82,
+        "heading": "Supervisory Structural features Efficiency/effectiveness structure",
+        "content": " Functional \u00a2 A separate functional \u00a2 Effective if separate regulator for each type regulators coordinate of business activity (e.g., well.",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 68,
+            "top": 118,
+            "left": 87
+        }
+    },
+    {
+        "page": 85,
+        "heading": "objectives most effectively and efficiently\u2019 .\u00b0",
+        "content": " 2.2.5.1 Supervisory attributes that affect compliance cost and risk analysis  The five categories listed here summarize how a supervisory structure can",
+        "features": {
+            "font_id": "18",
+            "height": 20,
+            "width": 245,
+            "top": 498,
+            "left": 101
+        }
+    },
+    {
+        "page": 86,
+        "heading": "1 CLARITY IN SUPERVISORS\u2019 OWN REGULATORY OBJECTIVES",
+        "content": " Firms can more easily assess compliance risk and gauge compliance cost if supervisors have a clarity about their own mission as financial regulators. A high degree of clarity of regulatory mission will translate into clarity of regulatory",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 25,
+            "top": 88,
+            "left": 81
+        }
+    },
+    {
+        "page": 86,
+        "heading": "2 EFFECTIVENESS IN OVERSEEING FINANCIAL CONGLOMERATES",
+        "content": " Achieving clarity of regulatory expectations and low variability of inherent com- pliance risk are particularly challenging in this category. All four other categories are relevant. The developed economies increasingly have a sophisticated financial",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 24,
+            "top": 340,
+            "left": 81
+        }
+    },
+    {
+        "page": 86,
+        "heading": "3 SUPERVISORY RESOURCES",
+        "content": " Underfunding, a perennial problem for government agencies, can affect both compliance cost and inherent compliance risk analysis for banking firms. A supervisory structure may be effective on paper but not in practice without",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 23,
+            "top": 682,
+            "left": 81
+        }
+    },
+    {
+        "page": 87,
+        "heading": "4 INDEPENDENCE AND ACCOUNTABILITY",
+        "content": " Regulatory agencies that have broadly delegated discretionary powers, coupled with ineffective oversight by the legislative branch, can lead to arbitrary and capricious treatment of their regulated entities due to lack of accountability. This",
+        "features": {
+            "font_id": "21",
+            "height": 11,
+            "width": 20,
+            "top": 304,
+            "left": 100
+        }
+    },
+    {
+        "page": 87,
+        "heading": "5 ENFORCEMENT POWERS AND THEIR USE",
+        "content": " Governing supervisory statutes typically grant supervisory agencies a wide range of enforcement powers. On the one hand, aggressive enforcement can lead to overreach in a prosecution program, increasing inherent compliance risk.",
+        "features": {
+            "font_id": "19",
+            "height": 7,
+            "width": 23,
+            "top": 308,
+            "left": 201
+        }
+    },
+    {
+        "page": 93,
+        "heading": "Parliament adopted the twin-peaks model in the Financial Services Act of",
+        "content": "2012.8 It gave the Bank of England (BoE) responsibility for financial stability and created a new regulatory structure comprised of the BoE\u2019s Financial Policy Committee (FPC), operating within the BoE and charged with macro-prudential financial stability; the Prudential Regulation Authority (PRA), a subsidiary of the",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 486,
+            "top": 624,
+            "left": 100
+        }
+    },
+    {
+        "page": 101,
+        "heading": "Macro-prudential",
+        "content": " Capital adequacy ratios  Leverage ratio",
+        "features": {
+            "font_id": "25",
+            "height": 12,
+            "width": 107,
+            "top": 303,
+            "left": 101
+        }
+    },
+    {
+        "page": 108,
+        "heading": "A CORPORATE GOVERNANCE FRAMEWORK",
+        "content": " This relationship arises when one party (the agent) agrees to act in the interest of another party (the principal), subject to the principal\u2019s control. The agent owes a fiduciary duty to the principal to act in good faith in the best interest of the princi-",
+        "features": {
+            "font_id": "19",
+            "height": 7,
+            "width": 8,
+            "top": 65,
+            "left": 189
+        }
+    },
+    {
+        "page": 111,
+        "heading": "Agency Control",
+        "content": " Mechanisms  * Shareholder meetings Board owes a",
+        "features": {
+            "font_id": "52",
+            "height": 15,
+            "width": 110,
+            "top": 172,
+            "left": 129
+        }
+    },
+    {
+        "page": 121,
+        "heading": "the FRB\u2019s effort to hold business lines accountable for risk management.\u201d",
+        "content": " 3.4.2.2 Second line of defense: risk management and compliance  The second line establishes detect, prevent, and remediate control requirements",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 86,
+            "top": 160,
+            "left": 500
+        }
+    },
+    {
+        "page": 123,
+        "heading": "(3) Monitoring and testing compliance by employees with the P&Ps; and",
+        "content": " (4) Training, education, and guidance.  Compliance works closely with risk management in the first two areas. Among",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 441,
+            "top": 462,
+            "left": 130
+        }
+    },
+    {
+        "page": 127,
+        "heading": "ensuring directors were not in violation of their fiduciary duties. In In re Caremark",
+        "content": " 92 Griffith, Corporate governance 2081. 93 A-J Secrist, \u2018The link between risk management and compliance\u2019, Lexology (30 October 2013). ",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 393,
+            "top": 822,
+            "left": 100
+        }
+    },
+    {
+        "page": 137,
+        "heading": "143 BCBS, Corporate governance principles 17",
+        "content": " 144 \u00a7 6.3.4.  145 Thomas Linsmeier and Neil Pearson, \u2018Risk measurement: an introduction to value at risk\u2019",
+        "features": {
+            "font_id": "8",
+            "height": 16,
+            "width": 232,
+            "top": 829,
+            "left": 116
+        }
+    },
+    {
+        "page": 150,
+        "heading": "The role of risk management and compliance in micro-prudential capital regulation",
+        "content": " 4.1 Introductory overview  Micro-prudential regulation is the regulation and supervision of individual banks",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 412,
+            "top": 156,
+            "left": 121
+        }
+    },
+    {
+        "page": 151,
+        "heading": "BANK REGULATION AND INTERNAL GOVERNANCE",
+        "content": " It then covers in detail the RWA-based capital rules that apply to credit, market, and operational risk. It next turns to the new leverage ratio capital rules and non-capital portfolio restrictions. In most of these cases, more rigorous capital",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 63,
+            "top": 628,
+            "left": 210
+        }
+    },
+    {
+        "page": 152,
+        "heading": "Table 4.1 Regulatory capital ratios of JPMorgan Chase & Co. and Apple Inc.*",
+        "content": " JPMorgan Chase & Co. Apple Inc. (rated Aal) (rated A2) Total liabilities $2,332.6 billion $234.3 billion",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 33,
+            "top": 304,
+            "left": 446
+        }
+    },
+    {
+        "page": 153,
+        "heading": "taking as a key source of low-cost, short-term funding. The logic of the",
+        "content": " 7 Return on equity is calculated by dividing the amount of after-tax profit by the amount of equity in a capital structure. Holding profit constant, the lower the amount of equity, the higher the return on equity. 8 \u2018[R]isk management can be viewed as a substitute for equity capital\u2019. Brian Nocco and Ren\u00e9 Stulz,",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 489,
+            "top": 736,
+            "left": 101
+        }
+    },
+    {
+        "page": 154,
+        "heading": "Figure 4.1 Evolution of bank capital ratio in the US",
+        "content": " 12 Allen Berger, Richard Herring, and Giorgio Szeg\u00e9, \u2018The role of capital in financial institutions\u2019 (1995), 19 Journal of Banking & Finance 393, 401 [Berger, Role of capital]. ",
+        "features": {
+            "font_id": "57",
+            "height": 9,
+            "width": 6,
+            "top": 650,
+            "left": 107
+        }
+    },
+    {
+        "page": 160,
+        "heading": "Table 4.2 RWA sample calculation",
+        "content": " Assets Total $ amount on Basel I risk weights balance sheet ",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 50,
+            "top": 88,
+            "left": 81
+        }
+    },
+    {
+        "page": 164,
+        "heading": "CRC of sovereign Risk weight (in %)",
+        "content": " 0-1 0 2 20 3 50",
+        "features": {
+            "font_id": "60",
+            "height": 10,
+            "width": 74,
+            "top": 613,
+            "left": 190
+        }
+    },
+    {
+        "page": 166,
+        "heading": "67 12 CFR \u00a7 217.41(a)(1)-(4). Separate conditions apply to synthetic securitizations. 12 CFR \u00a7",
+        "content": "217.41(b).  68 12 CFR \u00a7 217.43(a)-(d). Banks must have sufficient data for five input parameters in the SSFA approach. 12 CFR \u00a7 217.43.",
+        "features": {
+            "font_id": "28",
+            "height": 11,
+            "width": 9,
+            "top": 265,
+            "left": 554
+        }
+    },
+    {
+        "page": 170,
+        "heading": "Banks are required to use the advanced measurement approach\u2019 using the",
+        "content": "99.9th percentile of their one-year operational loss exposure to establish their operational risk capital. In this calculation, banks are required to consider four types of data: past internal losses; past losses of other banks; scenario analysis; and business, environment, and control factors.",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 392,
+            "top": 610,
+            "left": 96
+        }
+    },
+    {
+        "page": 178,
+        "heading": "traditional cash-based assets, management of BHCs can use their existing",
+        "content": " 45 12 USC \u00a7 84.  46 The Law of Financial Institutions 258.",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 490,
+            "top": 610,
+            "left": 81
+        }
+    },
+    {
+        "page": 180,
+        "heading": "The role of risk management and compliance in micro-prudential oversight",
+        "content": " 5.1 Introductory overview  This chapter covers the supervisory framework governing Pillar II micro-",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 391,
+            "top": 156,
+            "left": 132
+        }
+    },
+    {
+        "page": 181,
+        "heading": "For all of these reasons, banks require ongoing and intensive supervisory oversight.\u2019",
+        "content": " 5.2.2 Capital: focus of supervisory review for all banks  Modern bank regulation views capital as the cornerstone of bank safety and",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 471,
+            "top": 570,
+            "left": 115
+        }
+    },
+    {
+        "page": 182,
+        "heading": "cies, the SEC and CFTC. For both types of regulators, examinations are the key",
+        "content": " 0 Since the GFC, financial stability has become the foremost concern of bank regulators. Super- visory review and minimum capital requirements for SIFI BHCs are the subject of Chapter 7. 1 Basel Committee on Banking Supervision, \u2018International convergence of capital measurement",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 486,
+            "top": 606,
+            "left": 81
+        }
+    },
+    {
+        "page": 187,
+        "heading": "12 U.S. Code \u00a7 1831p-1 \u2014 Standards for safety and soundness",
+        "content": " (a) Operational and managerial standards. Each appropriate Federal banking agency shall, for all insured depository institutions, prescribe \u2014 ",
+        "features": {
+            "font_id": "25",
+            "height": 12,
+            "width": 351,
+            "top": 730,
+            "left": 130
+        }
+    },
+    {
+        "page": 189,
+        "heading": "precursor",
+        "content": " Although Appendix A\u2019s Operational and Managerial Standards do not correspond precisely to the six CAMELS rating components, they nevertheless provide a foundation for examiners\u2019 approach to individual banking organizations\u2019 risk",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 57,
+            "top": 719,
+            "left": 148
+        }
+    },
+    {
+        "page": 196,
+        "heading": "Table 5.1 PCA levels for all insured depository institutions",
+        "content": " PCA category Total risk- Tier 1 CET 1 Leverage Supplemen- based capital RBC RBC ratio (%) tary leverage (RBC) meas- measure measure ratio (%)",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 50,
+            "top": 88,
+            "left": 81
+        }
+    },
+    {
+        "page": 196,
+        "heading": "ure (ratio %) (ratio %) (ratio %)",
+        "content": " Well capitalized =10 28 26.5 =5 Not applicable Adequately >8 >6 >4.5 >4 >3.0 capitalized",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 71,
+            "top": 163,
+            "left": 208
+        }
+    },
+    {
+        "page": 198,
+        "heading": "The role of corporate governance in macro-prudential regulation of systemic risk",
+        "content": " 6.1 Introductory overview  Global regulators only began to think programmatically about systemic risk when",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 457,
+            "top": 156,
+            "left": 96
+        }
+    },
+    {
+        "page": 207,
+        "heading": "in large financial conglomerates in which the principal-agent conflict plays an",
+        "content": " 39 See \u00a7 6.2.5.5, which summarizes the Senior Supervisors Group\u2019s 2008 report on poorly and better performing firms. ",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 486,
+            "top": 678,
+            "left": 100
+        }
+    },
+    {
+        "page": 211,
+        "heading": "Best-practice risk management area",
+        "content": " Better performing firms  Poorly performing firms",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 75,
+            "top": 94,
+            "left": 101
+        }
+    },
+    {
+        "page": 224,
+        "heading": "\u00a2 be consistent with the firm\u2019s financial and non-financial resources; and",
+        "content": " \u00a2 reinforce compliance with regulation and consistency with supervisory expectations. ",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 442,
+            "top": 678,
+            "left": 116
+        }
+    },
+    {
+        "page": 227,
+        "heading": "\u00a2 Processes and systems. These facilitate implementing and monitoring compliance with the aforesaid P&Ps.'*",
+        "content": " \u00a2 Risk committees responsibility. The committee must include liquidity risk management as per the liquidity rule\u2019s specifications. '** ",
+        "features": {
+            "font_id": "15",
+            "height": 14,
+            "width": 138,
+            "top": 640,
+            "left": 154
+        }
+    },
+    {
+        "page": 232,
+        "heading": "The capital solution to systemic risk",
+        "content": " Risk management and compliance implications  7.1 Introductory overview",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 304,
+            "top": 156,
+            "left": 168
+        }
+    },
+    {
+        "page": 232,
+        "heading": "Risk management and compliance implications",
+        "content": " 7.1 Introductory overview  The banking agencies have two primary objectives in macro-prudential capital",
+        "features": {
+            "font_id": "0",
+            "height": 16,
+            "width": 341,
+            "top": 198,
+            "left": 151
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Advanced approaches BHCs are required to have a \u2018CCyB\u201d\u00ae ranging from 0% to",
+        "content": "2.5% of RWA above the 8% RWA floor.\u2019 The agencies argue that cyclical adjust- ments produce smaller financial stability benefits and higher costs for smaller banking organizations. The countercyclical buffer must be comprised solely of CET1.8 The agencies have discretion to increase the buffer based on a range of",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 356,
+            "top": 408,
+            "left": 100
+        }
+    },
+    {
+        "page": 234,
+        "heading": "THE CAPITAL SOLUTION TO SYSTEMIC RISK",
+        "content": " 7.2.1.2 Application of capital buffer globally  Thus far, the US agencies have not imposed a CCyB on BHCs. Only a handful",
+        "features": {
+            "font_id": "19",
+            "height": 7,
+            "width": 23,
+            "top": 65,
+            "left": 183
+        }
+    },
+    {
+        "page": 250,
+        "heading": "The structural solution to systemic risk",
+        "content": " Risk management and compliance implications  8.1 Introductory overview",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 327,
+            "top": 156,
+            "left": 156
+        }
+    },
+    {
+        "page": 250,
+        "heading": "Risk management and compliance implications",
+        "content": " 8.1 Introductory overview  Following the GFC, the national authorities with resident financial conglomer-",
+        "features": {
+            "font_id": "0",
+            "height": 16,
+            "width": 341,
+            "top": 198,
+            "left": 151
+        }
+    },
+    {
+        "page": 252,
+        "heading": "THE STRUCTURAL SOLUTION TO SYSTEMIC RISK",
+        "content": " FDIC would wind down any financial institution? whose failure threatens the sta- bility of the financial system. The success of an SPOE-orchestrated wind down depends on a preexisting BHC structure. While the BHC is nearly universal in",
+        "features": {
+            "font_id": "19",
+            "height": 7,
+            "width": 23,
+            "top": 65,
+            "left": 168
+        }
+    },
+    {
+        "page": 262,
+        "heading": "to insure compliance with this section\u2019 .*!",
+        "content": " 8.3.2.1 Structure and rationale of Volcker compliance requirements Complementing its compliance mandates, the rule requires substantial documen- tation requirements to ensure an internal auditing trail and effective regulatory",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 236,
+            "top": 322,
+            "left": 81
+        }
+    },
+    {
+        "page": 263,
+        "heading": "Table 8.1 Compliance programs for Volcker banking entities",
+        "content": " Exempt (Bipartisan Standard program Enhanced program  Banking Act)",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 50,
+            "top": 88,
+            "left": 100
+        }
+    },
+    {
+        "page": 270,
+        "heading": "CONSUMER PROTECTION REGULATION",
+        "content": " 9.2.1.1 Voluminous and detailed rules combined with conglomerates\u2019 diverse business lines and geography ",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 485,
+            "top": 178,
+            "left": 81
+        }
+    },
+    {
+        "page": 277,
+        "heading": "the agency has relied upon its authority to prosecute UDAAPs more than any other authority.\u00b0\u201d",
+        "content": " 9.4.2 Three regulatory approaches in consumer protection law  Regulators have developed three approaches to regulating conduct risk in finan-",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 487,
+            "top": 88,
+            "left": 100
+        }
+    },
+    {
+        "page": 279,
+        "heading": "(4)",
+        "content": " (5)  Homeowners Protection Act of 1998 (HPA). This law addresses per-",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 432,
+            "top": 462,
+            "left": 154
+        }
+    },
+    {
+        "page": 279,
+        "heading": "(5)",
+        "content": " Homeowners Protection Act of 1998 (HPA). This law addresses per- ceived difficulties homeowners experience in canceling private mort- gage insurance (PMI) coverage. The HPA establishes provisions for the",
+        "features": {
+            "font_id": "5",
+            "height": 20,
+            "width": 17,
+            "top": 714,
+            "left": 130
+        }
+    },
+    {
+        "page": 283,
+        "heading": "these advances increase the potential for consumer harm, warranting increased scrutiny by the banking agencies.\u00b0!",
+        "content": " 9.4.5.2 UDAAPs risk management and compliance  UDAAPSs law\u2019s expansive scope under the nebulous \u2018abusive acts or practices\u2019",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 487,
+            "top": 88,
+            "left": 100
+        }
+    },
+    {
+        "page": 288,
+        "heading": "The role of risk management and compliance in the payments system",
+        "content": " AML/CFT regulation  10.1 Introductory overview",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 438,
+            "top": 156,
+            "left": 106
+        }
+    },
+    {
+        "page": 288,
+        "heading": "AML/CFT regulation",
+        "content": " 10.1 Introductory overview  Regulation of money laundering and financing of terrorism (AML/CFT) is glob-",
+        "features": {
+            "font_id": "69",
+            "height": 24,
+            "width": 155,
+            "top": 219,
+            "left": 244
+        }
+    },
+    {
+        "page": 296,
+        "heading": "\u00a2 reasonably identify and verify customer identity; and",
+        "content": " * maintain adequate documentation of financial transactions, such as the purchase or sale of monetary instruments and originating or receiving wire transfers.\u201d",
+        "features": {
+            "font_id": "16",
+            "height": 14,
+            "width": 337,
+            "top": 88,
+            "left": 116
+        }
+    },
+    {
+        "page": 302,
+        "heading": "The future of bank regulation, risk management, and compliance",
+        "content": " 11.1 Introductory overview  More than ever before, banking agencies rely on banks\u2019 internal governance sys-",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 418,
+            "top": 156,
+            "left": 118
+        }
+    },
+    {
+        "page": 304,
+        "heading": "THE FUTURE OF BANK REGULATION",
+        "content": "11.2.2 Banks\u2019 medium-term advantages and weaknesses vis-a-vis FinTech  FinTech presents both advantages and risks to banks in the medium term. \u2018Fin- Tech\u2019 is broadly defined here to include all manner of products and services",
+        "features": {
+            "font_id": "19",
+            "height": 7,
+            "width": 23,
+            "top": 65,
+            "left": 209
+        }
+    },
+    {
+        "page": 312,
+        "heading": "REFERENCES",
+        "content": " Note: Statutes, regulations, agency guidance, and international standards are listed sep- arately in the Table of Legal Sources. Certain official publications, including officials\u2019 speeches, are not considered official guidance and are listed here as References.",
+        "features": {
+            "font_id": "20",
+            "height": 28,
+            "width": 132,
+            "top": 150,
+            "left": 255
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Nazareth, A., \u2018Remarks before the SIFMA compliance and legal conference\u2019 (26",
+        "content": " March 2007), at <www.sec. gov/news/speech/2007/spch032607aln.htm>.  Nocco, B. and Stulz, R., \u2018Enterprise risk management: theory and practice\u2019 (Fall 2006),",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 485,
+            "top": 381,
+            "left": 100
+        }
+    },
+    {
+        "page": 322,
+        "heading": "INDEX",
+        "content": " 3LOD (three lines of defense): BCBS adoption 80; BUCOs (business line compliance officers) 82; business",
+        "features": {
+            "font_id": "17",
+            "height": 19,
+            "width": 65,
+            "top": 156,
+            "left": 289
+        }
+    },
+    {
+        "page": 325,
+        "heading": "CDD (customer due diligence) see AML/ CFT compliance program",
+        "content": " CDOs (collateralized debt obligations): GFC, role in 222; JPMorgan\u2019s market exit 179n94; Senior Supervisors",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 169,
+            "top": 204,
+            "left": 101
+        }
+    },
+    {
+        "page": 325,
+        "heading": "CLA (Consumer Leasing Act) 240, 240n50",
+        "content": " CLAR (Comprehensive Liquidity Analysis and Review) 191, 261; see also LISCC (Large Institution Supervision",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 193,
+            "top": 639,
+            "left": 100
+        }
+    },
+    {
+        "page": 326,
+        "heading": "cooptation of corporation governance 2\u20143, 67, 74, 268-269",
+        "content": " COPPA (Children\u2019s Online Privacy Protection Act) 244\u2014245; see also consumer protection law",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 7,
+            "top": 823,
+            "left": 428
+        }
+    },
+    {
+        "page": 326,
+        "heading": "counterparty credit risk see CCR (counterparty credit risk)",
+        "content": " CRAs (credit rating agencies) 7, 11, 31, 170, 172 Table 6.1, 205, 208, 236, 236n30",
+        "features": {
+            "font_id": "22",
+            "height": 12,
+            "width": 17,
+            "top": 208,
+            "left": 139
+        }
+    },
+    {
+        "page": 327,
+        "heading": "CRM (comprehensive risk measure) see market risk capital rule",
+        "content": " CRO (chief risk officer): board\u2019s direct communication with 182; FRB guidance 186\u2014187; independence,",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 199,
+            "top": 494,
+            "left": 350
+        }
+    },
+    {
+        "page": 327,
+        "heading": "customer identification program (CIP) see AML/CFT compliance program",
+        "content": " CVA (credit value adjustment) see credit risk capital rule, CCR (counterparty credit risk)",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 36,
+            "top": 722,
+            "left": 535
+        }
+    },
+    {
+        "page": 328,
+        "heading": "discount window: as part of safety net 17",
+        "content": " DLT (distributed ledger technology) 12, 263-268, 272; see also FinTech ",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 222,
+            "top": 206,
+            "left": 81
+        }
+    },
+    {
+        "page": 333,
+        "heading": "Miller, G.: effective compliance program, no consensus 86; macroeconomic cycles\u2019 impact on compliance 107",
+        "content": " ML (money laundering): definition 250-251; integration 251; layering 251; placement 251; smurfing 251",
+        "features": {
+            "font_id": "23",
+            "height": 12,
+            "width": 229,
+            "top": 638,
+            "left": 350
+        }
+    },
+    {
+        "page": 334,
+        "heading": "Morgan Stanley: converted to BHCs 2008",
+        "content": " 51  MRA (Matters Requiring Attention) see",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 231,
+            "top": 206,
+            "left": 81
+        }
+    },
+    {
+        "page": 338,
+        "heading": "SAR (Suspicious Activity Report) see AML/CFT law and regulation",
+        "content": " SCAP (Supervisory Capital Assessment Program): description 200n40; precursor to CCAR and DFAST 200;",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 188,
+            "top": 147,
+            "left": 81
+        }
+    },
+    {
+        "page": 340,
+        "heading": "VaR (Value-at-Risk): advantages and disadvantages 101; aggregate risk measure 101; defined 100-101; quantifies P&L 101",
+        "content": " Vickers ringfencing reform: compliance implications 226\u2014227; rationales 219; structure 226",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 78,
+            "top": 222,
+            "left": 81
+        }
+    },
+    {
+        "page": 340,
+        "heading": "Vickers ringfencing reform: compliance implications 226\u2014227; rationales 219; structure 226",
+        "content": " Volcker rule: Bipartisan Banking Act amendments 220\u2014221, 224 Table 8.1; compliance, generally 223\u2014225, 224",
+        "features": {
+            "font_id": "24",
+            "height": 18,
+            "width": 220,
+            "top": 297,
+            "left": 81
+        }
+    }
+]

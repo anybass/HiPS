@@ -1,0 +1,373 @@
+1,The Principle of Purpose Limitation in Data Protection Laws,1
+2,Content Overview,7
+3,Article 7 ECFR 120 (3) German Basic Rights 125,13
+3,storage’ vs. ‘passer-by situations’ 184,15
+3,purpose,17
+3,(a) Challenges of bridging risks to rights,20
+3,(1) In the public sector: Criteria for intensity of infringement,22
+3,(2) In the private sector: ‘Tool of opacity’ vs. private autonomy?,22
+3,protection,23
+2,D. Empirical approach in order to assist answering open legal questions,29
+2,I. Problem: Conflict between innovation and risk protection,32
+3,1. Innovation as an economic driver for public welfare,32
+3,2. Protection against the risks of innovation,33
+3,3. Uncertainty about the meaning and extent of the principle of purpose limitation,34
+3,4. Practical examples referring to two typical scenarios,35
+3,a) Coming from a practical observation: Startups and non-linear innovation processes,36
+3,aa) The unpredictable outcome of entrepreneurial processes,37
+3,bb) Excursus: In which circumstances do data controllers actually need ‘old’ data?,39
+2,c) Second scenario: The limitation of the later use of data collected by third parties,40
+3,aa) No foreseeable negative impact on individuals,40
+3,bb) Negative impact foreseeable on the individuals,42
+2,5. Interim conclusion: Uncertainty about the concept of protection and its legal effects,45
+1,II. Research questions and approach,48
+3,1. Legal research about innovation,48
+2,2. The regulator’s perspective,49
+3,3. Possible pitfalls taking the effects of regulation instruments into account,54
+1,Ill. Course of examination,55
+1,B. Conceptual definitions as a link for regulation,61
+1,I. Innovation and entrepreneurship,61
+2,1. Process of innovative entrepreneurship,63
+3,a) Key Elements for the entrepreneurial process,63
+2,2. Regulation of innovative entrepreneurship,71
+3,a) Do laws simply shift societal costs either protecting against or being open to innovation?,72
+3,b) Principles between openness toward innovation and legal uncertainty,73
+4,aa) Legal (un)certainty as a factor that mediates the regulatory burden,74
+4,bb) Conditioning further legal certainty as a promoting factor for entrepreneurial activity,76
+3,c) Interim conclusion with respect to the principle of purpose limitation,77
+1,I. Data protection as a risk regulation,79
+1,II. Data protection as a risk regulation,79
+2,1. Risk terminology oscillating between “prevention” and “precaution”,79
+2,2. Sociological approaches defining “dangers” and “risks”,82
+2,3. German legal perspectives: Different protection instruments for different types of threat,84
+3,a) Protection pursuant to the degree of probability,85
+3,b) Protection pursuant to the available knowledge in linear-causal and non-linear environments,87
+3,c) Interim conclusion: Fundamental rights determining the appropriateness of protection,88
+1,Il. Theories about the value of privacy and data protection,91
+2,1. The individual’s autonomy and the private/public dichotomy,91
+2,2. Criticism: From factual to conceptual changes,94
+2,3. Nissenbaum’s framework of “contextual integrity”,96
+1,I. Constitutional framework,109
+2,1. Interplay and effects of fundamental rights regimes,110
+3,b) The effects of fundamental rights on the private sector,113
+4,"aa) Third-party effect, protection and defensive function",114
+5,(1) European Convention on Human Rights,115
+6,(a) Positive obligations with respect to Article 8 ECHR,116
+6,(b) Right to respect for private life under Article 8 ECHR,117
+5,(2) European Charter of Fundamental Rights,118
+6,(a) Market freedoms and fundamental rights,118
+2,4. Clarifying the relationship between “context” and “‘purpose’,99
+2,5. Values as a normative scale in order to determine the “contexts” and “purposes”,105
+5,(3) German Basic Rights,125
+6,(a) Protection function of the right to informational self-determination,126
+6,(b) Priority of contractual agreements and the imbalance of powers,129
+6,(c) Balancing the colliding constitutional positions,130
+5,bb) Balance between defensive and protection function,132
+6,(1) The 3-Step-Test: Assessing the defensive and protection function,133
+7,"2. Ifso, is the action adequate in order to achieve this aim?",135
+7,"4. If so, is the action proportionate with respect to the colliding funda- mental rights?",135
+6,(2) A first review: decomposing the object and concept of protection,136
+7,(a) Which instruments actually protect which object of protection?,136
+7,(c) ... individuality?,138
+7,(d) ... solidarity?,139
+7,(e) ... democracy?,140
+6,cc) Equal or equivalent level of protection compared to state data processing?,141
+5,c) Interim conclusion: Interdisciplinary research on the precise object and concept of protection,142
+4,2. The object and concept of protection of the German right to informational self-determination,144
+5,a) Genesis and interplay with co-related basic rights,145
+5,b) Autonomous substantial guarantee,148
+5,c) Right to control disclosure and usage of personal data as protection instrument?,152
+5,d) Infringement by ‘insight into personality’ and ‘particularity of state interest’,158
+7,which justifies the protection of the basic right to informational self-determination.37>,160
+5,e) Purpose specification as the essential link for legal evaluation,164
+5,bb) In the private sector: The contract as an essential link for legal evaluation,171
+5,f) Interim conclusion: Conceptual link between ‘privacy’ and ‘data processing’,172
+4,3. Different approach of Article 7 and 8 ECFR with respect to Article 8 ECHR,174
+5,a) Genesis and interplay of both rights,175
+6,aa) Substantial guarantee of “private life”: Trust in confidentiality and unbiased behavior,178
+6,cc) Particular reference to the individual’s “reasonable expectations”,182
+7,(2) Public situations: ‘Systematic or permanent storage’ vs. ‘passer-by situations’,184
+7,(4) ‘Unexpected use’ pursuant to the purpose perceptible by the individual concerned,188
+6,dd) Consent: Are individuals given a choice to avoid the processing altogether?,192
+6,ee) Conclusion: Assessment of ‘reasonable expectations’ on a case-by- case basis,194
+7,(2) Differences between private life and data protection under Articles 7 and 8 ECFR,198
+7,(a) Protection against first publication and profiles based on public data,198
+7,"(b) Protection against collection, storage, and subsequent risk of abuse",201
+7,(3) Reference to further fundamental rights under Article 7 and/or 8 ECFR,205
+7,(a) Which right is used to discuss other fundamental rights?,206
+7,(b) The answer depends on the type of threat posed,207
+7,(4) Protection in (semi)-public spheres irrespective of ‘reasonable expectations’?,211
+7,(5) Going beyond the requirement of consent provided for under Article 8 ECHR,214
+6,bb) Interim conclusion: Article 8 ECFR as a regulation instrument?,217
+7,(1) Location of protection instruments under Article 8 ECFR,217
+7,(2) Protection going beyond Article 8 ECHR,218
+7,(3) Remaining uncertainty about the interplay between Article 7 and 8 ECFR,220
+7,(1) The reason for why the scope is too vague: Difference between data and information,223
+7,(2) The reason for why the scope is too broad: Increasing digitization in society,225
+1,II. The requirement of purpose specification and its legal scale,231
+2,1. Main problem: Precision of purpose specification,231
+3,a) ECtHR and ECJ: Almost no criteria,232
+3,b) Requirements provided for by European secondary law,234
+4,aa) Central role of purpose specification within the legal system,235
+5,(1) Scope of protection: ‘Personal data’,236
+6,(a) ‘All the means reasonably likely to be used’,236
+6,(b) Example: IP addresses as ‘personal data’?,236
+6,(c) The case of “Breyer vs. Germany”,238
+5,(2) Liability for ‘data processing’: ‘Controller’ and ‘Processor’,240
+5,(3) Further legal provisions referring to the purpose,241
+4,(3) Advantages and challenges: ‘Personal data’ as legal link for a subjective right,226
+4,bb) Criteria discussed for purpose specification,244
+5,(1) Preliminary note: Clarifying conceptual (mis)understandings,245
+5,(2) Legal opinion on the function of the specification of a purpose,247
+5,(3) Legal opinion on the function of ‘making a specified purpose explicit’,249
+5,(4) Legal opinion on the reconstruction of a purpose and its legitimacy,250
+4,cc) Purposes of processing specified when consent is given,251
+4,dd) Purposes of data processing authorized by legal provisions,252
+5,(1) ePrivacy Directive,252
+5,(2) Data Protection Directive and General Data Protection Regulation,254
+5,(a) Preliminary note: Clarifying conceptual (mis)understandings,255
+5,(b) Legal opinion on ‘performance of a contract’,257
+5,"(c) Legal opinion on ‘legal obligation’, ‘vital interests’, and ‘public task’",258
+5,(d) Legal opinion on ‘legitimate interests’,259
+4,c) Transposition of the requirement of purpose specification into German law,262
+4,aa) Purposes of processing authorized by the Telecommunication Law,264
+5,1. For the purpose of transferring the telecommunication signals and for billing purposes;7!3,265
+4,bb) Purposes of processing authorized by the Telemedia Law,266
+5,Article 15 sect. 1 of the Telemedia Law only allows the processing of,267
+4,cc) Purposes of processing authorized by the Federal Data Protection Law,269
+5,(1) Three basic legitimate grounds,269
+5,three different legitimate grounds for the processing of personal data as:732,269
+5,"(2) ‘Performance of a contract’, Article 28 sect. 1 sent. 1 no. 1 BDSG",270
+5,"(3) ‘Justified interests of the controller’, Art. 28 sect. 1 sent. 1 no. 2 BDSG",271
+5,"(4) ‘Generally accessible data’, Art. 28 sect. 1 sent. 1 no. 3 BDSG",272
+5,(5) Privileges and restrictions pursuant to the purpose,273
+4,dd) Purposes of processing specified when consent is given,275
+5,(1) Not a waiver but execution of right to informational self- determination,276
+5,(2) Requirements for consent and consequences of its failure,277
+5,(3) Discussion on the degree of precision of a specified purpose,278
+4,ee) Comparison with principles developed by the German Constitutional Court,281
+4,(1) Public sector: Purpose specification as a result of the principle of clarity of law,281
+4,(a) Function of purpose specification (basic conditions),281
+4,(b) Examples for specific purposes: Certain areas of life or explicitly listed crimes,284
+4,(c) Examples for unspecific purposes: Abstract dangers or unknown purposes,286
+4,(d) Liberalization of the strict requirement by referring to the object of protection,290
+4,(2) Private sector: ‘Self-control of legitimacy’,293
+3,2. Criticism: Stricter effects on the private than the public sector,295
+4,a) Difference in precision of purposes specified by legislator and data controllers,296
+4,aa) Data processing for undisputed ‘marketing purposes’ authorized by law,297
+4,"legitimate,®!° and more specific purposes. In particular, the purposes of",297
+4,bb) Disputed ‘marketing purposes’ specified by data controllers,298
+4,cc) Further examples for different scales applied in order to specify the purpose,299
+4,dd) Can the context help interpret a specified purpose?,300
+4,ee) A different scale for ‘purpose specification’ pursuant to the German concept of protection,301
+4,ff) Interim conclusion: Do regulation instruments dictate the scale for “purpose specification’?,303
+4,b) Further ambiguities and possible reasons behind the same,304
+4,aa) Common understanding about the function of “purpose specification’,305
+4,bb) Ambiguous understanding regarding the functions of ‘making specified purpose explicit’,306
+4,cc) Arguable focus on data collection for legal evaluation in the private sector,307
+4,dd) Arguable legal consequences surrounding the validity of the consent,310
+3,c) The lack of a legal scale for ‘purpose specification’ in the private sector,312
+3,(2) Disconnecting the exclusive link between data protection to privacy,331
+3,"(3) Data protection for all rights to privacy, freedom, and equality",334
+4,bb) Purpose specification as a risk regulation instrument,336
+4,(1) ‘Arisk to a right’: Quantitative vs. qualitative evaluation?,337
+4,(a) Challenges of bridging risks to rights,338
+4,(b) Example: German White Paper on DPIA,339
+4,(c) Criticism: Incoherence of current risk criteria,341
+4,(2) Purpose specification discovering risks posed to all fundamental rights,343
+4,(a) Pooling different actions together in order to create meaning,343
+4,(b) Separating unspecific from specific risks (first reason why data protection is indispensable),345
+4,(3) Function of making specified purposes explicit,350
+3,cc) Interim conclusion: Refining the concept of protection,353
+4,(1) Tying into the Courts’ decisions and European legislation,353
+4,(2) Advantages compared to existing (unclear) concepts of protection,356
+5,(a) Effectiveness and efficiency of protection instruments,356
+5,(b) Appropriate concept for innovation processes,357
+5,(c) Excursus: Objective vs. subjective risks,359
+3,b) Fundamental rights which determine purpose requirements,361
+4,aa) Right to privacy (aka ‘being left alone’),361
+5,(1) Unfolding specific guarantees of privacy,362
+6,(a) At home: Protection of ‘haven of retreat’,363
+6,(b) Using communications: Protection against ‘filtering opinions’,365
+6,(c) “Privacy in (semi)-public spheres”: Protection against the risks of later usage of data,366
+6,"(2) Necessity requirement, irrespective of inconvenience",370
+6,(3) ‘Framing’ privacy expectations,371
+7,(a) Research on the individual’s decision making process (consent),372
+4,bb) Right to self-determination in public,377
+7,(b) First example: The legislature’s considerations on the use of ‘cookies’,374
+7,(c) Second example: Considerations surrounding “unsolicited communications’,375
+4,(1) Clarification of substantial guarantees,377
+4,(2) First publication: Strict requirements,378
+5,(a) Necessity of publication,379
+5,(b) Strict requirements for consent,380
+4,(3) Re-publication: Weighing ‘interests’ against ‘old and new purposes’,382
+5,(a) Misconceptions in the decision of “Mr. Gonzalez vs. Google Spain”,383
+5,(b) Excursus: Case law provided for by the German Constitutional Court,385
+5,(c) Conclusion in regards to the decision of “Mr. Gonzalez vs. Google Spain”,387
+3,cc) Internal freedom of development,389
+4,(1) Does the German right to informational self-determination provide for such a guarantee?,389
+4,(2) Discussion on such a substantial guarantee,392
+3,dd) Specific rights to freedom,397
+4,(b) Considerations on further rights of freedom,400
+4,(3) Interim conclusion: How “privacy in public” can be further determined,404
+5,(a) Specific contexts of collection of personal data,405
+5,(b) Later use of personal data in the same context,407
+3,ee) Rights to equality and non-discrimination,417
+4,(1) In the public sector: Criteria for intensity of infringement,417
+4,(2) In the private sector: “Tool of opacity’ vs. private autonomy?,418
+4,(3) Interim conclusion: Additional legitimacy requirement for the data- based decision-making process,420
+2,c) Conclusion: Purpose specification during innovation processes,422
+1,IH. Requirement of purpose limitation in light of the range of protection,424
+2,1. Different models of purpose limitation and change of purpose,425
+3,a) European models: ‘Reasonable expectations’ and purpose compatibility,425
+3,aa) Change of purpose pursuant to ECtHR and ECJ,426
+4,(1) ECtHR: ‘Reasonable expectations’ as a main criteria,426
+4,(2) ECJ: Reference to data protection instruments instead of ‘reasonable expectations’,428
+5,(b) Purpose identity for the consent,430
+5,(1) Preliminary analysis: Pre-conditions and consequences,432
+5,(2) Example: The expectations of a customer purchasing a vegetable box online,435
+5,(3) Criteria for the substantive compatibility assessment,436
+6,(a) First criteria: ‘Distance between purposes’,436
+6,(c) Third criteria: ‘Nature of data and impact on data subjects’,439
+6,(d) Fourth criteria: ‘Safeguards ensuring fairness and preventing undue impact’,441
+5,"(4) Excursus: Compatibility of ‘historical, statistical or scientific purposes’",444
+6,(a) Specification of the compatibility assessment (even prohibiting positive effects),444
+6,(b) Safeguards corresponding to the characteristics of the purposes,445
+6,(c) Hierarchy of safeguards: From anonymization to functional separation,446
+5,cc) Purpose identity required by the ePrivacy Directive,447
+5,dd) Interim conclusion: A lack in the legal scale for compatibility assessment,449
+4,b) German model: Purpose identity and proportionate change of purpose,452
+5,aa) Change of purpose in the private sector pursuant to ordinary law,453
+6,(1) Strict purpose identity required by Telemedia Law and Telecommunication Law,453
+6,(2) The more nuanced approach established by the Federal Data Protection Law,454
+5,bb) Comparison with the principles developed by the German Constitutional Court for the public sector,457
+6,(1) Strict requirement of purpose identity limiting the intensity of the infringement,458
+6,(2) Proportionate change of purpose,461
+6,(3) Identification marks as a control-enhancing mechanism,466
+5,cc) Alternative concepts provided for in German legal literature,467
+6,(1) Purpose identity and informational separation of powers,468
+7,(a) Purpose specification by the individual instead of the controller,469
+7,(b) Principle of purpose limitation and informational separation of powers,470
+7,(c) Example of re-registration: Collection and transfer of data on the citizen’s request,472
+7,(a) Criticism of the “subjective” purpose approach,473
+7,(b) Compatibility instead of identity of purposes,474
+7,(c) Supplementing protection instruments,475
+6,(3) Purpose identity and change of purpose as ‘a threshold for duty of control’,476
+7,"(b) Specification, identity and change of purpose as equivalent regulation instruments",477
+7,(c) The opposing fundamental rights providing for the objective legal scale,478
+6,dd) Interim conclusion: Right to control data causing a ‘flood of regulation’,479
+5,2. Solution approach: Controlling risks that add to those specified previously,483
+6,a) Conceptual shift: From the exclusion of unspecific risks to the control of specific risks,483
+6,aa) Different types of changes of purpose in light of different types of risks,484
+7,(1) Purpose compatibility as an “umbrella assessment”,484
+7,"(2) Custer’s and Ursic’s taxonomy: “Data recycling, repurposing, and recontextualization”",486
+7,"(3) Clarification of an objective scale: “Same risk, higher risk, and another risk”",489
+6,bb) Refinement of current concepts of protection,490
+7,(1) Article 8 ECFR and European secondary law,490
+8,(a) “Purpose identity” forbidding additional risks (than specified before),491
+7,(c) Systemizing the criteria for the compatibility assessment,493
+7,(2) Right to private life under Article 8 ECHR and the right to informational self-determination,496
+6,cc) Applying a ‘non-linear perspective’,497
+6,b) Substantial guarantees: Providing criteria for a compatibility assessment,499
+7,aa) Right of ‘being left alone’: ‘Reasonable expectations’ determined by risks,500
+7,bb) Self-representation in the public: A balancing exercise instead of purpose determination,503
+7,cc) Internal freedom of development: Specific instead of preliminary information,505
+7,dd) External freedoms of behavior: Purpose identity as one potential element amongst several protection instruments,507
+7,ee) Equality and non-discrimination: Specifying incompatible purposes in the course of social life,508
+6,c) Conclusion: Purpose limitation in decentralized data networks,510
+5,1. Scope of application and responsibility (Article 8 sect. 1 ECFR),514
+6,a) Problems in practice: A balance between too much and too little protection,515
+7,aa) How data may be related to an individual,515
+7,bb) Anonymization of personal data,518
+7,cc) Again: The problem of a “yes-or-no-protection” solution,521
+6,b) Alternative solution: Scope(s) pursuant to the type of risk,522
+7,aa) Theoretical starting point: Different levels of protection,523
+8,(1) Pro and cons for precautionary protection against abstract dangers,524
+8,(2) Abstract precautionary protection only in cases of special danger,525
+7,bb) Differentiating between the general scope of protection and the application of specific protection instruments,530
+8,(1) General scope of protection enabling specification of purpose (aka risk),531
+8,(2) Application of protection instruments determined by specific risks,532
+8,(a) Rights to privacy,533
+8,(b) Right of self-representation in the public,534
+8,(c) Internal freedom of behavior,535
+8,(d) Rights to freedom and non-discrimination,538
+8,(3) Again: General scope of protection requiring data security (against unspecific risks),539
+7,c) Excursus: Responsibility (\u201ccontroller\u201d and \u201cprocessor\u2019),542
+8,(1) Cumulative responsibility for precautionary protection,544
+8,(2) Cooperative responsibility for preventative protection,545
+6,2. Legitimacy of processing of personal data (Article 8 sect. 2 ECFR),547
+7,a) Same measures but differently applied in the public and private sector,548
+8,aa) Different risks in the public and private sector,549
+8,bb) Example: Requirements to specify the purpose and limit the processing at a later stage,552
+8,cc) Legal-technical constraints surrounding the prohibition rule,553
+7,b) Possible approaches of regulation in the private sector,554
+8,"aa) Classic instruments: Specific legal provisions, broad legal provisions, and/or consent",555
+8,bb) Conceptual shift: From a legal basis to ‘legitimacy assessment’,556
+8,cc) Side note: State regulated self-regulation increasing legal certainty,558
+8,dd) Interplay of consent and legal provisions,560
+7,c) Interim conclusion: Balancing the colliding fundamental rights,562
+6,3. The individual’s “decision-making process” (in light of the GDPR),563
+7,a) Static perspective: Opt-in or opt-out procedure for consent?,565
+8,aa) Classic discussion regarding current data protection laws,565
+8,bb) Further approaches considered by the legislator and Constitutional Courts,567
+8,"cc) Requirements illustrated so far, with respect to different guarantees",569
+7,b) Dynamic perspective: Interplay of several protection instruments,570
+8,(1) Risks as object of consent (not data),572
+8,(3) Change of purpose: Opt-out procedures for higher and opt-in procedures for other risk,577
+8,bb) Clarifying recital 50 GDPR: “Separate legal basis if purpose not compatible”,579
+9,(1) Arg. ex contrario: Is an incompatible purpose legal on a separate legal basis?,580
+9,(2) Differentiating between “not compatible” and “incompatible” purposes,581
+9,(3) Assessment of safeguards that ensure that purposes do not (definitely) become incompatible,581
+8,cc) Legal basis and opt-out: Change of purpose,582
+9,(1) Opt-out: A risk-reducing protection instrument,583
+9,(2) Examples: New risks not covered by consent (in light of the specified purpose),584
+9,(3) Examples: New risks not covered by a former applicable provision,585
+8,dd) Information duties and further participation rights,586
+9,(1) Controller’s duties of information,587
+10,(a) Data collection: Customizing information in relation to daily decision- making processes,588
+10,(b) Change of purpose: Interpreting information duties regarding specific risks,589
+10,(c) Profiling and automated decision-making,589
+9,(2) Individual’s right to rectification,592
+10,c) Conclusion: Specifying the decision-making process (Art. 24 and 25 GDPR),592
+8,D. Empirical approach in order to assist answering open legal questions,597
+8,I. Clarifying different risk assessment methodologies,598
+9,1. Different objects of risk assessments,598
+10,a) Risk-based approach of purpose specification and limitation (Art. 5 sect. | lit. b GDPR),598
+10,b) Data Protection Impact Assessment (Art. 35 GDPR),599
+10,c) Further methodologies (technology assessment and surveillance impact assessment),601
+9,2. Different assessment methods,603
+10,a) Examining abstract constitutional positions from a social science perspective,604
+10,b) Pre-structuring interests through multiple-stakeholder and expert participation,605
+10,c) Specifying ‘decision-making process’ by user-centered development of data protection-by-design,605
+9,3. Interim conclusion: Unfolding complexity,608
+8,II. Multiple-case-studies: Combining research on risks with research on innovation processes,611
+9,1. Reason for the case study approach,611
+9,2. Generalizing the non-representative cases,613
+9,3. Designing the case studies,614
+8,Il. Researching the effects of data protection instruments in regards to innovation processes,616
+9,"1. Enabling innovation: Contexts, purposes, and specifying standards",616
+10,a) Enabling data controllers to increase legal certainty,617
+10,b) Enhancing competition on the “data protection” market,617
+10,c) Remaining questions in relation to the effects of legal standards,620
+9,Compatibility/Interoperability,623
+10,a) Example of “personalized advertising”,624
+10,(1) Initial product and business model: Internal freedom of development,625
+10,(2) Change of product and business model: No substantive change of purpose,626
+10,bb) Open legal questions (‘propositions’),627
+10,(1) Standardization of “personalized marketing” purpose,628
+10,(2) Competitive advantage,629
+10,b) Example of “anonymized data for statistic/research purposes”,630
+10,aa) Preliminary legal analysis,630
+10,(1) Processing of public personal data: Self-determination in public,630
+10,(2) The taxi driver: Attributing anonymized data to passengers,631
+10,bb) Open legal questions (\u2018propositions\u2019),633
+10,(1) Standardization of \u201cstatistical\u201d or \u201cscientific\u201d purposes,633
+10,(2) Competitive advantage,635
+10,c) Example of \u201cscoring in the employment context\u201d,636
+10,(1) Re-publication of personal data: fair balance instead of a priority rule,637
+10,(2) Freedom to find an occupation: Participation instruments,639
+10,bb) Open legal questions (\u2018propositions\u2019),642
+10,(1) Standardization of \u201cprofiling potential employees\u201d,642
+10,(2) Signaling legal certainty (to the \u201cworkers\u2019 council\u201d),643
+9,5. Summary: Standardizing \u201cpurposes\u201d of data processing,644
+1,Bibliography,655

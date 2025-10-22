@@ -1,0 +1,4538 @@
+[
+    {
+        "page": 3,
+        "heading": "Information Revolution and Global Politics William J. Drake and Ernest J. Wilson III, editors",
+        "content": " The Information Revolution and Developing Countries Ermest J. Wilson III ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 266,
+            "top": 322,
+            "left": 110
+        }
+    },
+    {
+        "page": 4,
+        "heading": "Ronald Deibert, John Palfrey, Rafal Rohozinski, and Jonathan Zittrain, editors",
+        "content": " The MIT Press Cambridge, Massachusetts London, England",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 480,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 5,
+        "heading": "\u00a9 2010 Massachusetts Institute of Technology",
+        "content": " All rights reserved. No part of this book may be reproduced in any form by any electronic or mechanical means (including photocopying, recording, or information storage and retrieval) without permission in writing from the publisher.",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 242,
+            "top": 322,
+            "left": 126
+        }
+    },
+    {
+        "page": 5,
+        "heading": "Library of Congress Cataloging-in-Publication Data",
+        "content": " Access controlled : the shaping of power, rights, and rule in cyberspace / edited by Ronald Deibert ... [et al.] ; foreword by Miklos Haraszti. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 281,
+            "top": 538,
+            "left": 110
+        }
+    },
+    {
+        "page": 6,
+        "heading": "Preface ix",
+        "content": " Acknowledgments xi  Author Biographies xiii",
+        "features": {
+            "font_id": "2",
+            "height": 13,
+            "width": 42,
+            "top": 323,
+            "left": 108
+        }
+    },
+    {
+        "page": 10,
+        "heading": "Preface",
+        "content": " Access Controlled: The Shaping of Power, Rights, and Rule in Cyberspace is the latest report from the OpenNet Initiative (ONI), which is a collaboration of the Citizen Lab at the Munk Centre for International Studies, University of Toronto; the Berkman Center",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 56,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 12,
+        "heading": "Acknowledgments",
+        "content": " The OpenNet Initiative would not exist without the vital contributions of dozens of very talented and often courageous researchers from around the world. The ONI\u2019s regional deputies primarily wrote the country profiles and regional overviews: Ves-",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 141,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 13,
+        "heading": "xii Acknowledgments",
+        "content": " The Citizen Lab would like to thank Laird Brown, Francois Cadieux, Sarah Boland, Jessica Daggers, Jakub Dalek, Sahar Golshan, Robert Guerra, Gus Hosein, Michael Hull, Dylan Jones, Andrej Karpathy, Elana Koren, Lucinda Li, Daniel Lister, Jamie Liu,",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 13,
+            "top": 53,
+            "left": 110
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Author Biographies",
+        "content": " Ronald Deibert is an associate professor of political science and director of the Citizen Lab at the Munk Centre for International Studies, University of Toronto. He is a cofounder and principal investigator of the OpenNet Initiative and the Information",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 148,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Foreword",
+        "content": " Imagine if an unknown person entered your home on a regular basis and removed books from your bookshelves. You would never be told which books were being taken away, and you would never be given a reason except that someone, somewhere, some-",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 73,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 17,
+        "heading": "xvi Foreword",
+        "content": " It shines a spotlight on filtering to help make the practice more transparent, or at least to divulge it as an acknowledged fact. And it also predicts a rise in more \u201csubtle\u201d forms of Internet censorship, such as blocking certain political Web sites during elec-",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 16,
+            "top": 53,
+            "left": 110
+        }
+    },
+    {
+        "page": 20,
+        "heading": "1 Beyond Denial Introducing Next-Generation Information Access Controls",
+        "content": " Ronald Deibert and Rafal Rohozinski  Introduction",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 137,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 20,
+        "heading": "Ronald Deibert and Rafal Rohozinski",
+        "content": " Introduction  It is hard to imagine the world before the Internet. A generation of digital natives has",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 228,
+            "top": 190,
+            "left": 108
+        }
+    },
+    {
+        "page": 20,
+        "heading": "Introduction",
+        "content": " It is hard to imagine the world before the Internet. A generation of digital natives has grown up with ubiquitous connectivity, where neither borders nor language seems a barrier to communication.! And yet, less than 20 years ago the global information en-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 22,
+        "heading": "Beyond Denial 5",
+        "content": " Box 1.1  The ONI employs a unique \u201cfusion\u2019\u201d\u2019 methodology that combines field investigations, tech-",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 81,
+            "top": 53,
+            "left": 108
+        }
+    },
+    {
+        "page": 22,
+        "heading": "Box 1.1",
+        "content": " The ONI employs a unique \u201cfusion\u2019\u201d\u2019 methodology that combines field investigations, tech- nical reconnaissance, and data mining, fusion, analysis, and visualization. Our aim is to un- cover evidence of Internet content filtering in countries under investigation. The ONI\u2019s",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 42,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 24,
+        "heading": "Chapter Overview",
+        "content": " Second- and third-generation controls are carefully defined in our subsequent chapter in this volume, Control and Subversion in Russian Cyberspace. Second-generation con- trols create a legal and normative environment and technical capabilities that enable",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 113,
+            "top": 263,
+            "left": 108
+        }
+    },
+    {
+        "page": 27,
+        "heading": "Conclusion",
+        "content": " The trends and findings analyzed in Access Controlled reveal a rapidly emerging norma- tive terrain that should be of concern to policymakers, advocacy and rights networks, and academics. Given the strategic importance of the OSCE, in terms of relative mili-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 748,
+            "left": 110
+        }
+    },
+    {
+        "page": 32,
+        "heading": "2 Control and Subversion in Russian Cyberspace",
+        "content": " Ronald Deibert and Rafal Rohozinski  Introduction",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 379,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Ronald Deibert and Rafal Rohozinski",
+        "content": " Introduction  It has become a truism to link censorship in cyberspace to the practices of authoritar-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 228,
+            "top": 163,
+            "left": 108
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Introduction",
+        "content": " It has become a truism to link censorship in cyberspace to the practices of authoritar- ian regimes. Around the world, the most repressive governments\u2014China, Burma, North Korea, Cuba, Saudi Arabia\u2014are the ones that erect digital firewalls that restrict",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 33,
+        "heading": "More Authoritarian",
+        "content": " Source: The Economist Intelligence Unit, \u2018The Economist Intelligence Unit\u2019s Index of Democracy 2008,\u201d 2008, http://graphics.eiu.com/PDF/Democracy%20Index%202008.pdf. ",
+        "features": {
+            "font_id": "14",
+            "height": 12,
+            "width": 100,
+            "top": 416,
+            "left": 119
+        }
+    },
+    {
+        "page": 34,
+        "heading": "RUNET",
+        "content": " RUNET  On July 6, 2006, Russian President Vladimir Putin fielded questions from the Internet",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 66,
+            "top": 632,
+            "left": 108
+        }
+    },
+    {
+        "page": 36,
+        "heading": "Table 2.2 Population Number of Internet Internet Growth",
+        "content": " Country (2008) Internet Users Penetration (2008) (2000-2008) Armenia 2,968,586 172,800 5.8% 476% Azerbaijan 8,177,717 1,500,000 18.3% 12,400%",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 51,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 37,
+        "heading": "Next-Generation Information Controls in the CIS",
+        "content": " Although RUNET is a wild hive of buzzing online activity, it is not completely unregu- lated. Since its emergence in the early 1990s, RUNET has been subject to a variety of controls. Some controls have been commercial in motivation and represent crude",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 306,
+            "top": 437,
+            "left": 110
+        }
+    },
+    {
+        "page": 38,
+        "heading": "ONI Tests for Internet Controls in RUNET",
+        "content": " The controls outlined previously are qualitatively different from the usual types of con- trols for which the ONI tests. Establishing empirical evidence of the effects of policies like SORM and the Doctrine of Information Security is challenging, since their applica-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 258,
+            "top": 360,
+            "left": 108
+        }
+    },
+    {
+        "page": 39,
+        "heading": "First-Generation Controls",
+        "content": " First-generation controls focus on denying access to specific Internet resources by directly blocking access to servers, domains, keywords, and IP addresses. This type of filtering is typically achieved by the use of specialized software or by implementing",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 158,
+            "top": 525,
+            "left": 110
+        }
+    },
+    {
+        "page": 40,
+        "heading": "Table 2.4",
+        "content": " SPECTRUM OF CYBERSPACE CONTENT CONTROLS IN THE CIS  First Generation Second Generation Third Generation",
+        "features": {
+            "font_id": "17",
+            "height": 12,
+            "width": 51,
+            "top": 76,
+            "left": 93
+        }
+    },
+    {
+        "page": 40,
+        "heading": "SPECTRUM OF CYBERSPACE CONTENT CONTROLS IN THE CIS",
+        "content": " First Generation Second Generation Third Generation Legal Environ- State-",
+        "features": {
+            "font_id": "18",
+            "height": 12,
+            "width": 349,
+            "top": 97,
+            "left": 98
+        }
+    },
+    {
+        "page": 40,
+        "heading": "Filtering Cybercaf\u00e9s Control! Requests Shutdowns Attack Surveillance Cyberzones Campaigns Action",
+        "content": " Armenia \u00b0 \u00b0 e e2 Azerbaijan \u00b0 e e e Belarus e e e e e e e e e",
+        "features": {
+            "font_id": "17",
+            "height": 12,
+            "width": 46,
+            "top": 215,
+            "left": 185
+        }
+    },
+    {
+        "page": 41,
+        "heading": "Second-Generation Controls",
+        "content": " Second-generation controls aim to create a legal and normative environment and technical capabilities that enable state actors to deny access to information resources as and when needed, while reducing the possibility of blowback or discovery. Second-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 178,
+            "top": 243,
+            "left": 110
+        }
+    },
+    {
+        "page": 44,
+        "heading": "Third-Generation Controls",
+        "content": " Unlike the first two generations of content controls, third-generation controls take a highly sophisticated, multidimensional approach to enhancing state control over na- tional cyberspace and building capabilities for competing in informational space with po-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 165,
+            "top": 185,
+            "left": 108
+        }
+    },
+    {
+        "page": 45,
+        "heading": "Assessing the Evolution of Next-Generation Controls in the CIS",
+        "content": " The three generations of controls are not mutually exclusive, and several can exist con- currently. Taken together, they form a pattern of control that is both unique to each country and generalizable to the region as a whole. However, the degree to which a",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 394,
+            "top": 554,
+            "left": 110
+        }
+    },
+    {
+        "page": 46,
+        "heading": "Figure 2.1",
+        "content": " Spectrum of cyberspace content controls in the CIS (clustered by generation and EIU Index of Democracy) ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 55,
+            "top": 415,
+            "left": 108
+        }
+    },
+    {
+        "page": 47,
+        "heading": "Conclusion: Next-Generation Controls Beyond the CIS?",
+        "content": " There are several obvious and not so obvious reasons to believe that second- and third- generation controls will become more common outside of the CIS and in fact may presage the future of cyberspace controls as a whole. First, the experience from other",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 345,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 49,
+        "heading": "Notes",
+        "content": " 1. The Economist Intelligence Unit, The Economist Intelligence Unit\u2019s Index of Democracy 2008 (The Economist, 2008), http://graphics.eiu.com/PDF/Democracy%20Index%202008.pdf. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 280,
+            "left": 110
+        }
+    },
+    {
+        "page": 52,
+        "heading": "3 The EU Data Retention Directive in an Era of Internet Surveillance",
+        "content": " Hal Roberts and John Palfrey  Introduction",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 528,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 52,
+        "heading": "Hal Roberts and John Palfrey",
+        "content": " Introduction  The European Union (EU) enacted a directive on data retention in 2007 that requires",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 180,
+            "top": 163,
+            "left": 108
+        }
+    },
+    {
+        "page": 52,
+        "heading": "Introduction",
+        "content": " The European Union (EU) enacted a directive on data retention in 2007 that requires all member countries to mandate the retention by telecom companies of the sender, recipient, and time of every Internet or other telecom communication. The directive",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 53,
+        "heading": "36 Hal Roberts and John Palfrey",
+        "content": " This chapter paints a simplified picture of the technical landscape of Internet surveil- lance, as well as the place of the EU data retention directive within that landscape, by taking up a series of short cases about surveillance. We examine how these cases in-",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 24,
+            "top": 185,
+            "left": 110
+        }
+    },
+    {
+        "page": 53,
+        "heading": "Network Surveillance",
+        "content": " The most obvious kind of Internet surveillance takes place on the network between the clients and servers. Government agencies collect data from within network ISPs, including not only wiretap-like data about specific subjects with warrants but also en-",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 476,
+            "left": 110
+        }
+    },
+    {
+        "page": 58,
+        "heading": "Server Surveillance",
+        "content": " As with the network, the collection of data on Internet servers is highly concentrated among a few big actors. Even though there are hundreds of millions of servers on the Internet, a few large entities like Google, Yahoo, Facebook, and Wikipedia capture a",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 118,
+            "top": 787,
+            "left": 108
+        }
+    },
+    {
+        "page": 62,
+        "heading": "Client Surveillance",
+        "content": " In addition to surveillance on the network and on servers, there is a range of different actors directly watching users\u2019 machines in various ways. The number of different actors trying to control access to the client has turned the end user\u2019s computers into a",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 115,
+            "top": 224,
+            "left": 108
+        }
+    },
+    {
+        "page": 66,
+        "heading": "Conclusion",
+        "content": " This chapter provides a typology of the different sorts of Internet surveillance through cases about Internet surveillance tools. For each set of cases, it is important to focus on the actual and potential data monitored and networks of trust through which the data",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 554,
+            "left": 108
+        }
+    },
+    {
+        "page": 67,
+        "heading": "Notes",
+        "content": " 1. European Union, Directive 2006/24/EC of the European Parliament and of the Council of 15 March 2006 on the retention of data generated or processed in connection with the provision of publicly available electronic communications services or of public communications networks and amending Directive 2002/",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 552,
+            "left": 110
+        }
+    },
+    {
+        "page": 72,
+        "heading": "Nart Villeneuve",
+        "content": " Introduction  While providing an innovative platform for global communications and economic",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 96,
+            "top": 217,
+            "left": 108
+        }
+    },
+    {
+        "page": 72,
+        "heading": "Introduction",
+        "content": " While providing an innovative platform for global communications and economic transactions, the Internet brings some of society\u2019s worst ailments, such as the prolifer- ation of images of child abuse, into the public sphere. Every day, children are sexually",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 74,
+        "heading": "Barriers to Cooperation 57",
+        "content": " Following the methodology outlined by Richard Price, this chapter does not focus on causal explanations, but emphasizes historical contingencies that reflect ideational contests and defining moments in international agreements, conferences, and events",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 670,
+            "left": 460
+        }
+    },
+    {
+        "page": 74,
+        "heading": "Competing Perceptions of Cooperation",
+        "content": " An analysis of the texts of key international agreements and conferences focused on the rights of children highlights a tension between perspectives that view cooperation as the implementation of domestic laws and procedures by states and those that see it",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 246,
+            "top": 418,
+            "left": 108
+        }
+    },
+    {
+        "page": 77,
+        "heading": "The Emergence of Filtering",
+        "content": " Filtering technology emerged in 1995, and by 1999 authoritarian states had already implemented such technology to block access to political content at the national level.?3 Inspired by these developments, studies concerning the role of the state in reg-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 169,
+            "top": 554,
+            "left": 110
+        }
+    },
+    {
+        "page": 79,
+        "heading": "The Legitimization of Filtering",
+        "content": " The legitimization of filtering centers on three interlocking developments: a model of implementation in which the role of the state is reduced, the delinking of filtering and free speech concerns through technological developments, and a reframing of the ef-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 189,
+            "top": 564,
+            "left": 110
+        }
+    },
+    {
+        "page": 80,
+        "heading": "Prospects for Dynamic Cooperation",
+        "content": " International cooperation often produces unintended consequences. These \u2018\u2018side effects\u2019 may be positive or negative.*\u00b0 Empirical evidence is beginning to emerge that suggests that domestic filtering efforts may be acting as a disincentive to cooperate.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 222,
+            "top": 651,
+            "left": 108
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Conclusion",
+        "content": " This chapter presented competing conceptions of cooperation that emerged from a genealogical analysis of the developments that led to the implementation of filtering to combat the proliferation of child exploitation on the Internet. In contrast to domi-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Notes",
+        "content": " 1. R. Barri Flowers, \u2018The Sex Trade Industry\u2019s Worldwide Exploitation of Children,\u201d Annals of the American Academy of Political and Social Science 575 (2001): 147-157. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 746,
+            "left": 110
+        }
+    },
+    {
+        "page": 86,
+        "heading": "39. ECPAT, \u201cModel of a National Plan,\u201d http://www.ecpat.net/EI/Global_npaModel.asp",
+        "content": " 40. The German system differs from most others because it focuses on having search engines block sites, rather than ISPs. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 11,
+            "top": 188,
+            "left": 248
+        }
+    },
+    {
+        "page": 88,
+        "heading": "Ethan Zuckerman",
+        "content": " Introduction  When academics, journalists, or Internet users discuss \u201cInternet censorship,\u201d they are",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 110,
+            "top": 163,
+            "left": 108
+        }
+    },
+    {
+        "page": 88,
+        "heading": "Introduction",
+        "content": " When academics, journalists, or Internet users discuss \u201cInternet censorship,\u201d they are usually referring to the inability of users in a given country to access a specific piece of online content. For instance, when Internet policymakers from around the world came",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 89,
+        "heading": "Points of Control",
+        "content": " While filtering by ISPs was well documented as early as 2002, and commercial tools to filter Internet access in schools, libraries, and businesses have been available since the late 1990s, filtering at other points in the network is a more recent phenomenon.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 107,
+            "top": 185,
+            "left": 110
+        }
+    },
+    {
+        "page": 90,
+        "heading": "Host-Based Censorship in China",
+        "content": " Studies of ISP-based Internet filtering have characterized Chinese Internet filtering that was pervasive as early as 2002.\u00b0 Bloggers and journalists refer to China\u2019s complex set of filtering practices as the Great Firewall. It should not be a surprise, then, that China has",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 199,
+            "top": 243,
+            "left": 108
+        }
+    },
+    {
+        "page": 91,
+        "heading": "OSP-Based Censorship in the United States",
+        "content": " There is no evidence that the U.S. government is demanding censorship of OSPs in the same way that the Chinese government has attempted to control social media. However, unclear U.S. laws may have led to situations in which U.S.-based",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 269,
+            "top": 612,
+            "left": 110
+        }
+    },
+    {
+        "page": 94,
+        "heading": "An Emerging Trend?",
+        "content": " It is possible that BlueHost may be on the leading edge of a new trend. Social network- ing site LinkedIn.com began blocking Syrian users from connecting to their site in April 2009. Anas Marrawi reported that LinkedIn began blocking Syrian users based",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 129,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 95,
+        "heading": "The Economics of Intermediary Censorship",
+        "content": " Google may have decided to disable comments in South Korea to make a statement about how requiring identification systems limits online speech. Or they may have been making a smart business decision\u2014it would have required a major engineering",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 268,
+            "top": 534,
+            "left": 110
+        }
+    },
+    {
+        "page": 97,
+        "heading": "Implications for Researchers",
+        "content": " While the underlying threats to speech are deeply different between the case of Chinese blogging hosts studied by MacKinnon and U.S.-based OSPs outlined here, a common theme emerges: threats to online speech come not just from government",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 175,
+            "top": 632,
+            "left": 110
+        }
+    },
+    {
+        "page": 98,
+        "heading": "Imbalanced Incentives and Free Speech",
+        "content": " So long as it continues to be possible for for-profit OSPs to terminate difficult clients for arbitrary reasons, it is likely that we will see providers \u2018\u2018optimizing\u2019\u2019 their client base, providing services to customers who do not attract DDoS attacks or copyright or trade",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 246,
+            "top": 593,
+            "left": 108
+        }
+    },
+    {
+        "page": 99,
+        "heading": "Conclusion",
+        "content": " In countries like China, where online speech is carefully monitored and controlled, we are likely to see intermediary censorship emerge as an increasingly important compo- ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 807,
+            "left": 110
+        }
+    },
+    {
+        "page": 100,
+        "heading": "Notes",
+        "content": " 1. Rebecca MacKinnon, \u2018Tunisian Online Protest Blocked,\u2019\u201d\u2019 Global Voices, October 4, 2005, http://globalvoicesonline.org/2005/10/04/tunisian-online-protest-blocked/. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 455,
+            "left": 108
+        }
+    },
+    {
+        "page": 101,
+        "heading": "21. ArabCrunch, \u201cLinkedIn Kicks Off Syrian Users!,\u201d April 17, 2009, http://arabcrunch.com/2009/ 04/breaking-linkedin-kicks-off-syrian-users.html; Morozov, \u201cDo-It-Yourself Censorship.\u201d\u2019",
+        "content": " 22. York works for the Berkman Center for Internet and Society at Harvard University, focused on the OpenNet Initiative. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 699,
+            "left": 110
+        }
+    },
+    {
+        "page": 104,
+        "heading": "Colin M. Maclay",
+        "content": " Introduction  When Yahoo! became interested in building upon the surprise success of its services in",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 101,
+            "top": 190,
+            "left": 108
+        }
+    },
+    {
+        "page": 104,
+        "heading": "Introduction",
+        "content": " When Yahoo! became interested in building upon the surprise success of its services in Vietnam, it was not simply a matter of finding an established partner or setting up local servers, but began with a human rights impact assessment. This process sought",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 106,
+        "heading": "Government and Business Collide: Expression and Privacy at Risk",
+        "content": " All over the world, companies in the ICT sector face increasing government pressure to comply with domestic laws and practices in ways that conflict with both core elements of their business and their users\u2019 fundamental rights to privately impart and access in-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 404,
+            "top": 476,
+            "left": 108
+        }
+    },
+    {
+        "page": 107,
+        "heading": "Government Steps In: Policy and Regulatory Responses",
+        "content": " While business has focused its requests on the executive branch, requesting bilateral assistance in individual cases and on trade issues, civil society has been more likely to call for proscriptive legal solutions, spurring significant legislative interest.!2 Such",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 345,
+            "top": 515,
+            "left": 110
+        }
+    },
+    {
+        "page": 108,
+        "heading": "Stakeholders Unite: Global Network Initiative",
+        "content": " Recognizing profound challenges associated with the broad spectrum of laws and practices related to freedom of expression and privacy in states around the world, as well as the laws and standards of home countries, employees, shareholders, and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 284,
+            "top": 651,
+            "left": 108
+        }
+    },
+    {
+        "page": 109,
+        "heading": "Beginnings",
+        "content": " As the group moved from research and brainstorming to drafting, clear questions emerged. What was the proper balance between aspiration (as manifest in documents and language) and realistic, operational, and evaluable results? How high should the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 70,
+            "top": 573,
+            "left": 110
+        }
+    },
+    {
+        "page": 110,
+        "heading": "Participants",
+        "content": " Global Network Initiative participants include ICT companies, nongovernmental organizations, investors, and academics. The founding group of companies comprises Google, Microsoft, and Yahoo!. Academic participants in the GNI are Annenberg School",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 73,
+            "top": 807,
+            "left": 108
+        }
+    },
+    {
+        "page": 111,
+        "heading": "Foundational Elements",
+        "content": " The structure and overall approach that emerged from the multiyear process are largely defined by three documents: the Principles,2\u00ae the Implementation Guidelines,?\u00b0 and the Governance, Accountability, and Learning Framework,?! which were released in",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 143,
+            "top": 418,
+            "left": 110
+        }
+    },
+    {
+        "page": 112,
+        "heading": "Implementation Guidelines",
+        "content": " While accounting for the limitations of the GNI\u2019s current incipient understanding of effective strategies and tactics, the Guidelines promise actionable steps for ICT compa- nies that constitute compliance with the Principles and provide an initial framework",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 170,
+            "top": 787,
+            "left": 108
+        }
+    },
+    {
+        "page": 113,
+        "heading": "Governance, Learning, and Accountability Framework",
+        "content": " Much of the value of the collective is created by means of the activities described in the Framework, which include the GNI\u2019s organizational structure and responsibilities, along with those of the participating companies and the independent assessors. The",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 336,
+            "top": 593,
+            "left": 110
+        }
+    },
+    {
+        "page": 114,
+        "heading": "Criticisms and Challenges",
+        "content": " Lackluster Participation  As varied as the group is in many respects, the Global Network Initiative clearly lacks",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 159,
+            "top": 768,
+            "left": 108
+        }
+    },
+    {
+        "page": 114,
+        "heading": "Lackluster Participation",
+        "content": " As varied as the group is in many respects, the Global Network Initiative clearly lacks culturally and geographically diverse participation, and is likewise limited in terms of the range of participating organizations within sectors, and companies in particular,",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 145,
+            "top": 807,
+            "left": 108
+        }
+    },
+    {
+        "page": 115,
+        "heading": "Accountability",
+        "content": " While Internet companies are new to accountability (perhaps reflecting their libertar- ian outlook, propensity for confidentiality, and relative corporate immaturity), a rea- sonable, meaningful, and ambitious approach to accountability was widely viewed",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 89,
+            "top": 671,
+            "left": 110
+        }
+    },
+    {
+        "page": 117,
+        "heading": "Public Communication and Remedy",
+        "content": " As suggested by empirical experience and proposed in Ruggie\u2019s Protect, Respect, and Remedy Framework, offering transparent channels of communication and the poten- tial for remedy is essential to addressing business and human rights concerns, and the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 223,
+            "top": 476,
+            "left": 110
+        }
+    },
+    {
+        "page": 118,
+        "heading": "Learning and Understanding",
+        "content": " Limited knowledge of current practice among ICT companies and empirical under- standing of the problems they face related to online free expression and privacy, in conjunction with the ceaseless changes in business, user behavior, and government",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 180,
+            "top": 379,
+            "left": 108
+        }
+    },
+    {
+        "page": 118,
+        "heading": "Scope and Specificity",
+        "content": " While the GNI has been cautiously welcomed, the participants in the process and others outside it have expressed a range of concerns. In many cases, it is simply too early to tell whether these apprehensions will be borne out by experience, but they",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 132,
+            "top": 709,
+            "left": 108
+        }
+    },
+    {
+        "page": 119,
+        "heading": "Criteria for Success",
+        "content": " In order to accomplish the goals of the GNI, there are broad traits present in the design phase that should be retained over time. As the structure, process, and organiza- tion develop and respond to existing and emerging concerns, it will be essential to",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 119,
+            "top": 573,
+            "left": 110
+        }
+    },
+    {
+        "page": 120,
+        "heading": "Conclusion",
+        "content": " The story has not yet ended for the GNI or for Yahoo!. In December 2008, the Viet- namese government passed a law limiting online political speech and requiring online service providers to report violators, publicly stating its expectations that Google and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 748,
+            "left": 108
+        }
+    },
+    {
+        "page": 122,
+        "heading": "Notes",
+        "content": " 1. Michael Samway, \u201cA Wired\u2014and Safe\u2014Vietnam,\u201d\u2019 Yodel Anecdotal, March 12, 2009, http:// ycorpblog.com/2009/03/12/a-wired-and-safe-vietnam/. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 128,
+        "heading": "Introduction to the Country Profiles",
+        "content": " The country profiles that follow offer a synopsis of the findings and conclusions of OpenNet Initiative (ONI) research into the factors influencing specific countries\u2019 deci- sions to filter or abstain from filtering the Internet, as well as the impact, relevance,",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 350,
+            "top": 107,
+            "left": 106
+        }
+    },
+    {
+        "page": 129,
+        "heading": "112 Introduction to the Country Profiles",
+        "content": " 3. Conflict and security: Content related to armed conflicts, border disputes, separatist movements, and militant groups is included in this category. ",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 11,
+            "top": 239,
+            "left": 110
+        }
+    },
+    {
+        "page": 131,
+        "heading": "Sources for Key Indicators",
+        "content": " GDP per capita, PPP (constant 2005 international dollars)  World Bank, \u2018World Development Indicators Online,\u201d 2009, http://web.worldbank.org/WBSITE/",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 163,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 136,
+        "heading": "CIS Overview",
+        "content": " Over the past four years the scale and reach of the Internet in the Commonwealth of Independent States (CIS) has continued to expand. As it has grown, a vibrant cyber cul- ture has emerged, strengthened by a Soviet legacy, which has bequeathed the region",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 129,
+            "top": 107,
+            "left": 107
+        }
+    },
+    {
+        "page": 138,
+        "heading": "The CIS Region: Ethnocultural Diversity and a Shared Historical Space",
+        "content": " The CIS\u2014a loose and largely ineffectual political organization\u2014occupies most of the territory that once constituted the Union of Soviet Socialist Republics (USSR). Strad- dling a swath of Eurasia from the Pacific to the doorsteps of Europe, the Arctic Circle,",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 435,
+            "top": 301,
+            "left": 108
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Access to the Internet in the CIS",
+        "content": " Internet penetration rates in the CIS region have experienced significant growth over the last couple of years, though the figures are still low in comparison to Europe and other regions. Internet access is mainly clustered in urban areas and spread among",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 202,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 140,
+        "heading": "The Role of New Technology in the CIS",
+        "content": " The CIS region showcases examples of just how profoundly the Internet can affect social and political life. The importance of the Internet to political and social life is af- fected by the general openness of the media in the country. In Uzbekistan and Belarus,",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 246,
+            "top": 204,
+            "left": 108
+        }
+    },
+    {
+        "page": 141,
+        "heading": "Legal and Regulatory Mechanisms to Control the Internet in the CIS",
+        "content": " In recent years, the trend in all CIS states has been toward greater regulation of the national information space, which includes the Internet. While the constitutions of (nearly) all countries enshrine the principles of freedom of information and freedom",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 427,
+            "top": 554,
+            "left": 110
+        }
+    },
+    {
+        "page": 141,
+        "heading": "Restrictions on Access to or Dissemination of Certain Types of Content",
+        "content": " Restriction of Internet Content under State General Laws Freedom of expression is an important feature in almost all constitutions in the CIS. But increasingly, laws, decrees, and administrative orders are used to limit the extent of these freedoms, and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 442,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 142,
+        "heading": "Registration Requirements for Internet Web Sites",
+        "content": " CIS states are increasingly requiring Web sites to register as mass media, making them subject to national legislation governing content, defamation, and copyright, criminal offense to the state and officials, and others. Officials increasingly speak in favor of",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 309,
+            "top": 826,
+            "left": 108
+        }
+    },
+    {
+        "page": 143,
+        "heading": "Defamatory Provisions",
+        "content": " Defamation laws have been used successfully to prosecute civil and criminal cases against Web site owners for allegedly hosting \u2018\u2018defamatory\u201d content. In Belarus, for ex- ample, the definition of defamation and slander laws has been expanded to selectively",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 141,
+            "top": 476,
+            "left": 110
+        }
+    },
+    {
+        "page": 143,
+        "heading": "National Security Concerns",
+        "content": " The need to develop ICT is a national priority in many CIS countries. Almost all CIS governments have adopted national ICT strategies that set ambitious targets for the development of the Internet in government, education, and industry. At the same",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 169,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 144,
+        "heading": "Surveillance",
+        "content": " Russia\u2019s legal approach to Internet surveillance for law enforcement (that is, the System for Operational-Investigative Activities or SORM-II, which allows security services unfettered physical access to ISP networks) has influenced the way in which other CIS",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 399,
+            "left": 108
+        }
+    },
+    {
+        "page": 145,
+        "heading": "Other Means to Control the Internet",
+        "content": " The ONI has documented the use of a wide range of measures to control the Internet\u2014 legal, administrative, and technological, as well as psychological: threats and physical violence, which usually are designed to cultivate a culture of self-censorship among",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 230,
+            "top": 542,
+            "left": 110
+        }
+    },
+    {
+        "page": 146,
+        "heading": "Crowd-Sourced Attacks: Pro-Government or Patriotic Hacktivists",
+        "content": " During the August 2008 Russia-Georgia war over the breakaway territory of Ossetia, pro-government Russian hackers launched DDoS attacks against a wide range of Geor- gian ISPs and Web sites. As a consequence, the majority of Georgian government",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 402,
+            "top": 748,
+            "left": 108
+        }
+    },
+    {
+        "page": 147,
+        "heading": "Administrative Mechanisms to Shut Down Access to the Internet",
+        "content": " Legal Deregistration of Domain Names and Web Sites Authorities often resort to var- ious quasi-legal or \u2018administrative\u2019 mechanisms to suppress \u201cinappropriate\u201d infor- mation or shut down oppositional domain names (e.g., Kazakhstan, Kyrgyzstan). In",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 404,
+            "top": 360,
+            "left": 110
+        }
+    },
+    {
+        "page": 148,
+        "heading": "Emerging Second- and Third-Generation Controls in the CIS",
+        "content": " Overt Internet filtering, such as that undertaken by China or Iran, is unlikely to occur in the CIS for several reasons. First, only in a very few cases (Uzbekistan, Turkmenistan) is the government disposed to effect an informational blockade of the country that",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 377,
+            "top": 263,
+            "left": 108
+        }
+    },
+    {
+        "page": 149,
+        "heading": "Upstream Filtering",
+        "content": " For its size, the CIS region has a relatively underdeveloped telecommunications sys- tem, much of which remains centered on Russia. At the same time, the region itself is contiguous with (or borders) Europe, Asia, and\u2014via the circumpolar route\u2014North",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 116,
+            "top": 282,
+            "left": 110
+        }
+    },
+    {
+        "page": 150,
+        "heading": "Conclusion",
+        "content": " The CIS region is experiencing a general trend toward greater regulation and control of the national information space, which includes the Internet. Although most CIS countries do not practice substantive or pervasive filtering\u2014with the exception of",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 150,
+        "heading": "or to influence accessed information in a",
+        "content": " Notes  1. The OpenNet Initiative did not conduct formal testing or monitoring during the 2008 Russian",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 476,
+            "left": 108
+        }
+    },
+    {
+        "page": 150,
+        "heading": "Notes",
+        "content": " 1. The OpenNet Initiative did not conduct formal testing or monitoring during the 2008 Russian parliamentary elections or the 2009 presidential elections. However, persistent allegations of denial of service attacks being used against opposition Web sites, and the mobilization of pro-",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 708,
+            "left": 108
+        }
+    },
+    {
+        "page": 154,
+        "heading": "Armenia",
+        "content": " Access to the Internet in Armenia is  largely unfettered, although evidence",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 82,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 160,
+        "heading": "Surveillance",
+        "content": " In Armenia, there are no express provisions to conduct monitoring of online content. Furthermore, ISPs and companies providing Web hosting services are not obliged to monitor the content of transmitted and stored content. In addition, under Armenian",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 161,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the ONI ran tests on the first-tier ISPs in the country: Arminco, WEB, and Netsys. During Armenia\u2019s state-of-emergency, ONI monitored the media and Internet blackout in the country and concluded that pervasive filtering was occur-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 185,
+            "left": 110
+        }
+    },
+    {
+        "page": 161,
+        "heading": "Conclusion",
+        "content": " Armenia has struggled through political instability, regional conflict, and widespread poverty and unemployment. The new president has pledged to carry out reforms that would decrease corruption, improve living standards, and enhance foreign confidence",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 437,
+            "left": 110
+        }
+    },
+    {
+        "page": 161,
+        "heading": "3. David Sandukhchyan, \u2018Armenia,\u2019 Political Intelligence Internews, December, 2006, http://ec -europa.eu/information_society/activities/internationalrel/docs/pi_study_rus_ukr_arm_azerb_bel",
+        "content": " _geor_kaz_mold/4_armenia.pdf.  4. Deliverable Report No.1: Inception Report (Tasks 1 through 4), \u2018Design of Universal Services",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 206,
+            "top": 718,
+            "left": 110
+        }
+    },
+    {
+        "page": 164,
+        "heading": "32. David Sandukhchyan, \u201c\u2018Armenia.\u2019\u201d\u2019",
+        "content": " 33. The PSRC is also responsible for the regulation of electricity and water supply services and the supply of energy, fuel, and other vital goods. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 212,
+            "top": 672,
+            "left": 108
+        }
+    },
+    {
+        "page": 166,
+        "heading": "Azerbaijan",
+        "content": " The Internet in Azerbaijan remains  largely free from direct censorship de-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 103,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 166,
+        "heading": "tion and communication technology",
+        "content": " (ICT) hub for the Caucasus region. The Azerbaijani government actively seeks to attract foreign aid to help boost the telecommunications and ICT sectors.! Investment in the ICT sector has been prioritized, with ICT seen as an essential pil-",
+        "features": {
+            "font_id": "27",
+            "height": 14,
+            "width": 251,
+            "top": 343,
+            "left": 108
+        }
+    },
+    {
+        "page": 166,
+        "heading": "Background",
+        "content": " After a decade of civil unrest and a disastrous war over the territory of Nagorno- Karabakh, Azerbaijan recovered and stabilized under the strong hand of former Presi- dent Heidar Aliev (elected in 1993). Since then, the country\u2019s political life has remained",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 615,
+            "left": 108
+        }
+    },
+    {
+        "page": 167,
+        "heading": "150 Azerbaijan",
+        "content": " RESULTS AT A GLANCE  No Evidence Suspected Selective Substantial Pervasive",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 521,
+            "left": 161
+        }
+    },
+    {
+        "page": 171,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " Even though Azerbaijan made telecommunications and Internet national development priorities, the telecom regulatory framework remains insufficiently developed. The MCIT acts as both regulator and operator. In 2008, the MCIT moved to separate the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 185,
+            "left": 110
+        }
+    },
+    {
+        "page": 172,
+        "heading": "Surveillance",
+        "content": " Azerbaijani law does not include a formal legal foundation requiring Internet surveil- lance. Nevertheless, surveillance does occur, mainly by means of sporadic visits of the State Security Services to ISPs. In 2000-2001, there was an unsuccessful attempt",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 748,
+            "left": 108
+        }
+    },
+    {
+        "page": 173,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative tested for content filtering on four ISPs\u2014 AzNet, DeltaTelecom, AzerOnline, and AzEuroTel, as well as several end user locations (such as Internet caf\u00e9s). Most of the ISPs in the country purchase international traffic",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 515,
+            "left": 110
+        }
+    },
+    {
+        "page": 174,
+        "heading": "Conclusion",
+        "content": " The Internet in Azerbaijan remains for the most part \u201cfree and open\u201d as a result of the government\u2019s strong interest in converting the country into an \u201cICT hub\u201d for the re- gion. However, evidence of second- and third-generation controls is mounting. As the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 554,
+            "left": 108
+        }
+    },
+    {
+        "page": 175,
+        "heading": "Notes",
+        "content": " 1. Azerbaijan has signed grant agreements with the UNDP (National Information Communica- tion Technologies Strategy for 2003-2012), the World Bank (for expanding telecommunications in the rural areas of the Southern Caucasian countries), and other international organizations.",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 178,
+        "heading": "Belarus",
+        "content": " The Belarus government has moved  to second- and third-generation con-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 70,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 183,
+        "heading": "Surveillance",
+        "content": " Officially, Internet filtering and monitoring of telecommunications networks are illegal in Belarus. However, authorities conduct surveillance of Internet activities under the pretext of protecting national security. In 2001, the president extended the concept",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 496,
+            "left": 110
+        }
+    },
+    {
+        "page": 184,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the ONI tested seven main ISPs: Atlant, Aichyna, BASNET, Belinfo- net, Belpak (Beltelecom), BN, and Solo. The testing confirmed blocking by almost all ISPs. Many Web sites tested on the academic network BASNET were inaccessible",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 340,
+            "left": 108
+        }
+    },
+    {
+        "page": 186,
+        "heading": "Notes",
+        "content": " 1. In the earlier redaction of the Belarus constitution, it was provided that the president cannot remain the head of state for more than two terms. A referendum in 2004, however, abolished that restriction, opening the doors for the current president to stay in power for an unlimited",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 300,
+            "left": 108
+        }
+    },
+    {
+        "page": 190,
+        "heading": "Georgia",
+        "content": " Access to Internet content in Georgia  is largely unrestricted as the legal con-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 78,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 195,
+        "heading": "Internet Filtering during the 2008 Russia-Georgia War",
+        "content": " Despite the existence of legal safeguards that prohibit Internet censorship, the August 2008 conflict between Russia and Georgia witnessed unprecedented censorship of Russian Web sites by Georgian ISPs. According to Georgian sources interviewed by the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 337,
+            "top": 573,
+            "left": 110
+        }
+    },
+    {
+        "page": 196,
+        "heading": "Surveillance",
+        "content": " Article 20 of the Constitution of Georgia provides for the inviolability of private records, correspondence, and telephone and other kinds of communications con- ducted through technical means. These rights can be restricted only with an appropri-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 476,
+            "left": 108
+        }
+    },
+    {
+        "page": 196,
+        "heading": "ONI Testing Results",
+        "content": " Despite existing legal restrictions, filtering and monitoring of the Internet has been documented at Georgian ISPs. Evidence of filtering has also been documented on academic networks. In addition to the blocking of Web sites during the conflict with",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 671,
+            "left": 108
+        }
+    },
+    {
+        "page": 197,
+        "heading": "Conclusion",
+        "content": " At present, Internet filtering in Georgia appears to be limited to corporate and educa- tional networks. With the exception of the Russia-Georgia war, which witnessed lim- ited state-sanctioned filtering of Russian Internet resources, access to Internet content",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 321,
+            "left": 110
+        }
+    },
+    {
+        "page": 197,
+        "heading": "Notes",
+        "content": " 1. Georgia, a Soviet republic until 1991, is strategically situated at the crossroads between Europe and Asia. Spreading over parts of the Caucasus Mountains with an outlet on the Black Sea, the country has historically been the object of a struggle for influence among Russia, Turkey, and,",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 533,
+            "left": 110
+        }
+    },
+    {
+        "page": 200,
+        "heading": "Kazakhstan",
+        "content": " The Kazakh government has extended its control over the Internet, even as it seeks to liberalize the telecommunica-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 111,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 204,
+        "heading": "Surveillance",
+        "content": " The government has established systems to monitor and filter Internet traffic. Since the traffic of all first-tier ISPs goes through KazakhTelecom\u2019s channels, surveillance and filtering is centralized. The ONI suspects that state officials informally ask Kazakh-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 748,
+            "left": 108
+        }
+    },
+    {
+        "page": 205,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative conducted testing on two main ISPs: KazakhTelecom and Nur- sat. KazakhTelecom blocks opposition groups\u2019 Web sites, regional media sites that carry political content, and selected social networking sites. A number of proxy sites provid-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 437,
+            "left": 110
+        }
+    },
+    {
+        "page": 205,
+        "heading": "Conclusion",
+        "content": " The Kazakh government has harnessed efforts to modernize the IT sector, promote ICTs, and encourage e-government in order to spur social development. Nevertheless, the lack of a competitive fixed-line market and the partial market liberalization leaves",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 768,
+            "left": 110
+        }
+    },
+    {
+        "page": 206,
+        "heading": "Notes",
+        "content": " 1. Commission on Security and Cooperation in Europe, \u2018\u2018Missed Opportunity in Kazakhstan: Fraud and Intimidation Spoil Election Promised to Be \u2018Free and Fair,\u2019\u2019\u2019 December 15, 2005, http://www.csce.gov/index.cfm?Fuseaction=ContentRecords. ViewDetail&ContentRecord_id=107&",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 241,
+            "left": 108
+        }
+    },
+    {
+        "page": 206,
+        "heading": "6. \u201cSovmestnyi Proekt Isledovatelskoy Kompanii \u2018Komkon-2 Evraziya\u2019 i Informacionnogo Portala",
+        "content": " \u201d  \u2018Centr Tyazhesti\u2019\u201d\u2019 [Joint Project of the Research Companies \u2018\u2018Komkon-2 Eurasia\u201d and the Infor-",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 519,
+            "left": 108
+        }
+    },
+    {
+        "page": 206,
+        "heading": "7. National News Agency KazInform, \u201cSrednyaya Zarplata v Kazakhstane\u201d [Average Salary in",
+        "content": "Kazakhstan], April 15, 2008, http://www.zakon.kz/our/news/news.asp?id=30173385.  8. Economist Intelligence Unit, \u201cKazakhstan Telecoms and Technology Report: Internet,\u201d Octo- ber 15, 2008, http://store.eiu.com/product/1597096959KZ.html.",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 10,
+            "top": 582,
+            "left": 108
+        }
+    },
+    {
+        "page": 207,
+        "heading": "12. Paul Budde Communications Pty., Ltd., \u2018\u2018Kazakhstan\u2014Telecoms Market Overview, Statistics and Forecasts.\u201d",
+        "content": " 13. The basic package on offer comprises 55 channels and will be available to broadband sub- scribers. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 208,
+        "heading": "Kyrgyzstan",
+        "content": " Access to the Internet in Kyrgyzstan  has deteriorated as heightened politi-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 107,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 213,
+        "heading": "Surveillance",
+        "content": " There is no legislation in Kyrgyzstan that allows national security bodies to organize surveillance over the Internet. KyrgyzTelecom itself launched a technical investigation to prevent \u2018gray traffic\u2019 generated by other ISPs, meaning spam or other illegitimate",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 651,
+            "left": 110
+        }
+    },
+    {
+        "page": 214,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative conducted testing from various access points on four main first-tier ISPs: AsiaInfo, Elcat, KyrgyzTelecom, and Saima Telecom. The ONI could not officially detect filtering by the providers at the time testing was carried",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 165,
+            "left": 108
+        }
+    },
+    {
+        "page": 214,
+        "heading": "Conclusion",
+        "content": " The Kyrgyz government has implemented policies aimed at fostering the development of the communications sector, which is seen as an instrument for attracting foreign in- vestment. Potential limits in Internet freedom are posed by generally poor access and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 593,
+            "left": 108
+        }
+    },
+    {
+        "page": 215,
+        "heading": "Notes",
+        "content": " 1. Kunduz Jenkis, \u201cThe Kyrgyz Revolution: One Step Ahead or Two Steps Back?\u201d International Eurasian Institute for Economic and Political Research, September 21, 2005, http://www. iicas.org/ libr_en/kg/libr_06_10_O5kg.htm.",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 215,
+        "heading": "3. Bishkek, \u201cIssledovanie Auditorii Internet v Kyrgyzstane\u201d [Survey on the Internet Auditorium in",
+        "content": "Kyrgyzstan], 2009.  4. Paul Budde Communication Pty., Ltd., \u2018\u201cAsian\u2014Internet Market, 2008.\u201d ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 269,
+            "left": 110
+        }
+    },
+    {
+        "page": 215,
+        "heading": "4. Paul Budde Communication Pty., Ltd., \u2018\u201cAsian\u2014Internet Market, 2008.\u201d",
+        "content": " 5. United Nations, United Nations e-Government Survey 2008: From e-Government to Connected Gover- nance, http://unpan1.un.org/intradoc/groups/public/documents/UN/UNPAN028607.pdf. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 413,
+            "top": 314,
+            "left": 110
+        }
+    },
+    {
+        "page": 218,
+        "heading": "Moldova",
+        "content": " Internet users in Moldova enjoy  largely unfettered access despite the",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 85,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 222,
+        "heading": "Surveillance",
+        "content": " The National Security and Information Service is authorized to monitor the Internet and collect any information necessary to prevent infringements of the laws. Surveil- lance in Moldova is permitted only after obtaining a court order. There is no special",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 690,
+            "left": 108
+        }
+    },
+    {
+        "page": 223,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative carried out testing on three first-tier ISPs in Moldova: Moldtelecom, Telemedia, and DNT SunCommunications. Results did not reveal any filtering carried out on the Internet backbone.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 476,
+            "left": 110
+        }
+    },
+    {
+        "page": 223,
+        "heading": "Conclusion",
+        "content": " Moldovan authorities have recognized the political and social importance of the Inter- net. State authorities have interfered with mobile and Internet connections in an attempt to silence protestors and influence the results of elections. Generally, the Inter-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 224,
+        "heading": "Notes",
+        "content": " 1. United Nations, United Nations e-Government Survey 2008, http://unpan1.un.org/intradoc/ groups/public/documents/un/unpan028607.pdf. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 222,
+            "left": 108
+        }
+    },
+    {
+        "page": 226,
+        "heading": "Russia",
+        "content": " The absence of overt state-mandated Internet filtering in Russia has led some observers to conclude that the",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 59,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 231,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " The Constitution of the Russian Federation guarantees free speech and prohibits any restraint on the freedom of expression (Article 29). The constitution recognizes the ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 826,
+            "left": 110
+        }
+    },
+    {
+        "page": 235,
+        "heading": "Surveillance",
+        "content": " The Russian government has been advancing justifications for surveillance, ostensibly to aid in the investigation of crimes and the prevention of terrorism. The Law on Systems for Operational Investigation Activity (SORM)\u00b0\u00ae of 1995 authorized the FSB",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 729,
+            "left": 110
+        }
+    },
+    {
+        "page": 237,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative tested from different locations and several access points on a number of main ISPs in the major cities and regions. The ONI tested on the following ISPs: AltaiTelecom, ASN-Yartelecom, Comstar, Corvette, Metrocom, North-West Tele-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 237,
+        "heading": "Conclusion",
+        "content": " Control of media has a long-established history in Russia. As the Internet has prolifer- ated, the government has moved to design suitable control mechanisms. Compared to other countries, the Russian approach represents a notably different method of con-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 360,
+            "left": 110
+        }
+    },
+    {
+        "page": 237,
+        "heading": "Notes",
+        "content": " 1. Helen Womack, \u201cRussia\u2019s Governors Reluctantly Accept Putin Curbs on Power,\u201d The Independent, July 27, 2000, http://www.independent.co.uk/news/world/europe/russias-governors- reluctantly-accept-putin-curbs-on-power-707944.html; Nikolay Petrov and Michael A. McFaul,",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 591,
+            "left": 110
+        }
+    },
+    {
+        "page": 244,
+        "heading": "Tajikistan",
+        "content": " Internet access in Tajikistan remains largely unrestricted, but emerging second-generation controls have",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 91,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 249,
+        "heading": "Surveillance",
+        "content": " Several government agencies possess the right to inspect ISPs\u2019 activities and premises, and require information on their users. The rights and obligations of ISPs in this regard are envisioned in the Annex to the \u201cInternet Services Provision Rules within the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 340,
+            "left": 110
+        }
+    },
+    {
+        "page": 249,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative tested in Tajikistan on four key ISPs: Babilon-T, Eastera, Tajiktelecom, and TARENA. Testing in Tajikistan yielded no evidence of Inter- net filtering. This extends to pornographic content, and with the exception of TARENA",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 250,
+        "heading": "Conclusion",
+        "content": " The Tajik government has adopted an e-strategy aimed at developing an information society and employing ICT potential for spurring economic growth. At the same time it does not seek to encourage independent online publishers, journalists, and bloggers.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 185,
+            "left": 108
+        }
+    },
+    {
+        "page": 250,
+        "heading": "Notes",
+        "content": " 1. Joanna Lillis, \u201cTajikistan: No Surprises in Presidential Elections,\u201d Eurasia Insight, November 6, 2006, http://www.eurasianet.org/departments/insight/articles/eav110606a.shtml; Deutsche Welle, \u201cNigora Buhari-zade, \u2018\u2018Oppositsionery v Tajikistane Protestuyut\u201d\u2019 [The Opposition Raises Protests],",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 649,
+            "left": 108
+        }
+    },
+    {
+        "page": 254,
+        "heading": "Turkmenistan",
+        "content": " Turkmenistan ranks among the most repressive and closed societies in the world. The Internet is heavily regu-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 133,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 259,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " The president and the Cabinet of Ministers are the policymakers in the communi- cations sector. The Ministry of Communications implements policy; it is the sector\u2019s regulator, issuing licenses to operators, approving tariffs, and carrying out investiga-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 496,
+            "left": 110
+        }
+    },
+    {
+        "page": 261,
+        "heading": "Surveillance",
+        "content": " In Turkmenistan, few users with access to the Internet are able to read English. Accord- ingly, only information in Russian disseminated on the Internet might raise serious concerns for the regime. Nonetheless, the preferred method of limiting information",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 282,
+            "left": 110
+        }
+    },
+    {
+        "page": 262,
+        "heading": "ONI Testing Results",
+        "content": " In 2008, OpenNet Initiative testing was conducted in Turkmenistan on a direct land- line connection to TurkmenTelecom. The tests detected substantial filtering of local and regional media and freedom-of-expression Web sites. Significantly, Azeri media",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 262,
+        "heading": "Conclusion",
+        "content": " The former Turkmen president exercised strict control over Turkmen society and media, and restricted any information inconsistent with his widely propagandized policies. The current president has pledged to seek a more lenient approach to leading",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 360,
+            "left": 108
+        }
+    },
+    {
+        "page": 262,
+        "heading": "Notes",
+        "content": " 1. World Bank, World Development Indicators 2007, http://ddp-ext.worldbank.org/ext/ddpreports/ ViewSharedReport? &CF=&REPORT_ID=9147&REQUEST_TYPE=VIEWADVANCED. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 669,
+            "left": 108
+        }
+    },
+    {
+        "page": 266,
+        "heading": "Ukraine",
+        "content": " Access to Internet content in Ukraine remains largely unfettered, in part as a consequence of the 2005 Orange",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 75,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 270,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " The Ministry of Transport and Communications (through the State Administration for Communications) is the policymaker in the electronic communications sector. The Law on Communications (2003) established the sector regulator\u2014the National Com-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 632,
+            "left": 108
+        }
+    },
+    {
+        "page": 274,
+        "heading": "Surveillance",
+        "content": " The Council of National Security and Defense is the main governmental body respon- sible for national security and defense. The Council monitors information security and coordinates the work of the other executive bodies in the field. The Security Service of",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 729,
+            "left": 108
+        }
+    },
+    {
+        "page": 276,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative conducted tests in Ukraine from different access points on six main ISPs: Alkar, Intertelecom, Visti Net, Volz, Volia, and UkrTele- com. The ONI concluded that there is no filtering on the backbone in Ukraine. How-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 276,
+        "heading": "Conclusion",
+        "content": " The citizens of Ukraine enjoy unfettered access to the Internet. The country\u2019s Internet infrastructure is rapidly developing, and ICTs are beginning to have a more notable influence over the political process. The country possesses an Internet infrastructure",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 263,
+            "left": 108
+        }
+    },
+    {
+        "page": 276,
+        "heading": "Notes",
+        "content": " 1. The Networked Readiness Framework assesses the extent to which different economies benefit from the latest ICT advances based on three indexes: environment, network readiness, and usage. See World Economic Forum, The Global Information Technology Report 2008-2009, http://www",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 455,
+            "left": 108
+        }
+    },
+    {
+        "page": 280,
+        "heading": "57. \u201cPrava lyudey v Ukraine\u20142007. V. Pravo na privatnost.\u201d",
+        "content": " 58. Information about court hearings on law enforcement investigating by wiretapping. See www.khpg.org/index.php?id=1241091796. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 53,
+            "top": 322,
+            "left": 108
+        }
+    },
+    {
+        "page": 282,
+        "heading": "Uzbekistan",
+        "content": " Uzbekistan\u2019s tight control of the Inter- net has resulted in the most pervasive regime of filtering and censorship in",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 107,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 285,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " The Uzbekistan government has approved the Program for Development of Computer- ization and Information and Communication Technologies for 2002\u20142010.?3 This pro- gram envisions the establishment of a national segment of the Internet and aims to",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 768,
+            "left": 110
+        }
+    },
+    {
+        "page": 287,
+        "heading": "Surveillance",
+        "content": " Internet filtering in Uzbekistan did not begin with the security forces, but rather with the academic and research network, which was funded with foreign development assis- tance. The first Uzbek ISP to implement a filtering policy was UZSCINET, which used",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 651,
+            "left": 110
+        }
+    },
+    {
+        "page": 288,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative conducted testing on five main ISPs in the country: ArsInform, Buzton, Sharq Telecom, Sarkor Telecom, and Uzbektelecom. The test results show pervasive blocking of different categories of Internet content, includ-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 748,
+            "left": 108
+        }
+    },
+    {
+        "page": 289,
+        "heading": "Conclusion",
+        "content": " Through investment and legal mechanisms, the government has demonstrated its willingness to promote ICT in Uzbekistan. At the same time, Uzbekistan maintains the most extensive and pervasive filtering system among the CIS countries. Although",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 204,
+            "left": 110
+        }
+    },
+    {
+        "page": 289,
+        "heading": "Notes",
+        "content": " 1. During the most robust of such actions in 2005, hundreds of people were killed. (Government statistics mention 190 people, while unofficial sources suggest that as many as 750 people\u2014the majority of them civilians\u2014lost their lives in the clash with the police forces.)",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 455,
+            "left": 110
+        }
+    },
+    {
+        "page": 296,
+        "heading": "Regional Regulation",
+        "content": " There is no explicit obligation at the EU level mandating either governments or ICT firms to filter or remove online content, though this position may soon change. In December 2008, the EU approved the next phase of studies of new filtering technolo-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 125,
+            "top": 771,
+            "left": 108
+        }
+    },
+    {
+        "page": 297,
+        "heading": "280 Europe Overview",
+        "content": " Ministers intends to protect minors from illegal and harmful content online, in partic- ular, \u201cchild sexual abuse material, grooming and cyber bullying.\u201d This program will operate from 2009 to 2013 and cost EUR 55 million.! Part of the program involves the",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 184,
+            "left": 427
+        }
+    },
+    {
+        "page": 297,
+        "heading": "4. Exploring the legal implications of promoting the safer use of the Internet; and",
+        "content": " 5. Encouraging international cooperation in the area of regulation.  For the most part, the 2002 action plan left it to individual states to take these steps.",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 511,
+            "top": 523,
+            "left": 110
+        }
+    },
+    {
+        "page": 298,
+        "heading": "Copyright",
+        "content": " Film studios, record labels, and their associations have all strongly lobbied the EU to require ISPs to block potential copyright infringements and terminate the contracts of subscribers who visit particular Web sites. Yet the EU has been slow to act, authorizing",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 302,
+            "left": 108
+        }
+    },
+    {
+        "page": 300,
+        "heading": "Social Filtering",
+        "content": " On issues of child pornography, European nations have worked well together to block offending content, often recruiting private companies to help them in their cause. However, on other social issues, such as gambling, states have been less effective in",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 92,
+            "top": 165,
+            "left": 108
+        }
+    },
+    {
+        "page": 301,
+        "heading": "Nationalistic Filtering",
+        "content": " European governments have not censored direct political opposition. However, they have on occasion censored content that had the potential to \u2018threaten national identity.\u201d",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 133,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 302,
+        "heading": "Hate Speech",
+        "content": " Within Europe there is a general consensus in favor of censoring anti-Semitic or Holocaust-denying speech online. Where individual states have more expansive anti- hate regimes, they have enforced those laws, with some success, at the national level.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 399,
+            "left": 108
+        }
+    },
+    {
+        "page": 303,
+        "heading": "Defamation",
+        "content": " Two forces are intersecting to shape defamation law in Europe. On the one hand, states are relying on the \u201ceffects test\u201d to determine legal jurisdiction; that is, so long as harm is done within the country\u2019s borders, the injured party can sue within that country.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 573,
+            "left": 110
+        }
+    },
+    {
+        "page": 305,
+        "heading": "Surveillance",
+        "content": " European countries have worked to coordinate security directives at the regional level, yet these consensus directives have been criticized by outside groups as far too ex- treme. The 2006 European Data Retention Directive\u2019? prescribes surveillance on a re-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 263,
+            "left": 110
+        }
+    },
+    {
+        "page": 306,
+        "heading": "would cease making significant investments in the country if the controversial law was not revisited.7\u00ae",
+        "content": " A different development of events occurred in Finland, where employers organi- zations (reportedly including handset giant Nokia)\u2019? lobbied strongly for introduc- ing legislation that would allow employers to track employees\u2019 e-mails to prevent",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 307,
+        "heading": "Conclusion",
+        "content": " Today, Internet content in Europe is controlled by three groups of factors: region-wide organizations (the EU), individual countries, and companies (e.g., ISPs, search engines). While governments have been extremely active in promoting filtering technologies for",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 632,
+            "left": 110
+        }
+    },
+    {
+        "page": 308,
+        "heading": "Notes",
+        "content": " 1. European Commission, \u2018Safer Internet Programme 2009-2013.\u201d http://ec.europa.eu/ information_society/activities/sip/policy/programme/current_prog/index_en.htm. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 202,
+            "left": 108
+        }
+    },
+    {
+        "page": 314,
+        "heading": "France",
+        "content": " France continues to promote freedom of the press and speech online by allowing access to most content.",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 64,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 317,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " The French media are regulated under the supervision of the Conseil Sup\u00e9rieur de l\u2019Audiovisuel (CSA, Higher Audiovisual Council). This independent administrative au- thority guarantees freedom of communication and checks whether television programs",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 317,
+        "heading": "Surveillance",
+        "content": " Although the French Constitution does not expressly include the right to privacy, the French Constitutional Council held in 1995,3! and confirmed in 1999,%? that the right to privacy is recognized as a constitutional right implicitly included in Article 2 of the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 748,
+            "left": 110
+        }
+    },
+    {
+        "page": 319,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative tested two ISPs (Orange and Neuf Cegetel) in France and found no signs of filtering; however, manual testing found one Web site, www.aaargh.com .mx, to be blocked. The Web site, which promotes Holocaust revisionism as well as a",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 263,
+            "left": 110
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Conclusion",
+        "content": " In France, as in other Western countries, concerns over intellectual property guide on- line regulatory efforts. However, access to the Internet remains relatively free, apart from limited filtering of child pornography and Web sites that promote terrorism or",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 418,
+            "left": 110
+        }
+    },
+    {
+        "page": 320,
+        "heading": "10. U.S. Department of State, \u201cBackground Note: France.\u201d",
+        "content": " 11. Law No. 90-615 of July 14, 1990, Journal Officiel de la R\u00e9publique Francaise [J.O.] [Official Gazette of France], p. 8333. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 321,
+            "top": 215,
+            "left": 108
+        }
+    },
+    {
+        "page": 324,
+        "heading": "Germany",
+        "content": " Germany is a country of high Internet penetration, at approximately 76 per- cent. Occasionally, takedown requests",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 89,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 328,
+        "heading": "Surveillance",
+        "content": " Although Internet access remains mostly unrestricted in Germany, Internet users have recently been subject to state action. Germany\u2019s Criminal Procedure Code specifies in Section 100a that \u2018the telecommunication of an individual may be monitored and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 534,
+            "left": 108
+        }
+    },
+    {
+        "page": 328,
+        "heading": "2. The alleged crime would weigh heavily even taken individually",
+        "content": " 3. Investigating the act or determining the suspected person\u2019s location by other means would be significantly impeded or futile without surveillance\u201d ",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 411,
+            "top": 736,
+            "left": 108
+        }
+    },
+    {
+        "page": 329,
+        "heading": "\u00ab If a client accesses his inbox: his e-mail address and IP address",
+        "content": " \u00ab For all of the preceding: date, time, and time zone.  Internet service providers, however, must retain the following:",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 386,
+            "top": 251,
+            "left": 120
+        }
+    },
+    {
+        "page": 329,
+        "heading": "ONI Testing Results",
+        "content": " In 2007 and 2008, the OpenNet Initiative conducted testing on T-Online, Arcor, and 1&1 and found no evidence of filtering, despite Germany\u2019s laws prohibiting certain ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 812,
+            "left": 110
+        }
+    },
+    {
+        "page": 330,
+        "heading": "Conclusion",
+        "content": " Currently, German users can access the Internet with only mild restrictions. However, the April 2009 filtering bill and the recent legislation on data retention could have a staggering effect on Web site access and Internet surveillance in the future. The deci-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 224,
+            "left": 108
+        }
+    },
+    {
+        "page": 330,
+        "heading": "Notes",
+        "content": " 1. Robert Trager and Donna Lee Dickerson, Freedom of Expression in the 21st Century (Thousand Oaks: Pine Forge Press, 1999), 8. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 397,
+            "left": 108
+        }
+    },
+    {
+        "page": 334,
+        "heading": "Italy",
+        "content": " Italy promotes freedom of speech  online by allowing access to most con-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 42,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 338,
+        "heading": "Internet Surveillance",
+        "content": " A July 2002 EU directive instructs ISPs and telephone companies to temporarily retain all records of user activity and make these available to legal bodies, to the extent that doing so \u2018\u2018constitutes a necessary, appropriate and proportionate measure within a",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 129,
+            "top": 185,
+            "left": 108
+        }
+    },
+    {
+        "page": 338,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative completed testing on four Italian ISPs: iNet,?\u201d Infostrada,3\u00ae Telecom Italia,t? and Tiscali,4\u00b0 and was able to confirm that one gambling site, partypoker.com, is blocked by Telecom Italia and Tiscali. The ONI was unable to con-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 651,
+            "left": 108
+        }
+    },
+    {
+        "page": 338,
+        "heading": "Conclusion",
+        "content": " Although Italy has regulations in place to prohibit access to Web sites within certain categories, access to the Internet remains relatively free apart from limited filtering, particularly of gambling sites. However, the potential passage of the Levi-Prodi law is",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 787,
+            "left": 108
+        }
+    },
+    {
+        "page": 339,
+        "heading": "Notes",
+        "content": " 1. Economist.com, \u201cItaly: History in Brief,\u2019\u2019 May 31, 2007, http://www.economist.com/countries/ Italy/profile.cfm?folder=History%20in%2Obrief. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 339,
+        "heading": "1. Economist.com, \u201cItaly: History in Brief,\u2019\u2019 May 31, 2007, http://www.economist.com/countries/",
+        "content": "Italy/profile.cfm?folder=History%20in%2Obrief.  2. Reporters Without Borders, \u2018\u2018Gasparri Law Finally Adopted,\u201d April 30, 2004, http://www.rsf .org/article.php3?id_article=8695.",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 10,
+            "top": 143,
+            "left": 110
+        }
+    },
+    {
+        "page": 342,
+        "heading": "Nordic Countries",
+        "content": " The five Nordic countries\u2014Denmark, Finland, Norway, Sweden, and _ Ice- land\u2014have become central players in",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 165,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 342,
+        "heading": "Regional ICT Penetration",
+        "content": " The World Economic Forum! ranks the Nordic countries at the very top of information and communication technology (ICT) use in the world. All five countries were listed in the top ten of a 2008-2009 survey prepared in partnership with the international busi-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 157,
+            "top": 556,
+            "left": 108
+        }
+    },
+    {
+        "page": 343,
+        "heading": "326 Nordic Countries",
+        "content": " Regional Regulation  Norway and Iceland are the only Nordic countries that are not members of the EU.",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 223,
+            "left": 428
+        }
+    },
+    {
+        "page": 343,
+        "heading": "Regional Regulation",
+        "content": " Norway and Iceland are the only Nordic countries that are not members of the EU. However, they do form a part of the European Economic Area (EEA) and have officially agreed to enact legislation similar to that passed in the EU in areas such as consumer",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 125,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 344,
+        "heading": "Copyright",
+        "content": " The battles over copyright, private file sharing, and large-scale dissemination of links in the Nordic region are primarily playing out in the courts under the close watch of international organizations like the International Federation of the Phonographic",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 63,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 345,
+        "heading": "Filtering",
+        "content": " Internet service providers in all Nordic countries deploy filtering to isolate Web sites distributing child pornography. However, other infringements on freedom of expres- sion and privacy have been controversial. Additionally, suspicions that the filters put",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 51,
+            "top": 690,
+            "left": 110
+        }
+    },
+    {
+        "page": 347,
+        "heading": "Surveillance",
+        "content": " All Nordic countries hold freedom of expression in high regard. Having military intel- ligence agencies monitor private citizens\u2019 telecommunications in detail and without controls has stimulated emotional debate and antisurveillance movements. The two",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 349,
+        "heading": "Perspectives",
+        "content": " All over Europe censorship and surveillance initiatives are promoted, like the French \u201cthree strikes\u2019\u2019 HADOPI law against piracy that introduced online snooping on sus- pected file sharers.\u00a9\u201d The law, which has already inspired clones in other EU countries,",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 76,
+            "top": 748,
+            "left": 110
+        }
+    },
+    {
+        "page": 351,
+        "heading": "Conclusion",
+        "content": " Because they are at the forefront of ICT use in the world, the Nordic countries under- standably have a lively public debate on copyright and privacy issues. New trends con- cerning online reality will likely originate here. In these countries, rights holders and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 352,
+        "heading": "Notes",
+        "content": " 1. World Economic Forum, \u201cThe Global Information Technology Report 2008-2009,\u2019 March 2009, http://www.weforum.org/en/initiatives/gcp/Global%20Information%20Technology %20Report/GlobalInformationTechnology.",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 222,
+            "left": 108
+        }
+    },
+    {
+        "page": 358,
+        "heading": "Turkey",
+        "content": " Stretched between Asia and Europe, Turkey amalgamates the cultural, his- torical, and sociopolitical diversity of",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 65,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 361,
+        "heading": "Regulatory Framework",
+        "content": " Regulatory Framework  The Telecommunications Authority (TA) was established under Law No. 4502 in",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 362,
+        "heading": "Legal Framework",
+        "content": "Turkey\u2019s aspiration to join the EU has been a major influence in driving reform and liberalizing its telecommunications sector.2\u00b0 As a candidate to the EU, Turkey is under an obligation to align its national legislation with that of the EU in all 31 areas of the acquis communautaire, which includes telecommunications and IT. The EU\u2019s telecom-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 107,
+            "top": 709,
+            "left": 108
+        }
+    },
+    {
+        "page": 363,
+        "heading": "= Compromising the judicial process (Art. 19)",
+        "content": " \u00ab Encouraging sexual assault, murder, or suicide (Art. 20) \u00ab Tllicit disclosure of identities (Art. 21) ",
+        "features": {
+            "font_id": "26",
+            "height": 6,
+            "width": 4,
+            "top": 799,
+            "left": 110
+        }
+    },
+    {
+        "page": 365,
+        "heading": "Crimes against Atattirk (Article 8/b) Prostitution",
+        "content": " Providing place and opportunity for gambling Sexual abuse of children ",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 97,
+            "top": 107,
+            "left": 251
+        }
+    },
+    {
+        "page": 366,
+        "heading": "=a Web site contains sexual abuse of children or obscenity and its host resides in",
+        "content": "Turkey.  In this case, the prosecuting attorney may start a criminal action against those respon- sible for posting the offensive content once they are identified.",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 528,
+            "top": 464,
+            "left": 117
+        }
+    },
+    {
+        "page": 368,
+        "heading": "Defamation",
+        "content": " Defamation is sanctioned under the Turkish criminal law as well as under the civil law. The Penal Code considers defamation an offense against honor. Article 125, entitled \u201cDefamation,\u201d contains the following provisions:",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 418,
+            "left": 108
+        }
+    },
+    {
+        "page": 369,
+        "heading": "Surveillance",
+        "content": " The National Security Bill, or the \u2018Draft Act on National Information Security Agency and Its Tasks,\u201d\u201d does not include a provision on the Internet. The bill envisages the establishment of a national information security agency as a public body. It requires",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 665,
+            "left": 110
+        }
+    },
+    {
+        "page": 370,
+        "heading": "ONI Testing Results",
+        "content": " Turkey has one main commercial backbone connection, owned and controlled by Turk Telecom and the educational network, UlakNet. Most of the filtering of international traffic takes place on the Turk Telecom network, which links to other commercial ISPs",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 224,
+            "left": 108
+        }
+    },
+    {
+        "page": 370,
+        "heading": "Conclusion",
+        "content": " Turkey has implemented a series of reforms in its telecommunications and Internet sectors, showing its firm determination to stay on the membership path to the Euro- pean Union. Nonetheless, further reforms are needed to terminate the de facto monop-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 709,
+            "left": 108
+        }
+    },
+    {
+        "page": 371,
+        "heading": "Notes",
+        "content": " 1. The Constitution of the Republic of Turkey, Article 2.  2. International Telecommunication Union (ITU), \u201cInternet Indicators: Subscribers, Users, and",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 164,
+            "left": 110
+        }
+    },
+    {
+        "page": 374,
+        "heading": "United Kingdom",
+        "content": " The United Kingdom (U.K.) has a no- table libertarian tradition, manifested by, among other things, solid guaran-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 161,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 378,
+        "heading": "Internet Surveillance",
+        "content": " The U.K., together with the United States, was ranked as one of the worst offenders against individual privacy rights in the democratic world by Privacy International for 2007.54",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 129,
+            "top": 165,
+            "left": 108
+        }
+    },
+    {
+        "page": 379,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative comprehensively tested three ISPs in the United Kingdom: Easynet,\u2019\u201d Be,\u201d? and BT,\u201d4 and did not find any evidence of filtering; however, the U.K. openly blocks child pornography Web sites (which ONI does not test) and has",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 418,
+            "left": 110
+        }
+    },
+    {
+        "page": 379,
+        "heading": "Conclusion",
+        "content": " Protecting freedom of expression and encouraging tolerance to diverse viewpoints, the U.K. is one of the pioneers in nurturing politically sensitive debates and promoting the use of new technology. Freedom of expression and protection of privacy over the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 554,
+            "left": 110
+        }
+    },
+    {
+        "page": 379,
+        "heading": "Notes",
+        "content": " 1. BBC News, \u201cCountry Profile: United Kingdom,\u201d http://news.bbc.co.uk/2/hi/europe/country _profiles/1038758.stm. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 785,
+            "left": 110
+        }
+    },
+    {
+        "page": 386,
+        "heading": "United States and Canada Overview",
+        "content": " The Internet in the United States and Canada is highly regulated, supported by a com- plex set of legally binding and privately mediated mechanisms. Technical filtering plays a minor role in this regulation. The first wave of regulatory actions in the 1990s",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 350,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 387,
+        "heading": "Regulating Obscene and Explicit Content",
+        "content": " The United States Congress passed the Communications Decency Act (CDA) as part of the Telecommunications Act of 1996. Signed into law by President Bill Clinton in ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 257,
+            "top": 826,
+            "left": 110
+        }
+    },
+    {
+        "page": 392,
+        "heading": "Regulation of Online Gambling",
+        "content": " In 2006, the United States House of Representatives passed legislation designed to limit online gambling by prohibiting the transfer of funds to gambling sites. The Unlawful ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 195,
+            "top": 807,
+            "left": 108
+        }
+    },
+    {
+        "page": 393,
+        "heading": "Defamation",
+        "content": " As in other countries, the potential for legal liability for civil violations, including def- amation and copyright, constrains the publishers of Internet content and certain ser- vice providers in the United States and Canada. These pressures can have a \u201cchilling",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 651,
+            "left": 110
+        }
+    },
+    {
+        "page": 394,
+        "heading": "Copyright",
+        "content": " U.S. copyright law has evolved more quickly than Canadian law both in addressing the issue of ISP liability and in encouraging removal of infringing material. The Online Copyright Limitations of Liability Act, a part of the Digital Millennium Copyright Act",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 127,
+            "left": 108
+        }
+    },
+    {
+        "page": 396,
+        "heading": "Computer Security",
+        "content": " Security concerns drive many of the state-mandated limitations on the speech and pri- vacy interests of citizens. These security concerns in the United States and Canada take two forms: national security and computer security.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 117,
+            "top": 534,
+            "left": 108
+        }
+    },
+    {
+        "page": 397,
+        "heading": "Network Neutrality",
+        "content": " As a new Federal Communications Commission begins its work in the Obama Admin- istration, network neutrality and the problem of bandwidth throttling are near the top of the list of issues it must tackle. One common mode of filtering Internet traffic is for",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 121,
+            "top": 282,
+            "left": 110
+        }
+    },
+    {
+        "page": 397,
+        "heading": "Surveillance",
+        "content": " Concerns related to national security in the United States have contributed to the development of an extensive and technologically sophisticated online surveillance system. The U.S. surveillance system was expanded significantly under the Bush",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 398,
+        "heading": "Conclusion",
+        "content": " While there is little technical filtering in either country, the Internet is subject to sub- stantial state regulation in the United States and Canada. With respect to surveillance, the United States is believed to be among the most aggressive countries in the world in",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 768,
+            "left": 108
+        }
+    },
+    {
+        "page": 409,
+        "heading": "392 Australia and New Zealand Overview",
+        "content": " In contrast, New Zealand has less strict Internet regulations. The government main- tains a more limited definition of offensive content that can be investigated by a desig- nated government entity, although\u2014unlike in Australia\u2014the definition includes hate",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 21,
+            "top": 53,
+            "left": 110
+        }
+    },
+    {
+        "page": 409,
+        "heading": "Offensive Content",
+        "content": " Australia\u2019s and New Zealand\u2019s approaches to offensive content on the Internet both rely on government-run content-classification systems. However, their approaches differ in terms of what is considered offensive and what is done about the offending",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 127,
+            "left": 110
+        }
+    },
+    {
+        "page": 412,
+        "heading": "Hate Speech",
+        "content": " Both Australia and New Zealand have legislation addressing hate speech generally, and both have applied this legislation to the Internet through different means. New Zea- land, however, has an institutionalized investigation system, while Australia does not.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 729,
+            "left": 108
+        }
+    },
+    {
+        "page": 413,
+        "heading": "Copyright",
+        "content": " Australia\u2019s copyright laws underwent a significant overhaul following the acceptance of the Australia\u2014United States Free Trade Agreement in 2004. Pursuant to that agree- ment, Australia was required to bring its copyright laws closer in line with those of",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 63,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 415,
+        "heading": "Defamation",
+        "content": " Through a variety of court cases, both Australia and New Zealand have applied their respective defamation laws to the Internet, and both countries, with New Zealand courts following the Australian courts\u2019 example, have controversially expanded their",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 496,
+            "left": 110
+        }
+    },
+    {
+        "page": 417,
+        "heading": "Surveillance",
+        "content": " Both Australia and New Zealand have taken steps toward greater Internet security, pass- ing laws to give government agencies greater authority to investigate illegal activities online.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 418,
+        "heading": "Conclusion",
+        "content": " Australian laws and policies toward the Internet are aligned with those of many Western countries, while New Zealand\u2019s are less stringent. The Australian government has instituted a strict takedown regime for offensive content, and various states and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 418,
+        "heading": "Notes",
+        "content": " 1. Roy Jordan, \u201cFree Speech and the Constitution,\u201d Parliamentary Library, June 4, 2002, http:// www.aph.gov.au/LIBRARY/Pubs/RN/2001-02/021m42.htm. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 474,
+            "left": 108
+        }
+    },
+    {
+        "page": 427,
+        "heading": "410 Asia Overview",
+        "content": " South Korea increased its filtering across content categories to include a selective number of the Korean-language pornography Web sites, but otherwise remained con- sistent with its 2006 filtering practices, specifically targeting Web sites containing",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 456,
+            "left": 188
+        }
+    },
+    {
+        "page": 427,
+        "heading": "Internet in Asia",
+        "content": " Asia continues to be home to some of the most and least connected countries in the world, while a large middle tier of countries are witnessing rapid and steady growth. In 2008, Thailand and Vietnam each reached penetration rates of a quarter of their",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 96,
+            "top": 360,
+            "left": 110
+        }
+    },
+    {
+        "page": 430,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " In 2007-2008, the leadership of many Asian governments facing political threats or crises took measures to further restrict certain forms of expression on the Internet. These measures, which especially targeted acts of cyber defamation and independent",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 437,
+            "left": 108
+        }
+    },
+    {
+        "page": 435,
+        "heading": "Filtering",
+        "content": " Asia, with its diversity, is home to several organically grown models for Internet filter- ing. Singapore, along with China, began experimenting with Internet filtering as early as 1996. Beginning September 15, 1996, users were forced to access the Internet",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 418,
+            "left": 110
+        }
+    },
+    {
+        "page": 438,
+        "heading": "Conclusion",
+        "content": " Filtering conducted by Asian governments followed the same broad trajectories in 2007-2008 as it had previously with some incremental changes, and continues to be most clearly demarcated along national lines and by local language and content rather",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 651,
+            "left": 108
+        }
+    },
+    {
+        "page": 439,
+        "heading": "Notes",
+        "content": " 1. Paul Budde Communication Pty., Ltd., \u2018Thailand\u2014Key Statistics, Telecom Market Overview and Forecasts,\u201d February 11, 2009; Paul Budde Communication Pty., Ltd., \u2018\u2018Vietnam\u2014Key Statis- tics, Telecom Market Overview and Forecasts,\u201d April 11, 2009.",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 241,
+            "left": 110
+        }
+    },
+    {
+        "page": 444,
+        "heading": "75. Kamarudin allegedly defamed Razak\u2019s wife, Datin Rosmah Mansor, Lieutenant Colonel Abdul",
+        "content": " Aziz Buyong, and Lieutenant Colonel Norhayati Hassan in a public court declaration in June  2008. Sushma Veera, \u201cSecond Arrest Warrant Out for Raja Petra,\u201d New Straits Times, May",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 152,
+            "left": 108
+        }
+    },
+    {
+        "page": 444,
+        "heading": "Aziz Buyong, and Lieutenant Colonel Norhayati Hassan in a public court declaration in June",
+        "content": " 2008. Sushma Veera, \u201cSecond Arrest Warrant Out for Raja Petra,\u201d New Straits Times, May  26, 2009, http://www.nst.com.my/Current_News/NST/Wednesday/National/2567087/Article/index",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 170,
+            "left": 108
+        }
+    },
+    {
+        "page": 448,
+        "heading": "Burma",
+        "content": " Despite very low connectivity, Inter-  net users in Burma have managed to",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 64,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 453,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " Despite ongoing and grave human rights violations committed by the SPDC, equal protection under the law (Art. 347), freedom of expression and peaceful assembly (Art. 354), the right to education (Art. 366), freedom of religion (Art. 36), and other",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 301,
+            "left": 110
+        }
+    },
+    {
+        "page": 455,
+        "heading": "Surveillance",
+        "content": " In Burma, the fear of surveillance is pervasive and embedded in daily life.\u201d Offline, the state can effectively monitor its citizens through a dragnet that functions with the assistance of various civilian organizations it directly controls. These overlapping",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 301,
+            "left": 110
+        }
+    },
+    {
+        "page": 456,
+        "heading": "ONI Testing Results",
+        "content": " In verifying the parameters of the Internet shutdown in September 2007, researchers from the OpenNet Initiative were able to determine the outage periods using router ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 807,
+            "left": 108
+        }
+    },
+    {
+        "page": 459,
+        "heading": "Conclusion",
+        "content": " The Burmese military government has demonstrated that it is willing to take extreme steps to maintain its control over the flow of information within and outside its borders, including shutting down Internet access entirely. Despite the ability of a small",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 554,
+            "left": 110
+        }
+    },
+    {
+        "page": 459,
+        "heading": "Notes",
+        "content": " 1. Seth Mydans, \u2018Steep Rise in Fuel Costs Prompts Rare Public Protest in Myanmar,\u201d New York Times, August 22, 2007, http://www.nytimes.com/2007/08/23/world/asia/23myanmar.html?scp =1&sq=myanmar%20fuel%20price%20hike%20protest&st=cse.",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 746,
+            "left": 110
+        }
+    },
+    {
+        "page": 465,
+        "heading": "86. OpenNet Initiative Blog, \u2018Doubts Surface over Announced Internet Maintenance in Burma.\u201d",
+        "content": " 87. OpenNet Initiative Bulletin, \u2018Pulling the Plug: A Technical Review of the Internet Shutdown in Burma,\u201d November 2007, http://opennet.net/research/bulletins/013/. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 534,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 466,
+        "heading": "China",
+        "content": " China has devoted extensive resources to building one of the largest and most sophisticated filtering systems",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 56,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 466,
+        "heading": "Background",
+        "content": " The convening of the Seventeenth Chinese Communist Party (CCP) Congress in Octo- ber 2007, at which China\u2019s top echelon of government leaders chose their eventual successors, was the beginning of a momentous year for China, and consequently for",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 440,
+            "left": 108
+        }
+    },
+    {
+        "page": 466,
+        "heading": "RESULTS AT A GLANCE",
+        "content": " No Evidence Suspected Selective Substantial Pervasive Filtering of Filtering Filtering Filtering Filtering Filtering Political e",
+        "features": {
+            "font_id": "13",
+            "height": 12,
+            "width": 129,
+            "top": 625,
+            "left": 111
+        }
+    },
+    {
+        "page": 467,
+        "heading": "450 China",
+        "content": " KEY INDICATORS  GDP per capita, PPP (constant 2005 international dollars) 5,084",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 557,
+            "left": 559
+        }
+    },
+    {
+        "page": 473,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " Although China\u2019s constitution formally guarantees freedom of expression and pub- lication\u00ae\u00ae and the protection of human rights,\u201d legal and administrative regulations ensure that the Chinese Communist Party will be supported in its attempt at strict su-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 476,
+        "heading": "Implementation of these regulations has been uneven, a trademark of many laws in",
+        "content": "China. A significant degree of uncertainty was also created by the inaugural require- ment that online video service providers be either wholly state owned (as defined in Article 65 of the 2005 Company Law) or entities where the state holds the controlling interest, until the government clarified in February 2008 that this provision did not",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 525,
+            "top": 748,
+            "left": 121
+        }
+    },
+    {
+        "page": 480,
+        "heading": "Surveillance",
+        "content": " The government has continued to refine Internet surveillance mechanisms to closely track individuals\u2019 online activities.14\u201d7 In November 2006, the Ministry of Public Secu- rity announced the completion of the essential tasks of constructing the first stage of its",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 671,
+            "left": 108
+        }
+    },
+    {
+        "page": 481,
+        "heading": "Real-Name Registration",
+        "content": " Registration requirements are often the first step to monitoring citizens\u2019 online activ- ities. Although this rule is not enforced, new subscribers to ISPs have been expected to register with their local police bureaus since 1996.'5\u00b0 In March 2005, as part of a CCP",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 147,
+            "top": 768,
+            "left": 110
+        }
+    },
+    {
+        "page": 484,
+        "heading": "Cyber Attacks",
+        "content": " In 2008, organizations advocating for human rights in Tibet and China experienced escalated cyber attacks during politically explosive events, such as the crackdown on Tibetan protesters in March, and in the lead-up to the Olympic Games in August. The",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 86,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 484,
+        "heading": "ONI Testing Results",
+        "content": " The \u201cGreat Firewall of China\u2019 uses a variety of overlapping techniques for blocking content containing a wide range of material considered politically sensitive by the Chinese government. While China employs filtering techniques used by many other",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 515,
+            "left": 108
+        }
+    },
+    {
+        "page": 485,
+        "heading": "Filtering during the 2008 Olympic Games",
+        "content": " The OpenNet Initiative monitored a short list of prominent blogs, Chinese-language and international news sites, advocacy organizations, and social media platforms con- tinuously from late July to mid-September 2008. This period generally marked one of",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 258,
+            "top": 204,
+            "left": 110
+        }
+    },
+    {
+        "page": 490,
+        "heading": "Conclusion",
+        "content": " The Chinese government has maintained a strict and vigorous approach toward Inter- net censorship, interfering with public knowledge and discourse through pervasive fil- tering practices and a multitude of nontechnical methods. In 2008, China led the",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 496,
+            "left": 108
+        }
+    },
+    {
+        "page": 490,
+        "heading": "Notes",
+        "content": " 1. Jim Yardley, \u2018Monk Protests in Tibet Draw Chinese Security,\u201d New York Times, March 14, 2008, http://www.nytimes.com/2008/03/14/world/asia/14china.html. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 824,
+            "left": 108
+        }
+    },
+    {
+        "page": 498,
+        "heading": "116. Xinhua News Agency, \u2018Police Station Assaulted, Torched by Local People in Southwest",
+        "content": "China County,\u201d June 20, 2009, http://news.xinhuanet.com/english/2008-06/29/content _8456602.htm.  117. OpenNet Initiative Blog, \u2018\u201c\u201cChina\u2019s Net Nannies in Full Force after Riot in Southern China,\u2019\u201d\u2019",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 717,
+            "left": 108
+        }
+    },
+    {
+        "page": 502,
+        "heading": "164. Chinese Human Rights Defenders, \u201czhengfu ruhe jiankong women de dianzi wangluo tongxu\u201d",
+        "content": " How does government monitor our online communication?], http://crd-net.org/Article/Class1/ 200803/20080324093843_8168.html. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 234,
+            "top": 385,
+            "left": 108
+        }
+    },
+    {
+        "page": 502,
+        "heading": "166. Nart Villeneuve, \u201cBreaching Trust: An Analysis of Surveillance and Security Practices on",
+        "content": "China\u2019s TOM-Skype Platform,\u201d Information Warfare Monitor/ONI Asia, October 1, 2008, http:// www.nartv.org/mirror/breachingtrust.pdf.  167. John Markoff, \u2018\u2018Surveillance of Skype Messages Found in China,\u2019\u201d\u2019 New York Times, October 1,",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 475,
+            "left": 108
+        }
+    },
+    {
+        "page": 503,
+        "heading": "183. Xinhua News Agency, \u201cBeijing Olympic Press Centers Open,\u201d July 8, 2008, http://news .xinhuanet.com/english/2008-07/08/content_8509880.htm",
+        "content": " 184. Keith Bradsher, \u2018\u2018China Blocks Access to the Times\u2019s Web Site,\u2019\u2019 New York Times, December 19, 2008, http://www.nytimes.com/2008/12/20/world/asia/20china.html. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 30,
+            "top": 421,
+            "left": 618
+        }
+    },
+    {
+        "page": 506,
+        "heading": "Pakistan",
+        "content": " In 2007-2008, political turmoil and campaigns to curb media coverage in Pakistan took place against a rela-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 80,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 509,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " Internet filtering in Pakistan is regulated by the Pakistan Telecommunication Authority (PTA),24 under the directive of the government, the Supreme Court of Pakistan, and the Ministry of Information Technology (MoIT), formerly the Ministry of Information",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 263,
+            "left": 110
+        }
+    },
+    {
+        "page": 511,
+        "heading": "Internet Surveillance",
+        "content": " The Prevention of Electronic Crimes Ordinance requires ISPs to retain all traffic data for at least 90 days and to provide it to the government upon request, or face fines and up to six months\u2019 imprisonment.** Providers may also be required to cooperate in the col-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 129,
+            "top": 515,
+            "left": 110
+        }
+    },
+    {
+        "page": 512,
+        "heading": "ONI Testing Results",
+        "content": " Episodic filtering, in addition to routine blocking of Web sites considered blasphemous or threatening Pakistan\u2019s internal security, continued through the end of Musharraf's term as president and into the tenure of the new civilian government. In December",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 514,
+        "heading": "Conclusion",
+        "content": " Pakistanis currently have unimpeded access to most sexual, political, social, and reli- gious content on the Internet. Although the Pakistani government does not currently employ a sophisticated blocking system, a limitation which has led to collateral blocks",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 651,
+            "left": 108
+        }
+    },
+    {
+        "page": 515,
+        "heading": "Notes",
+        "content": " 1. James Traub, \u2018\u2018The Lawyers\u2019 Crusade,\u2019\u2019 New York Times Magazine, June 1, 2008, http://www enytimes.com/2008/06/01/magazine/01PAKISTAN-t.html. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 520,
+        "heading": "South Korea",
+        "content": " Over the years, the growing sophisti- cation and dynamism of the Internet in South Korea have also raised con-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 120,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 525,
+        "heading": "1995.49 Accordingly, the two KCSC subcommissions deal separately with broadcasting and telecommunications standards.*\u00b0",
+        "content": " At its inception, the ICEC was empowered to develop general principles or codes of telecommunications ethics, conduct deliberation on and request the \u2018\u2018correction\u201d\u2019 of information declared \u2018\u2018harmful\u201d by presidential decree, and operate reporting centers",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 35,
+            "top": 107,
+            "left": 110
+        }
+    },
+    {
+        "page": 528,
+        "heading": "Surveillance",
+        "content": " The South Korean constitution guarantees that the privacy (Article 17) and the privacy of correspondence (Article 18) of citizens shall not be violated.9\u00b0 While most scholars believe that Article 17 forms the basis of a right to privacy,9\u00b0 the Supreme Court has",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 612,
+            "left": 108
+        }
+    },
+    {
+        "page": 530,
+        "heading": "ONI Testing Results",
+        "content": " OpenNet Initiative testing conducted in 2007 and 2008 confirmed that South Korea filters political and social content, specifically targeting Web sites containing North Korean propaganda or promoting the reunification of North and South Korea, as well",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 243,
+            "left": 108
+        }
+    },
+    {
+        "page": 530,
+        "heading": "Conclusion",
+        "content": " Although South Korea is a world leader in Internet and broadband penetration, its citizens do not have access to a free and unfiltered Internet. South Korea\u2019s govern- ment maintains a wide-ranging approach toward the regulation of specific online",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 729,
+            "left": 108
+        }
+    },
+    {
+        "page": 531,
+        "heading": "5. Paul Budde Communications Pty., Ltd., \u201cSouth Korea Broadband Market\u2014Overview and Statistics.\u201d",
+        "content": " 6. National Internet Development Agency of Korea, \u201cKorea Internet White Paper,\u201d May 2008, http://isis.nida.or.kr/eng/ebook/ebook.html. ",
+        "features": {
+            "font_id": "3",
+            "height": 12,
+            "width": 29,
+            "top": 188,
+            "left": 619
+        }
+    },
+    {
+        "page": 533,
+        "heading": "41. Human Rights Watch, \u201cRetreat from Reform: Labor Rights and Freedom of Expression in",
+        "content": "South Korea,\u2019 November 1, 1990, http://www.hrw.org/en/reports/1990/11/01/retreat-reform; Brad Adams, \u201cSouth Korea Should Act Like it Knows,\u201d Human Rights Watch, April 13, 2006, http://www.hrw.org/en/news/2006/04/12/south-korea-should-act-it-knows. ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 538,
+            "top": 466,
+            "left": 110
+        }
+    },
+    {
+        "page": 540,
+        "heading": "MENA Overview",
+        "content": " Introduction  Countries in the Middle East and North Africa continue to invest in information tech-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 159,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 540,
+        "heading": "Introduction",
+        "content": " Countries in the Middle East and North Africa continue to invest in information tech- nology infrastructure and media projects as part of their strategies to develop local economies and create employment. Among the major examples is Jordan\u2019s plan to",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 78,
+            "top": 538,
+            "left": 108
+        }
+    },
+    {
+        "page": 541,
+        "heading": "524 MENA Overview",
+        "content": " At the same time, some countries have initiated efforts to develop Arabic Web con- tent. In this regard, Microsoft is working on translation technology that would make the Arabic language more accessible to Internet users, as part of Qatar\u2019s Supreme Coun-",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 301,
+            "left": 309
+        }
+    },
+    {
+        "page": 541,
+        "heading": "The Media Environment",
+        "content": " The Middle East and North Africa is one of the most heavily censored regions in the world. Human rights watchdogs and free speech advocacy groups continue to criticize the media restrictions and repressive legal regimes, and over the past few years, a great",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 151,
+            "top": 671,
+            "left": 110
+        }
+    },
+    {
+        "page": 542,
+        "heading": "Internet and Media Regulations: The Debate",
+        "content": " The last few years have witnessed an increase in debates over media and Internet censorship in the region. Rifts between censors and local and regional advocates of freedom of speech have intensified, and more voices continue to express concern",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 279,
+            "top": 224,
+            "left": 108
+        }
+    },
+    {
+        "page": 543,
+        "heading": "Access Control",
+        "content": " Access controls in the Middle East and North Africa are multilayered; governments and authorities use first- and second-generation measures to regulate Internet access and online activities. These measures include laws and regulations, technical filtering,",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 243,
+            "left": 110
+        }
+    },
+    {
+        "page": 544,
+        "heading": "Internet-Specific Laws",
+        "content": " Few countries in the region have introduced Internet-specific laws to regulate Internet activities; among them are the UAE and Saudi Arabia. The UAE\u2019s 2007 federal cyber law criminalizes hacking, abusing holy shrines or religious rituals, opposing the Islamic",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 137,
+            "top": 418,
+            "left": 108
+        }
+    },
+    {
+        "page": 544,
+        "heading": "Terms and Conditions of ISPs",
+        "content": " Terms and conditions imposed on users by ISPs are also used to control access in some countries. In Oman, for example, Internet use is regulated by the ISP Omantel\u2019s terms and conditions, which mandate that users \u201cnot carry out any unlawful activities which",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 184,
+            "top": 787,
+            "left": 108
+        }
+    },
+    {
+        "page": 545,
+        "heading": "Telecommunications Laws",
+        "content": " Telecommunications laws are used to control what ISPs can and cannot host. In Alge- ria, for example, article 14 of a 1998 telecommunications decree makes ISPs responsible for the Web sites they host and requires them to take \u201call necessary steps to ensure",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 163,
+            "top": 301,
+            "left": 110
+        }
+    },
+    {
+        "page": 545,
+        "heading": "Surveillance and Monitoring",
+        "content": " Measures to monitor Internet activities, particularly in Internet caf\u00e9s, have been intro- duced in many Arab countries. In Algeria, security forces started raiding Internet caf\u00e9s and checking the browsing history of Internet users after terrorist attacks hit the coun-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 177,
+            "top": 534,
+            "left": 110
+        }
+    },
+    {
+        "page": 546,
+        "heading": "Technical Filtering",
+        "content": " The OpenNet Initiative conducted tests for technical Internet filtering in all the coun- tries in the Middle East and North Africa between 2008 and 2009. Test results prove that the governments and ISPs censor content deemed politically sensitive; critical of",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 114,
+            "top": 554,
+            "left": 108
+        }
+    },
+    {
+        "page": 547,
+        "heading": "Regional Trends in Access Control",
+        "content": " Internet censorship in the Middle East and North Africa is on the rise, and the scope and depth of filtering are increasing. Previous ONI tests revealed that political filtering was limited in some countries, but 2008-2009 results indicate that political censorship",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 360,
+            "left": 110
+        }
+    },
+    {
+        "page": 548,
+        "heading": "Conclusion",
+        "content": " Governments in the Middle East and North Africa continue to invest in media and IT projects, and at the same time are continuing to invest in censorship technologies to prevent their citizens from accessing a wide range of objectionable content. Also, while",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 651,
+            "left": 108
+        }
+    },
+    {
+        "page": 549,
+        "heading": "Notes",
+        "content": " 1. Mohammad Ghazal, \u201cJordan, UAE Firms in Talks over Free IT Zone,\u201d Jordan Times, May 16, 2009, http://www.jordantimes.com/?news=16742. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 494,
+            "left": 110
+        }
+    },
+    {
+        "page": 554,
+        "heading": "Egypt",
+        "content": " There is no evidence of Internet filter-  ing in Egypt, although a small group",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 56,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 558,
+        "heading": "Surveillance",
+        "content": " Despite the government\u2019s initiatives to encourage Internet use, the Egyptian author- ities continue to place restrictions on how Egyptians use the Internet. In February 2005, for example, Egypt\u2019s Ministry of Interior ordered Internet caf\u00e9 managers and",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 559,
+        "heading": "ONI Testing Results",
+        "content": " OpenNet Initiative in-country tests in 2008-2009 were conducted using the ISPs Link Egypt and TEData. As in previous testing, ONI found no evidence of Internet filtering in Egypt.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 263,
+            "left": 110
+        }
+    },
+    {
+        "page": 559,
+        "heading": "OpenNet Initiative in-country tests in 2008-2009 were conducted using the ISPs Link",
+        "content": "Egypt and TEData. As in previous testing, ONI found no evidence of Internet filtering in Egypt.  In 2005, most ISPs blocked the official Web site of the Muslim Brotherhood",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 302,
+            "left": 110
+        }
+    },
+    {
+        "page": 559,
+        "heading": "Conclusion",
+        "content": " Egypt has become a leading Internet market in Africa, and Internet users enjoy un- filtered access to the Internet. However, the May 2009 court order to block access to pornography online might result in a shift in filtering policy. The government moni-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 515,
+            "left": 110
+        }
+    },
+    {
+        "page": 559,
+        "heading": "Notes 1. BBC News, \u2018\u2018Country Profile: Egypt,\u201d March 10, 2009, http://news.bbc.co.uk/1/hi/world/middle",
+        "content": " _east/country_profiles/737642.stm.  2. Sarah Carr, \u201cJournalists Challenge Egypt\u2019s Exceptional Laws at Seminar,\u201d Daily News Egypt,",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 708,
+            "left": 110
+        }
+    },
+    {
+        "page": 562,
+        "heading": "Iran",
+        "content": " The Islamic Republic of Iran continues to expand and consolidate its techni- cal filtering system, which is among",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 39,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 562,
+        "heading": "Background",
+        "content": " Speech in the Islamic Republic of Iran is heavily regulated. The limits on freedom of expression in Iran are grounded in the constitution, and speech restrictions extend ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 556,
+            "left": 108
+        }
+    },
+    {
+        "page": 562,
+        "heading": "RESULTS AT A GLANCE",
+        "content": " No Evidence Suspected Selective Substantial Pervasive Filtering of Filtering Filtering Filtering Filtering Filtering Political e",
+        "features": {
+            "font_id": "13",
+            "height": 12,
+            "width": 129,
+            "top": 664,
+            "left": 111
+        }
+    },
+    {
+        "page": 563,
+        "heading": "546 Iran",
+        "content": " KEY INDICATORS  GDP per capita, PPP (constant 2005 international dollars) 10,346",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 868,
+            "left": 460
+        }
+    },
+    {
+        "page": 565,
+        "heading": "Legal and Regulatory Frameworks",
+        "content": " Speech regulation in Iran is rooted in its constitution, which declares that \u201cthe media should be used as a forum for healthy encounter of different ideas, but they must strictly refrain from diffusion and propagation of destructive and anti-Islamic prac-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 212,
+            "top": 379,
+            "left": 110
+        }
+    },
+    {
+        "page": 568,
+        "heading": "Surveillance",
+        "content": " Iran is reportedly investing in improving its technical capacity to extensively monitor the behavior of its citizens on the Internet. The routing of Internet traffic through proxy servers offers the potential for monitoring and logging essentially all unen-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 690,
+            "left": 108
+        }
+    },
+    {
+        "page": 569,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative conducted testing in 2008 and 2009 on five ISPs in Iran: ITC, Gostar, Parsonline, Datak, and Sepanta. The testing results confirm that Iran has con- tinued to consolidate its position as one of the most extensive filterers of the Internet.",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 340,
+            "left": 110
+        }
+    },
+    {
+        "page": 572,
+        "heading": "Conclusion",
+        "content": " Iran continues to strengthen the legal, administrative, and technical aspects of its Internet filtering systems. The Internet censorship system in Iran is one of the most comprehensive and sophisticated in the world. Advances in domestic technical capac-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 535,
+            "left": 108
+        }
+    },
+    {
+        "page": 572,
+        "heading": "Notes",
+        "content": " 1. Peter Feuilherade, \u2018\u2018Iran\u2019s Banned Press Turns to the Net,\u2019\u2019 BBC News, August 9, 2002, http:// news.bbc.co.uk/1/hi/not_in_website/syndication/monitoring/media_reports/2183573.stm. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 785,
+            "left": 108
+        }
+    },
+    {
+        "page": 575,
+        "heading": "40. BBC Monitoring International Reports, citing text of report by E\u2019temad-e Melli, \u201cIran Press",
+        "content": "Iranian Activists Oppose Regulation of Websites, Weblogs,\u201d January 2, 2007. See also Omid Mem- arian, \u2018\u2018Bloggers Rebel at New Censorship,\u201d Inter Press Service News Agency, January 10, 2007, http://www.ipsnews.net/news.asp?idnews=36123, reporting that prohibited content includes criti- cism of religious figures, sexual matters, content considered offensive to the Ayatollah Khomeini,",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 14,
+            "top": 170,
+            "left": 213
+        }
+    },
+    {
+        "page": 578,
+        "heading": "Saudi Arabia",
+        "content": " Saudi Arabia filters Web sites related to opposition political groups, human rights issues, and religious content",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 122,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 578,
+        "heading": "Background",
+        "content": " Saudi Arabia is the birthplace of the Prophet Muhammad and the cradle of Islam. It embraces a strict interpretation of Sunni Islam and has a strong religious self-identity. Political parties are banned, and activists who publicly call for reform risk being jailed.!",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 401,
+            "left": 108
+        }
+    },
+    {
+        "page": 578,
+        "heading": "RESULTS AT A GLANCE",
+        "content": " No Evidence Suspected Selective Substantial Pervasive Filtering of Filtering Filtering Filtering Filtering Filtering Political e",
+        "features": {
+            "font_id": "13",
+            "height": 12,
+            "width": 129,
+            "top": 625,
+            "left": 111
+        }
+    },
+    {
+        "page": 579,
+        "heading": "562 Saudi Arabia",
+        "content": " KEY INDICATORS  GDP per capita, PPP (constant 2005 international dollars) 21,659",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 499,
+            "left": 302
+        }
+    },
+    {
+        "page": 582,
+        "heading": "Surveillance",
+        "content": " Like many countries in the Middle East, the Saudi authorities monitor Internet activ- ities. In March 2009, Internet caf\u00e9s were ordered by the Ministry of Interior to install hidden cameras and provide a record of names and identities of their customers.?\u201d",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 457,
+            "left": 108
+        }
+    },
+    {
+        "page": 582,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative conducted in-country testing on three ISPs: STC, National Engineering Services and Marketing (Nesma), and Arabian Internet and Communica- tions Services (Awalnet). The three providers blocked the same Web sites, as expected",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 768,
+            "left": 108
+        }
+    },
+    {
+        "page": 584,
+        "heading": "Conclusion",
+        "content": " Saudi Arabia publicly acknowledges censoring morally inappropriate and religiously sensitive material, but the authorities also filter political opposition Web sites and resources on human rights issues. In addition, the state has introduced new surveil-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 379,
+            "left": 108
+        }
+    },
+    {
+        "page": 588,
+        "heading": "Syria",
+        "content": " The Syrian government has expanded the range of Web content it filters, con- tinues to detain citizens for expressing",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 47,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 588,
+        "heading": "Background",
+        "content": " In Syria, the media are primarily owned and controlled by the government and the rul- ing Baath party. Criticism of the president and his family is not allowed, journalists practice self-censorship, and foreign reporters rarely receive accreditation.1 Though",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 420,
+            "left": 108
+        }
+    },
+    {
+        "page": 588,
+        "heading": "RESULTS AT A GLANCE",
+        "content": " No Evidence Suspected Selective Substantial Pervasive Filtering of Filtering Filtering Filtering Filtering Filtering Political e",
+        "features": {
+            "font_id": "13",
+            "height": 12,
+            "width": 129,
+            "top": 645,
+            "left": 111
+        }
+    },
+    {
+        "page": 589,
+        "heading": "572 Syria",
+        "content": " KEY INDICATORS  GDP per capita, PPP (constant 2005 international dollars) 4,260",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 382,
+            "left": 419
+        }
+    },
+    {
+        "page": 590,
+        "heading": "The constitution of Syria provides for freedom of speech and of the press, but the",
+        "content": "Syrian government restricts press freedom with repressive laws such as the Emergency Law, which was put in place in December 1962 and broadly mandates the censorship of various forms of communication; the 2001 Press Law which sets out sweeping con- trols over publications printed in Syria; articles 286 and 287 of the penal code, which",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 538,
+            "top": 379,
+            "left": 108
+        }
+    },
+    {
+        "page": 591,
+        "heading": "Surveillance",
+        "content": " On its Web site, STE states that the telecommunications it provides remain private and shall not be shared except by law and regulations at an official request.34 ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 612,
+            "left": 110
+        }
+    },
+    {
+        "page": 592,
+        "heading": "The use of cell phones is also subject to surveillance. The Interior Ministry and the",
+        "content": "Syrian Telecommunications Institution have banned the sale of cell phones that have GPS and have WAP services that are not being properly monitored by the service providers.3\u00ae ",
+        "features": {
+            "font_id": "9",
+            "height": 14,
+            "width": 525,
+            "top": 107,
+            "left": 121
+        }
+    },
+    {
+        "page": 592,
+        "heading": "ONI Testing Results",
+        "content": " OpenNet Initiative testing was conducted on two ISPs in Syria: formally SCS-Net (also known as Aloola) and Aya. ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 282,
+            "left": 108
+        }
+    },
+    {
+        "page": 594,
+        "heading": "Conclusion",
+        "content": " In addition to high-profile Web sites such as YouTube, Amazon, and Facebook, the Web sites blocked in Syria span a range of categories, with the most substantial filtering being of Web sites that criticize government policies and actions or espouse opposi-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 594,
+        "heading": "Notes",
+        "content": " 1. BBC News, \u201cCountry Profile: Syria,\u201d July 29, 2009, http://news.bbc.co.uk/1/hi/world/middle _east/country_profiles/801669.stm. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 319,
+            "left": 108
+        }
+    },
+    {
+        "page": 598,
+        "heading": "Tunisia",
+        "content": " Although Tunisia has actively sought  to develop its information and com-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 68,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 598,
+        "heading": "Background",
+        "content": " The Tunisian constitution guarantees freedom of the press under \u201cconditions laid down by law,\u201d but the government closely controls the media. Additionally, the Press Law criminalizes defamation, and those who violate it can be imprisoned and fined.!",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 459,
+            "left": 108
+        }
+    },
+    {
+        "page": 598,
+        "heading": "RESULTS AT A GLANCE",
+        "content": " No Evidence Suspected Selective Substantial Pervasive Filtering of Filtering Filtering Filtering Filtering Filtering Political e",
+        "features": {
+            "font_id": "13",
+            "height": 12,
+            "width": 129,
+            "top": 645,
+            "left": 111
+        }
+    },
+    {
+        "page": 599,
+        "heading": "582 Tunisia",
+        "content": " KEY INDICATORS  GDP per capita, PPP (constant 2005 international dollars) 7,102",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 382,
+            "left": 512
+        }
+    },
+    {
+        "page": 601,
+        "heading": "Surveillance",
+        "content": " The Tunisian authorities practice various forms of Internet surveillance and request that service providers such as Internet caf\u00e9s become partners in controlling Internet use. For example, the authorities monitor Internet caf\u00e9s, instruct Internet users to",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 360,
+            "left": 110
+        }
+    },
+    {
+        "page": 601,
+        "heading": "ONI Testing Results",
+        "content": " The OpenNet Initiative carried out tests in Tunisia using the ISPs Planet Tunisie and TopNet. Similar to 2006-2007 test results, 2008-2009 testing revealed pervasive filtering of Web sites of political opposition groups such as the Democratic Forum for",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 709,
+            "left": 110
+        }
+    },
+    {
+        "page": 602,
+        "heading": "Conclusion",
+        "content": " Tunisia\u2019s government continues to suppress critical speech and oppositional activity, both in real space and in cyberspace. Unlike other states that employ filtering soft- ware, Tunisia endeavors to conceal instances of filtering by supplying a fake error",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 729,
+            "left": 108
+        }
+    },
+    {
+        "page": 603,
+        "heading": "Notes",
+        "content": " 1. Freedom House, \u2018Map of Press Freedom 2007,\u2019 http://www.freedomhouse.org/template.cfm ?page=25 1 &country=7290&year=2007. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 183,
+            "left": 110
+        }
+    },
+    {
+        "page": 606,
+        "heading": "United Arab Emirates",
+        "content": " The government of the United Arab Emirates (UAE) censors political and religious content and pervasively fil-",
+        "features": {
+            "font_id": "10",
+            "height": 21,
+            "width": 207,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 606,
+        "heading": "Background",
+        "content": " The UAE is a federation of seven emirates formed in 1971 after independence from Britain. Each emirate maintains a large degree of independence, and the UAE is gov- erned by the Supreme Council of Rulers of the seven emirs of the emirates. Though",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 75,
+            "top": 440,
+            "left": 108
+        }
+    },
+    {
+        "page": 606,
+        "heading": "RESULTS AT A GLANCE",
+        "content": " No Evidence Suspected Selective Substantial Pervasive Filtering of Filtering Filtering Filtering Filtering Filtering Political e",
+        "features": {
+            "font_id": "13",
+            "height": 12,
+            "width": 129,
+            "top": 645,
+            "left": 111
+        }
+    },
+    {
+        "page": 607,
+        "heading": "590 United Arab Emirates",
+        "content": " KEY INDICATORS  GDP per capita, PPP (constant 2005 international dollars) 51,586",
+        "features": {
+            "font_id": "12",
+            "height": 9,
+            "width": 6,
+            "top": 636,
+            "left": 390
+        }
+    },
+    {
+        "page": 610,
+        "heading": "Surveillance",
+        "content": " The authorities have established committees and electronic surveillance departments to monitor objectionable Internet activities. For example, a government committee was established in March 2009 to monitor Internet caf\u00e9s in order to ensure that Inter-",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 74,
+            "top": 301,
+            "left": 108
+        }
+    },
+    {
+        "page": 610,
+        "heading": "ONI Testing Results",
+        "content": " OpenNet Initiative testing in 2008-2009 revealed that the UAE\u2019s censors have increased the scope and depth of Internet filtering. ",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 122,
+            "top": 709,
+            "left": 108
+        }
+    },
+    {
+        "page": 613,
+        "heading": "Conclusion",
+        "content": " The UAE continues to prevent its citizens from accessing a significant amount of Inter- net content spanning a variety of topics. Though the vast majority of Web sites filtered are those deemed obscene in some way, a Select few political Web sites are blocked, as",
+        "features": {
+            "font_id": "1",
+            "height": 14,
+            "width": 68,
+            "top": 301,
+            "left": 110
+        }
+    },
+    {
+        "page": 616,
+        "heading": "Glossary of Technical Terms",
+        "content": " 2G _is the second generation of telecommunication technology for mobile networking. 3G_ is the third generation of telecommunication technology for mobile networking. ",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 212,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 617,
+        "heading": "600 Glossary of Technical Terms",
+        "content": " Domain name _ is a label identifying a specific computer, service, or resource on the Internet.  DoS attack (denial of service attack) is an attempt to prevent users from accessing a specific com-",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 21,
+            "top": 53,
+            "left": 110
+        }
+    },
+    {
+        "page": 618,
+        "heading": "Portal",
+        "content": " * if Web portal: is an online interface that allows Internet users to collect and view information (e-mail, weather, stock prices, etc.) from various sources in a visually unified way. ",
+        "features": {
+            "font_id": "5",
+            "height": 12,
+            "width": 33,
+            "top": 376,
+            "left": 108
+        }
+    },
+    {
+        "page": 620,
+        "heading": "Index",
+        "content": " Access Denied: The Practice and Policy of Global Internet Filtering, 4 Action Plan for a Safer Internet, 280",
+        "features": {
+            "font_id": "0",
+            "height": 17,
+            "width": 43,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 620,
+        "heading": "telecommunications industry of, 138, 139-140 third-generation controls in, 23 VoIP services in, 141 ArmentTel, 139-140",
+        "content": "Asia, 409-430. See also specific countries Internet access in, 410-413 Internet filtering in, 418-421 ",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 7,
+            "top": 340,
+            "left": 211
+        }
+    },
+    {
+        "page": 620,
+        "heading": "legal and regulatory frameworks in, 413-418",
+        "content": " Audiovisual Media Services Directive, 280 Australia, 5, 391-406 copyright law in, 396-398",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 7,
+            "top": 340,
+            "left": 211
+        }
+    },
+    {
+        "page": 621,
+        "heading": "legal and regulatory frameworks in, 154-155 mobile communication services in, 153-154",
+        "content": " ONI testing results for, 150, 156-157 results at a glance for, 150 second-generation controls in, 23, 156",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 246,
+            "top": 161,
+            "left": 116
+        }
+    },
+    {
+        "page": 625,
+        "heading": "Gaza, Internet filtering in, 530",
+        "content": " Georgia, 173-181 background on, 173-174 denial of service attacks in, 120, 129-130,",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 168,
+            "top": 322,
+            "left": 110
+        }
+    },
+    {
+        "page": 626,
+        "heading": "Hate speech regulation Australia, 395-396",
+        "content": "Europe, 285-286 Germany, 285-286, 309-310 New Zealand, 396 Holocaust denial law, 286",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 126,
+            "top": 107,
+            "left": 108
+        }
+    },
+    {
+        "page": 628,
+        "heading": "Nas, Sjoera, 79",
+        "content": " National Security Agency, surveillance by, 37 Nepal, Internet access in, 410 Netflix, 43",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 81,
+            "top": 233,
+            "left": 386
+        }
+    },
+    {
+        "page": 628,
+        "heading": "National Security Agency, surveillance by, 37 Nepal, Internet access in, 410 Netflix, 43",
+        "content": " Netherlands, copyright in, 79 Network Solutions, 77 Network surveillance, 36-41",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 249,
+            "top": 251,
+            "left": 386
+        }
+    },
+    {
+        "page": 628,
+        "heading": "Netherlands, copyright in, 79 Network Solutions, 77 Network surveillance, 36-41 data types in, 38-39",
+        "content": " New Zealand, 391-406 copyright law in, 398 defamation liability in, 399",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 163,
+            "top": 305,
+            "left": 386
+        }
+    },
+    {
+        "page": 629,
+        "heading": "background on, 489-490",
+        "content": " Balochi-related site blocking in, 496  blasphemous content filtering in, 493,",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 138,
+            "top": 394,
+            "left": 116
+        }
+    },
+    {
+        "page": 633,
+        "heading": "United Georgian Telecom, 175",
+        "content": "United Kingdom, 357-366 background on, 357-358 child pornography regulation in, 62-63, 283-284, 359-360, 362",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 169,
+            "top": 107,
+            "left": 388
+        }
+    },
+    {
+        "page": 634,
+        "heading": "UzPAK, 269-270",
+        "content": " Vienna Commitment, 59-60 Vietnam Internet access in, 410",
+        "features": {
+            "font_id": "4",
+            "height": 12,
+            "width": 93,
+            "top": 663,
+            "left": 108
+        }
+    }
+]

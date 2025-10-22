@@ -1,0 +1,3446 @@
+[
+    {
+        "page": 1,
+        "heading": "a kind of mending",
+        "content": " Restorative Justice in the Pacific Islands ",
+        "features": {
+            "font_id": "0",
+            "height": 36,
+            "width": 328,
+            "top": 170,
+            "left": 138
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Restorative Justice in the Pacific Islands",
+        "content": " Edited by Sinclair Dinnen with Anita Jowitt and Tess Newton ",
+        "features": {
+            "font_id": "1",
+            "height": 17,
+            "width": 378,
+            "top": 217,
+            "left": 113
+        }
+    },
+    {
+        "page": 3,
+        "heading": "Edited by Sinclair Dinnen with Anita Jowitt and Tess Newton",
+        "content": " THE AUSTRALIAN NATIONAL UNIVERSITY  E PRESS",
+        "features": {
+            "font_id": "3",
+            "height": 19,
+            "width": 276,
+            "top": 441,
+            "left": 168
+        }
+    },
+    {
+        "page": 4,
+        "heading": "ANU",
+        "content": " \u2014E PRESS  Published by ANU E Press",
+        "features": {
+            "font_id": "5",
+            "height": 11,
+            "width": 70,
+            "top": 302,
+            "left": 87
+        }
+    },
+    {
+        "page": 8,
+        "heading": "re-inventing the cultural wheel: re-conceptualising restorative justice and peace building in ethnically divided fiji",
+        "content": " Steven Ratuva informal justice in law and justice reform in the ",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 342,
+            "top": 265,
+            "left": 87
+        }
+    },
+    {
+        "page": 9,
+        "heading": "acknowledgements",
+        "content": " We would like to acknowledge the generous financial assistance from AusAID towards the conference in Port Vila on which this book is based. Monica Wehner, then administrator of the SSGM",
+        "features": {
+            "font_id": "8",
+            "height": 27,
+            "width": 265,
+            "top": 109,
+            "left": 170
+        }
+    },
+    {
+        "page": 10,
+        "heading": "list of abbreviations",
+        "content": " ADR Alternative Dispute Resolution  ALTA Agriculture and Landlord Tenancy Act (Fiji)",
+        "features": {
+            "font_id": "8",
+            "height": 27,
+            "width": 276,
+            "top": 109,
+            "left": 164
+        }
+    },
+    {
+        "page": 12,
+        "heading": "\\* i of \u2019; MARIANA",
+        "content": " \u201cMICRONESIA >  . -'\u00bb MARSHA",
+        "features": {
+            "font_id": "12",
+            "height": 8,
+            "width": 48,
+            "top": 214,
+            "left": 346
+        }
+    },
+    {
+        "page": 12,
+        "heading": "ROTUMA-",
+        "content": " . us VANUATU & ~. % \u00b0",
+        "features": {
+            "font_id": "10",
+            "height": 6,
+            "width": 31,
+            "top": 420,
+            "left": 519
+        }
+    },
+    {
+        "page": 15,
+        "heading": "an introduction",
+        "content": " Sinclair Dinnen Department of Political and Social Change Research School of Pacific and Asian Studies",
+        "features": {
+            "font_id": "3",
+            "height": 19,
+            "width": 162,
+            "top": 188,
+            "left": 221
+        }
+    },
+    {
+        "page": 15,
+        "heading": "About the Conference",
+        "content": " Most of the chapters in this book were presented as papers at a three-day conference in Port Vila, Vanuatu, in June 2000. Organised jointly by the Australian National University\u2019s State,",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 155,
+            "top": 401,
+            "left": 87
+        }
+    },
+    {
+        "page": 18,
+        "heading": "Law, Order and the State",
+        "content": " Contrary to a \u2018common sense\u2019 view of conflict as inherently pathological, history teaches that it is a normal feature of all human societies. Our personal experiences attest to the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 175,
+            "top": 557,
+            "left": 87
+        }
+    },
+    {
+        "page": 21,
+        "heading": "Order Without State",
+        "content": " The indigenous societies of the Pacific islands had ways of dealing with disputes and infractions long before the arrival of ",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 140,
+            "top": 791,
+            "left": 87
+        }
+    },
+    {
+        "page": 22,
+        "heading": "differentiated legal system.\"",
+        "content": " Whereas Western law treats the individual as a homogenous and isolated unit, a person\u2019s status, gender, kinship affiliations and relationships were integral to the determination of",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 161,
+            "top": 542,
+            "left": 138
+        }
+    },
+    {
+        "page": 23,
+        "heading": "Colonial Interludes",
+        "content": " Set against the background of thousands of years of pre-contact history, less than a hundred years of colonial administration in Melanesia was a remarkably short period of time. While the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 130,
+            "top": 772,
+            "left": 87
+        }
+    },
+    {
+        "page": 24,
+        "heading": "civilisation to the exclusion of all else.'4",
+        "content": " Colonial rule entailed the introduction of selected Western laws and legal institutions. These included a combination of Western-style courts administering the",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 232,
+            "top": 698,
+            "left": 138
+        }
+    },
+    {
+        "page": 26,
+        "heading": "Post-independence Law and Order",
+        "content": " The establishment of the modern framework of Western justice commenced in earnest in the later stages of colonial administration. It involved the gradual repeal of discriminatory",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 237,
+            "top": 245,
+            "left": 87
+        }
+    },
+    {
+        "page": 35,
+        "heading": "peace to communities\u2019 34",
+        "content": " The fragility of formal law and justice institutions and processes in parts of the Pacific Islands is undeniable and has been demonstrated most dramatically in the calamitous collapse",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 138,
+            "top": 511,
+            "left": 138
+        }
+    },
+    {
+        "page": 36,
+        "heading": "What the Chapters say",
+        "content": " John Braithwaite, a leading theoretician of the restorative justice movement,?? sets the conceptual stage with his lucid summary of the fundamental features of restorative justice. He presents",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 154,
+            "top": 206,
+            "left": 87
+        }
+    },
+    {
+        "page": 45,
+        "heading": "Conclusions",
+        "content": " The optimistic accounts provided by many of the speakers in Vanuatu are a welcome change from the gloom and despair that pervades so many commentaries about the contemporary",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 82,
+            "top": 167,
+            "left": 87
+        }
+    },
+    {
+        "page": 46,
+        "heading": "Acknowledgement",
+        "content": " | would like to thank Hank Nelson for his helpful comments on an earlier version of this chapter. ",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 127,
+            "top": 537,
+            "left": 87
+        }
+    },
+    {
+        "page": 47,
+        "heading": "Dinnen, Sinclair and Allison Ley (eds) 2000. Reflections on Violence in Melanesia",
+        "content": " Dinnen, Sinclair 2001a. \u2018Restorative Justice and Civil Society in Melanesia: The Case of Papua New Guinea\u2019. ",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 258,
+            "top": 155,
+            "left": 112
+        }
+    },
+    {
+        "page": 49,
+        "heading": "John Braithwaite School of Humanities Law Program, RSSS, Australian National University",
+        "content": " RESTORATIVE JUSTICE is conceived of in this essay as a process in which all the stakeholders affected by an injustice have the opportunity to discuss the consequences of the injustice and",
+        "features": {
+            "font_id": "26",
+            "height": 15,
+            "width": 144,
+            "top": 274,
+            "left": 230
+        }
+    },
+    {
+        "page": 57,
+        "heading": "Endnotes",
+        "content": " 1 Christie, Nils 1981. Limits to Pain.  2 Braithwaite, John and Philip Pettit 1990. Not Just Deserts: A",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 495,
+            "left": 87
+        }
+    },
+    {
+        "page": 59,
+        "heading": "constructed identity and recalcitrant youth in a Papua New Guinea village",
+        "content": " Michael Goddard School of Humanities, University of Newcastle, Australia ",
+        "features": {
+            "font_id": "3",
+            "height": 19,
+            "width": 386,
+            "top": 150,
+            "left": 113
+        }
+    },
+    {
+        "page": 59,
+        "heading": "Michael Goddard School of Humanities, University of Newcastle, Australia",
+        "content": " Began fieldwork in the village of Pari, Port Moresby in the early 1990s while he was still employed by the University of Papua New Guinea. His chapter is based in part on fieldwork conducted on several visits from",
+        "features": {
+            "font_id": "26",
+            "height": 15,
+            "width": 139,
+            "top": 274,
+            "left": 232
+        }
+    },
+    {
+        "page": 59,
+        "heading": "Introduction",
+        "content": " The exploration of restorative justice as a constructive alternative to retributive or punitive justice is an attractive and worthwhile project. Restorative justice aims to restore social harmony, make",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 86,
+            "top": 467,
+            "left": 87
+        }
+    },
+    {
+        "page": 61,
+        "heading": "The history of Pari village",
+        "content": " Pari village was founded in the late eighteenth century by a Western Motu culture hero, Kevau Dagora. Earlier that century the ancestral village of the Western Motu at Taurama, south-east",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 174,
+            "top": 248,
+            "left": 87
+        }
+    },
+    {
+        "page": 68,
+        "heading": "The construction of Pari\u2019s modern identity",
+        "content": " One relatively obvious feature of Pari\u2019s assertion of distinctiveness from Port Moresby is its politicising of language. This it shares with most other coastal Motu villages, including Hanuabada, in",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 287,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 72,
+        "heading": "Negotiating profane modern sociality",
+        "content": " The most aggravating challenge to Pari\u2019s self-image as a peaceful, moral community, has come from alcohol. There are other undercurrents of discontent in the village generated, for example",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 254,
+            "top": 269,
+            "left": 87
+        }
+    },
+    {
+        "page": 72,
+        "heading": "become violent when drunk.?\u00b0",
+        "content": " There are no legal liquor outlets in the village, but beer is easily obtainable in the city, and a small degree of black- marketing of beer through village trade stores is countenanced as",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 175,
+            "top": 582,
+            "left": 138
+        }
+    },
+    {
+        "page": 75,
+        "heading": "The age of steam",
+        "content": " Recently, Pari\u2019s ability to maintain its communal integrity has been challenged by some of the young people it had hitherto been able to restrain through the restorative techniques",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 115,
+            "top": 512,
+            "left": 87
+        }
+    },
+    {
+        "page": 81,
+        "heading": "Conclusions",
+        "content": " Bearing in mind that the consumption of steam and other illicit substances is not unusual in Port Moresby, that the resulting behaviour in the village amounted more to public nuisance than",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 82,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 82,
+        "heading": "Endnotes",
+        "content": " ' 1am indebted to my local research assistant, Andrew Kadeullo, and the  people of Pari village, especially the village court officials, for their",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 536,
+            "left": 87
+        }
+    },
+    {
+        "page": 82,
+        "heading": "Braithwaite 1999: p 6",
+        "content": " 4 In an early draft of this chapter | employed the term \u2018modernity\u2019 without reflection. After discussion with a number of disciplinary colleagues, most notably Jadran Mimica, | have come to regard",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 125,
+            "top": 708,
+            "left": 112
+        }
+    },
+    {
+        "page": 83,
+        "heading": "Turner 1997: p 347",
+        "content": " Ibid: pp 356-57  Oram, N.D. 1968. \u2018Taurama\u2014Oral sources for a study of recent Motuan",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 111,
+            "top": 218,
+            "left": 112
+        }
+    },
+    {
+        "page": 87,
+        "heading": "tribal warfare and transformative justice in the new guinea highlands",
+        "content": " Alan Rumsey Department of Anthropology Research School of Pacific and Asian Studies",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 309,
+            "top": 106,
+            "left": 148
+        }
+    },
+    {
+        "page": 87,
+        "heading": "Alan Rumsey Department of Anthropology Research School of Pacific and Asian Studies Australian National University",
+        "content": " Introduction  In his recent wide-ranging review of the theory and practice of",
+        "features": {
+            "font_id": "26",
+            "height": 15,
+            "width": 117,
+            "top": 295,
+            "left": 247
+        }
+    },
+    {
+        "page": 87,
+        "heading": "Introduction",
+        "content": " In his recent wide-ranging review of the theory and practice of restorative justice, John Braithwaite proposes that all cultures have traditions of restorative and retributive justice and, that \u2018in",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 86,
+            "top": 458,
+            "left": 87
+        }
+    },
+    {
+        "page": 90,
+        "heading": "The most striking feature of warfare throughout the",
+        "content": " Kompiama and wider Enga area is the oft-quoted saying  \u2018we marry the people we fight\u2019.",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 190,
+            "left": 138
+        }
+    },
+    {
+        "page": 90,
+        "heading": "Kompiama and wider Enga area is the oft-quoted saying",
+        "content": " \u2018we marry the people we fight\u2019.  In every case, a clan\u2019s fiercest enemies provide the",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 210,
+            "left": 138
+        }
+    },
+    {
+        "page": 90,
+        "heading": "warfare take place among contiguous groups.\u00ae",
+        "content": " The Enga are not necessarily typical of Highlanders in this respect. In some areas the preference was and is for marriage into allied clans, and in many areas wealth exchange is",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 269,
+            "top": 421,
+            "left": 138
+        }
+    },
+    {
+        "page": 90,
+        "heading": "Warfare and exchange in the Ku Waru area",
+        "content": " Many aspects of social life among the Ku Waru people have been and continue to be organised in terms of named social units called talapi, a term which can be roughly translated as",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 294,
+            "top": 783,
+            "left": 87
+        }
+    },
+    {
+        "page": 91,
+        "heading": "Ny ny Oy, Bie",
+        "content": " \u2018 are Avanti, thy A R .S aie pL",
+        "features": {
+            "font_id": "34",
+            "height": 9,
+            "width": 7,
+            "top": 112,
+            "left": 198
+        }
+    },
+    {
+        "page": 91,
+        "heading": "\u2018 are Avanti, thy A R .S aie pL",
+        "content": " \"ny ie Chin, ingSE ei aH, \u20184",
+        "features": {
+            "font_id": "34",
+            "height": 9,
+            "width": 5,
+            "top": 145,
+            "left": 98
+        }
+    },
+    {
+        "page": 91,
+        "heading": "\"ny ie Chin, ingSE ei aH, \u20184 Pik i \u2018n",
+        "content": "7 yu a eu fan Mays ty MEL My ued Gy isin eee sg ara hy au nuit x N / Ming cin ty \u201cMsg i)",
+        "features": {
+            "font_id": "34",
+            "height": 9,
+            "width": 5,
+            "top": 145,
+            "left": 98
+        }
+    },
+    {
+        "page": 91,
+        "heading": "*lalibu",
+        "content": " NEW GUINEA *  Area shown",
+        "features": {
+            "font_id": "40",
+            "height": 8,
+            "width": 4,
+            "top": 394,
+            "left": 150
+        }
+    },
+    {
+        "page": 93,
+        "heading": "Tambul Range",
+        "content": " KusIKA Upuka Yubika | 25 || Ulka",
+        "features": {
+            "font_id": "97",
+            "height": 12,
+            "width": 36,
+            "top": 193,
+            "left": 147
+        }
+    },
+    {
+        "page": 102,
+        "heading": "our actions aren\u2019t very well known to you [i.e. you",
+        "content": " Kulka and Ulka people attending the funeral]. So next  time when we make a payment to Tea-Dena | want to",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 412,
+            "left": 138
+        }
+    },
+    {
+        "page": 102,
+        "heading": "bring newspaper reporters and Radio Western",
+        "content": " Highlands. | will now present you with nine hundred  and fifty five kina.7\u00b0",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 472,
+            "left": 138
+        }
+    },
+    {
+        "page": 102,
+        "heading": "and fifty five kina.7\u00b0",
+        "content": " John Ongka\u2019s speech reinforces what | have said above about the unprecedented nature of peace-making among major enemy tribes who are not jointly opposed to another tribe, and",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 109,
+            "top": 513,
+            "left": 138
+        }
+    },
+    {
+        "page": 103,
+        "heading": "Conclusion",
+        "content": " | have discussed two peace-making initiatives that have taken place in the Ku Waru area during the past twenty years, the first an intervention into a war by the Kulka Women\u2019s Group in 1982",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 76,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 105,
+        "heading": "Endnotes",
+        "content": " Acknowledgements: For their helpful comments on earlier versions of this chapter | would like to thank Maurice Godelier, Francesca Merlan, Polly Wiessner and participants at the Port Vila Conference and seminars at the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 107,
+        "heading": "Strathern, AJ 1971",
+        "content": " Likewise, Andrew Strathern reports for the Melpa area that: \u2018Informants at Mbukl [his field site] maintained that in the past no war payments were made to major enemies, only to minor enemies, with whom it was",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 104,
+            "top": 110,
+            "left": 112
+        }
+    },
+    {
+        "page": 109,
+        "heading": "Background",
+        "content": " When I was approached to make a contribution to this conference on restorative justice in relation to women, | immediately said: \u2018I will think about it\u2019. It was an indirect way",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 81,
+            "top": 446,
+            "left": 87
+        }
+    },
+    {
+        "page": 110,
+        "heading": "Introduction",
+        "content": " \u2018Restorative justice\u2019 is new in Vanuatu\u2019s official vocabulary, but not new in its meaning and application to this part of the world. It has been used in resolving problems in our society for",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 86,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 110,
+        "heading": "The fears",
+        "content": " In a male dominated society such as ours women are easily intimidated. It would be unwise to use the concept of restoring justice in a conflict between individuals where there is a power",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 601,
+            "left": 87
+        }
+    },
+    {
+        "page": 111,
+        "heading": "The hopes",
+        "content": " Since Independence our Constitution has provided for equal rights, duties and responsibilities for men and women. The word \u2018gender\u2019 is coming into increasing usage in public offices. The",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 69,
+            "top": 613,
+            "left": 87
+        }
+    },
+    {
+        "page": 113,
+        "heading": "Conclusion",
+        "content": " The South Pacific islands are our untouched paradise where custom, tradition and culture are still alive in this new millennium in 80 per cent of our islands. On the other hand, the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 76,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 119,
+        "heading": "restorative programs in the formal justice system of vanuatu",
+        "content": " Hon. Justice Vincent Lunabek Chief Justice of the Supreme Court of the Republic of Vanuatu, expressed his delight at being invited to participate in this",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 400,
+            "top": 108,
+            "left": 104
+        }
+    },
+    {
+        "page": 119,
+        "heading": "Administrative bodies and adjudication",
+        "content": " Much recent activity in the field of civil justice reform has concentrated on the courts and the use of Alternative Dispute Resolution (ADR). This is a limited view of the enterprise for",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 267,
+            "top": 446,
+            "left": 87
+        }
+    },
+    {
+        "page": 120,
+        "heading": "Courts and ADR",
+        "content": " The term \u2018alternative dispute resolution\u2019 or, better, \u2018appropriate dispute resolution\u2019 refers to a wide range of methods by which conflicts and disputes are resolved, other than through (judicial)",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 111,
+            "top": 491,
+            "left": 87
+        }
+    },
+    {
+        "page": 121,
+        "heading": "Use of ADR in the criminal justice system",
+        "content": " In Vanuatu, there are constitutional and legislative provisions that allow the courts to consider custom and customary law. In respect to mitigation and the sentencing process, the courts can",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 283,
+            "top": 593,
+            "left": 87
+        }
+    },
+    {
+        "page": 121,
+        "heading": "Use of ADR as an alternative to trial in cases involving juveniles",
+        "content": " The relevant legislative provisions relating to this issue are ss38, 42 and 43 of the Vanuatu Penal Code (Cap 135). Here are some suggestions for consideration:",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 431,
+            "top": 782,
+            "left": 87
+        }
+    },
+    {
+        "page": 122,
+        "heading": "Consent order",
+        "content": " This would apply to a first time (juvenile) offender charged with a minor offence. Under a consent order, the juvenile would be placed on voluntary probation without any admission or",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 94,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 122,
+        "heading": "Conclusion",
+        "content": " The introduction of restorative programs into the formal justice system presents challenges for national leaders, law enforcement agencies, community leaders and the public at large. It brings",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 76,
+            "top": 500,
+            "left": 87
+        }
+    },
+    {
+        "page": 123,
+        "heading": "papua new guinea",
+        "content": " John Ivoro Mediator in Saraga Settlement Port Moresby, Papua New Guinea",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 431,
+            "top": 475,
+            "left": 87
+        }
+    },
+    {
+        "page": 123,
+        "heading": "John Ivoro Mediator in Saraga Settlement Port Moresby, Papua New Guinea",
+        "content": " Personal, Work and Cultural Background  My name is John Ivoro and | was born in the Goilala District in the",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 301,
+            "top": 221,
+            "left": 152
+        }
+    },
+    {
+        "page": 123,
+        "heading": "Personal, Work and Cultural Background",
+        "content": " My name is John Ivoro and | was born in the Goilala District in the Central Province of Papua New Guinea. | attended primary school there and then went on to Bereina De La Salle High School as a",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 279,
+            "top": 426,
+            "left": 87
+        }
+    },
+    {
+        "page": 123,
+        "heading": "Current Situation",
+        "content": " The section of Saraga Settlement where | live has a population of approximately 4,000. The people are mainly Highlanders, Goilalas, Motu Koitabuans, inland Rigos and some are from the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 118,
+            "top": 757,
+            "left": 87
+        }
+    },
+    {
+        "page": 126,
+        "heading": "Impact on and Benefits for the Community",
+        "content": " The courses that we have run with the assistance of the Peace Foundation have helped break down barriers between ethnic groups. All courses have a mixture of participants in terms of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 291,
+            "top": 167,
+            "left": 87
+        }
+    },
+    {
+        "page": 126,
+        "heading": "The future",
+        "content": " In order to build on our initial success, the committee needs a resource centre or building where: ",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 163,
+            "top": 601,
+            "left": 87
+        }
+    },
+    {
+        "page": 127,
+        "heading": "e allowances; and",
+        "content": " \u00b0 more support from the Government and the private  sector to deliver basic needs.",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 172,
+            "top": 310,
+            "left": 87
+        }
+    },
+    {
+        "page": 127,
+        "heading": "A case study in bride price",
+        "content": " In 1999 | was asked to be a mediator in the following case.  A young man, Peter Kom, married Theresa back in the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 185,
+            "top": 390,
+            "left": 87
+        }
+    },
+    {
+        "page": 129,
+        "heading": "Community development and restorative justice",
+        "content": " What then is development?  Development is a special type of growth and change that affects",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 327,
+            "top": 444,
+            "left": 87
+        }
+    },
+    {
+        "page": 129,
+        "heading": "What then is development?",
+        "content": " Development is a special type of growth and change that affects communities in many different ways. Community development is a much over-used term that has come to mean all things to all",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 183,
+            "top": 482,
+            "left": 87
+        }
+    },
+    {
+        "page": 131,
+        "heading": "Restorative justice: an aspect of community development",
+        "content": " Restorative justice can be an important part of the process of community development. It is not only about solving conflicts but, more generally, about improving the well-being of men,",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 389,
+            "top": 593,
+            "left": 87
+        }
+    },
+    {
+        "page": 132,
+        "heading": "Self determination",
+        "content": " The community itself decides on what changes should be made. A high degree of motivation among the people (men, women, boys and girls) is required if the changes are to be lasting ones.",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 122,
+            "top": 177,
+            "left": 87
+        }
+    },
+    {
+        "page": 134,
+        "heading": "Example 1",
+        "content": " This is one example out of many. In May 2000 a bus belonging to a regional Christian leaders\u2019 training institution in one of the Highlands provinces of Papua New Guinea ran over a young",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 70,
+            "top": 265,
+            "left": 87
+        }
+    },
+    {
+        "page": 135,
+        "heading": "Example 2",
+        "content": " Conflicts arising within the church are not often dealt with by the formal legal system. For example, where conflicts take place in marriages that were celebrated by the church, or where",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 70,
+            "top": 380,
+            "left": 87
+        }
+    },
+    {
+        "page": 135,
+        "heading": "Role of change agents (in restorative justice within communities)",
+        "content": " In the area of community development, the government should work closely with the community to identify what works best in a particular context.",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 430,
+            "top": 621,
+            "left": 87
+        }
+    },
+    {
+        "page": 136,
+        "heading": "Conclusions",
+        "content": " People living in communities already play a central and active role in maintaining peace and resolving local disputes. Restorative justice strengthens the capacities of communities to",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 82,
+            "top": 653,
+            "left": 87
+        }
+    },
+    {
+        "page": 137,
+        "heading": "rehabilitation for change in fiji: a women\u2019s initiative",
+        "content": " Peni Moore}! describes the Fiji prison system and how a local women\u2019s NGO \u2014 Women\u2019s Action for Change \u2014 helped sensitise inmates to",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 299,
+            "top": 107,
+            "left": 157
+        }
+    },
+    {
+        "page": 138,
+        "heading": "Background",
+        "content": " Fiji has a total population of 775,100 people. Fifty-one per cent (approximately 394,000) are men. Of these, 50 per cent are ethnic Fijians, 44 per cent are Indo-Fijian, and 6 per cent are",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 81,
+            "top": 269,
+            "left": 87
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Table 1 Male prisoners by previous convictions, 1994-98",
+        "content": " Previous convictions 1994 1995 1996 1997 1998 None 622 693 530 572 745 One 341 276 161 154 169",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 392,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Table 2 Male prisoners by age, 1994-98",
+        "content": " Age group 1994 1995 1996 1997 1998 Under 17 years 3 2 6 1 0 17-20 years 345 296 173 233 238",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 30,
+            "top": 138,
+            "left": 245
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Age group 1994 1995 1996 1997 1998 Under 17 years 3 2 6 1 0",
+        "content": "17-20 years 345 296 173 233 238 21-25 years 415 409 360 363 433 26-50 years 420 471 349 340 409 Over 50 years 14 5 17 19 24",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 30,
+            "top": 138,
+            "left": 245
+        }
+    },
+    {
+        "page": 139,
+        "heading": "Source: Fiji Ministry of Justice \u2014 Prisons Department",
+        "content": "NB. Female prisoners have not been included in these statistics because of the very low numbers.  Prisoners ages fall mostly in the range of 17 to 50 years as Table 2",
+        "features": {
+            "font_id": "134",
+            "height": 14,
+            "width": 40,
+            "top": 292,
+            "left": 87
+        }
+    },
+    {
+        "page": 140,
+        "heading": "Table 3 Male prisoners by ethnicity, 1994-98",
+        "content": " Ethnicity 1994 1995 1996 1997 1998 Indigenous Fijian 823 811 689 865 913 Rotuman 2 9 5 5 2",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 310,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 140,
+        "heading": "Source: Fiji Ministry of Justice \u2014 Prisons Department",
+        "content": " It will be noted that the total numbers for each year differ in Table 3, compared with Tables 1 and 2. This is because Table 3 reflects the number of admissions, whereas the other two tables",
+        "features": {
+            "font_id": "134",
+            "height": 14,
+            "width": 44,
+            "top": 292,
+            "left": 87
+        }
+    },
+    {
+        "page": 142,
+        "heading": "Aims",
+        "content": " The main aim of this project was to try and change the attitudes and behavior of the inmates and to encourage non-violent ways of dealing with problems. In order to do this, WAC worked on",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 38,
+            "top": 431,
+            "left": 87
+        }
+    },
+    {
+        "page": 142,
+        "heading": "Methodology",
+        "content": " WAC decided to use \u2018Playback\u2019 theatre, exercises and games, because earlier evaluations had showed that these methods were successful in a number of ways. The games, exercises and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 90,
+            "top": 721,
+            "left": 87
+        }
+    },
+    {
+        "page": 146,
+        "heading": "What I Like In Prison",
+        "content": " Chuluchululu today is Wednesday (2 times)  Today it\u2019s sports, and the ground is shaking (2 times)",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 144,
+            "top": 390,
+            "left": 87
+        }
+    },
+    {
+        "page": 152,
+        "heading": "Endnotes",
+        "content": "1  Id like to thank Peggy Duncan for her assistance in editing this paper. 2",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 333,
+            "left": 87
+        }
+    },
+    {
+        "page": 153,
+        "heading": "the vanuatu cultural centre\u2019s juvenile justice project",
+        "content": " Joemela Simeon Project Manager Juvenile Justice Project, Vanuatu Cultural Centre",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 212,
+            "top": 106,
+            "left": 200
+        }
+    },
+    {
+        "page": 153,
+        "heading": "Joemela Simeon Project Manager Juvenile Justice Project, Vanuatu Cultural Centre",
+        "content": " IF SOMEONE had asked me to define restorative justice, back in April this year before | began work on the Juvenile Justice Project, | would honestly have said that | did not have a single clue about",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 385,
+            "top": 181,
+            "left": 110
+        }
+    },
+    {
+        "page": 153,
+        "heading": "Rationale of the Juvenile Justice Project",
+        "content": " This project will address the needs and rights of juvenile offenders who, in Vanuatu, are defined as those under eighteen years of age. The Vanuatu Constitution explicitly states that",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 269,
+            "top": 602,
+            "left": 87
+        }
+    },
+    {
+        "page": 155,
+        "heading": "\u00b0 how will cases defined as criminal or civil be negotiated?",
+        "content": " \u00b0 how will the key notion of responsibility at the  individual, family and community levels be defined?",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 379,
+            "top": 412,
+            "left": 138
+        }
+    },
+    {
+        "page": 155,
+        "heading": "individual, family and community levels be defined?",
+        "content": " The Juvenile Justice Project has emerged from the findings of an ongoing research project with the Vanuatu Cultural Centre \u2014 the Vanuatu Young People\u2019s Project (VYPP) \u2014",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 351,
+            "top": 452,
+            "left": 138
+        }
+    },
+    {
+        "page": 156,
+        "heading": "The project\u2019s objectives",
+        "content": " To date the project has five objectives:  1 to develop a plan of action to effectively address the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 160,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 156,
+        "heading": "Research and consultation process",
+        "content": " A plan of research and consultation will be developed in order to ensure that the key questions and issues are addressed. Consultation will be with the widest and most representative",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 235,
+            "top": 520,
+            "left": 87
+        }
+    },
+    {
+        "page": 157,
+        "heading": "Training and orientation of project staff in the field of juvenile justice",
+        "content": " The expertise afforded by the Advisory Committee, the Law School of the University of the South Pacific, and other international advisers, will be utilised to guide the research",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 349,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 157,
+        "heading": "Organisation of national summit meeting",
+        "content": " Key individuals and organisations including chiefs, community leaders, young people, court representatives and police will be brought together for discussion and the development of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 279,
+            "top": 336,
+            "left": 87
+        }
+    },
+    {
+        "page": 157,
+        "heading": "Drafting of a plan of action",
+        "content": " The draft plan of action will emerge from the research and consultation process and will be discussed at the national summit meeting at which time recommendations from the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 185,
+            "top": 505,
+            "left": 87
+        }
+    },
+    {
+        "page": 159,
+        "heading": "the lakalakabulu area council of chiefs in vanuatu",
+        "content": " Paul Vuhu General Secretary of the Lakalakabulu Area Council of Chiefs",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 365,
+            "top": 108,
+            "left": 122
+        }
+    },
+    {
+        "page": 159,
+        "heading": "Paul Vuhu General Secretary of the Lakalakabulu Area Council of Chiefs",
+        "content": " AFTER MUCH PLANNING and research, the Lakalakabulu Area Council of Chiefs was established on 6th March 1996. This Area Council has authority over Nasalokoro, Lolovange, Saranavihi",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 365,
+            "top": 108,
+            "left": 122
+        }
+    },
+    {
+        "page": 160,
+        "heading": "the National Constitution recognises under",
+        "content": " Article 78(2) the need to set up customary  institutions to resolve land disputes; and the",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 329,
+            "top": 310,
+            "left": 138
+        }
+    },
+    {
+        "page": 160,
+        "heading": "institutions to resolve land disputes; and the",
+        "content": " National Constitution recognises under Article  52 the need for the establishment of village or",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 329,
+            "top": 351,
+            "left": 138
+        }
+    },
+    {
+        "page": 160,
+        "heading": "National Constitution recognises under Article",
+        "content": " 52 the need for the establishment of village or  island Courts with jurisdiction over customary",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 329,
+            "top": 371,
+            "left": 138
+        }
+    },
+    {
+        "page": 160,
+        "heading": "and other matters ... therefore the Lakalakabulu",
+        "content": " Area Council of Chiefs ... do hereby adopt, enact  and give themselves this Constitution.",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 329,
+            "top": 432,
+            "left": 138
+        }
+    },
+    {
+        "page": 163,
+        "heading": "re-conceptualizing restorative justice and peace building in ethnically divided Fiji",
+        "content": " Steven Ratuva was formerly a lecturer in politics at the University of the South Pacific in Suva. He is currently",
+        "features": {
+            "font_id": "3",
+            "height": 19,
+            "width": 429,
+            "top": 193,
+            "left": 89
+        }
+    },
+    {
+        "page": 163,
+        "heading": "Introduction",
+        "content": " Political tension in Fiji oscillates in a complex way between two levels of political engagement. The first of these is the level of inter-communal relations, especially between indigenous Fijians",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 86,
+            "top": 446,
+            "left": 87
+        }
+    },
+    {
+        "page": 164,
+        "heading": "primary means for reclaiming their rightful position in the post-",
+        "content": "2000 state system. Most of the cases have been about preserving the 1997 Constitution, which was abrogated by the military in May 2000, and ensuring that the constitutional processes were followed. The Supreme Court has recently ruled that the 1997",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 431,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 165,
+        "heading": "Inter-ethnic conflict in Fiji",
+        "content": " Inter-ethnic conflict in Fiji has to be understood at a number of levels. These include claims to legitimacy, institutionalised conflict, socio-economic distribution and cultural discourse.",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 179,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 165,
+        "heading": "Claims to legitimacy",
+        "content": " The first category relates to different perceptions of legitimacy at the level of ideological discourse. This refers to the separate claims by Fijians and Indo-Fijians about their legitimate place in",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 431,
+            "top": 157,
+            "left": 87
+        }
+    },
+    {
+        "page": 166,
+        "heading": "Institutionalised conflict",
+        "content": " The second level of conflict refers to the institutionalisation and instrumentalisation of ethnic segregation in the form of state institutions, political parties, constitutions and government",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 160,
+            "top": 278,
+            "left": 87
+        }
+    },
+    {
+        "page": 167,
+        "heading": "the means by which separate identities are formally defined and reproduced.*",
+        "content": " Socio-economic distribution  The third level of conflict has to be understood in relation to socio-",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 431,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 167,
+        "heading": "Socio-economic distribution",
+        "content": " The third level of conflict has to be understood in relation to socio- economic distribution. It relates to the question of development, land use and ownership, distribution of resources and perceptions",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 189,
+            "top": 157,
+            "left": 87
+        }
+    },
+    {
+        "page": 167,
+        "heading": "Inter-cultural discourse",
+        "content": " The fourth level of conflict is at the realm of cultural discourse. This refers to communal relations involving perceptions and attitudes and how these are articulated in everyday experience.",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 153,
+            "top": 753,
+            "left": 87
+        }
+    },
+    {
+        "page": 168,
+        "heading": "Ethnic conflict and the syncretic syndrome",
+        "content": " The four modes of conflict outlined above have come to occupy the mainstream of Fiji\u2019s modern political culture and are accepted by many as the \u2018normal\u2019 dynamics of inter-communal",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 291,
+            "top": 370,
+            "left": 87
+        }
+    },
+    {
+        "page": 169,
+        "heading": "Restorative justice through customary socio-cultural mechanisms",
+        "content": " People in Fiji have tended to view legal institutions, such as courts, as the principal means of addressing various types of conflict. This is due to two historical reasons. Firstly, after",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 431,
+            "top": 613,
+            "left": 87
+        }
+    },
+    {
+        "page": 170,
+        "heading": "The Veisorosorovi (VSS) Model",
+        "content": " VSS provides a possible model for the design of a restorative approach to inter-community peace building in Fiji. The term veisorosorovi comes from the word soro, meaning to humble",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 15,
+            "top": 655,
+            "left": 87
+        }
+    },
+    {
+        "page": 171,
+        "heading": "The Ceremonial setting",
+        "content": " The VSS involves two sides coming together in an atmosphere of mutual trust and respect and making presentations to each other. This entails elaborate ceremonial procedures using tabua",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 155,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 171,
+        "heading": "Admission of mistakes",
+        "content": " VSS entails the admission of mistakes by the daucakacala (wrongdoer). An act of wrongdoing can be either vakacalaka (accidental) or nakiti (consciously carried out). The term",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 149,
+            "top": 623,
+            "left": 87
+        }
+    },
+    {
+        "page": 172,
+        "heading": "Reciprocal engagement",
+        "content": " VSS is a reciprocal process. The offending side presents their case by admitting mistakes and asking for forgiveness, while the offended party is obliged by custom to reciprocate in an equally",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 158,
+            "top": 481,
+            "left": 87
+        }
+    },
+    {
+        "page": 172,
+        "heading": "Pre-emptive approach",
+        "content": " VSS is also a form of pre-emptive engagement that seeks to avoid further repercussions that could worsen relations. For instance, if a person is hurt in a fight, the relatives of the offender",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 148,
+            "top": 732,
+            "left": 87
+        }
+    },
+    {
+        "page": 173,
+        "heading": "Trust and expectations",
+        "content": " An important pre-condition for VSS is collective trust and heightened expectations. Both parties expect trust from each other, trust in a consensual resolution and trust in the openness",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 154,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 173,
+        "heading": "Transforming and crystallizing collective relations",
+        "content": " The VSS transforms a situation of conflict into one of peace. After VSS, former adversaries become close friends and part of a single enlarged group. The group boundary expands and",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 332,
+            "top": 542,
+            "left": 87
+        }
+    },
+    {
+        "page": 173,
+        "heading": "Some shortcomings of VSS",
+        "content": " While there is consensus amongst Fijians about the effectiveness of VSS in resolving conflict, it does, however, have a major limitation. It can be abused by some individuals as a way of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 181,
+            "top": 723,
+            "left": 87
+        }
+    },
+    {
+        "page": 174,
+        "heading": "Re-contextualizing the VSS model for inter-communal peace building in Fiji",
+        "content": " The basic principles behind VSS (admission of mistakes, forgiveness, reciprocity, pre-emptive engagement, trust with expectations and social transformation) have for hundreds of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 431,
+            "top": 370,
+            "left": 87
+        }
+    },
+    {
+        "page": 175,
+        "heading": "Conclusion",
+        "content": " Mobilising aspects of local culture as means of addressing conflict is an important dimension of restorative justice. In a culturally pluralistic society like Fiji, this becomes more",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 76,
+            "top": 714,
+            "left": 87
+        }
+    },
+    {
+        "page": 177,
+        "heading": "Ali, A 1982. \u2018The politics of a plural society\u2019",
+        "content": " Ratuva, S 2001. Diagnosing the Fractures: A Study on Inter-Cultural and Inter- Religious Perceptions in a Pluralistic Society. The Case of Post-Coup Fiji",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 253,
+            "top": 136,
+            "left": 112
+        }
+    },
+    {
+        "page": 179,
+        "heading": "FIJI, A CASE STUDY Introduction",
+        "content": " The Fiji islands, known as \u2018Viti\u2019 amongst indigenous Fijians, have been regarded as the place where both Polynesian and Melanesian people have settled during their east-west and west\u2014",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 137,
+            "top": 445,
+            "left": 87
+        }
+    },
+    {
+        "page": 179,
+        "heading": "When Europeans began arriving in large numbers in the",
+        "content": "1800s, the ancient, basic social unit in Fijian communities was the | Tokatoka, or extended family unit. Both patrilineal and matrilineal structures featured in some parts of Fiji. A number of extended families made up the Matagali, or sub-clan, while a",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 380,
+            "top": 642,
+            "left": 138
+        }
+    },
+    {
+        "page": 180,
+        "heading": "Fijian Socio-Political Structure",
+        "content": " Before Britain colonised the Fiji islands, indigenous social structures from the | tokatoka to the Vanua defined the boundaries in which social relations were organised, articulated",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 207,
+            "top": 529,
+            "left": 201
+        }
+    },
+    {
+        "page": 181,
+        "heading": "Village Council (headed by the Turaga ni Koro)",
+        "content": " Aspects of Native Administration in colonial governance, 1874 to 1970 ",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 104,
+            "top": 659,
+            "left": 319
+        }
+    },
+    {
+        "page": 182,
+        "heading": "Traditional Leadership Within the Fijian Social System",
+        "content": " Many of the indigenous Fijians, who own 83 per cent of the land in Fiji still live in villages or in the rural areas and outlying islands where traditional social relations are still observed. Fiji\u2019s",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 366,
+            "top": 532,
+            "left": 87
+        }
+    },
+    {
+        "page": 183,
+        "heading": "Table 1 Rural/Urban Distribution of Indigenous Fijians in the",
+        "content": "14 Provinces  Province Rural Population Urban Population Total Ba 32,789 37,113 69.902",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 431,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 183,
+        "heading": "Source: Bureau of Statistics, Suva. 1996 Fiji Census of Population and Housing",
+        "content": " The table shows that maritime provinces such as Lau and Kadavu have no urban centres while others, such as Rewa and Naitasiri on the island of Viti Levu, have mostly urban dwellers.",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 428,
+            "top": 494,
+            "left": 87
+        }
+    },
+    {
+        "page": 185,
+        "heading": "Table 2 Ethnic Origins of Prisoners in Fiji from 1988 to 1991",
+        "content": " Year Fijian (%) Indian(%) Others (%) Total Number 1988 77.0 20.0 3.0 848 1989 74.0 22.0 4.0 1,458",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 415,
+            "top": 674,
+            "left": 87
+        }
+    },
+    {
+        "page": 185,
+        "heading": "Year Fijian (%) Indian(%) Others (%) Total Number",
+        "content": "1988 77.0 20.0 3.0 848 1989 74.0 22.0 4.0 1,458 1990 76.52 20.28 3.20 1,041 1991 78.0 20.0 2.0 1,073",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 25,
+            "top": 704,
+            "left": 87
+        }
+    },
+    {
+        "page": 186,
+        "heading": "The Fijian Challenge",
+        "content": " Given the cycle of imprisonment and recidivism, it is time to consider seriously how traditional ways of solving conflicts can be utilised to strengthen the modern system. This will involve",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 139,
+            "top": 370,
+            "left": 87
+        }
+    },
+    {
+        "page": 188,
+        "heading": "Informal Justice and the Role of the Ministry of Fijian Affairs",
+        "content": " The Ministry of Fijian Affairs \u2014 a long established institution of governance \u2014 can facilitate the link between informal justice and the modern legal justice system. Traditional leaders such as chiefs",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 410,
+            "top": 471,
+            "left": 87
+        }
+    },
+    {
+        "page": 189,
+        "heading": "Conclusion",
+        "content": " Melanesia, the largest and most resourceful of the three groups of islands in the Pacific has always been the \u2018hot bed\u2019 of the Pacific. Political instabilities have included military and civilian",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 81,
+            "top": 208,
+            "left": 87
+        }
+    },
+    {
+        "page": 190,
+        "heading": "Endnotes",
+        "content": " 1  The system of \u2018indirect rule\u2019 through a Native (later Fijian)",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 190,
+        "heading": "Bureau of Statistics 1996. \u2018Census of Population and Housing: General Tables\u2019",
+        "content": " Household in this context refers to the extended family which can be either patrilineal or matrilineal. ",
+        "features": {
+            "font_id": "28",
+            "height": 12,
+            "width": 6,
+            "top": 131,
+            "left": 87
+        }
+    },
+    {
+        "page": 191,
+        "heading": "A Mixed Bag",
+        "content": " Most inhabitants of this multilingual and multicultural country which is the Solomon Islands are familiar with the concept of compensation for offending behaviour. Customary payments of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 86,
+            "top": 444,
+            "left": 87
+        }
+    },
+    {
+        "page": 192,
+        "heading": "Cultural Relations",
+        "content": " Long before the invasion of overseas influences, local customs provided the framework for personal and communal relationships, including those established through marriage and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 122,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 194,
+        "heading": "Traditional Worries",
+        "content": " Minor frictions and irritations have always been with us and quarrels in family circles have often resulted in a husband having to pay SI$10 to his wife and she $12 to him \u2014 or thereabouts.",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 131,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 195,
+        "heading": "Expectations of Restitution",
+        "content": " At Vura village in my parish at Tanagai, people know that if they steal someone else\u2019s pig, chicken, betel nut or cocoa, they must return it. People know clearly what they should do but while",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 181,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 195,
+        "heading": "The Present Conflict",
+        "content": " The conflict of the last three years has its roots in the migration of Malaitan labourers over the decades into the commercial coconut plantations on Guadalcanal. The also came for",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 138,
+            "top": 682,
+            "left": 87
+        }
+    },
+    {
+        "page": 196,
+        "heading": "Guale Attack",
+        "content": " Things started to come to a head in 1998 when groups of young Guadalcanal men, especially on the Weather Coast, started to drive out the Malaitans who lived in the Tangarare area. What",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 89,
+            "top": 350,
+            "left": 87
+        }
+    },
+    {
+        "page": 197,
+        "heading": "The Eye of the Storm",
+        "content": " In the early months of 2000, the IFM stopped short of Honiara, though the threats of invasion were still frightening. In Honiara, the Malaitans were determined to make their own stand and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 142,
+            "top": 410,
+            "left": 87
+        }
+    },
+    {
+        "page": 198,
+        "heading": "Mala Retaliation",
+        "content": " Malaitan groups who had been driven out from the Guadalcanal Plains soon set out for vengeance. These were mainly the Kwara\u2019ae people, and North Malaitan groups such as the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 112,
+            "top": 309,
+            "left": 87
+        }
+    },
+    {
+        "page": 199,
+        "heading": "Present Problems",
+        "content": " After four years of tensions, the Solomon Islands are in a terrible mess. There is no-one in this island nation that has not been affected in some way. Lives, housing, property and gardens of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 118,
+            "top": 208,
+            "left": 87
+        }
+    },
+    {
+        "page": 201,
+        "heading": "Seeking Reconciliation",
+        "content": " Traditional concepts and symbols of reconciliation are quite inadequate when faced with demands for huge sums of money in a society that has only recently become conscious of material",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 154,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 203,
+        "heading": "Value of Cash",
+        "content": " When commercial logging and fishing started, large quantities of cash became available and with it all kinds of sophisticated goods. Cash was channelled through favoured individuals,",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 93,
+            "top": 370,
+            "left": 87
+        }
+    },
+    {
+        "page": 204,
+        "heading": "Complications",
+        "content": " Compensation, especially in today\u2019s monetary and inflated terms, has exacerbated bitterness and jealousy among those who have received, as well as among those who have never submitted a",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 98,
+            "top": 228,
+            "left": 87
+        }
+    },
+    {
+        "page": 204,
+        "heading": "Corporate Compensation",
+        "content": " Since Melanesian ways of redress are inadequate for dealing with abuses and extravagant claims, it would be preferable if the whole ",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 172,
+            "top": 802,
+            "left": 87
+        }
+    },
+    {
+        "page": 205,
+        "heading": "Biblical Approaches",
+        "content": " In the area of Christian concepts there is already a difference in values and thinking. There is no way in which the church can deal with defined amounts of money, as does custom. The sum of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 136,
+            "top": 491,
+            "left": 87
+        }
+    },
+    {
+        "page": 207,
+        "heading": "Church means the Way",
+        "content": " Given the number of religious affiliations in the Solomon Islands, the \u2018church\u2019 has different meanings for people. Moreover, the conviction with which someone calls themself a",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 159,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 207,
+        "heading": "Casual Presumptions",
+        "content": " To me there appears to be a great casualness in the approach of many present well known figures in the Solomons and their public talk of repentance often appears hollow and disturbing.",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 141,
+            "top": 378,
+            "left": 87
+        }
+    },
+    {
+        "page": 208,
+        "heading": "Moving On",
+        "content": " We nevertheless have to move on and cannot wait for ideal conditions to happen or for people to repent. | wish we could begin to imagine what our standards and values will be in the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 77,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 209,
+        "heading": "bougainville women\u2019s role in conflict resolution in the bougainville peace process",
+        "content": " Ruth Saovana-Spriggs a scholar at the Australian National University, Canberra, bases her analysis of conflict resolution",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 365,
+            "top": 107,
+            "left": 121
+        }
+    },
+    {
+        "page": 210,
+        "heading": "Some background to the current situation in Bougainville in the year 2000",
+        "content": " Bougainville is presently quiet and, | hope, not superficially so. In 1991 the Bougainville Interim Government (BIG) defected from the North Solomons Provincial Government and became the",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 358,
+            "top": 189,
+            "left": 138
+        }
+    },
+    {
+        "page": 210,
+        "heading": "Bougainville is presently quiet and, | hope, not superficially so. In",
+        "content": "1991 the Bougainville Interim Government (BIG) defected from the North Solomons Provincial Government and became the pro-Independence body. The Bougainville Transitional Government (BTG) was established within Papua New Guinea\u2019s constitutional",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 431,
+            "top": 648,
+            "left": 87
+        }
+    },
+    {
+        "page": 212,
+        "heading": "Potential difficulties and conflicts in traditional restorative justice",
+        "content": " The aim in this section is to identify potential difficulties with conflict resolution and restorative justice in the traditional and modern settings of Bougainville. There is a need for careful",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 431,
+            "top": 471,
+            "left": 87
+        }
+    },
+    {
+        "page": 212,
+        "heading": "Example 1",
+        "content": " The \u2018haves\u2019 and the \u2018have nots\u2019 in urban areas  This example shows the difficulties a person might have in",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 70,
+            "top": 719,
+            "left": 87
+        }
+    },
+    {
+        "page": 212,
+        "heading": "The \u2018haves\u2019 and the \u2018have nots\u2019 in urban areas",
+        "content": " This example shows the difficulties a person might have in understanding legal or constitutional notions of justice, including restorative justice, as opposed to moral or customary",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 305,
+            "top": 756,
+            "left": 87
+        }
+    },
+    {
+        "page": 213,
+        "heading": "Example 2",
+        "content": " From pockets of Bougainville  The scenario: X intentionally kills Y on his (X\u2019s) land. This causes",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 70,
+            "top": 491,
+            "left": 87
+        }
+    },
+    {
+        "page": 213,
+        "heading": "From pockets of Bougainville",
+        "content": " The scenario: X intentionally kills Y on his (X\u2019s) land. This causes a bitter conflict between X and Y\u2019s clan members. How is this conflict resolved? Firstly, the community carefully selects a jury",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 196,
+            "top": 529,
+            "left": 87
+        }
+    },
+    {
+        "page": 214,
+        "heading": "driven to steal again or to kill again in order to get the",
+        "content": " Waitman\u2019s money again. There is no boundary to it, no  sacredness to it. Our traditional money is sacred and",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 716,
+            "left": 138
+        }
+    },
+    {
+        "page": 214,
+        "heading": "we must never lose its value and significance. |",
+        "content": " This is a very powerful statement of the value and significance of traditional currency in my community in Bougainville.",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 274,
+            "top": 777,
+            "left": 138
+        }
+    },
+    {
+        "page": 216,
+        "heading": "My involvement in the peace process",
+        "content": " My involvement in the peace process has been as a member of a particular women\u2019s organisation and as a member of a technical team. The technical team consists of some well educated",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 253,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 216,
+        "heading": "Women\u2019s efforts in conflict resolution and restorative justice",
+        "content": " This is a huge enterprise and women have played, and continue to play, a major role in the peace process. There are numerous players in this process, including the international community",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 411,
+            "top": 662,
+            "left": 87
+        }
+    },
+    {
+        "page": 217,
+        "heading": "The women\u2019s role in the peace process",
+        "content": " In discussing women\u2019s involvement in the peace process, | need to establish the context in which women exist and operate. One important dimension is that of their various churches, while",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 264,
+            "top": 653,
+            "left": 87
+        }
+    },
+    {
+        "page": 219,
+        "heading": "Example 1",
+        "content": " PNGDF use of women\u2019s position of power.  The Bougainville Women for Peace and Freedom (BWPF) is a",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 70,
+            "top": 755,
+            "left": 87
+        }
+    },
+    {
+        "page": 221,
+        "heading": "Example 2",
+        "content": " A team of four women. Turning a small meeting into a big meeting ",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 70,
+            "top": 248,
+            "left": 87
+        }
+    },
+    {
+        "page": 221,
+        "heading": "A team of four women. Turning a small meeting into a big meeting",
+        "content": " In early 1999, by chance, | met up with a team of four women from Buin in the south of the island. They had been selected by the Catholic Women\u2019s Organisation. Their mission was to",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 431,
+            "top": 286,
+            "left": 87
+        }
+    },
+    {
+        "page": 222,
+        "heading": "Example 3",
+        "content": " Large meeting: Bougainville women unite/1 994/1998/1 999 The year 1994 was, in my view, the most significant time in the history of the Bougainville conflict. The first ever",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 70,
+            "top": 350,
+            "left": 87
+        }
+    },
+    {
+        "page": 226,
+        "heading": "common goal of freedom ... \u00b0",
+        "content": " Why did the peace process work in Bougainville?  The following are some thoughts deduced from the women\u2019s",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 176,
+            "top": 371,
+            "left": 138
+        }
+    },
+    {
+        "page": 226,
+        "heading": "Why did the peace process work in Bougainville?",
+        "content": " The following are some thoughts deduced from the women\u2019s efforts, though it is not an exhaustive list. ",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 335,
+            "top": 409,
+            "left": 87
+        }
+    },
+    {
+        "page": 227,
+        "heading": "Endnotes",
+        "content": " 1  The author has translated her interview with her uncle in the Teop",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 576,
+            "left": 87
+        }
+    },
+    {
+        "page": 227,
+        "heading": "Savoana-Spriggs, Ruth 1997. \u2018The civil War in Bougainville. Can women make a difference?\u2019",
+        "content": " Pauline Onsa, who was very active in assisting the International Red Cross in bringing medicine to areas where heavy fighting continued in the early years of the civil war, briefly discusses this position of power",
+        "features": {
+            "font_id": "28",
+            "height": 12,
+            "width": 6,
+            "top": 600,
+            "left": 87
+        }
+    },
+    {
+        "page": 229,
+        "heading": "restorative justice in bougainville",
+        "content": " Br Patrick Howley Training Manager, PEACE Foundation Melanesia, has a background in teaching and educational administration in",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 317,
+            "top": 108,
+            "left": 147
+        }
+    },
+    {
+        "page": 230,
+        "heading": "Theodore Miriung\u2019s vision in Bougainville",
+        "content": " Theodore Miriung was a lawyer and had risen to the position of an acting High Court judge. He went into the bush with the Bougainville Revolutionary Army (BRA) when the Bougainville",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 282,
+            "top": 188,
+            "left": 87
+        }
+    },
+    {
+        "page": 230,
+        "heading": "We are planning to develop our government on the",
+        "content": " Council of Chiefs.* Chiefs are very independent  individuals and often one or two out of any group will",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 643,
+            "left": 138
+        }
+    },
+    {
+        "page": 231,
+        "heading": "Peace Foundation begins training in Buka",
+        "content": " In 1994 there was a kind of peace in Buka and Selau but the fighting was still going on in the districts further south. We conducted a three-week course in People Skills and Conflict",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 281,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 231,
+        "heading": "Target group for training",
+        "content": " The first request from the participants was in relation to the groups of people to be targeted for training. People gave us the following list: Chiefs, leaders of women\u2019s groups and youth",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 167,
+            "top": 399,
+            "left": 87
+        }
+    },
+    {
+        "page": 231,
+        "heading": "Process of training adult education",
+        "content": " The Foundation training was built around adult education. The trainer introduces each topic, after which the larger group breaks into smaller groups of six and discusses the topic. They write",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 237,
+            "top": 608,
+            "left": 87
+        }
+    },
+    {
+        "page": 232,
+        "heading": "Selecting trainers for Buka",
+        "content": " Strong interest in the course made it necessary to find trainers. We selected them from among the participants who showed the best understanding of what the course was about. Generally",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 180,
+            "top": 188,
+            "left": 87
+        }
+    },
+    {
+        "page": 232,
+        "heading": "Effects of courses on the participants",
+        "content": " The courses in People Skills and Conflict Resolution challenge people to look at their own culture, customs and _ attitudes. People learn to speak what is in their minds and become",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 250,
+            "top": 559,
+            "left": 87
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Beginning of mediation in Buka",
+        "content": " There was a major breakthrough in 1996 in Buka when the Council of Chiefs (CoC) and the village magistrates of Lontis village (Buka) requested Alina Longa, Leonard Tsitoa and Hubert",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 214,
+            "top": 188,
+            "left": 87
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Other signs of change in Buka",
+        "content": " Mediation was introduced into all village wanbel* (one mind) courts. The Village Court coordinator asked for mediators to handle all \u2018wanbel\u2019 courts and wished to have trainers",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 204,
+            "top": 458,
+            "left": 87
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Support for work of Peace Foundation",
+        "content": " Training had gained in popularity. The Provincial Police Commander, a strong supporter of the Foundation team, wanted training for his 140 reserve police. He needed to provide them",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 260,
+            "top": 607,
+            "left": 87
+        }
+    },
+    {
+        "page": 234,
+        "heading": "Value of a neutral mediator",
+        "content": " It is believed that the presence of a neutral mediator reduces the cultural stress that comes from a direct confrontation and so greatly increases the chances of a successful solution to the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 186,
+            "top": 167,
+            "left": 87
+        }
+    },
+    {
+        "page": 234,
+        "heading": "Case studies from Buka",
+        "content": " A woman brought a case of adultery to the mediator at Lontis. Mediation was attempted but failed because the wife was not convinced that the husband was telling the truth in his version of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 158,
+            "top": 397,
+            "left": 87
+        }
+    },
+    {
+        "page": 236,
+        "heading": "Peace Foundation makes its mark on mainland Bougainville",
+        "content": " Training in Steamas and how the cause was spread by the BRA Steamas is a village north of Wakunai on the east coast. When the fighting broke out again after the phoney peace of \u201894 there",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 404,
+            "top": 289,
+            "left": 87
+        }
+    },
+    {
+        "page": 238,
+        "heading": "On using a Facilitator - \u2018There is no other way now!\u2019",
+        "content": " A few days after we arrived in Steamas, a public meeting was held with the Wakunai District Manager. Actually, the day was set aside to hold three public meetings to discuss and settle three",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 359,
+            "top": 409,
+            "left": 87
+        }
+    },
+    {
+        "page": 239,
+        "heading": "Mediation and negotiation skills by magistrates from Steamas strengthen custom justice",
+        "content": " If a justice system is itself to be subject to judgement, ultimately it must be in terms of how effectively it manages to promote and maintain peace in the community. Mark Eric and Jacob Luviara are",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 431,
+            "top": 157,
+            "left": 87
+        }
+    },
+    {
+        "page": 240,
+        "heading": "co-trainer with the People Skills and Conflict",
+        "content": " Resolution courses and it was only this year that | was  certified as a head trainer. The course helped me to",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 271,
+            "left": 138
+        }
+    },
+    {
+        "page": 240,
+        "heading": "Now he has changed ... Since he attended the People",
+        "content": " Skills course, he hasn\u2019t hit me. Now he\u2019s been  recognised by the community and just last month they",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 676,
+            "left": 138
+        }
+    },
+    {
+        "page": 242,
+        "heading": "Peace in Buin 1995",
+        "content": " After the Peace meeting in Arawa, (October 1994) Major Walter Enuma\u00ae the commanding officer of the Army and Resistance in Buin directed his efforts towards reconciling leaders, making",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 132,
+            "top": 640,
+            "left": 87
+        }
+    },
+    {
+        "page": 243,
+        "heading": "Good Friday peace march",
+        "content": " On Good Friday, several thousand people joined in a ten- kilometre \u2018Way of the Cross\u2019 procession carrying a large cross. Each of the fourteen stations on the way marked a spot where",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 175,
+            "top": 157,
+            "left": 87
+        }
+    },
+    {
+        "page": 243,
+        "heading": "Peace Foundation training in Buin, March to August 1995",
+        "content": " On the advice of Walter Enuma, the Buin Interim Authority and the Council of Chiefs invited the Peace Foundation to conduct training in People Skills and Conflict Resolution. We appointed a",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 391,
+            "top": 429,
+            "left": 87
+        }
+    },
+    {
+        "page": 243,
+        "heading": "Courses conducted in Buin",
+        "content": " In all, the trainers conducted seven courses \u2014 five in People Skills and two in Conflict Resolution. The Buin Peace Foundation Committee had done excellent Awareness work",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 181,
+            "top": 781,
+            "left": 87
+        }
+    },
+    {
+        "page": 244,
+        "heading": "Joint law and order process in Buin",
+        "content": " While | was in Buin, | attended a Complaints Conference attended by representatives from the three groups: the Chiefs, BRA and Interim Government. The complaint was that one of the",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 236,
+            "top": 278,
+            "left": 87
+        }
+    },
+    {
+        "page": 244,
+        "heading": "Mediation work in Buin",
+        "content": " Within three months of the start of training, the people had formed Mediation teams in the main centres and were handling conflicts successfully. There were the normal run of the mill cases",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 159,
+            "top": 773,
+            "left": 87
+        }
+    },
+    {
+        "page": 245,
+        "heading": "Change of Army policy in Buin",
+        "content": " Walter Enuma and his \u2018hearts and minds\u2019 approach to peace in Bougainville was the method preferred by Jerry Singirok, but there were many soldiers who disliked both Singirok and his",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 212,
+            "top": 501,
+            "left": 87
+        }
+    },
+    {
+        "page": 245,
+        "heading": "Talk from the soldier who replaced Enuma",
+        "content": " One afternoon | went to visit the Chairman of the Peace Foundation Board, Sir Barry Holloway, at his office in the Moonlight Disco. While | was there | met a soldier who had been",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 288,
+            "top": 652,
+            "left": 87
+        }
+    },
+    {
+        "page": 246,
+        "heading": "War breaks out again in Buin",
+        "content": " Because of these tactics, the war broke out anew with more violence than before. Suspects were tortured and killed, the people in the Care Centre were harassed, and the soldiers and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 198,
+            "top": 410,
+            "left": 87
+        }
+    },
+    {
+        "page": 246,
+        "heading": "The Icebreakers",
+        "content": " People who had attended courses with Peace Foundation in 1995 came together to see what they could do to reduce the terror. They arranged teams to go from village to village conducting Awareness",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 113,
+            "top": 661,
+            "left": 87
+        }
+    },
+    {
+        "page": 247,
+        "heading": "Ice breakers killed",
+        "content": " The PNGDF/Resistance murdered Tony Kasia of Tumbu village and Tony Kaima of Maraku village in October 1995 and May 1996 respectively. In August 1996 the BRA killed Angelina",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 126,
+            "top": 258,
+            "left": 87
+        }
+    },
+    {
+        "page": 247,
+        "heading": "Mediation between BRA and Resistance",
+        "content": " As the fighting died down in 1997, the chiefs called on the BRA and the Resistance to become reconciled. The two guerrilla groups \u2014 Thomas Tari\u2019s BRA \u2018H Company\u2019 and the Resistance",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 274,
+            "top": 500,
+            "left": 87
+        }
+    },
+    {
+        "page": 247,
+        "heading": "Tari requests training in Buin",
+        "content": " In December 1997, in the wake of the Burnham Declarations, Thomas Tari met us in Buka to officially request that full Peace Foundation courses be run in his area. Thomas has guaranteed",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 191,
+            "top": 780,
+            "left": 87
+        }
+    },
+    {
+        "page": 248,
+        "heading": "Feuding and mediation after the death of Paul Bobby",
+        "content": " In October 1998 Paul Bobby the BRA Commander for Buin Township was shot dead in his village of Kararu in Buin District. The killing was done by one of Thomas Tari\u2019s men because it",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 354,
+            "top": 197,
+            "left": 87
+        }
+    },
+    {
+        "page": 248,
+        "heading": "Troubles caused by the feud",
+        "content": " The conflict resulted in restrictions of movement especially on the Buin highway to Arawa and the strategic road to Kangu beach where ships are unloaded. Consequently, there was a",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 188,
+            "top": 570,
+            "left": 87
+        }
+    },
+    {
+        "page": 249,
+        "heading": "Pressure to reconcile",
+        "content": " However, as the number of incidents escalated, individuals and organisations from outside the BRA became more active in trying to begin the process of reconciliation. Enormous credit",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 139,
+            "top": 157,
+            "left": 87
+        }
+    },
+    {
+        "page": 249,
+        "heading": "Reconciliation ceremony in Buin for Bobby/Tari",
+        "content": " The reconciliation took place at the \u2018PMG Haus Garamut\u2019 (meeting house) in Buin High School on 21 May 1999. The meeting started at 9.30 am and concluded in the afternoon at",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 320,
+            "top": 489,
+            "left": 87
+        }
+    },
+    {
+        "page": 249,
+        "heading": "MOU for peace",
+        "content": " After moving speeches, tears and the shaking of hands, the reconciliation concluded with the signing of a Memorandum of Understanding (MOU) by the eleven BRA Company and Platoon",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 106,
+            "top": 640,
+            "left": 87
+        }
+    },
+    {
+        "page": 250,
+        "heading": "The PMG at Buin and what they thought",
+        "content": " | spoke to the CO of the Buin Peace Monitoring Group shortly after this event. | was curious to find out how this event appeared in the eyes of an outsider. He did not know who | was",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 276,
+            "top": 642,
+            "left": 87
+        }
+    },
+    {
+        "page": 251,
+        "heading": "What role Francis was playing",
+        "content": " The mediation work of the Buin team is undoubtedly spectacular and the brief report given by Francis gives little insight into how the mediation was done. In fact, Francis and the",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 203,
+            "top": 157,
+            "left": 87
+        }
+    },
+    {
+        "page": 251,
+        "heading": "you did me wrong. | forgive you and you forgive me.\u2019",
+        "content": " That is what happens in its most simple form.  Of course, there will be an exchange of goods, money",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 328,
+            "top": 774,
+            "left": 138
+        }
+    },
+    {
+        "page": 252,
+        "heading": "possible to forgive. When we make peace, it is not",
+        "content": " [for] the food and it is not [because of] pigs and it is  not [for] the speeches. It is people saying, \u2018I forgive",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 634,
+            "left": 138
+        }
+    },
+    {
+        "page": 253,
+        "heading": "| was involved in a big reconciliation at Section 6",
+        "content": " [Arawa]. The PMG was also there. This was for my  mother\u2019s village Kui in South Nasioi, being reconciled",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 352,
+            "left": 138
+        }
+    },
+    {
+        "page": 255,
+        "heading": "Compensation gifts and blood money",
+        "content": " To an outsider the giving of a gift may seem to be compensation (blood money). To most Bougainvillians, however, compensation (blood money) is repugnant. A gift is intended to wash away the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 254,
+            "top": 166,
+            "left": 87
+        }
+    },
+    {
+        "page": 258,
+        "heading": "they should also kill a pig to present to the family of",
+        "content": " George. The ceremony took place in the presence of  the paramount chief and the local government council",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 351,
+            "left": 138
+        }
+    },
+    {
+        "page": 258,
+        "heading": "Compensation paid for man shot dead by accident. Compensation Highlands fashion",
+        "content": " In the Highlands of Papua New Guinea compensation is now the normal way of settling a conflict or a killing. The following report is from the National newspaper On Line, 26 July 2000:",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 431,
+            "top": 551,
+            "left": 87
+        }
+    },
+    {
+        "page": 258,
+        "heading": "A police officer accidentally shot a man from Kape",
+        "content": " [Highlands] area. Inspector Jacob Bando allegedly  fired the shot in an attempt to distract the husband",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 660,
+            "left": 138
+        }
+    },
+    {
+        "page": 258,
+        "heading": "Acting Madang Provincial Police Commander James",
+        "content": " Kupi said Mr Bando was standing a long way away  from where the incident took place. Fearing for his",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 781,
+            "left": 138
+        }
+    },
+    {
+        "page": 259,
+        "heading": "over K40,000 compensation from the Ramu Sugar",
+        "content": " Company and its smaller branches plus the police  department.",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 148,
+            "left": 138
+        }
+    },
+    {
+        "page": 259,
+        "heading": "Violent trauma and restorative justice",
+        "content": " Post Traumatic Stress Disorder is an ongoing problem in Bougainville. Most of the people who have lived through the crisis have a greater or lesser condition of stress to deal with.",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 256,
+            "top": 672,
+            "left": 87
+        }
+    },
+    {
+        "page": 261,
+        "heading": "two young fellows who went into the bush [with the",
+        "content": " BRA] at about nine or ten years of age and now they  are about eighteen or nineteen. They had been",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 332,
+            "left": 138
+        }
+    },
+    {
+        "page": 261,
+        "heading": "about six o\u2019clock in the evening and finished at about",
+        "content": " 3 o'clock in the morning. No sooner had we finished  with this than they brought in another one whose leg",
+        "features": {
+            "font_id": "30",
+            "height": 15,
+            "width": 329,
+            "top": 575,
+            "left": 138
+        }
+    },
+    {
+        "page": 262,
+        "heading": "This process deals with almost all the problems mentioned",
+        "content": " Offensive behaviour is recognised for what it is and blame is placed squarely on the perpetrator/s. ",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 380,
+            "top": 513,
+            "left": 138
+        }
+    },
+    {
+        "page": 263,
+        "heading": "Stigmatisation",
+        "content": " There is a terrible danger in branding young troublemakers as criminals because when they are branded in this way they quickly become raskols. They become what they are named and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 100,
+            "top": 431,
+            "left": 87
+        }
+    },
+    {
+        "page": 264,
+        "heading": "Dedicated trainers",
+        "content": " There is no doubt that the course itself was very attractive but there are a number of other reasons for its being so attractive and successful. The dedication of trainers and their commitment to",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 126,
+            "top": 714,
+            "left": 87
+        }
+    },
+    {
+        "page": 265,
+        "heading": "Training women",
+        "content": " The empowerment of women as equal partners in developing a gutpela sindaun (quality of life) in the village is one of the targets in the community Justice Package training program. Within this",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 110,
+            "top": 512,
+            "left": 87
+        }
+    },
+    {
+        "page": 266,
+        "heading": "Saturation",
+        "content": " Our experience has shown that when we run one course here, another course there, and another somewhere else, the individual participants get quite a lot out of the course but the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 70,
+            "top": 350,
+            "left": 87
+        }
+    },
+    {
+        "page": 266,
+        "heading": "Training in the village",
+        "content": " We believe that it is more effective to run courses in the village church or church hall than taking people to a larger centre for training. In the village they have their own food and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 147,
+            "top": 661,
+            "left": 87
+        }
+    },
+    {
+        "page": 267,
+        "heading": "Importance of awareness",
+        "content": " The importance of promoting awareness before a course is held should not be underestimated. People are slow to take on anything that is new. They experience difficulties with what the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 171,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 267,
+        "heading": "Divisions in the community must be noted",
+        "content": " Whenever training is provided there should be some time spent in making sure that the people in the village are working together and understand what is happening. There are some",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 288,
+            "top": 338,
+            "left": 87
+        }
+    },
+    {
+        "page": 267,
+        "heading": "Community Justice Package Number of Participants and Types of Courses",
+        "content": " People Conflict \u00a7=\u00a7 Community Training Mediation Skills Resolution Development of Restorative Planning Trainers Justice",
+        "features": {
+            "font_id": "134",
+            "height": 14,
+            "width": 162,
+            "top": 574,
+            "left": 221
+        }
+    },
+    {
+        "page": 267,
+        "heading": "People Conflict \u00a7=\u00a7 Community Training Mediation Skills Resolution Development of Restorative Planning Trainers Justice",
+        "content": "190 25 32 21 23  The work of Peace Foundation Melanesia in Bougainville is now entirely in the hands of Bougainvilleans. They are a",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 123,
+            "top": 617,
+            "left": 103
+        }
+    },
+    {
+        "page": 268,
+        "heading": "Jones, Phillip Scott 2000. Field notes",
+        "content": " The Council of Chiefs unit covers a geographical area encompassing a number of villages whose people are traditionally related by kinship, marriage obligations and agreements.",
+        "features": {
+            "font_id": "31",
+            "height": 14,
+            "width": 210,
+            "top": 135,
+            "left": 112
+        }
+    },
+    {
+        "page": 271,
+        "heading": "The Bougainville crisis and justice",
+        "content": " Until the Bougainville crisis | worked as a magistrate and then as a sub clan leader. The \u2018crisis\u2019 began in late 1988. The word crisis is an accurate description. People suffered. Conflict was not",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 230,
+            "top": 167,
+            "left": 87
+        }
+    },
+    {
+        "page": 272,
+        "heading": "My introduction to conflict resolution",
+        "content": " It was in 1997 that | found some useful ways of solving disputes when | did an advanced course in \u2018Conflict Resolution Training\u2019 with Peace Foundation Melanesia. Later | trained in \u2018Restorative",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 258,
+            "top": 491,
+            "left": 87
+        }
+    },
+    {
+        "page": 273,
+        "heading": "The customary and formal dispute resolution systems",
+        "content": " | fear that if a formal court system returns to Bougainville it might overwhelm our work. Maybe the people will return to the courts in search of large compensation payments, which will only",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 362,
+            "top": 208,
+            "left": 87
+        }
+    },
+    {
+        "page": 274,
+        "heading": "A case study of restorative justice",
+        "content": " | will conclude this paper with a short case study of our work as mediators in post-conflict Bougainville. It is an illustration of how we operate. The case concerns a murder accusation against",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 227,
+            "top": 248,
+            "left": 87
+        }
+    },
+    {
+        "page": 275,
+        "heading": "The mediation process",
+        "content": " Step 1. Talking with the Victim(s)  When a victim(s) requests our services we have a separate",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 153,
+            "top": 672,
+            "left": 87
+        }
+    },
+    {
+        "page": 275,
+        "heading": "Step 1. Talking with the Victim(s)",
+        "content": " When a victim(s) requests our services we have a separate meeting with them and their supporters first. We ask them to explain what happened. After that we ask if they want to solve",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 219,
+            "top": 710,
+            "left": 87
+        }
+    },
+    {
+        "page": 276,
+        "heading": "Step 2. Talking with the Offender/s",
+        "content": " On the same, or next, day, we go to see the offenders and their supporters. We inform them what the victims have told us. Almost invariably the offenders will agree with the victims\u2019 story. We",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 231,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 276,
+        "heading": "Step 3. Meeting with both Parties",
+        "content": " When the disputing parties arrive at the meeting house, we begin by congratulating them because of their commitment and by explaining that we are here to solve their problem. We say",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 222,
+            "top": 299,
+            "left": 87
+        }
+    },
+    {
+        "page": 277,
+        "heading": "Step 4. Discussions within each Group",
+        "content": " After that we separate the two parties to discuss among themselves how the problem might be solved. Often this session will last two or three hours or even a whole day. The time",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 260,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 277,
+        "heading": "Step 5. Reaching a Decision with both Parties",
+        "content": " Then we call the parties together to meet and share what they have discussed. First the victims will express what they think the offenders must do to make them happy. Sometimes this will",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 306,
+            "top": 238,
+            "left": 87
+        }
+    },
+    {
+        "page": 278,
+        "heading": "Step 8. Follow-up",
+        "content": " If the offenders do not comply with the agreement, the mediator gives them at least three days to reconsider the matter with their supporters back in their own village.",
+        "features": {
+            "font_id": "7",
+            "height": 16,
+            "width": 119,
+            "top": 319,
+            "left": 87
+        }
+    },
+    {
+        "page": 279,
+        "heading": "epilogue \u2014 some thoughts on restorative justice and gender",
+        "content": " Margaret Jolly Department of Anthropology Research School of Pacific and Asian Studies",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 276,
+            "top": 106,
+            "left": 165
+        }
+    },
+    {
+        "page": 279,
+        "heading": "Margaret Jolly Department of Anthropology Research School of Pacific and Asian Studies Australian National University",
+        "content": " Introduction  It is always a challenge to be asked to give a keynote address",
+        "features": {
+            "font_id": "26",
+            "height": 15,
+            "width": 123,
+            "top": 295,
+            "left": 240
+        }
+    },
+    {
+        "page": 279,
+        "heading": "Introduction",
+        "content": " It is always a challenge to be asked to give a keynote address and especially so on a subject you know little about. | barely knew the words and very little of the concept or practice of",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 86,
+            "top": 467,
+            "left": 87
+        }
+    },
+    {
+        "page": 282,
+        "heading": "| mention these large problems of restorative justice in",
+        "content": " Australia and the region, not just to stress our human, historical  and geopolitical connection, but to echo at the level of the",
+        "features": {
+            "font_id": "6",
+            "height": 16,
+            "width": 380,
+            "top": 108,
+            "left": 138
+        }
+    },
+    {
+        "page": 282,
+        "heading": "Reflections on restoration and retribution",
+        "content": " In his pre-circulated \u2018Concepts Paper\u2019, Sinclair Dinnen introduced restorative justice as a large and capacious category, a broad reform movement aimed at achieving more effective and",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 283,
+            "top": 674,
+            "left": 87
+        }
+    },
+    {
+        "page": 285,
+        "heading": "Gender and justice \u2014 domestic violence and rape",
+        "content": " Echoing the much earlier work of the Law Reform Commission in Papua New Guinea,\u2019 there has been some disturbing recent evidence from across the region of the failures of both the",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 341,
+            "top": 309,
+            "left": 87
+        }
+    },
+    {
+        "page": 287,
+        "heading": "Conclusion",
+        "content": " In conclusion then, | think there is a need to think about justice in the way Hannington Alatoa suggested to this conference, not just justice in terms of the restorative resolution of particular",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 76,
+            "top": 289,
+            "left": 87
+        }
+    },
+    {
+        "page": 288,
+        "heading": "Endnotes",
+        "content": " 1  eg Braithwaite, John 1999. \u2018Restorative justice: assessing optimistic",
+        "features": {
+            "font_id": "24",
+            "height": 16,
+            "width": 62,
+            "top": 108,
+            "left": 87
+        }
+    },
+    {
+        "page": 291,
+        "heading": "jaqes| eyues",
+        "content": " > euo|jag  spueysi SUOLUOJ|OS puke eaUINS Mau ended g dew",
+        "features": {
+            "font_id": "155",
+            "height": 7,
+            "width": 0,
+            "top": 730,
+            "left": 483
+        }
+    },
+    {
+        "page": 291,
+        "heading": "Sue",
+        "content": " Aqsa10;w Od  }>41e|POoM * sl, D-",
+        "features": {
+            "font_id": "155",
+            "height": 7,
+            "width": 0,
+            "top": 730,
+            "left": 483
+        }
+    },
+    {
+        "page": 291,
+        "heading": "Aqsa10;w Od",
+        "content": " }>41e|POoM * sl, D- pueuqos, a ",
+        "features": {
+            "font_id": "155",
+            "height": 7,
+            "width": 0,
+            "top": 734,
+            "left": 480
+        }
+    },
+    {
+        "page": 291,
+        "heading": "enewe|es",
+        "content": " Aeg JUIN\u00bb ule}uig MON  a",
+        "features": {
+            "font_id": "155",
+            "height": 7,
+            "width": 0,
+            "top": 730,
+            "left": 483
+        }
+    },
+    {
+        "page": 292,
+        "heading": "AVNV91Vd",
+        "content": " DB Ss % \u2014ane sl Val\u00a5Oud ",
+        "features": {
+            "font_id": "185",
+            "height": 9,
+            "width": 2,
+            "top": 633,
+            "left": 164
+        }
+    },
+    {
+        "page": 292,
+        "heading": "= enyo10qw",
+        "content": " SCNVISI VIDYOID MAN 9 OGWIS",
+        "features": {
+            "font_id": "146",
+            "height": 9,
+            "width": 0,
+            "top": 358,
+            "left": 191
+        }
+    },
+    {
+        "page": 292,
+        "heading": "saqawolry OOL",
+        "content": " Or O\u20ac Of OL O 0g 09 OF ",
+        "features": {
+            "font_id": "204",
+            "height": 9,
+            "width": 5,
+            "top": 664,
+            "left": 102
+        }
+    },
+    {
+        "page": 292,
+        "heading": "Or O\u20ac Of OL O",
+        "content": "0g 09 OF  | ABS 1",
+        "features": {
+            "font_id": "204",
+            "height": 9,
+            "width": 5,
+            "top": 664,
+            "left": 102
+        }
+    },
+    {
+        "page": 293,
+        "heading": "spurs! UOWO]OS) JeURd;epens g dew",
+        "content": " . ora qulog 1Ane] sa@WO]I} ",
+        "features": {
+            "font_id": "150",
+            "height": 8,
+            "width": 0,
+            "top": 661,
+            "left": 353
+        }
+    },
+    {
+        "page": 310,
+        "heading": "District 220 Island 15,145,146 Local 15,59 \u2018native\u2019 11",
+        "content": " Village 15,18,30,47,58-59,67-68,111,112,142,219,221,256,272 Western-style 10,103,141,195 win-win 225",
+        "features": {
+            "font_id": "9",
+            "height": 13,
+            "width": 71,
+            "top": 318,
+            "left": 129
+        }
+    },
+    {
+        "page": 310,
+        "heading": "delinquency 20 see also raskolism deterrence 5",
+        "content": " Didato, Josephin 247  Dinnen, Sinclair 1,268,269,283",
+        "features": {
+            "font_id": "255",
+            "height": 13,
+            "width": 43,
+            "top": 168,
+            "left": 227
+        }
+    },
+    {
+        "page": 310,
+        "heading": "Didato, Josephin 247",
+        "content": " Dinnen, Sinclair 1,268,269,283  dispute resolution see conflict resolution",
+        "features": {
+            "font_id": "9",
+            "height": 13,
+            "width": 122,
+            "top": 695,
+            "left": 87
+        }
+    },
+    {
+        "page": 311,
+        "heading": "see also alcohol; marijuana drunkenness 58,59,247,250 Durutalo, Alumita 27,165",
+        "content": " East Timor 266  economic issues 17,19,31,153,175, 188-190,198 see also Capitalism",
+        "features": {
+            "font_id": "255",
+            "height": 13,
+            "width": 43,
+            "top": 138,
+            "left": 129
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Tanagai (Solomon Islands) 177,180,181,188 Tangarare (Solomon Islands) 182 Tanis, James 197",
+        "content": " Tanna (Vanuatu) 142  Tari, Thomas 233-234,235",
+        "features": {
+            "font_id": "9",
+            "height": 13,
+            "width": 246,
+            "top": 740,
+            "left": 87
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Tanna (Vanuatu) 142",
+        "content": " Tari, Thomas 233-234,235  Tasiu (Melanesian Brothers) 181",
+        "features": {
+            "font_id": "9",
+            "height": 13,
+            "width": 119,
+            "top": 785,
+            "left": 87
+        }
+    },
+    {
+        "page": 319,
+        "heading": "Tari, Thomas 233-234,235",
+        "content": " Tasiu (Melanesian Brothers) 181 Taukei see Fiji \u2014 indigenous rights Taurama military barracks 55",
+        "features": {
+            "font_id": "9",
+            "height": 13,
+            "width": 153,
+            "top": 800,
+            "left": 87
+        }
+    },
+    {
+        "page": 322,
+        "heading": "yaqona (kava) 27,96,140,157,159,270",
+        "content": " Yasana (provincial council, Fiji) 167  Yavusa (clan, Fiji) 165,166,169",
+        "features": {
+            "font_id": "255",
+            "height": 13,
+            "width": 76,
+            "top": 245,
+            "left": 87
+        }
+    },
+    {
+        "page": 322,
+        "heading": "Yasana (provincial council, Fiji) 167",
+        "content": " Yavusa (clan, Fiji) 165,166,169  Yauka, Liria 206",
+        "features": {
+            "font_id": "255",
+            "height": 13,
+            "width": 38,
+            "top": 260,
+            "left": 87
+        }
+    },
+    {
+        "page": 322,
+        "heading": "Yavusa (clan, Fiji) 165,166,169",
+        "content": " Yauka, Liria 206  youth 61-66,112,221 see also justice \u2014 juvenile",
+        "features": {
+            "font_id": "255",
+            "height": 13,
+            "width": 38,
+            "top": 275,
+            "left": 87
+        }
+    },
+    {
+        "page": 323,
+        "heading": "about the editors",
+        "content": " Sinclair Dinnen  Sinclair Dinnen is a Fellow of the State, Society and Governance in Melanesia",
+        "features": {
+            "font_id": "25",
+            "height": 33,
+            "width": 283,
+            "top": 106,
+            "left": 160
+        }
+    },
+    {
+        "page": 323,
+        "heading": "Sinclair Dinnen",
+        "content": " Sinclair Dinnen is a Fellow of the State, Society and Governance in Melanesia Project within the Research School of Pacific and Asian Studies, The Australian National University. He has a PhD in law from The Australian National",
+        "features": {
+            "font_id": "256",
+            "height": 18,
+            "width": 142,
+            "top": 400,
+            "left": 87
+        }
+    },
+    {
+        "page": 323,
+        "heading": "Anita Jowitt",
+        "content": " Anita Jowitt is a lecturer in law at the University of the South Pacific. She has published on a wide range of socio-legal topics pertaining to the Pacific, including HIV/AIDS and the law and the abuse of kava in non-traditional",
+        "features": {
+            "font_id": "256",
+            "height": 18,
+            "width": 116,
+            "top": 583,
+            "left": 87
+        }
+    },
+    {
+        "page": 323,
+        "heading": "Tess Newton Cain",
+        "content": " Tess Newton Cain has a degree in law and a PhD in criminology, both from the University of Wales. Between 1997 and 2001 she was a lecturer in law at the University of the South Pacific in Port Vila, Vanuatu. She has published",
+        "features": {
+            "font_id": "256",
+            "height": 18,
+            "width": 164,
+            "top": 699,
+            "left": 87
+        }
+    }
+]

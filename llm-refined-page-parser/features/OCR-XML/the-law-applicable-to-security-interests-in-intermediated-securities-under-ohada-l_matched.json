@@ -1,0 +1,4694 @@
+[
+    {
+        "page": 2,
+        "heading": "Herausgegeben vom",
+        "content": " Max-Planck-Institut fiir auslandisches und internationales Privatrecht ",
+        "features": {
+            "font_id": "1",
+            "height": 16,
+            "width": 148,
+            "top": 231,
+            "left": 370
+        }
+    },
+    {
+        "page": 2,
+        "heading": "Max-Planck-Institut fiir auslandisches und internationales Privatrecht",
+        "content": " Direktoren:  Holger Fleischer, Ralf Michaels und Reinhard Zimmermann",
+        "features": {
+            "font_id": "0",
+            "height": 18,
+            "width": 244,
+            "top": 285,
+            "left": 322
+        }
+    },
+    {
+        "page": 4,
+        "heading": "Justin Monsenepwo",
+        "content": " The Law Applicable to Security Interests in Intermediated Securities Under OHADA Law",
+        "features": {
+            "font_id": "2",
+            "height": 23,
+            "width": 202,
+            "top": 118,
+            "left": 343
+        }
+    },
+    {
+        "page": 5,
+        "heading": "ISBN 978-3-16-161282-4 / eISBN 978-3-16-161283-1 DOI 10.1628/978-3-16-161283-1",
+        "content": " ISSN 0720-1141 / eISSN 2568-7441 (Studien zum auslandischen und internationalen Privatrecht) ",
+        "features": {
+            "font_id": "5",
+            "height": 14,
+            "width": 337,
+            "top": 751,
+            "left": 185
+        }
+    },
+    {
+        "page": 5,
+        "heading": "ISSN 0720-1141 / eISSN 2568-7441 (Studien zum auslandischen und internationalen Privatrecht)",
+        "content": " The Deutsche Nationalbibliothek lists this publication in the Deutsche Nationalbibliographie; detailed bibliographic data are available at http://dnb.dnb.de. ",
+        "features": {
+            "font_id": "5",
+            "height": 14,
+            "width": 229,
+            "top": 796,
+            "left": 185
+        }
+    },
+    {
+        "page": 5,
+        "heading": "\u00a9 2022 Mohr Siebeck Tiibingen. www.mohrsiebeck.com",
+        "content": " This work is licensed since 11/2023 under the license \u201cAttribution-ShareAlike 4.0 International\u201d (CC BY-SA 4.0). A complete Version of the license text can be found at: https://creative commons.org/licenses/by-sa/4.0/deed.de",
+        "features": {
+            "font_id": "5",
+            "height": 14,
+            "width": 364,
+            "top": 907,
+            "left": 185
+        }
+    },
+    {
+        "page": 8,
+        "heading": "Preface",
+        "content": " This book is the result of my doctoral research, accepted as a doctoral disser- tation by the Faculty of Law of the Julius Maximilian University of Wiirz- burg in January 2021. It aims at finding clear and efficient conflict of laws",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 82,
+            "top": 236,
+            "left": 406
+        }
+    },
+    {
+        "page": 12,
+        "heading": "Foreword",
+        "content": " The core purpose of the Organisation for the Harmonisation of Business Law in Africa (OHADA) is not only to promote economic development and inte- gration but also to guarantee legal certainty for investors and companies in its",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 105,
+            "top": 236,
+            "left": 394
+        }
+    },
+    {
+        "page": 14,
+        "heading": "Summary of Contents",
+        "content": " PLefACE......eceeecccccccesessseceecceseseceeccecessesseceecceeessseeeeceeessseeeecceenensseeeeecesesaeeeeeeeeeeea VII FOO WOLK .....ccccccccceessssecceccesesseeeeccesessseecceccseessseceecseesaseeeecceeseseeeecceeestsseeeeeeeeeesaas XI CONtCNIS oo. cee ccccccccccecceceeccececcescssessesssscssecseeeeeeesecsecceccesesseeesessssssasecueeeeeeeeeees XV",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 228,
+            "top": 236,
+            "left": 332
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Part I\u2014 The Intermediary System in the OHADA Region",
+        "content": " Chapter 1: The Organisation for the Harmonisation of Business Law  UT AST ICA cece cece cescneece cece ceeeeenneee cece eeeneeeeeeeceee cece enesaaaeaeeeeeeesenenesaaeeaeeeeees\u00ae 11",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 17,
+            "top": 619,
+            "left": 154
+        }
+    },
+    {
+        "page": 16,
+        "heading": "Chapter 1: The Organisation for the Harmonisation of Business Law",
+        "content": " UT AST ICA cece cece cescneece cece ceeeeenneee cece eeeneeeeeeeceee cece enesaaaeaeeeeeeesenenesaaeeaeeeeees\u00ae 11 A. Historical Perspective ........cccccccccessecessseceeeceeeeeseeeeeeceeeeceeeeccsaeeeseeeneeenaes 11 B. Purpose of OHADA oo... eecccccccecceeeseecesecceaeceaeeceseeeesseeseaeeeseeeeeeensaeeesaees 16",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 516,
+            "top": 565,
+            "left": 154
+        }
+    },
+    {
+        "page": 17,
+        "heading": "Chapter 2: Basic Structure and Functioning of the Indirect Holding",
+        "content": " System in the OHADA ReQION wie ceeeseccceeseseeceeeseeceeeseneaeeseesnuneeeensnaaeees 43 A. Development of Commercial Practices in the OHADA Region regarding the Holding of Securities ........... ccc cecccescecesseeeneeeeeeeeeeeeeenteeenaees 43",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 507,
+            "top": 583,
+            "left": 185
+        }
+    },
+    {
+        "page": 19,
+        "heading": "XVII Contents",
+        "content": " I. Requirement of a Declaration establishing the Pledge..................... 1. The Declaration establishing the Pledge .0......... eee eeeeeeeeeees 2. Elements to Be Included in the Declaration establishing",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 56,
+            "top": 83,
+            "left": 452
+        }
+    },
+    {
+        "page": 20,
+        "heading": "Chapter 2: Security Interests in Intermediated Securities under the",
+        "content": " Geneva Securities CONVENTION.........ccccccccceeeeeesenneneeceeeeeeessnnneeaeeeeeeeeee A. Presentation of the Geneva Securities Convention ...........:ccseeeeseeereeeneees I. The Geneva Securities CONVeNtiON ............ ce eeeeeeeeeceesteeceestteeeeeeees",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 499,
+            "top": 236,
+            "left": 154
+        }
+    },
+    {
+        "page": 21,
+        "heading": "XxX Contents",
+        "content": " I. General Overview and History of the Top-Up Rule in Article 36 of the Geneva Securities Convention .............cceeeeeeeees II. Analysis of Top-Up Rule in Article 36 of the Geneva",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 26,
+            "top": 81,
+            "left": 185
+        }
+    },
+    {
+        "page": 26,
+        "heading": "Convention into Force (Article 19(1))...... ce eeeeeees 283",
+        "content": " (2) For Subsequent States and REIOs (Regional Economic Integration Organizations) under ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 14,
+            "top": 127,
+            "left": 239
+        }
+    },
+    {
+        "page": 26,
+        "heading": "(2) For Subsequent States and REIOs (Regional Economic Integration Organizations) under",
+        "content": " Article 19(2) oo... eeeiceeeeesseeeeceenneeeceeseneeeeeeseneeeeeseeteeeerees 283 2. Temporal Scope of Application and Pre-convention Account Agreements and Securities Accounts ............:eceeeeeeeeee 284",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 14,
+            "top": 127,
+            "left": 239
+        }
+    },
+    {
+        "page": 28,
+        "heading": "3. Interaction of the Hague Securities Convention with",
+        "content": " Securities Law .......ccceeeesecceecesseceecesseneeeeeseeneceeesesaeeeeesnnaeeseseaeas 327 III. Relationship with Public Law.........cceececccccceceeeeeeseeteneeeeeeeeenseeeneaes 329 IV. Diversity of Laws in the Securities Settlement System.................. 330",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 14,
+            "top": 127,
+            "left": 216
+        }
+    },
+    {
+        "page": 29,
+        "heading": "Second Variation: Collateral Provider and Collateral Taker Hold through Different Intermediaries and Collateral Is",
+        "content": " Provided by way of Pledge .........eeeceeecccccccceeeeesenteceeeceeseeeeesneeeeeeeeess 355 1. A Variation on the Fact Pattert........... cece ecccccceceeeeeeteteeeeeeeees 355 2. Solution under Different Conflict of Laws Rules... 357",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 14,
+            "top": 171,
+            "left": 269
+        }
+    },
+    {
+        "page": 30,
+        "heading": "General Conclusion... eecceeceessseseseeseseseeeeseseseeeeseseeeseeneaeensneeeeeeeeess 365 Appendix",
+        "content": " A. Indicative List of the Travaux Pr\u00e9paratoires for the  Financial Collateral Directive 0.0.0... ceceeeeesceceeeeeneceeeceeneeecesseaeeeeesaees 371",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 176,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 30,
+        "heading": "A. Indicative List of the Travaux Pr\u00e9paratoires for the",
+        "content": " Financial Collateral Directive 0.0.0... ceceeeeesceceeeeeneceeeceeneeecesseaeeeeesaees 371 B. Indicative List of the Travaux Pr\u00e9paratoires for Directive ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 404,
+            "top": 243,
+            "left": 154
+        }
+    },
+    {
+        "page": 30,
+        "heading": "Financial Collateral Directive 0.0.0... ceceeeeesceceeeeeneceeeceeneeecesseaeeeeesaees 371 B. Indicative List of the Travaux Pr\u00e9paratoires for Directive",
+        "content": " 2009/44/EC of 6 May 2009 oui ceeseceesseceeseecesseetseneeeeseeesseaeeees 373 C. Proposal of a Uniform Act on the Law Applicable to Certain ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 450,
+            "top": 286,
+            "left": 154
+        }
+    },
+    {
+        "page": 30,
+        "heading": "Rights in Respect of Securities held with an Intermediary .................. 374 Bibliography... eeeceseceseceneeseeceeeeseeceeesneceeesaeceseceseceseeeeeceeecaeceeeeeseeeneenaes 391",
+        "content": " INdeX wieeeee cece eee ceccccccssssssssssescececcccccccecucacaeseesssssceccecececseseeecacaaasseassssscececeecesseseeeea 413 ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 548,
+            "top": 351,
+            "left": 190
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Tables and Figures",
+        "content": " Table 1: Chronological Table of the Ratifications of the OHADA  TO aty ei. ceeccccccesscccesssnceccescececesneeceeaeeecesaeeceseaeecceeneeeesesaeceeseaeeeceseeeeseaeeeeneaes 15",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 199,
+            "top": 236,
+            "left": 347
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Table 1: Chronological Table of the Ratifications of the OHADA",
+        "content": " TO aty ei. ceeccccccesscccesssnceccescececesneeceeaeeecesaeeceseaeecceeneeeesesaeceeseaeeeceseeeeseaeeeeneaes 15 Table 2: Geographical Origins of the Appeals Lodged before the CCJA......... 28 Table 3: Chronological Table of the Uniform Acts and the Regulations.......... 40",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 476,
+            "top": 308,
+            "left": 154
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Intermediaries 0.00... cece eeccesceseeseceeeeeecseeaececesecsecsseeseceeesaseseeeaeseeesseeneeeaees 49 Figure 3: Global Dematerialisation of Securities in Cameroon under",
+        "content": " Act 1\u00b0 2014/007 oo. ceceececcceceseeseceecesececeseeseceeesaecacsaececeeecasesecseseeeeaeeeeeaees 55 Figure 4: Individual Ownership Model ...........:cecceeseceeseeeeceseeeeeeceeeeeeceaeeseeeaeees 56 Figure 5: Co-ownership Model ...........cecceeseeseesseceeceneeeeeceeeceeeceseveeeceaeeeeeeaeees 56",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 496,
+            "top": 546,
+            "left": 154
+        }
+    },
+    {
+        "page": 32,
+        "heading": "Are Identified in an Intermediary Account with the CSD... eee 61",
+        "content": " Figure 11: Transparent Systems in Which an Investor\u2019s Holdings are Held by an Intermediary in an Omnibus Account at the CSD and ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 553,
+            "top": 763,
+            "left": 180
+        }
+    },
+    {
+        "page": 33,
+        "heading": "XXXII Tables and Figures",
+        "content": " Figure 21: Third Variation ...........cccesceescsseceseeesseceeeeeneceseceaeeseeceeeeeeeceaeeeeeenaes Figure 22: Fourth Variation ..........ccescsscsseceseeesseceeeesaeceseceaeeseeceeeeeeeesaeeeneenaes Figure 23: Determination of the Applicable Law under the Hague",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 52,
+            "top": 81,
+            "left": 185
+        }
+    },
+    {
+        "page": 33,
+        "heading": "Hold through the Same Intermediary and Collateral Is Provided by",
+        "content": " WAY Of Pledge oo... eee ecccccceseccenseceseeeeeceeseeeeeecceeeceuecesaeecaeecsseeeseeeeneeeenegs Figure 32: Second Variation: Collateral Provider and Collateral Taker ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 486,
+            "top": 431,
+            "left": 210
+        }
+    },
+    {
+        "page": 33,
+        "heading": "WAY Of Pledge oo... eee ecccccceseccenseceseeeeeceeseeeeeecceeeceuecesaeecaeecsseeeseeeeneeeenegs Figure 32: Second Variation: Collateral Provider and Collateral Taker",
+        "content": " Hold through Different Intermediaries and Collateral Is Provided  by way Of Pledge ..... cee eee ec ecececeesecesnecceeeceseeeeaeeceseeeseeeeseeeeeeeeeneaeenaeees",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 510,
+            "top": 474,
+            "left": 185
+        }
+    },
+    {
+        "page": 34,
+        "heading": "CAA CAEMC CCJA CJEU CCP CFA",
+        "content": " CGE Chinese PIL Act 2010 ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 37,
+            "top": 573,
+            "left": 154
+        }
+    },
+    {
+        "page": 41,
+        "heading": "3 See also Jiirgen Basedow, \u2018The Effects of Globalization on Private International",
+        "content": "Law\u2019 in Jiirgen Basedow & Toshiyuki Kono (eds), Legal Aspects of Globalization: Con- flict of Laws, Internet, Capital Markets and Insolvency in a Global Economy (Kluwer Law International, The Hague 2000) 6, who foresaw the sharp rise in the number of legal con- flicts bearing transborder elements as a consequence of globalisation and the increased",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 22,
+            "top": 377,
+            "left": 315
+        }
+    },
+    {
+        "page": 48,
+        "heading": "Part I",
+        "content": " The Intermediary System in the OHADA Region  Chapter 1: The Organisation for the Harmonisation of",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 44,
+            "top": 192,
+            "left": 424
+        }
+    },
+    {
+        "page": 48,
+        "heading": "The Intermediary System in the OHADA Region",
+        "content": " Chapter 1: The Organisation for the Harmonisation of Business Law in Africa ",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 518,
+            "top": 236,
+            "left": 191
+        }
+    },
+    {
+        "page": 48,
+        "heading": "Chapter 1: The Organisation for the Harmonisation of Business Law in Africa",
+        "content": " A. Historical Perspective  OHADA traces its origin to 1991, when the ministers of finance of the Franc",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 93,
+            "top": 308,
+            "left": 199
+        }
+    },
+    {
+        "page": 48,
+        "heading": "A. Historical Perspective",
+        "content": " OHADA traces its origin to 1991, when the ministers of finance of the Franc Zone! met in Ouagadougou to assess the feasibility of a project aiming at attracting foreign investors through the harmonisation of business law in",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 381,
+            "left": 154
+        }
+    },
+    {
+        "page": 52,
+        "heading": "Table 1: Chronological Table of the Ratifications of the OHADA Treaty",
+        "content": " Deposit of the instru-  Member States Ratification ment of ratification Entry into force",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 152,
+            "top": 171,
+            "left": 154
+        }
+    },
+    {
+        "page": 52,
+        "heading": "Deposit of the instru-",
+        "content": " Member States Ratification ment of ratification Entry into force Guinea-Bissau 15 January 1994 26 December 1995 20 February 1996 Senegal 14 June 1994 14 June 1994 18 September 1995",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 135,
+            "top": 383,
+            "left": 443
+        }
+    },
+    {
+        "page": 53,
+        "heading": "Deposit of the instru-",
+        "content": " Member States Ratification ment of ratification Entry into force Togo 27 October 1995 20 November 1995 19 January 1996 Chad 13 April 1996 3 May 1996 2 July 1996",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 135,
+            "top": 133,
+            "left": 474
+        }
+    },
+    {
+        "page": 53,
+        "heading": "B. Purpose of OHADA I. Contribution to Regional Integration in Africa",
+        "content": " The mission of OHADA is stated in the preamble of the OHADA Treaty. With the creation of OHADA, the Contracting States*\u00ae intended to accomplish new progress on the path towards African unity. Indeed, the creation of OHADA",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 579,
+            "left": 185
+        }
+    },
+    {
+        "page": 54,
+        "heading": "II. Facilitating Investments and Improving the Economies of Its Members",
+        "content": " There are many different considerations which come into play for the creation of a business-friendly environment. One of these is the strong correlation between the ease of starting a business and economic growth. Indeed, reduc-",
+        "features": {
+            "font_id": "16",
+            "height": 11,
+            "width": 9,
+            "top": 234,
+            "left": 427
+        }
+    },
+    {
+        "page": 55,
+        "heading": "37 Claire Moore Dickerson, \u2018A Comparative Analysis of OHADA\u2019s Uniform Business",
+        "content": "Laws in West Africa: A French Civilian Structure\u2019s Impact on Economic Development\u2019 (2005) George Washington University Law School Public Law Research Paper 119, 119-\u2014 120. For an empirical evaluation of the impact of OHADA law on the economies of its Member States, see World Bank, Doing Business dans les Etats membres de |\u2019?OHADA 2017",
+        "features": {
+            "font_id": "16",
+            "height": 11,
+            "width": 12,
+            "top": 364,
+            "left": 477
+        }
+    },
+    {
+        "page": 56,
+        "heading": "III. Unification in lieu of Harmonisation",
+        "content": " In light of the above, Article 1 of the OHADA Treaty provides that the objective of the Treaty is to unify the business law rules of the Member States through: ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 475,
+            "left": 154
+        }
+    },
+    {
+        "page": 57,
+        "heading": "C. OHADA\u2019s Institutional Framework",
+        "content": " OHADA has five institutions: (i) the Conference of Heads of State and Gov- ernment (Conf\u00e9rence des Chefs d\u2019Etat et de Gouvernement),* (ii) the Council of Ministers (Conseil des Ministres),\u201d (iii) the Permanent Secretariat (Secre-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 594,
+            "left": 185
+        }
+    },
+    {
+        "page": 58,
+        "heading": "trates (Ecole R\u00e9gionale Sup\u00e9rieure de la Magistrature, hereinafter referred to as ERSUMA).*\u201d",
+        "content": " I. The Conference of Heads of State and Government  The Conference of Heads of State and Government is an institution that was",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 52,
+            "top": 127,
+            "left": 154
+        }
+    },
+    {
+        "page": 58,
+        "heading": "I. The Conference of Heads of State and Government",
+        "content": " The Conference of Heads of State and Government is an institution that was added by the 2008 revision of the OHADA Treaty (Article 27(1) of the OHADA Treaty). It is composed of heads of state and government of the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 58,
+        "heading": "II. The Council of Ministers I. Composition",
+        "content": " The Council of Ministers is composed of the ministers of justice and finance of the Member States (Article 27(2) of the OHADA Treaty). Several reasons justify this unusual composition of the OHADA Council of Ministers. First,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 59,
+        "heading": "2. Functioning",
+        "content": " Under Article 27(2) of the OHADA Treaty, the presidency of the Council of Ministers is taken for a predetermined period of one year by each of the Member States in turn according to a rotation system. In principle, the rota-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 388,
+            "left": 185
+        }
+    },
+    {
+        "page": 60,
+        "heading": "3. Duties",
+        "content": " The Council of Ministers adopts and amends the Uniform Acts (Articles 4 and 8 of the OHADA Treaty). Moreover, it may determine the areas of busi- ness law to be unified (Article 2 of the OHADA Treaty). It is also responsible",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 345,
+            "left": 154
+        }
+    },
+    {
+        "page": 60,
+        "heading": "Il. The Permanent Secretariat 1. Organisation",
+        "content": " Headquartered in Yaound\u00e9, the Permanent Secretariat is the executive body of OHADA (Article 40(1) of the OHADA Treaty). It is directed by a perma- nent secretary appointed by the Council of Ministers to a four-year term re-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 205,
+            "top": 616,
+            "left": 185
+        }
+    },
+    {
+        "page": 60,
+        "heading": "(ii) Finance and accounting; and",
+        "content": " (iii) General administration as well as the administration of the OHADA\u2019s official journal. ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 252,
+            "top": 843,
+            "left": 154
+        }
+    },
+    {
+        "page": 60,
+        "heading": "2. Duties",
+        "content": " Pursuant to Article 40(2) of the OHADA Treaty, the permanent secretary rep- resents OHADA and assists the Council of Ministers. He or she is mainly re- sponsible for assessing the areas where the unification of business law is nec-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 53,
+            "top": 345,
+            "left": 185
+        }
+    },
+    {
+        "page": 61,
+        "heading": "IV. The Common Court of Justice and Arbitration (CCJA)",
+        "content": " I. Composition  The CCJA is composed of nine judges.** However, considering the tasks and",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 713,
+            "left": 185
+        }
+    },
+    {
+        "page": 61,
+        "heading": "I. Composition",
+        "content": " The CCJA is composed of nine judges.** However, considering the tasks and the resources of OHADA, the Council of Ministers may decide to set a higher number of judges (Article 31(2) of the OHADA Treaty). Under Article 31(3)",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 99,
+            "top": 746,
+            "left": 215
+        }
+    },
+    {
+        "page": 62,
+        "heading": "(iii) Law professors with at least fifteen years of academic experience.\u201d",
+        "content": " The members of the CCJA elect a president and two vice-presidents to terms of three and one-half years. Nonetheless, this period may not exceed that of the mandate of the person concerned as a judge of the Court. The CCJA sits",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 519,
+            "top": 268,
+            "left": 154
+        }
+    },
+    {
+        "page": 62,
+        "heading": "2. Functions",
+        "content": " The CCJA has four main functions. First, it reviews drafts of the Uniform Acts. According to Articles 6 and 7 of the OHADA Treaty, the CCJA exam- ines drafts of the Uniform Acts for consistency with the OHADA Treaty",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 475,
+            "left": 154
+        }
+    },
+    {
+        "page": 65,
+        "heading": "b) Geographical Origins of the Appeals lodged before the CCJA",
+        "content": " The only available statistics on CCJA case law cover the period from 1998 to 2010.\u201d They indicate that appeals to the CCJA remain the appanage of a few Member States. There were nearly 918 appeals to the CCJA from 1998 until",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 280,
+            "left": 185
+        }
+    },
+    {
+        "page": 65,
+        "heading": "Table 2: Geographical Origins of the Appeals Lodged before the CCJA\u2122",
+        "content": " N\u00b0 OHADA Member States |= Number of Appeals Percentage Lodged with the CCJA ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 280,
+            "left": 185
+        }
+    },
+    {
+        "page": 65,
+        "heading": "N\u00b0 OHADA Member States |= Number of Appeals Percentage Lodged with the CCJA",
+        "content": " 1. Benin 15 1.64% 2. Burkina Faso 24 2.62% 3. Cameroon 128 13.94%",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 280,
+            "left": 185
+        }
+    },
+    {
+        "page": 67,
+        "heading": "V. The Regional School for Magistrates",
+        "content": " The Regional School for Magistrates, ERSUMA, is a training and documen- tation centre on OHADA law under the permanent secretary of OHADA (Article 41(1) of the OHADA Treaty). It is composed of a board of directors,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 282,
+            "left": 185
+        }
+    },
+    {
+        "page": 67,
+        "heading": "D. Instruments of OHADA",
+        "content": " To unify business law in Africa, OHADA adopts Uniform Acts (I) and Regu- lations (II). ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 488,
+            "left": 185
+        }
+    },
+    {
+        "page": 67,
+        "heading": "I. Uniform Acts 1. Object of the Uniform Acts",
+        "content": " As mentioned above, OHADA aims at unifying business law in the Member States by elaborating and adopting simple, modern, and common rules (Arti- cle 1 of the OHADA Treaty). Article 5 of the OHADA Treaty provides that",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 586,
+            "left": 185
+        }
+    },
+    {
+        "page": 68,
+        "heading": "2. The Process of Adopting Uniform Acts a) Drafting",
+        "content": " The subject matter covered by a Uniform Act is chosen according to the an- nual program for harmonisation approved by the Council of Ministers. Under the aegis of the Permanent Secretariat, a recognised expert in the relevant",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 564,
+            "left": 154
+        }
+    },
+    {
+        "page": 69,
+        "heading": "b) Advisory Opinion of the CCJA",
+        "content": " After the completion of the drafting phase, the Permanent Secretariat sends the draft to the CCJA for an advisory opinion. The CCJA must determine whether the draft complies with the OHADA Treaty. The advisory opinion of",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 258,
+            "left": 185
+        }
+    },
+    {
+        "page": 69,
+        "heading": "c) Final Adoption",
+        "content": " The adoption of the Uniform Act by the Council of Ministers is the final step. Adoption requires a unanimous vote by the Member States which are present, not considering any abstentions, with a quorum of two-thirds of the Member",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 442,
+            "left": 185
+        }
+    },
+    {
+        "page": 69,
+        "heading": "d) Exclusion of Legislative Authorities",
+        "content": " The exclusion of legislative authorities from the adoption process of the Uni- form Acts had led to objections in Cameroon on constitutional grounds. In- deed, Article 2(1) of Cameroon\u2019s constitution provides:",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 442,
+            "left": 185
+        }
+    },
+    {
+        "page": 72,
+        "heading": "b) Interpretation of Article 10 by the CCJA",
+        "content": " On 30 April 2001, the CCJA issued an advisory opinion providing certain indications as to the proper interpretation of Article 10 of the OHADA Trea- ty. The CCJA indicated that Article 10 of the OHADA Treaty contains a rule",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 258,
+            "left": 154
+        }
+    },
+    {
+        "page": 73,
+        "heading": "(vi)",
+        "content": " (vii)  The Uniform Act on the Law of Commercial Companies and Economic",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 333,
+            "top": 604,
+            "left": 185
+        }
+    },
+    {
+        "page": 73,
+        "heading": "(vii)",
+        "content": " The Uniform Act on the Law of Commercial Companies and Economic Interest Groups (Acte uniforme relatif au droit des soci\u00e9t\u00e9s commercial- es et du groupement d\u2019int\u00e9r\u00e9t \u00e9conomique),\u2019\u201d\u201d which entered into force",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 583,
+            "top": 691,
+            "left": 185
+        }
+    },
+    {
+        "page": 73,
+        "heading": "(viii) The Uniform Act on Contracts of Carriage of Goods by Road (Acte",
+        "content": " (ix)  uniforme relatif aux contrats de transport de marchandises par route)",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 22,
+            "top": 236,
+            "left": 185
+        }
+    },
+    {
+        "page": 76,
+        "heading": "\"| The text of the conclusions of the OHADA Council of Ministers from Niamey in",
+        "content": "2007 is available on the website of the presidency of the Republic of Niger at <http:// www.presidence.ne/article/communique-du-conseil-des-ministres-du-mardi-09-mai-2017# sthash.6L4P4B\u00a24.dpbs> (accessed 4 January 2021). ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 549,
+            "top": 794,
+            "left": 190
+        }
+    },
+    {
+        "page": 77,
+        "heading": "II. Regulations",
+        "content": " Regulations are adopted by the Council of Ministers to fulfil and implement the OHADA Treaty (Article 4 of the OHADA Treaty). They are of the same nature as the OHADA Treaty.'!\u2019 They are directly applicable in all Member",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 80,
+        "heading": "Chapter 2: Basic Structure and Functioning of the Indirect Holding System in the OHADA Region",
+        "content": " A. Development of Commercial Practices in the OHADA Region regarding the Holding of Securities I. Traditional Direct Holding of Securities under OHADA Law",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 476,
+            "top": 83,
+            "left": 206
+        }
+    },
+    {
+        "page": 80,
+        "heading": "Issuer Certificate Investor",
+        "content": " Figure 1: Non-intermediated Securities Holding \u2014 Physical Certificates  There is no definition of the term \u201csecurities\u201d under OHADA law. However,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 395,
+            "left": 154
+        }
+    },
+    {
+        "page": 80,
+        "heading": "Figure 1: Non-intermediated Securities Holding \u2014 Physical Certificates",
+        "content": " There is no definition of the term \u201csecurities\u201d under OHADA law. However, from the provisions in Articles 51 to 55 and Article 744 of the Uniform Act on Commercial Companies, securities encompass bonds and other debt instru-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 395,
+            "left": 154
+        }
+    },
+    {
+        "page": 83,
+        "heading": "II. The Intermediated System under OHADA Law",
+        "content": "1. Development in Commercial Practices  The aforementioned disadvantages of the direct holding system have led to the development of an indirect holding system in the OHADA region. Moreover,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 410,
+            "left": 185
+        }
+    },
+    {
+        "page": 86,
+        "heading": "Issuer",
+        "content": " Intermediary |  may be depicted",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 584,
+            "top": 1022,
+            "left": 154
+        }
+    },
+    {
+        "page": 89,
+        "heading": "(3) Dematerialisation of Securities",
+        "content": " Dematerialisation refers to the complete elimination of paper certificates as a representation of securities.!\u00b0? Under Article 744-1 of the Uniform Act on Commercial Companies, securities of SAs and SASs can no longer be in the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 410,
+            "left": 185
+        }
+    },
+    {
+        "page": 89,
+        "heading": "b) The New Act on the Dematerialisation of Securities under the Law of Cameroon",
+        "content": " (1) Presentation of the New Act on the Dematerialisation of Securities  Since the Uniform Act on Commercial Companies does not determine the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 236,
+            "top": 410,
+            "left": 216
+        }
+    },
+    {
+        "page": 89,
+        "heading": "(1) Presentation of the New Act on the Dematerialisation of Securities",
+        "content": " Since the Uniform Act on Commercial Companies does not determine the practical modalities of the dematerialisation of securities, the national legisla- tor may complement the OHADA provisions with domestic rules. In 2014,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 236,
+            "top": 410,
+            "left": 216
+        }
+    },
+    {
+        "page": 90,
+        "heading": "(2) Modalities for the Dematerialisation of Securities",
+        "content": " As per Article 3(1) of Act n\u00b02014/007, the dematerialisation of securities occurs through registering them in an account with the issuer or an account keeper on behalf of their owners.'*\u2019 The issuer or intermediary must issue to",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 306,
+            "top": 127,
+            "left": 154
+        }
+    },
+    {
+        "page": 90,
+        "heading": "(iii) The value code (International Securities Identification Number, herein- after referred to as ISIN);'*\u00b0",
+        "content": " (iv) The indication of the interest rate and maturity for the bonds;  4 Toi n\u00b0 2014/007 du 23 avril 2014 sur les modalit\u00e9s de d\u00e9mat\u00e9rialisation des valeurs",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 22,
+            "top": 583,
+            "left": 154
+        }
+    },
+    {
+        "page": 91,
+        "heading": "The global dematerialisation of securities in Cameroon under Act n\u00b02014/",
+        "content": "007 can be described as in the figure on the next page.  B. Basic Structure of OHADA\u2019s Indirect Holding System Compared to Existing Models of Intermediated Systems",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 558,
+            "top": 377,
+            "left": 205
+        }
+    },
+    {
+        "page": 91,
+        "heading": "B. Basic Structure of OHADA\u2019s Indirect Holding System Compared to Existing Models of Intermediated Systems",
+        "content": " I. Introduction  So far there is no international uniform legal approach for the intermediated",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 442,
+            "left": 185
+        }
+    },
+    {
+        "page": 91,
+        "heading": "I. Introduction",
+        "content": " So far there is no international uniform legal approach for the intermediated system. Indeed, different jurisdictions have dealt with the issues arising from intermediation in a variety of ways. Each jurisdiction follows its own intermedi-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 496,
+            "left": 185
+        }
+    },
+    {
+        "page": 94,
+        "heading": "account rights Tivestor trust interests in securities Figure 6: Trust Model",
+        "content": " V. The Security Entitlement Model  In the security entitlement model, each securities account holder has a securi-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 94,
+        "heading": "V. The Security Entitlement Model",
+        "content": " In the security entitlement model, each securities account holder has a securi- ty entitlement against its relevant intermediary. The security entitlement en- compasses a sui generis bundle of rights which the account holder has over",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 696,
+            "left": 154
+        }
+    },
+    {
+        "page": 95,
+        "heading": "CSD Intermediary 1)",
+        "content": " LESSSS0 (a j Issuer | ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 350,
+            "top": 83,
+            "left": 305
+        }
+    },
+    {
+        "page": 95,
+        "heading": "maintains securities accounts on behalf of individual investors",
+        "content": " ! security entitlement to ! securities ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 684,
+            "left": 185
+        }
+    },
+    {
+        "page": 95,
+        "heading": "Investor",
+        "content": " Figure 7: Security Entitlement Model  1",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 578,
+            "top": 149,
+            "left": 185
+        }
+    },
+    {
+        "page": 95,
+        "heading": "VI. The Contractual Model",
+        "content": " Under this model, the investors do not acquire property interests in the securi- ties. Instead, they acquire contractual rights vis-a-vis the relevant intermedi- ary. In the contractual model, the whole holding chain from the CSD to the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 684,
+            "left": 185
+        }
+    },
+    {
+        "page": 96,
+        "heading": "securities Issuer |icscssissicsscieses CSD",
+        "content": " (Intermediary 1)  legal owner of the securities; it",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 50,
+            "top": 768,
+            "left": 185
+        }
+    },
+    {
+        "page": 97,
+        "heading": "x. CSD \u2018. ~*s._ (Intermediary 1)",
+        "content": " \\ : a Securities account : Securities account",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 65,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 99,
+        "heading": "securities",
+        "content": " \u2018Securities account for Intermediary 2 \\ Ae ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 584,
+            "top": 730,
+            "left": 185
+        }
+    },
+    {
+        "page": 99,
+        "heading": "\u2018Securities account for Intermediary 2 \\ Ae",
+        "content": " : \u201c~ we Secyrities account ]. Securities account fornvestor | \u201cfor Investor |",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 698,
+            "left": 185
+        }
+    },
+    {
+        "page": 99,
+        "heading": "proprietary interests rights attached to securities account rights",
+        "content": " Figure 11: Transparent Systems in Which an Investor\u2019s Holdings are Held by an Interme- diary in an Omnibus Account at the CSD and the Account Information is Registered on a Regular Basis",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 698,
+            "left": 185
+        }
+    },
+    {
+        "page": 99,
+        "heading": "C. Summary and Evaluation",
+        "content": " Traditionally, securities in the OHADA region were exclusively held, traded, and settled in a \u201cdirect holding system\u201d. In such a system, owners of securi- ties had a direct relationship with the issuer.",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 698,
+            "left": 185
+        }
+    },
+    {
+        "page": 102,
+        "heading": "Chapter 1: The Pledge of Securities Accounts under the OHADA Uniform Act on Security Interests",
+        "content": " A. Introduction: Relevance of the 2010 Revision of the Uniform Act on Security Interests ",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 93,
+            "top": 366,
+            "left": 191
+        }
+    },
+    {
+        "page": 102,
+        "heading": "A. Introduction: Relevance of the 2010 Revision of the Uniform Act on Security Interests",
+        "content": " Articles 64 et seq of the 1997 version of the Uniform Act on Security Interests contained provisions organising the pledge of securities.' These provisions were complemented by Articles 322, 747, 773, and 773 of the 1997 version of",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 438,
+            "left": 154
+        }
+    },
+    {
+        "page": 103,
+        "heading": "I. Definition of the Pledge of Securities Accounts",
+        "content": "1. Limited Material Scope  Article 146 of the Uniform Act on Security Interests defines a pledge of secu- rities accounts as an agreement by which the collateral provider assigns as",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 551,
+            "left": 185
+        }
+    },
+    {
+        "page": 108,
+        "heading": "Chapter 1: The Pledge of Securities Accounts",
+        "content": " 71  Table 4: Provisions on Pledges of Securities Accounts under different",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 289,
+            "top": 83,
+            "left": 300
+        }
+    },
+    {
+        "page": 112,
+        "heading": "(iv) Elements to idenitfy of the special pledged account.*\u00b0",
+        "content": " In comparison, the French Monetary and Financial Code on which Arti- cles 146 et seq of the Uniform Act on Security Interests are modelled does not provide a sanction should a declaration not contain one or all the elements",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 414,
+            "top": 409,
+            "left": 154
+        }
+    },
+    {
+        "page": 114,
+        "heading": "II. The Requirement of a Prior Contract",
+        "content": " It has been mentioned above that Article 147 of the Uniform Act on Security Interests requires only that a declaration be made by the account holder in order to constitute a pledge of a securities account. However, it is critical to",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 114,
+        "heading": "D. Basis of the Pledge",
+        "content": " I. The Contents of the Securities Account  1. Intermediated Securities located in the Securities Account",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 529,
+            "left": 154
+        }
+    },
+    {
+        "page": 114,
+        "heading": "I. The Contents of the Securities Account",
+        "content": " 1. Intermediated Securities located in the Securities Account  a) Financial Instruments recorded in the Pledged Securities Account",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 561,
+            "left": 154
+        }
+    },
+    {
+        "page": 114,
+        "heading": "a) Financial Instruments recorded in the Pledged Securities Account",
+        "content": " The pledge of a securities account covers all financial instruments initially deposited therein (Article 148(1) first sentence of the Uniform Act on Securi- ty Interests). It also includes securities that subsequently substitute or com-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 529,
+            "left": 154
+        }
+    },
+    {
+        "page": 115,
+        "heading": "b) Inalienable Securities",
+        "content": " The term \u201cfinancial instrument\u201d in Articles 146, 147, 148, 151, 152, and 154 2\u00b0) of the Uniform Act on Security Interests extends to securities issued by corporations. However, the transferability of certain securities may be limited",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 236,
+            "left": 185
+        }
+    },
+    {
+        "page": 115,
+        "heading": "The term \u201cfinancial instrument\u201d in Articles 146, 147, 148, 151, 152, and 154",
+        "content": "2\u00b0) of the Uniform Act on Security Interests extends to securities issued by corporations. However, the transferability of certain securities may be limited by the Articles of association of the company whose securities are given as a pledge. Indeed, notwithstanding the principle of free transferability of shares",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 584,
+            "top": 268,
+            "left": 185
+        }
+    },
+    {
+        "page": 116,
+        "heading": "c) Securities Whose Transfer is Subject to an Approval Clause",
+        "content": " Another difficulty might arise if the securities recorded in the pledged ac- count are subject to an approval clause. Under Article 765(1) of the Uniform Act on Commercial Companies, the Articles of association or the agreements",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 323,
+            "left": 154
+        }
+    },
+    {
+        "page": 116,
+        "heading": "\u00b0\u00b0 Note that such restrictions are subject to the conditions provided in Articles 765-1 to",
+        "content": "771-3 of the Uniform Act on Commercial Companies. See Paul-G\u00e9rard Pougou\u00e9, Josette Nguebou-Toukam & Francois Anoukaha in Joseph Issa-Sayegh, Paul-G\u00e9rard Pougou\u00e9 & Filiga Michel Sawadogo (eds) (supra n 40) 606, 607. ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 323,
+            "left": 154
+        }
+    },
+    {
+        "page": 117,
+        "heading": "II. Proof of the Content of the Pledged Securities Account",
+        "content": " Proof of the content of the pledged securities account is established both through the requirement that the pledged securities account take the form of a special account (1) and through a certificate of pledge of a securities account",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 200,
+            "top": 463,
+            "left": 185
+        }
+    },
+    {
+        "page": 118,
+        "heading": "E. Evolution of the Pledged Securities Account",
+        "content": " I. Introduction  The value of the pledged securities account will generally evolve after the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 746,
+            "left": 154
+        }
+    },
+    {
+        "page": 118,
+        "heading": "I. Introduction",
+        "content": " The value of the pledged securities account will generally evolve after the pledge is constituted. Indeed, the intermediated securities and other financial instruments recorded in the pledged securities account can yield benefits and",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 778,
+            "left": 154
+        }
+    },
+    {
+        "page": 119,
+        "heading": "IT. Inclusion of Products and Benefits deriving from the Pledged Securities Account",
+        "content": " Pursuant to Article 148(1) of the Uniform Act on Security Interests, the basis of the pledge includes all the fruits and benefits which derive from the securi- ties and other financial instruments recorded in the pledged securities ac-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 200,
+            "top": 171,
+            "left": 185
+        }
+    },
+    {
+        "page": 120,
+        "heading": "I. Substituted Securities",
+        "content": " 1. \u201cNew\u201d Securities  Article 148(1) of the Uniform Act on Security Interests provides that securi-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 164,
+            "top": 496,
+            "left": 185
+        }
+    },
+    {
+        "page": 122,
+        "heading": "F. Right to Use the Intermediated Securities recorded in the Pledged Securities Account",
+        "content": " I. Right of Use  1. Scope of the Right of Use under Article 151(1) First SENTENCE of the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 540,
+            "left": 154
+        }
+    },
+    {
+        "page": 122,
+        "heading": "I. Right of Use",
+        "content": " 1. Scope of the Right of Use under Article 151(1) First SENTENCE of the Uniform Act on Security Interests ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 540,
+            "left": 154
+        }
+    },
+    {
+        "page": 125,
+        "heading": "II. Right of Retention",
+        "content": "1. Scope of the Right of Retention  The collateral taker has a right of retention in the financial instruments and in any sums of money in any currency recorded in the securities account.** This",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 193,
+            "left": 185
+        }
+    },
+    {
+        "page": 127,
+        "heading": "G. Realisation of the Pledge I. Introduction",
+        "content": " Should it come to an enforcement event,\u201d the Uniform Act on Security Inter- ests contains provisions that eliminate obstacles to enforcement which might arise under the domestic law of the Member States (III).\u00b0? However, the reali-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 410,
+            "left": 185
+        }
+    },
+    {
+        "page": 127,
+        "heading": "II. Formal Notice",
+        "content": " In the case of a debt that is due and certain, the collateral taker may realise the pledge within eight days or once any other deadline previously agreed upon ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 442,
+            "left": 185
+        }
+    },
+    {
+        "page": 128,
+        "heading": "sold, as the creditor chooses\u2019.\u201d\u00b0",
+        "content": " Pursuant to Article 153, any notice that does not contain these two elements is void and would result in it being impossible to realise the pledge; in other words, there can be no realisation of the pledge of a securities account with-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 221,
+            "top": 485,
+            "left": 185
+        }
+    },
+    {
+        "page": 129,
+        "heading": "III. Enforcement",
+        "content": "1. Introduction  If the formal notice is valid under Article 153 of the Uniform Act on Security Interests, the collateral taker may realise the pledge after the expiration of the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 301,
+            "left": 185
+        }
+    },
+    {
+        "page": 131,
+        "heading": "HT. Summary and Evaluation",
+        "content": " 1. Following the dematerialisation of securities and the emergence of an intermediated securities holding system in the OHADA region, the tradi- tional general rules of pledge and the rules in Articles 64 et seq of the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 659,
+            "left": 185
+        }
+    },
+    {
+        "page": 134,
+        "heading": "Chapter 2: Security Interests in Intermediated Securities 97",
+        "content": " Chapter 2: Security Interests in Intermediated Securities under the Geneva Securities Convention ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 358,
+            "top": 83,
+            "left": 265
+        }
+    },
+    {
+        "page": 134,
+        "heading": "Chapter 2: Security Interests in Intermediated Securities under the Geneva Securities Convention",
+        "content": " A. Presentation of the Geneva Securities Convention I. The Geneva Securities Convention ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 358,
+            "top": 83,
+            "left": 265
+        }
+    },
+    {
+        "page": 134,
+        "heading": "A. Presentation of the Geneva Securities Convention I. The Geneva Securities Convention",
+        "content": " The UNIDROIT!\u00ae Convention on Substantive Rules for Intermediated Secu- rities (also known as the Geneva Securities Convention) is an international instrument created to improve the legal framework for holding, transfering,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 200,
+            "left": 154
+        }
+    },
+    {
+        "page": 135,
+        "heading": "IT. Objectives and Guiding Principles of the Geneva Securities Convention",
+        "content": " The Geneva Securities Convention aims at harmonising substantive rules for intermediated securities, which are defined as \u201csecurities credited to a securi- ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 536,
+            "top": 626,
+            "left": 216
+        }
+    },
+    {
+        "page": 138,
+        "heading": "III. Current Status of the Geneva Securities Convention",
+        "content": " As of January 2021, the Geneva Securities Convention has not yet entered into force. For it to do so requires at least three ratifications (Article 42(1) of the Convention). Pursuant to Article 48(1) of the Convention, instruments of",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 33,
+            "top": 301,
+            "left": 154
+        }
+    },
+    {
+        "page": 139,
+        "heading": "B. Scope of Application of Chapter V of the Geneva Securities Convention I. Introduction",
+        "content": " Chapter V of the Geneva Securities Convention!** encompasses specific rules regarding collateral transactions in intermediated securities. Most of these rules were modelled on the European Financial Collateral Directive. The Geneva",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 139,
+        "heading": "II. Personal Scope",
+        "content": " Like all the provisions of the Convention, Chapter V of the Geneva Securities Convention takes as its starting point a broad personal scope. Unlike the Fi- nancial Collateral Directive, which contains a list of the types of entities to",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 160,
+            "left": 185
+        }
+    },
+    {
+        "page": 140,
+        "heading": "III. Material Scope",
+        "content": "1. Types of Collateral  Under Article 31(1) of the Geneva Securities Convention, the material scope of Chapter V encompasses collateral agreements under which interests in",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 142,
+        "heading": "C. Recognition of Title Transfer Collateral Agreements",
+        "content": " I. History of the Provision in Article 32 of the Geneva Securities Convention ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 280,
+            "left": 154
+        }
+    },
+    {
+        "page": 142,
+        "heading": "I. History of the Provision in Article 32 of the Geneva Securities Convention",
+        "content": " The provision in Article 32 of the Geneva Securities Convention regarding recognition of title transfer agreements was added during the third session of the Committee of Governmental Experts (CGE). Originally, this provision",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 280,
+            "left": 154
+        }
+    },
+    {
+        "page": 142,
+        "heading": "II. Analysis of Article 32 of the Geneva Securities Convention",
+        "content": " Article 32 of the Geneva Securities Convention aims to eliminate the risk that a repurchase, securities lending, or derivative transaction, or any other trans- fer in the form of a title transfer, would not be respected and would instead be",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 280,
+            "left": 154
+        }
+    },
+    {
+        "page": 143,
+        "heading": "\u00b0\u00b0 UNIDROIT 2006 \u2014 Study LXXVIII \u2014 Doc. 57, Appendix 1, 18-19; UNIDROIT",
+        "content": "2007 \u2014 Study LXX VIII \u2014 Doc. 58, ss 115-117, 123-127 and 186.  57 Hideki Kanda et al (supra n 87) s 33-8. ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 323,
+            "left": 185
+        }
+    },
+    {
+        "page": 144,
+        "heading": "II. Analysis of the Enforcement Provision in the Geneva Securities Convention",
+        "content": " 1. Overview of the Realisation Methods  Article 33 of the Geneva Securities Convention is aimed at determining the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 147,
+        "heading": "E. Right to Use Collateral Securities under Article 34 of the Geneva Securities Convention",
+        "content": " I. History of Article 34 of the Geneva Securities Convention  The right to use collateral securities has been within the scope of the Geneva",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 301,
+            "left": 185
+        }
+    },
+    {
+        "page": 147,
+        "heading": "I. History of Article 34 of the Geneva Securities Convention",
+        "content": " The right to use collateral securities has been within the scope of the Geneva Securities Convention from the start of its drafting!\u201d and was featured in the first preliminary drafts produced by the Study Group.!\u201d\u00b0 The CGE determined",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 301,
+            "left": 185
+        }
+    },
+    {
+        "page": 148,
+        "heading": "II. Analysis of Article 34 of the Geneva Securities Convention",
+        "content": "1. Use of Collateral Securities  Pursuant to Article 34 of the Geneva Securities Convention, the parties to a security collateral agreement may agree to derogate from the general prohibi-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 366,
+            "left": 154
+        }
+    },
+    {
+        "page": 151,
+        "heading": "F. Top-Up or Substitution of Collateral",
+        "content": " I. General Overview and History of the Top-Up Rule in Article 36 of the Geneva Securities Convention ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 151,
+        "heading": "II. Analysis of Top-Up Rule in Article 36 of the Geneva Securities Convention",
+        "content": " I. Rule Number 1: Top-Up a) Introduction ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 151,
+        "heading": "I. Rule Number 1: Top-Up a) Introduction",
+        "content": " The application of this rule is subject to the existence of a collateral agree- ment!\u201d in place before the top-up collateral is delivered. Further, the top-up rule in Article 36 of the Geneva Securities Convention applies only if the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 160,
+            "left": 185
+        }
+    },
+    {
+        "page": 151,
+        "heading": "\u00b03 UNIDROIT 2006 \u2014 Study LXXVIII \u2014 Doc. 57, Appendix 1, 20 and UNIDROIT",
+        "content": "2007 \u2014 Study LXX VIII \u2014 Doc. 58, ss 121 and 189.  4 See Article 31(3)(a) of the Geneva Securities Convention. ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 160,
+            "left": 185
+        }
+    },
+    {
+        "page": 152,
+        "heading": "b) The Situation provided in Article 36(1)(a)(i) of the Geneva Securities Convention",
+        "content": " Article 36(1)(a)(i) of the Geneva Securities Convention addresses the situa- tion in which the additional collateral is delivered to take account of changes in the value of the collateral delivered under the collateral agreement or in the",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 58,
+            "top": 214,
+            "left": 682
+        }
+    },
+    {
+        "page": 153,
+        "heading": "c) The Situation provided in Article 36(1)(a)(ii) of the Geneva Securities Convention",
+        "content": " Article 36(1)(a)(i1) of the Geneva Securities Convention deals with the type of situation in which additional collateral is delivered to take account of any circumstances giving rise to an increase in the credit risk incurred by the",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 41,
+            "top": 344,
+            "left": 727
+        }
+    },
+    {
+        "page": 154,
+        "heading": "d) The Situation provided in Article 36(1)(a)(iti) of the Geneva Securities Convention",
+        "content": " Article 36(1)(a)(i1i) refers to situations in which additional collateral is deliv- ered in circumstances other than those mentioned in Article 36(1)(a)(i) and (ii) provided that the collateral agreement contains an obligation to do so and",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 908,
+            "left": 154
+        }
+    },
+    {
+        "page": 157,
+        "heading": "III. Certain Insolvency Provisions Disapplied",
+        "content": " Article 37 of the Geneva Securities Convention, which was added during the first session of the diplomatic conference,\u201d\u201d\u2019 provides: ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 540,
+            "left": 185
+        }
+    },
+    {
+        "page": 159,
+        "heading": "G. Summary and Evaluation",
+        "content": " 1. Chapter V of the Geneva Securities Convention comprises specific rules in respect of collateral transactions on intermediated securities. Most of these rules were modelled on the European Financial Collateral Di-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 236,
+            "left": 185
+        }
+    },
+    {
+        "page": 160,
+        "heading": "Chapter 3: The EU Legislation on the Collateralisation of Intermediated Securities",
+        "content": " A. A Bird\u2019s Eye View of the EU Legislative Framework on Intermediated Securities ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 196,
+            "top": 83,
+            "left": 346
+        }
+    },
+    {
+        "page": 160,
+        "heading": "A. A Bird\u2019s Eye View of the EU Legislative Framework on Intermediated Securities",
+        "content": " With the sharp rise in the volume of cross-border transactions in financial instruments, the post-trading arrangements for the functioning of an integrat- ed financial market became paramount. The EU\u2019s effort to integrate financial",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 612,
+            "left": 154
+        }
+    },
+    {
+        "page": 161,
+        "heading": "B. The Collateralisation of Intermediated Securities under the Settlement Finality Directive",
+        "content": " I. History of the Settlement Finality Directive  To address systemic risks related to payment systems, the Commission of the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 800,
+            "left": 185
+        }
+    },
+    {
+        "page": 161,
+        "heading": "I. History of the Settlement Finality Directive",
+        "content": " To address systemic risks related to payment systems, the Commission of the European Communities (hereinafter referred to as the Commission) proposed the Settlement Finality Directive on 30 May 1996.7!' It came out of a study",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 137,
+            "top": 822,
+            "left": 185
+        }
+    },
+    {
+        "page": 163,
+        "heading": "II. System and Participants",
+        "content": " The Settlement Finality Directive has a narrow scope of application.\u201d It  covers only limited payment and securities settlement systems and their par-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 323,
+            "left": 185
+        }
+    },
+    {
+        "page": 163,
+        "heading": "covers only limited payment and securities settlement systems and their par-",
+        "content": " 218 Since the adoption of the Settlement Finality Directive, more and more systems have introduced business days that start immediately after the closing of the previous business day. Such systems provide night-time settlement services, which are designed essentially to exe-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 579,
+            "top": 377,
+            "left": 185
+        }
+    },
+    {
+        "page": 164,
+        "heading": "(vi) Not entered between interoperable systems.\u201d",
+        "content": " Despite these requirements, Article 2(a) of the Settlement Finality Directive provides that \u201c[a] Member State may also on a case-by-case basis designate as a system such a formal arrangement between two participants, without",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 354,
+            "top": 420,
+            "left": 154
+        }
+    },
+    {
+        "page": 166,
+        "heading": "II. Collateral Transaction",
+        "content": " Under Article l(c) of the Settlement Finality Directive, its scope includes collateral security provided in connection with participation in a system or with operations of the Member States\u2019 central banks in the context of their",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 179,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 166,
+        "heading": "IV. Insolvency Proceedings and Collateral Security",
+        "content": "1. Provisions regarding Insolvency Proceedings  Section III of the Settlement Finality Directive encompasses three general rules with respect to insolvency proceedings which are relevant for collateral",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 421,
+            "left": 154
+        }
+    },
+    {
+        "page": 167,
+        "heading": "or (d) any third party which provided the collateral security.\u201d",
+        "content": " C. Collateral Agreements on Intermediated Securities under the Financial Collateral Directive ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 17,
+            "top": 433,
+            "left": 226
+        }
+    },
+    {
+        "page": 167,
+        "heading": "C. Collateral Agreements on Intermediated Securities under the Financial Collateral Directive",
+        "content": " I. Objectives of the Financial Collateral Directive  The Financial Collateral Directive is aimed at establishing a minimum Com-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 494,
+            "left": 185
+        }
+    },
+    {
+        "page": 167,
+        "heading": "I. Objectives of the Financial Collateral Directive",
+        "content": " The Financial Collateral Directive is aimed at establishing a minimum Com- munity regime for providing collateral and thereby contributing to the stabil- ity and the integration of the EU financial market as well as improving cross-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 494,
+            "left": 185
+        }
+    },
+    {
+        "page": 168,
+        "heading": "II. History of the Financial Collateral Directive",
+        "content": "1. Preparatory Work  At the outset of the work on the Financial Collateral Directive, the EU Com- mission published a \u201cCommunication to the European Parliament and the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 366,
+            "left": 154
+        }
+    },
+    {
+        "page": 171,
+        "heading": "Finland,\u2019 Germany,\u201d Greece,**! Hungary,\u201d Latvia,* Lithuania,?\u2122 Lux- embourg,\u201d\u00ae the Netherlands,\u201d Poland,*\u00ae\u2019 Slovakia,\u201d Slovenia,\u201d and Swe-",
+        "content": " 55 Law on the Supplementary Supervision of Banks, Savings and Credit Cooperatives, Electronic Money Institutions, Insurance Undertakings, and Investment Firms in a Finan- cial Conglomerate, entered into force on 29 September 2005, implementing the Collateral",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 61,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 174,
+        "heading": "III. Scope of Application",
+        "content": "1. Personal Scope  a) History of the Provision in Article 1(2) of the Financial Collateral Directive",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 182,
+        "heading": "IV. Formal Requirements and Enforcement",
+        "content": " Differences between the Member States in respect of the formal requirements for collateral arrangements have hampered the harmonisation of the European international financial market.*\u201d> To limit the administrative burdens for par-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 561,
+            "left": 154
+        }
+    },
+    {
+        "page": 185,
+        "heading": "V. Right of Use",
+        "content": " 1. The Right of Use throughout the Elaboration Process of the Financial Collateral Directive ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 215,
+            "left": 185
+        }
+    },
+    {
+        "page": 187,
+        "heading": "VI. Recognition of Title Transfer Financial Collateral Arrangements",
+        "content": " The Financial Collateral Directive removes the risk of re-characterisation by ensuring that title transfer financial collateral arrangements are valid and ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 41,
+            "top": 561,
+            "left": 185
+        }
+    },
+    {
+        "page": 188,
+        "heading": "VII. Recognition of Close-Out Netting Provisions",
+        "content": " During the process of elaborating the Financial Collateral Directive, the Commission acknowledged the importance of netting for managing and limit- ing risk exposure. Hence, it concluded that where netting forms part of a",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 28,
+            "top": 301,
+            "left": 154
+        }
+    },
+    {
+        "page": 189,
+        "heading": "VII. Certain Insolvency Provisions Disapplied",
+        "content": " One of the greatest advantages that the Financial Collateral Directive offers to collateral takers is the possibility of swiftly enforcing financial collateral arrangements without interference from the insolvency laws of the Member",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 314,
+            "top": 388,
+            "left": 221
+        }
+    },
+    {
+        "page": 190,
+        "heading": "IX. Top-Up and Substitutions",
+        "content": " The Commission recognised the importance of top-up collateral for the limi- tation of counterparty risk. Top-up collateral allowed market participants to limit their mutual credit exposure to reflect changes in the market values of",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 192,
+        "heading": "D. Summary and Evaluation",
+        "content": " 1.  The European Union\u2019s first relevant legal reform in respect of the collat-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 193,
+        "heading": "Chapter 4: Collateralisation of Intermediated Securities under the Law in the United States",
+        "content": " A. General Overview I. Introduction ",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 93,
+            "top": 583,
+            "left": 230
+        }
+    },
+    {
+        "page": 193,
+        "heading": "A. General Overview I. Introduction",
+        "content": " Except for debt securities related to the federal government,**! the intermedi- ated system in the United States is mainly*\u201d organised by Part 5 of Article 8 ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 496,
+            "left": 419
+        }
+    },
+    {
+        "page": 194,
+        "heading": "I. Historical Evolution",
+        "content": "1. History of UCC Article 8  a) The 1962 Version of UCC Article \u00a7 ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 156,
+            "top": 366,
+            "left": 185
+        }
+    },
+    {
+        "page": 194,
+        "heading": "a) The 1962 Version of UCC Article \u00a7",
+        "content": " The 1962 version of UCC Article 8 was widely adopted.*\u00ae It contained the concept of book-entry transfers of securities and had some limited provisions ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 399,
+            "left": 154
+        }
+    },
+    {
+        "page": 195,
+        "heading": "b) The 1977 Version of UCC Article \u00a7",
+        "content": " During the 1970s, considerable attention was aimed at establishing legal rules in respect of securities transfers that would allow securities ownership to be evidenced by electronic records maintained by issuers.*\u2019! Consequently, the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 410,
+            "left": 185
+        }
+    },
+    {
+        "page": 196,
+        "heading": "much paperwork, which could be reduced using uncertificated security.*\u201d",
+        "content": " Consequently, to tackle the problems arising from paper-centred securities transfer processing the 1977 version of UCC Article 8 introduced the concept of uncertificated securities.7\u201d> However, rather than constituting a wholesale",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 561,
+            "top": 127,
+            "left": 154
+        }
+    },
+    {
+        "page": 201,
+        "heading": "(vi)",
+        "content": " (vii)  Part II: Reports on National, Regional, and International Substantive Law Rules",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 578,
+            "top": 518,
+            "left": 185
+        }
+    },
+    {
+        "page": 201,
+        "heading": "(vii)",
+        "content": " Part II: Reports on National, Regional, and International Substantive Law Rules  Recommendation 1: By 1990, all comparisons of trades between direct",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 394,
+            "top": 604,
+            "left": 185
+        }
+    },
+    {
+        "page": 201,
+        "heading": "(vili) Recommendation 8: Securities lending and borrowing [had to] be en-",
+        "content": " (ix)  couraged as a method of expediting the settlement of securities transac-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 22,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 204,
+        "heading": "c) The 1994 Version of UCC Article \u00a7",
+        "content": " The 1994 revision of UCC Article 8 was aimed at tailoring a set of intelligi- ble legal rules to govern contemporary securities holding practices.*\u201d! It sets ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 583,
+            "left": 154
+        }
+    },
+    {
+        "page": 206,
+        "heading": "approach as it is a reflection of work long since accomplished. A detail histo-",
+        "content": " #28 The 1994 version of UCC Article 8 does however introduce the concept of \u201ccontrol\u201d to obtain a perfected security interest; the creditor must be in a position to sell the collat- eral without the cooperation of the debtor and apply the proceeds to the debt. This may be",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 579,
+            "top": 648,
+            "left": 154
+        }
+    },
+    {
+        "page": 207,
+        "heading": "b) The 1962 Version of UCC Article 9",
+        "content": " Although several states adopted the UCC between 1957 and 1961,**\u00b0 many were still adopting numerous non-uniform amendments to it. To discourage ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 756,
+            "left": 185
+        }
+    },
+    {
+        "page": 208,
+        "heading": "c) The Pre-1972 Official Text and the 1977 Amendments",
+        "content": " The 1962 version of UCC Article 9 constituted a major simplification of personal property law. Yet there were still issues it did not address. To re- solve them, individual states turned once again to non-uniform amendments.",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 453,
+            "left": 154
+        }
+    },
+    {
+        "page": 209,
+        "heading": "d) The 1994 Amendments to UCC Article 9",
+        "content": " In 1994, several provisions of UCC Article 9 were amended in connection with the revisions to UCC Article 8. As mentioned above, the 1977 version of UCC Article 8 applied to property interests in investment securities. The",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 258,
+            "left": 185
+        }
+    },
+    {
+        "page": 209,
+        "heading": "e) The 1999 Official Text",
+        "content": " In 1990, the Permanent Editorial Board created a committee to analyse UCC Article 9 and prepare the substance of any revision to its provisions. On 1 December 1992, the study committee issued a report which recommended",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 637,
+            "left": 185
+        }
+    },
+    {
+        "page": 211,
+        "heading": "(i) A security; *\u00b0",
+        "content": " (ii) An obligation of a person or a share, participation, or other interest in a person or in property or an enterprise of a person, which is, or is of a type, dealt in or traded on financial markets, or which is recognised in",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 112,
+            "top": 398,
+            "left": 185
+        }
+    },
+    {
+        "page": 211,
+        "heading": "Effektengiroverkehr und internationales Privatrecht (Dunker & Humblot, Berlin 2007)",
+        "content": "158-159; Dorothee Einsele (supra n 361) 305.  449 \u00a7 8-102(a)(14) defines the term \u201csecurity\u201d as \u201can obligation of an issuer or a share, participation, or other interest in an issuer or in property or an enterprise of an issuer: (i)",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 126,
+            "top": 700,
+            "left": 185
+        }
+    },
+    {
+        "page": 215,
+        "heading": "II. Key Features of the US Indirect Holding System",
+        "content": " As indicated above, the relevant provisions of UCC Article 8 depart from previous rules that were based on securities certificates. First, UCC Article 8 sets forth new definitions and terms which apply only to the indirect holding",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 518,
+            "left": 185
+        }
+    },
+    {
+        "page": 216,
+        "heading": "Linkeage , Issuer <<\u2014\u2014\u2014>> DTC <-------->, \u2018 1 ' 1 \u2018 1 Account Security",
+        "content": "1 Opening Entitlement 2 V Vv No Relationship No Relationship A Securities A",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 19,
+            "top": 637,
+            "left": 718
+        }
+    },
+    {
+        "page": 216,
+        "heading": "Holder (Investor)",
+        "content": " Figure 12: Basic Structure of the US Intermediated System*\u201d  Further, the US intermediary system is an intermediary-centred regime. Indeed,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 19,
+            "top": 637,
+            "left": 718
+        }
+    },
+    {
+        "page": 216,
+        "heading": "Figure 12: Basic Structure of the US Intermediated System*\u201d",
+        "content": " Further, the US intermediary system is an intermediary-centred regime. Indeed, the relationship with the intermediary is at the centre of the US indirect holding system.*** In fact, almost all operations in that system are performed by inter-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 72,
+            "top": 531,
+            "left": 154
+        }
+    },
+    {
+        "page": 218,
+        "heading": "III. Concept of Security Entitlements",
+        "content": "1. Introduction  As mentioned supra, the structure for indirect securities holding in the United States involves a bundle of rights which each person or entity holds with the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 583,
+            "left": 154
+        }
+    },
+    {
+        "page": 219,
+        "heading": "b) Enforcement of Property Rights against Third Parties",
+        "content": " \u00a7 8-503(c) contains a limitation on the property aspect of a security entitle- ment. Since a security entitlement is a statutory, sui generis package of rights, it can be exercised solely against the relevant intermediary; in other words,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 334,
+            "left": 185
+        }
+    },
+    {
+        "page": 222,
+        "heading": "In addition, it is worth noting that one of the requirements under \u00a7 8-",
+        "content": "503(d)(3) is that the insolvent intermediary\u2019s must have violated its obliga- tion to maintain sufficient financial assets. Therefore, from a procedural viewpoint, it is only after the resolution of litigation regarding the intermedi- ary\u2019s violation of its duty under \u00a7 8-504 that the account holder will be able",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 558,
+            "top": 528,
+            "left": 175
+        }
+    },
+    {
+        "page": 223,
+        "heading": "If the issuer of a financial asset makes a payment or distribution, \u00a7 8-",
+        "content": "505(a) requires that the intermediary take action to obtain it. Further, \u00a7 8- 505(b) obliges the intermediary to pass it through to the customers that hold security interests vis-a-vis the financial asset. But if the issuer of the financial asset becomes insolvent and cannot make the payment, the intermediary is",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 558,
+            "top": 496,
+            "left": 205
+        }
+    },
+    {
+        "page": 225,
+        "heading": "C. Perfection of Security Interests in Investment Property I. Introduction",
+        "content": " The rules governing security interests in investment securities were considered to be among the most important in commercial law concerning investment securities. Accordingly, one of the major goals of the 1994 revision of UCC",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 226,
+        "heading": "II. Attachment and Perfection",
+        "content": " The familiar rules in \u00a7 9-203 govern attachment of a security interest in in- vestment property, including intermediated securities. Under these rules, a security interest attaches when:",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 431,
+            "left": 154
+        }
+    },
+    {
+        "page": 226,
+        "heading": "(ii) The debtor has rights in the collateral; and",
+        "content": " (iii) The secured party gives value.  The new rules on attachment of security interests in investment property",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 354,
+            "top": 583,
+            "left": 154
+        }
+    },
+    {
+        "page": 228,
+        "heading": "(i) Become the entitlement holder, or",
+        "content": " (ii) Obtain an agreement from the securities intermediary that it will follow the secured party\u2019s instructions without further consent of the entitlement holder.",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 288,
+            "top": 724,
+            "left": 154
+        }
+    },
+    {
+        "page": 230,
+        "heading": "Figure 14: Methods of Obtaining Control of an Uncertificated Security>!\u201d",
+        "content": " Control of an interest in a securities entitlement is accomplished in one or two ways:",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 72,
+            "top": 560,
+            "left": 154
+        }
+    },
+    {
+        "page": 230,
+        "heading": "Secured party becomes the entitlement holder",
+        "content": " Figure 15: Methods of Obtaining Control of Security Entitlements*!*  >!7 Source: Everette L. Martin (supra n 367) 20.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 259,
+            "top": 1041,
+            "left": 154
+        }
+    },
+    {
+        "page": 230,
+        "heading": "Figure 15: Methods of Obtaining Control of Security Entitlements*!*",
+        "content": " >!7 Source: Everette L. Martin (supra n 367) 20. 518 Tt is important to note that the securities intermediary must obtain the consent of the ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 68,
+            "top": 848,
+            "left": 154
+        }
+    },
+    {
+        "page": 232,
+        "heading": "D. Priorities",
+        "content": " A secured party\u2019s priority is determined by the concept of \u201ccontrol\u201d, \u00b0\u00b0 the general rule being the greater the control, the higher priority the security interest will have.*?\u2019 This rule is the statutory expression of the structural",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Does SP-2 have control?",
+        "content": " Is the debtor an intermediary? ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 595,
+            "left": 185
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Is the debtor an intermediary?",
+        "content": " Figure 16: Priority of Security Interests in Investment Property!  E. Summary and Evaluation",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 595,
+            "left": 185
+        }
+    },
+    {
+        "page": 233,
+        "heading": "Figure 16: Priority of Security Interests in Investment Property!",
+        "content": " E. Summary and Evaluation  1.",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 68,
+            "top": 554,
+            "left": 185
+        }
+    },
+    {
+        "page": 233,
+        "heading": "E. Summary and Evaluation",
+        "content": " 1.  The intermediated system in the US is mainly organised by Part 5 of UCC",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 595,
+            "left": 185
+        }
+    },
+    {
+        "page": 236,
+        "heading": "Conflict of Laws Analysis",
+        "content": " Chapter 1: The /ex rei sitae (lex cartae sitae) Rule in the OHADA Region ",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 277,
+            "top": 236,
+            "left": 308
+        }
+    },
+    {
+        "page": 236,
+        "heading": "Chapter 1: The /ex rei sitae (lex cartae sitae) Rule in the OHADA Region",
+        "content": " A. General Overview of OHADA\u2019s Private International Law  I. Lesser Importance of Conflict of Laws Issues in OHADA\u2019s Legislative",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 93,
+            "top": 308,
+            "left": 215
+        }
+    },
+    {
+        "page": 236,
+        "heading": "A. General Overview of OHADA\u2019s Private International Law",
+        "content": " I. Lesser Importance of Conflict of Laws Issues in OHADA\u2019s Legislative Agenda ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 381,
+            "left": 154
+        }
+    },
+    {
+        "page": 236,
+        "heading": "I. Lesser Importance of Conflict of Laws Issues in OHADA\u2019s Legislative Agenda",
+        "content": " As indicated supra,! OHADA is aimed at unifying business law in Africa. However, the term \u201cbusiness law\u201d is very broad as it includes the regulation of various components of an economy: the legal rules in respect of credit,",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 381,
+            "left": 154
+        }
+    },
+    {
+        "page": 238,
+        "heading": "II. Scarce Conflict of Laws Rules under OHADA Law\u00ae",
+        "content": " The foregoing critique notwithstanding, there are a few, scarce provisions which address conflict of laws issues under OHADA law in exceptional situa- tions. These provisions are enshrined in the Uniform Act on Arbitration and",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 301,
+            "left": 154
+        }
+    },
+    {
+        "page": 240,
+        "heading": "III. Lack of Conflict of Laws Provisions regarding Intermediated Securities at the OHADA Level",
+        "content": " There is no provision among the few conflict of laws provisions in OHADA law, which are described above, that addresses the issue of the law applicable to certain rights in respect of securities held with an intermediary. And more",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 756,
+            "left": 154
+        }
+    },
+    {
+        "page": 241,
+        "heading": "I. The lex rei sitae Rule under the Laws of the OHADA Member States",
+        "content": " The conflict of laws rule traditionally used in all the Member States to deter- mine the enforceability of a pledge of securities effected in the intermediary system is the /ex rei sitae (also referred to as the lex cartae sitae or the lex",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 475,
+            "left": 185
+        }
+    },
+    {
+        "page": 245,
+        "heading": "II. Rejection of the lex rei sitae Rule and the \u201cLook-Through Approach\u201d",
+        "content": " The /ex rei sitae rule is not suitable for an intermediary system based on im- mobilisation and dematerialisation of securities.*? Indeed, following the de- ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 93,
+            "top": 128,
+            "left": 292
+        }
+    },
+    {
+        "page": 247,
+        "heading": "Assume Paping SA is incorporated in Porto-Novo (Benin). Paping SA has",
+        "content": "5,000,000 shares outstanding, all held through STRATE, a Central Securities Depository (CSD) incorporated in South Africa (Johannesburg). STRATE keeps the actual physical certificates representing the Paping SA shares in its vault in South Africa. Paping SA maintains a share register in Dakar (Sene-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 563,
+            "top": 301,
+            "left": 205
+        }
+    },
+    {
+        "page": 250,
+        "heading": "Chapter 2: The Place of the Relevant Intermediary Approach 213",
+        "content": " 2. The traditional conflict of laws rule in every Member State to determine the enforceability of a pledge of securities effected in the intermediary system is the /ex rei sitae (also referred to as the /ex cartae sitae or the lex",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 387,
+            "top": 83,
+            "left": 250
+        }
+    },
+    {
+        "page": 250,
+        "heading": "Chapter 2: The Place of the Relevant Intermediary Approach (PRIMA) under European Law",
+        "content": " A. Analysis of the EU PRIMA Rule I. Contents of the EU PRIMA Rule ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 387,
+            "top": 83,
+            "left": 250
+        }
+    },
+    {
+        "page": 250,
+        "heading": "A. Analysis of the EU PRIMA Rule I. Contents of the EU PRIMA Rule",
+        "content": " The current EU acquis comprises provisions which determine the law appli- cable to proprietary effects*? of cross-border transactions in intermediated securities. These provisions are enshrined in Articles of three Directives:\u21224",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 742,
+            "left": 154
+        }
+    },
+    {
+        "page": 251,
+        "heading": "(iii) Article 24 of the Winding-up Directive",
+        "content": " \u201cThe enforcement of proprietary rights in instruments or other rights in such instruments the existence or transfer of which presupposes their recording in a register, an account or a centralised deposit system held or located in a Member State shall be governed by the law",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 320,
+            "top": 442,
+            "left": 185
+        }
+    },
+    {
+        "page": 253,
+        "heading": "II. Illustrations of How PRIMA Operates",
+        "content": " To illustrate how PRIMA operates and, more particularly, which intermediary is the \u201crelevant\u201d one, the following discussion considers different variations on the following fact pattern: A Congolese Investor\u00ae holds an interest in",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 263,
+        "heading": "II. Unclear Location of Securities Accounts under PRIMA",
+        "content": " The three aforementioned directives have been transposed into national law by all EU Member States.\u201d* Although the difference in the directives\u2019 respective choice of words is not substantive (designating as the applicable law the place",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 605,
+            "left": 185
+        }
+    },
+    {
+        "page": 266,
+        "heading": "III. Uncertainty as to the Relevant Account under PRIMA",
+        "content": " If intermediated securities are simultaneously recorded in several accounts at different levels of the holding chain and located in different countries, neither Article 9(2) of the Settlement Finality Directive nor Article 24 of the Wind-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 236,
+            "left": 154
+        }
+    },
+    {
+        "page": 267,
+        "heading": "(iii) The account of the collateral provider.*\u2019",
+        "content": " IV. Uncertainty as to How Many Laws Apply in the Holding Chain under PRIMA ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 315,
+            "top": 192,
+            "left": 185
+        }
+    },
+    {
+        "page": 267,
+        "heading": "IV. Uncertainty as to How Many Laws Apply in the Holding Chain under PRIMA",
+        "content": " The previous section explored whether there is only one \u201crelevant account\u201d or whether more than one account may be relevant for determining the applica- ble law under the EU\u2019s PRIMA rule. This very issue translates into a question",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 236,
+            "left": 185
+        }
+    },
+    {
+        "page": 267,
+        "heading": "V. Renvoi",
+        "content": " Article 9(1) of the Financial Collateral Directive provides: \u201cThe reference to the law of a country is a reference to its domestic law, disregarding any rule under which, in deciding the relevant question, reference should be made to",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 616,
+            "left": 185
+        }
+    },
+    {
+        "page": 268,
+        "heading": "VI. The Location of the Securities Account and European Discussions regarding the Hague Securities Convention",
+        "content": " The PRIMA rule offers the advantage of submitting all an account holder\u2019s interests in a securities portfolio to the law of a single jurisdiction\u201d even in situations in which issuers, registers, certificates evidencing the underlying",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 366,
+            "left": 154
+        }
+    },
+    {
+        "page": 273,
+        "heading": "In light of the above, the European Parliament\u2019s resolution of 14 December",
+        "content": "2006 on the implications of signing the Hague Securities Convention''\u00ae was surprising: the Parliament \u201c[r]eiterates its commitment to the PRIMA princi- ple, to defining a common framework for clearing and settlement activities, to effectively combating money laundering and to respect for shareholders\u2019",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 583,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 274,
+        "heading": "during the process of negotiating the Hague Securities Convention. !\u201d\u201d Moreover, the European Parliament",
+        "content": " \u201cTrjegret[ed] the highly inadequate nature of the reality test (Article 4(1) of the Conven- tion) and the exemptions with regard to public policy legislation (Article 11(3) of the Convention), which risk encouraging the choice of the least restrictive legislation and",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 497,
+            "top": 171,
+            "left": 154
+        }
+    },
+    {
+        "page": 276,
+        "heading": "C. Summary and Evaluation",
+        "content": " 1. The dematerialisation of securities has meant that the great majority of those transferred and pledged daily in cross-border transactions are held with in- termediaries, in electronic book-entry form in securities accounts. These in-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 797,
+            "left": 154
+        }
+    },
+    {
+        "page": 278,
+        "heading": "Chapter 3: Conflict of Laws Rules under the Uniform Commercial Code 241",
+        "content": " Chapter 3: Conflict of Laws Rules for Intermediated Securities under the Uniform Commercial Code ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 456,
+            "top": 83,
+            "left": 215
+        }
+    },
+    {
+        "page": 278,
+        "heading": "Chapter 3: Conflict of Laws Rules for Intermediated Securities under the Uniform Commercial Code",
+        "content": " A. Conflict of Laws Issues under UCC Article 8 I. Introduction ",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 93,
+            "top": 128,
+            "left": 159
+        }
+    },
+    {
+        "page": 278,
+        "heading": "A. Conflict of Laws Issues under UCC Article 8 I. Introduction",
+        "content": " UCC \u00a7 8-110 deals with the choice of law issues related to intermediated securities.'\u00b0? The difference between the direct and the indirect holding sys- tems plays an important role in determining the governing law: within the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 200,
+            "left": 154
+        }
+    },
+    {
+        "page": 278,
+        "heading": "II. Issues governed by the Applicable Law",
+        "content": "1. Issues governed by the Local Law of the Issuer\u2019s Jurisdiction  Under Subsection (a) of UCC \u00a7 8-110, the law of an issuer\u2019s jurisdiction applies to certain issues on which the substantive rules of UCC Article 8",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 200,
+            "left": 154
+        }
+    },
+    {
+        "page": 280,
+        "heading": "J",
+        "content": " As per subsection (b) of UCC \u00a7 8-110, the law of the securities intermedi- ary\u2019s jurisdiction applies to the issues concerning the indirect holding system which are addressed in UCC Article 8. Under paragraphs (1) and (2) of sub-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 579,
+            "top": 149,
+            "left": 154
+        }
+    },
+    {
+        "page": 280,
+        "heading": "III. Determination of the \u201cSecurities Intermediary\u2019s Jurisdiction\u2019",
+        "content": "1. Introduction  The \u201csecurities intermediary\u2019s jurisdiction\u201d is defined in subsection (e) of UCC \u00a7 8-110. The policy behind subsection (b) of UCC Article 8 was to",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 93,
+            "top": 345,
+            "left": 154
+        }
+    },
+    {
+        "page": 282,
+        "heading": "IV. Choice of Law Rules for Adverse Claim Issues",
+        "content": " Subsection (c) of UCC \u00a7 8-110 contains a choice of law rule in respect of adverse claim issues which may arise in relation to the delivery of security certificates in the direct holding system. It applies to the law of the place of",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 486,
+            "left": 154
+        }
+    },
+    {
+        "page": 282,
+        "heading": "V. Example illustrating the Provisions in UCC \u00a7 8-110",
+        "content": " The following examples illustrate how the governing law may be determined pursuant to UCC \u00a7 8-110. First, assume that JM is a resident of Kansas and maintains a securities account with IM & Co. IM is incorporated in Delaware.",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 800,
+            "left": 154
+        }
+    },
+    {
+        "page": 283,
+        "heading": "VI. Application of General Choice of Law Rules",
+        "content": " It is worth highlighting that general choice of law rules apply to the extent UCC \u00a7 8-110 does not specify the governing law. Assume for instance that in either of the fact patterns mentioned above, JM enters into an agreement with",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 670,
+            "left": 185
+        }
+    },
+    {
+        "page": 284,
+        "heading": "B. Choice of Law Provisions concerning Security Interests in Security Entitlements",
+        "content": " I. General Rules  UCC \u00a7 9-305, which is former UCC \u00a7 9-103(6), determines the choice of law",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 284,
+        "heading": "I. General Rules",
+        "content": " UCC \u00a7 9-305, which is former UCC \u00a7 9-103(6), determines the choice of law rules for the perfection and priority of security interests in investment proper- ty.'\u00b0? The scope of subsection (a)(1) of UCC \u00a7 9-305 is limited to security",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 247,
+            "left": 154
+        }
+    },
+    {
+        "page": 284,
+        "heading": "II. Exceptions",
+        "content": " Subsection (c) of UCC \u00a7 9-305 contains an exception to the general rules set out in subsection (a). It provides that the local law of the jurisdiction in which ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 11,
+            "top": 247,
+            "left": 154
+        }
+    },
+    {
+        "page": 286,
+        "heading": "IIT. Change in Law Governing Perfection",
+        "content": " If the jurisdiction of the issuer, the securities intermediary, or the commodity intermediary changes, the jurisdiction whose law applies to perfection pursu- ant to subsection (a) UCC \u00a7 9-305 also changes.'*! Similarly, the law appli-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 283,
+            "top": 258,
+            "left": 185
+        }
+    },
+    {
+        "page": 288,
+        "heading": "II. Scope of Application of the Hague Securities Convention",
+        "content": " In the United States, the Hague Securities Convention applies to any transac- tion falling within its scope, including any such transaction involving a non- US entity (and not just ones from the other countries party to the Conven-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 33,
+            "top": 344,
+            "left": 154
+        }
+    },
+    {
+        "page": 288,
+        "heading": "\u2018Three Narratives of Medellin v. Texas\u2019 (2008) 31 (2) Suffolk Transnational Law Review",
+        "content": "227; Steve Charnovitz, \u2018Revitalizing the U.S. Compliance Power\u2019 (2008) 102 (3) Ameri- can Journal of International Law 551; James A. Turner, \u2018The Post-Medellin Case for Leg- islative Standing\u2019 (2010) 59 (3) American University Law Review 732. ",
+        "features": {
+            "font_id": "17",
+            "height": 9,
+            "width": 8,
+            "top": 1039,
+            "left": 178
+        }
+    },
+    {
+        "page": 290,
+        "heading": "III. Comparison of Hague Securities Convention and UCC Choice of Law Rules",
+        "content": " UCC Articles 8 and 9 contain special choice of law rules for certain proprie- tary issues of intermediated securities dispositions. The content and approach of these rules are similar to those in the Hague Securities Convention; both",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 301,
+            "left": 154
+        }
+    },
+    {
+        "page": 292,
+        "heading": "Summary and Evaluation",
+        "content": " UCC \u00a7 8-110 addresses choice of law issues in respect of intermediated securities. It is based on the difference between the direct and the indirect holding systems. It disregards the jurisdiction of incorporation of the is-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 192,
+            "top": 366,
+            "left": 185
+        }
+    },
+    {
+        "page": 292,
+        "heading": "The intermediary\u2019s jurisdiction is defined in subsection (e) of UCC \u00a7 8-",
+        "content": "110, which sets out a sequential series of tests to facilitate the determina- tion of a single, readily-identifiable applicable law. Paragraph (1) of sub- ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 579,
+            "top": 984,
+            "left": 154
+        }
+    },
+    {
+        "page": 294,
+        "heading": "Chapter 4: The Hague Securities Convention 257",
+        "content": " Chapter 4: The Hague Securities Convention  A. History of the Negotiations leading to the Hague Securities Convention",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 285,
+            "top": 83,
+            "left": 301
+        }
+    },
+    {
+        "page": 294,
+        "heading": "Chapter 4: The Hague Securities Convention",
+        "content": " Chapter 4: The Hague Securities Convention  A. History of the Negotiations leading to the Hague Securities Convention",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 285,
+            "top": 83,
+            "left": 301
+        }
+    },
+    {
+        "page": 294,
+        "heading": "A. History of the Negotiations leading to the Hague Securities Convention",
+        "content": " The Hague Securities Convention is a conflict of laws instrument.!\u201d* Its histo- ry goes back to a proposal made during a meeting of the Hague Conference on Private International Law\u2019s special commission on general affairs and",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 304,
+            "top": 128,
+            "left": 332
+        }
+    },
+    {
+        "page": 300,
+        "heading": "II. Issues to Which the Hague Securities Convention Applies",
+        "content": "1. Article 2(1) of the Hague Securities Convention  Article 2(1) of the Hague Securities Convention is among its most important provisions, because it defines the Convention\u2019s substantive scope of applica-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 280,
+            "left": 154
+        }
+    },
+    {
+        "page": 300,
+        "heading": "a) The Nature of the List",
+        "content": " The Hague Securities Convention determines the law applicable to the fol-  lowing issues in respect of intermediated securities:7!!",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 540,
+            "left": 154
+        }
+    },
+    {
+        "page": 300,
+        "heading": "lowing issues in respect of intermediated securities:7!!",
+        "content": " 206 Florence Guillaume (supra n 176) 42.  207 Under OHADA law, Article 27 of the Uniform Act on the Carriage of Goods by",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 540,
+            "left": 154
+        }
+    },
+    {
+        "page": 305,
+        "heading": "(2) Legal Nature and Effects of a Disposition",
+        "content": " The Hague Securities Convention determines the legal nature and effects against the intermediary and third parties of a disposition of securities (Arti- cle 2(1)(a) of the Hague Securities Convention). This provision ensures that a",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 236,
+            "left": 185
+        }
+    },
+    {
+        "page": 307,
+        "heading": "(3) Perfection Requirements",
+        "content": " Article 1(1)(i) of the Hague Securities Convention defines the term \u201cperfec- tion\u201d as the \u201ccompletion of necessary steps to render a disposition effective against persons who are not parties to that disposition\u201d, including an insol-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 258,
+            "left": 185
+        }
+    },
+    {
+        "page": 308,
+        "heading": "(4) Priority Issues",
+        "content": " The applicable law \u2014 not the Hague Securities Convention \u2014 determines prior- ity between two or more competing claims to an interest in securities, be it two limited interests (such as security interests), two absolute interests, or one",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 308,
+        "heading": "(5) Duties of an Intermediary Against a Person Asserting a Competing Interest",
+        "content": " Under Article 2(1)(e) of the Hague Securities Convention, the law that ap- plies under the Convention governs (for instance) whether an intermediary has fulfilled its duty by honouring a transfer instruction from a party whose",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 355,
+            "left": 154
+        }
+    },
+    {
+        "page": 309,
+        "heading": "(6) Realisation",
+        "content": " The applicable law, as determined by the Hague Securities Convention, also governs the requirements for the realisation of an interest in intermediated securities. Under the applicable law, these requirements might for instance",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 366,
+            "left": 185
+        }
+    },
+    {
+        "page": 309,
+        "heading": "(7) Entitlements to Dividends, Income, or Other Distributions, or to Redemption, Sale, or Other Proceeds",
+        "content": " While purpose of Article 2(1)(g) of the Hague Securities Convention is not to broaden the meaning of the term \u201csecurities held with an intermediary\u201d so that it extends to cash held through an intermediary, the applicable law, as deter-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 572,
+            "left": 185
+        }
+    },
+    {
+        "page": 309,
+        "heading": "III. Limitations of the Scope of the Convention Solely to Intermediated Securities",
+        "content": "1. Introduction  The Hague Securities Convention applies only to intermediated securities or securities held with an intermediary.\u201d*\u00b0 Rights held directly from the issuer by",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 843,
+            "left": 185
+        }
+    },
+    {
+        "page": 313,
+        "heading": "b) Disposition of an Interest in Securities in case of Contractual Claims against the Intermediary",
+        "content": " Notwithstanding Articles 2(3)(a) and (b) of the Hague Securities Convention, the Convention determines the law applicable to the issues mentioned in Arti- cle 2(1) with respect to a disposition of an interest in intermediated securities",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 193,
+            "left": 185
+        }
+    },
+    {
+        "page": 315,
+        "heading": "IV. Internationality",
+        "content": " Those participating in the first preparatory sessions in January 2001 unani- mously decided that the Hague Securities Convention should apply if the owner of the securities, the collateral taker, the transferee, and the relevant intermedi-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 453,
+            "left": 185
+        }
+    },
+    {
+        "page": 317,
+        "heading": "ceeding; in fact, the word \u201ccase\u201d there means \u201csituation\u201d.*\u00ae",
+        "content": " V. Temporal Scope of Application of the Hague Securities Convention 1. Entry into Force a) Entry into Force on the International Plane (Article 19(1))",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 424,
+            "top": 561,
+            "left": 185
+        }
+    },
+    {
+        "page": 317,
+        "heading": "V. Temporal Scope of Application of the Hague Securities Convention",
+        "content": "1. Entry into Force a) Entry into Force on the International Plane (Article 19(1))  On 5 July 2006, the United States and Switzerland jointly signed the Hague",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 605,
+            "left": 185
+        }
+    },
+    {
+        "page": 318,
+        "heading": "<https://www.hcch.net/en/news-archive/details/? varevent=117> (accessed on 4 January",
+        "content": "2021). For the status of ratification, acceptance, approval, or accession to the Hague Secu- rities Convention, see <https://www.hcch.net/en/instruments/conventions/status-table/?cid =72> (accessed on 16 February 2017). ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 8,
+            "top": 171,
+            "left": 720
+        }
+    },
+    {
+        "page": 319,
+        "heading": "European Commission issued a report\u2019? concluding that the adoption of the",
+        "content": " Convention would not require any amendment to the European rules govern- ing insolvency proceedings\u201d*\u2019 and thus recommended that it be signed as soon as at least two of the European Union\u2019s principal trading partners (including",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 288,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 320,
+        "heading": "b) Entry into Force for a State and for a REIO",
+        "content": " (1) For the States Bringing the Hague Securities Convention into Force (Article 19(1)) ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 320,
+        "heading": "(1) For the States Bringing the Hague Securities Convention into Force (Article 19(1))",
+        "content": " For the three states that have deposited their instruments of ratification and thereby triggered the entry into force of the Hague Securities Convention on the international plane, it entered into force the same day, 1 April 2017. Arti-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 320,
+        "heading": "(2) For Subsequent States and REIOs (Regional Economic Integration Organizations) under Article 19(2)",
+        "content": " Under Article 19(2) of the Hague Securities Convention, the Convention enters into force for the fourth and all subsequent states, as well as for REIOs, on the first day of the month following the expiration of three months after",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 321,
+        "heading": "a) Article 16(1)",
+        "content": " The Hague Securities Convention applies to account agreements entered into, and to securities account agreements opened, before its entry into force on the international plane in accordance with Article 19. Indeed, Article 16(1) ex-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 182,
+            "left": 185
+        }
+    },
+    {
+        "page": 321,
+        "heading": "b) Article 16(2) (1) Guidelines as to the Application of Articles 16(3) and (4)",
+        "content": " Articles 16(2) of the Hague Securities Convention contains rules as to when to apply Article 16(3) and (4), which set out rules for the interpretation of certain pre-Convention account agreements in applying Article 4(1). The",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 322,
+        "heading": "(2) Declaration Mechanism",
+        "content": " Under Article 16(2) of the Hague Securities Convention, a Contracting State may declare, at the time of signature, ratification, acceptance, approval, or accession, that its courts will not apply Article 16(3) and (4) to account",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 322,
+        "heading": "c) Article 16(3) (1) Interpretative Rule",
+        "content": " The interpretative rule of Article 16(3) of the Hague Securities Convention treats provisions of pre-Convention account agreements as having the effect of determining the law governing all issues listed in Article 2(1) of the Hague",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 355,
+            "left": 154
+        }
+    },
+    {
+        "page": 322,
+        "heading": "(2) Declaration Mechanism",
+        "content": " Under Article 16(2) of the Hague Securities Convention, a Contracting State may declare, at the time of signature, ratification, acceptance, approval, or accession, that its courts will not apply Article 16(3) and (4) to account",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 21,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 323,
+        "heading": "d) Article 16(4)",
+        "content": " The interpretative rule of Article 16(4) of the Hague Securities Convention treats some provisions of pre-Convention account agreements as having the effect of determining, in connection with Article 4 of the Convention, the law",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 193,
+            "left": 185
+        }
+    },
+    {
+        "page": 323,
+        "heading": "e) When the Applicable Law Is Not Determined using Article 16(3) or Article 16(4)",
+        "content": " As mentioned above, Article 16(3) and (4) of the Hague Securities Conven- tion are solely interpretative rules, are not conflict of laws rules. Therefore, if the applicable law is not determined with the help of those provisions, Arti-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 193,
+            "left": 185
+        }
+    },
+    {
+        "page": 324,
+        "heading": "C. Applicable Law under the Hague Securities Convention I. Introduction: Determining the Applicable Law",
+        "content": " The Hague Securities Convention encompasses on one hand a primary rule in Article 4 and on the other hand a set of fall-back rules in Article 5. Under Article 4, the law governing rights in intermediated securities is chosen by",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 280,
+            "left": 154
+        }
+    },
+    {
+        "page": 325,
+        "heading": "The following figure schematically summarises the aforementioned rules",
+        "content": " Part III: Conflict of Laws Analysis  for determining the applicable law under the Hague Securities Convention.",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 565,
+            "top": 127,
+            "left": 205
+        }
+    },
+    {
+        "page": 332,
+        "heading": "b) The Conditions for a Qualifying Office",
+        "content": " The parties\u2019 freedom to select the applicable law is not unlimited.**\u00b0 Indeed, the effectiveness of the parties\u2019 choice of law to govern their agreement under Article 4(1) first sentence of the Hague Securities Convention requires that",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 27,
+            "top": 149,
+            "left": 154
+        }
+    },
+    {
+        "page": 333,
+        "heading": "sues mentioned in Article 2(1) will have priority;**\u2019",
+        "content": " \u2014 Case 2: The account holder and the intermediary select one law to apply to the account agreement and another to apply to the issues mentioned in Article 2(1); but if the two choice of law clauses do not meet the Qualify-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 363,
+            "top": 149,
+            "left": 216
+        }
+    },
+    {
+        "page": 333,
+        "heading": "Table 5: Qualifying Office Requirement",
+        "content": " Qualifying Office Test Convention Law***  Choice of Law Art. 2(1) IC* AAC\u2122",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 9,
+            "top": 713,
+            "left": 272
+        }
+    },
+    {
+        "page": 333,
+        "heading": "Qualifying Office Test Convention Law***",
+        "content": " Choice of Law Art. 2(1) IC* AAC\u2122  Clauses",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 43,
+            "top": 388,
+            "left": 721
+        }
+    },
+    {
+        "page": 333,
+        "heading": "Choice of Law Art. 2(1) IC* AAC\u2122",
+        "content": " Clauses Case | V V Law designated by Article 2(1) IC Case 2 x x Law designated by Fall-Back Rules",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 98,
+            "top": 851,
+            "left": 195
+        }
+    },
+    {
+        "page": 334,
+        "heading": "Qualifying Office Test Convention Law***",
+        "content": " Choice of Law Art. 2(1)IC* AAC**  Clauses",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 148,
+            "top": 134,
+            "left": 319
+        }
+    },
+    {
+        "page": 335,
+        "heading": "Figure 24: Qualifying Office Requirement",
+        "content": " In the fact pattern described above, the Qualifying Office requirement is met pursuant to Articles 4(1) and 12 of the Convention even if IM\u2019s Delaware branch does not service the particular securities account F opened in Brussels.",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 72,
+            "top": 811,
+            "left": 185
+        }
+    },
+    {
+        "page": 336,
+        "heading": "c) Definition of the Term \u201cOffice\u201d",
+        "content": " Under Article 1(1)(j) of the Hague Securities Convention, the term \u201coffice\u201d means, with respect to an intermediary, \u201ca place of business at which any of the activities of the intermediary are carried on, excluding a place of business",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 336,
+        "heading": "d) The Time Factor",
+        "content": " For there to be a Qualifying Office, the time to be taken into account for the application of the conditions set out in the second sentence of Article 4(1) of the Hague Securities Convention is the time when the express agreement on",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 337,
+        "heading": "e) The Qualifying Activity",
+        "content": " Article 4(1) of the Hague Securities Convention provides that the Qualifying Office has to be one: (i) which effects or monitors entries to securities ac- counts; (11) through which payments or corporate actions in respect of inter-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 236,
+            "left": 185
+        }
+    },
+    {
+        "page": 339,
+        "heading": "II. Fall-Back Rules under Article 5 of the Hague Securities Convention",
+        "content": "1. Introduction  Ifthe law governing the Article 2(1) issues is not determined under the Conven- tion\u2019s primary rule in Article 4(1), the fall-back rules in Article 5 of the Hague",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 508,
+            "top": 128,
+            "left": 216
+        }
+    },
+    {
+        "page": 340,
+        "heading": "a) \u201cWritten\u201d Agreement",
+        "content": " Article 1(1)(n) of the Hague Securities Convention defines the term \u201cwritten\u201d as \u201ca record of information (including information communicated by tele- transmission) which is in tangible or other form and is capable of being re-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 388,
+            "left": 154
+        }
+    },
+    {
+        "page": 340,
+        "heading": "b) Express and Unambiguous Statement in the Account Agreement as to a Particular Office",
+        "content": " The wording of the account agreement forms the basis for the first fall-back rule. The requirement that the account agreement contain an express and unambiguous statement that it was entered into through a particular office is",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 388,
+            "left": 154
+        }
+    },
+    {
+        "page": 343,
+        "heading": "b) Transfers involving Two or More Intermediaries",
+        "content": " The following example illustrates the first set of issues.*\u201d* Suppose that an  account holder, A, holds a portfolio of securities with its intermediary, Bank",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 343,
+        "heading": "Account Holder C",
+        "content": " Figure 25: Transfers involving Two or More Relevant Intermediaries?\u201d  Note that the Page 37 Problem arises not only when transfers involve two or more intermedi-",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 584,
+            "top": 182,
+            "left": 185
+        }
+    },
+    {
+        "page": 343,
+        "heading": "Figure 25: Transfers involving Two or More Relevant Intermediaries?\u201d",
+        "content": " Note that the Page 37 Problem arises not only when transfers involve two or more intermedi- aries but also when transfers involve only one intermediary. Assume for instance that both Investor A and Investor B have the same relevant intermediary, X. In considering the applica-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 72,
+            "top": 743,
+            "left": 185
+        }
+    },
+    {
+        "page": 345,
+        "heading": "c) The Unitary Solution",
+        "content": " During the process of elaborating the Hague Securities Convention, in lieu of the stage-by-stage analysis described above some experts suggested that a sin- gle law should govern proprietary issues at all stages of a transfer between",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 583,
+            "left": 185
+        }
+    },
+    {
+        "page": 347,
+        "heading": "d) The Problem of \u201cDouble-Interests\u201d\u2019",
+        "content": " One of the consequences of the stage-by-stage analysis adopted by the draft- ers of the Hague Securities Convention is that there can be two \u201cowners\u201d of the \u201csame securities\u201d. Returning to the illustration of transfers involving two",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 540,
+            "left": 185
+        }
+    },
+    {
+        "page": 348,
+        "heading": "Bank X London",
+        "content": " Account Account Broker Z Holder A Holder B Milan ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 829,
+            "left": 154
+        }
+    },
+    {
+        "page": 350,
+        "heading": "Il. \u201cOld\u201d and \u201cNew\u201d Law",
+        "content": " Under Article 7(2)(a) of the Hague Securities Convention, the term \u201cnew law\" means the law applicable under the Convention after the change. The term \u201cold law\u201d means the law applicable under this Convention before the",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 179,
+            "top": 388,
+            "left": 185
+        }
+    },
+    {
+        "page": 350,
+        "heading": "III. Applicability of the \u201cNew\u201d Law under Article 7(3)",
+        "content": " Subject to the exception in Article 7(4) of the Hague Securities Convention, the general rule is that all Article 2(1) issues are governed by the \u201cnew\u201d law (Article 7(3)). Assume, for instance, that an intermediary is organised under",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 388,
+            "left": 154
+        }
+    },
+    {
+        "page": 351,
+        "heading": "IV. Exceptional Application of the \u201cOld\u201d Law under Article 7(4) I. Scope",
+        "content": " Under Article 7(4) of the Hague Securities Convention, the old law applies to the following issues except in respect of a person who has consented to a change of law:",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 540,
+            "left": 185
+        }
+    },
+    {
+        "page": 351,
+        "heading": "Cc) priority as between parties whose interests arose before the change of law.\u201d",
+        "content": " Article 7(4) of the Convention only applies to dispositions made before a change of law.*\u201d Dispositions made after a change of law are not within the scope of this provision. Consequently, the old law does not determine the",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 118,
+            "top": 648,
+            "left": 185
+        }
+    },
+    {
+        "page": 353,
+        "heading": "V. Priority Issues: Article 7(5)",
+        "content": " As per Article 7(5) of the Hague Securities Convention, Article 7(4)(c) does not preclude the new law applying to the priority of an interest that arose under the old law but is perfected under the new law. This provision is an",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 345,
+            "left": 185
+        }
+    },
+    {
+        "page": 353,
+        "heading": "F. Insolvency I. Scope of Article 8 of the Hague Securities Convention",
+        "content": " 1. Introduction  Article 8 of the Hague Securities Convention deals with the consequences of",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 27,
+            "top": 127,
+            "left": 741
+        }
+    },
+    {
+        "page": 355,
+        "heading": "II. Recognition of Interests Acquired prior to an Insolvency Proceeding",
+        "content": " It will be of concern during an insolvency proceeding that an insolvency administrator, rather than applying the Convention law, might apply domestic substantive law, either the forum state\u2019s or a law designated by the forum\u2019s",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 323,
+            "left": 185
+        }
+    },
+    {
+        "page": 356,
+        "heading": "III. Effects in an Insolvency Proceeding of Previously Acquired Interests",
+        "content": " While Article 8(1) of the Hague Securities Convention preserves the applica- bility of the Convention law with respect to the existence of rights acquired before the opening of insolvency proceedings, Article 8(2) of the Convention",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 357,
+        "heading": "G. Exclusion of Choice of Laws Rules (Renvoi)",
+        "content": " Under Article 10 of the Hague Securities Convention, \u201c[t]he term \u201claw\u201d means the law in force* in a State other than its choice of law rules\u201d. By specifying that its conflict of laws rules refer solely to domestic (substantive)",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 358,
+        "heading": "H. Public Policy and Mandatory Rules",
+        "content": " I. Public Policy Exception under Article 11(1) of the Hague Securities Convention ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 358,
+        "heading": "I. Public Policy Exception under Article 11(1) of the Hague Securities Convention",
+        "content": " As with all modern instruments of the Hague Conference,*\u201d\u2019 the Hague Secu- rities Convention contains, in Article 11, a public policy (ordre public) ex- ception whereby \u201c[t]he application of the law determined under this Conven-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 128,
+            "left": 154
+        }
+    },
+    {
+        "page": 359,
+        "heading": "II. Mandatory Rules of the Forum",
+        "content": " Under Article 11(2) of the Hague Securities Convention, the Convention does not prevent those provisions of the forum\u2019s law from applying which must be applied irrespective of conflict of laws rules, even to international situations.",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 360,
+        "heading": "III. An Important Limitation under Article 11(3) of the Hague Securities Convention",
+        "content": " Article 11(3) of the Hague Securities Convention imposes an important limi- tation on the public policy (ordre public) exception in Article 11(1) of the Convention*** and the mandatory forum rule exception in Article 11(2): these",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 193,
+            "left": 154
+        }
+    },
+    {
+        "page": 360,
+        "heading": "I. Evaluation of the Hague Securities Convention I. Protection of Third-Party Rights",
+        "content": " As mentioned above, the primary rule of the Hague Securities Convention refers to the choice of law made by the account holder and its intermediary. It has been argued that such a rule would disadvantage third parties because",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 90,
+            "top": 215,
+            "left": 154
+        }
+    },
+    {
+        "page": 361,
+        "heading": "I. Transparency",
+        "content": " It has been argued that if the agreement between the account holder and its intermediary contains a choice of the applicable law, it would be difficult for third parties to ascertain or discover what that law is. Indeed, this critique of",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 107,
+            "top": 215,
+            "left": 216
+        }
+    },
+    {
+        "page": 363,
+        "heading": "II. Interaction with Substantive Law",
+        "content": "1. Introduction  As mentioned above, the Hague Securities Convention contains only conflict of laws provisions. It does not affect any substantive law governing interme-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 366,
+        "heading": "III. Relationship with Public Law",
+        "content": " The Hague Securities Convention has been criticised for interfering with the enforcement of public laws. More particularly, there have been concerns about a risk of it conflicting not only with the reporting duties EU law impos-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 23,
+            "top": 431,
+            "left": 154
+        }
+    },
+    {
+        "page": 367,
+        "heading": "IV. Diversity of Laws in the Securities Settlement System",
+        "content": " It has been claimed that the Hague Securities Convention may jeopardise the stability of securities settlement systems (SSSs). Indeed, since the Conven- tion\u2019s primary rule refers to the choice of law made in the relevant securities",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 22,
+            "top": 215,
+            "left": 185
+        }
+    },
+    {
+        "page": 367,
+        "heading": "J. Summary",
+        "content": " 1. The Hague Securities Convention is an international convention adopted under the aegis of the Hague Conference on Private International Law. It sets forth conflict of laws rules for a number of issues related to securities",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 13,
+            "top": 594,
+            "left": 185
+        }
+    },
+    {
+        "page": 369,
+        "heading": "Chapter 5: Alternative Conflict of Laws Rules and Connecting Factors",
+        "content": " The \u201cSubstantive Law Solution\u201d to the Choice of Law Problem  Regional Unification of Substantive Law in Respect of the",
+        "features": {
+            "font_id": "10",
+            "height": 14,
+            "width": 450,
+            "top": 765,
+            "left": 185
+        }
+    },
+    {
+        "page": 369,
+        "heading": "The \u201cSubstantive Law Solution\u201d to the Choice of Law Problem",
+        "content": " Regional Unification of Substantive Law in Respect of the  Collateralisation of Intermediated Securities under OHADA Law",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 472,
+            "top": 785,
+            "left": 216
+        }
+    },
+    {
+        "page": 369,
+        "heading": "Regional Unification of Substantive Law in Respect of the",
+        "content": " Collateralisation of Intermediated Securities under OHADA Law  The first chapter of the second part of this study examines the uniform provi-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 434,
+            "top": 818,
+            "left": 216
+        }
+    },
+    {
+        "page": 369,
+        "heading": "Collateralisation of Intermediated Securities under OHADA Law",
+        "content": " The first chapter of the second part of this study examines the uniform provi- sions in respect of pledges of securities accounts under OHADA law (Arti- cles 146 et seq of the Uniform Act on Security Interests). This chapter ex-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 487,
+            "top": 840,
+            "left": 185
+        }
+    },
+    {
+        "page": 370,
+        "heading": "Senegalese CSD Senegalese Bank",
+        "content": " Camelback Inc.  Pledge of securities account",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 579,
+            "top": 388,
+            "left": 154
+        }
+    },
+    {
+        "page": 370,
+        "heading": "Pledge of securities account",
+        "content": " 4----------------~\u2014 Ivorian Bank  Figure 27: First Variation (Substantive Law Solution)",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 586,
+            "top": 884,
+            "left": 154
+        }
+    },
+    {
+        "page": 370,
+        "heading": "Figure 27: First Variation (Substantive Law Solution)",
+        "content": " Congolese Investor  Since all the elements of this fact pattern can be found in the OHADA region,",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 72,
+            "top": 778,
+            "left": 154
+        }
+    },
+    {
+        "page": 371,
+        "heading": "II. Rejection of the Substantive Law Solution",
+        "content": " 1. Inefficiency of the Substantive Law Solution from a Purely Legal Perspective ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 372,
+        "heading": "CSD Intermediary 1",
+        "content": " State C State D  Intermediary 2",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 36,
+            "top": 323,
+            "left": 705
+        }
+    },
+    {
+        "page": 372,
+        "heading": "Figure 28: Cross-border Intermediated Securities Holding Chain spanning Four States",
+        "content": " Capital markets today are global; many markets coexist in multi-layered fash- ion and interact with one another. Financial institutions act, and financial ",
+        "features": {
+            "font_id": "8",
+            "height": 17,
+            "width": 36,
+            "top": 323,
+            "left": 705
+        }
+    },
+    {
+        "page": 382,
+        "heading": "\u00b0\u00b05 Dieter Martiny, \u2018Lex Rei Sitae as a Connecting Factor in EU Private International",
+        "content": "Law\u2019 (2012) IPRax 119, 124.  \u00b0\u00b06 Bundestagsdrucksache 14/343, 14. ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 507,
+            "left": 154
+        }
+    },
+    {
+        "page": 383,
+        "heading": "b) The Dutch Private International Law Act",
+        "content": " The Dutch Private International Law Act*\u201d? seems to exemplify an extension of the choice of law principle to the area of international property law. Dutch law fundamentally applies the /ex rei sitae (Article 10:127(1) Burgerliyk",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 385,
+        "heading": "II. Choice of Law in Collateral Agreements regarding Intermediated Securities",
+        "content": " 1. Party Autonomy in Collateral Agreements regarding Intermediated Securities ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 17,
+            "top": 128,
+            "left": 185
+        }
+    },
+    {
+        "page": 386,
+        "heading": "Figure 30: Look-Through Approach",
+        "content": " 2. Legal Risks and Practical Difficulties  Allowing the parties to choose the law to apply under their collateral agree-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 72,
+            "top": 729,
+            "left": 154
+        }
+    },
+    {
+        "page": 387,
+        "heading": "D. Summary and Evaluation",
+        "content": " 1.  This chapter has attempted to find alternative further connecting factors",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 18,
+            "top": 366,
+            "left": 185
+        }
+    },
+    {
+        "page": 388,
+        "heading": "A. Fact Pattern",
+        "content": " As the pinnacle of this study, this last chapter aims to concretely lay out the advantages and disadvantages of these conflict of laws rules in order to iden- tify the best (system of) connecting factor(s) for determining the law applica-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 634,
+            "left": 154
+        }
+    },
+    {
+        "page": 389,
+        "heading": "B. Variations and Solutions under the Different Choice of Law Rules",
+        "content": " I. First Variation: Collateral Provider and Collateral Taker Hold through the Same Intermediary and Collateral Is Provided by way of Pledge ",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 16,
+            "top": 258,
+            "left": 185
+        }
+    },
+    {
+        "page": 390,
+        "heading": "Camelback Inc. NJ Registrar Camelback Inc. CECE",
+        "content": " & Co. 5,000,000 shares  California Sub-custodian",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 828,
+            "left": 154
+        }
+    },
+    {
+        "page": 391,
+        "heading": "c) Solution under the Law chosen in the Pledge Agreement",
+        "content": " Under this solution, the applicable law will be the law the collateral provider and the collateral taker choose to govern the proprietary aspects of their transaction in the pledge agreement. However, this solution gives rise to se-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 919,
+            "left": 185
+        }
+    },
+    {
+        "page": 394,
+        "heading": "c) Solution under the Law chosen in the Pledge Agreement",
+        "content": " In this case, the governing law will be the law that the collateral provider and the collateral taker have chosen in their pledge agreement to govern the pro- prietary aspects of their transaction. However, assume that Congolese Inves-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 160,
+            "left": 154
+        }
+    },
+    {
+        "page": 399,
+        "heading": "California Sub-custodian Omnibus A/c",
+        "content": " 3,000,000  DTC (NY) DTC Vault (NY)",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 15,
+            "top": 877,
+            "left": 185
+        }
+    },
+    {
+        "page": 400,
+        "heading": "C. Summary and Evaluation",
+        "content": " 1. Though different variations and fact patterns, this chapter has attempted to concretely lay out the advantages and disadvantages of these conflict of laws rules to identify the best (system of) connecting factor(s) to de-",
+        "features": {
+            "font_id": "11",
+            "height": 16,
+            "width": 14,
+            "top": 258,
+            "left": 154
+        }
+    },
+    {
+        "page": 402,
+        "heading": "General Conclusion",
+        "content": " \u201cDas Wesen der Papiere auf den Inhaber wurde [...] darin gesetzt, daB das Recht des Glaubigers gebunden seyn solle nicht (wie bei anderen Obligationen) an eine bestimmte Person, sondern an ein gewisses Ver-",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 211,
+            "top": 237,
+            "left": 341
+        }
+    },
+    {
+        "page": 408,
+        "heading": "Appendix",
+        "content": " A. Indicative List of the Travaux Pr\u00e9paratoires for the Financial Collateral Directive ",
+        "features": {
+            "font_id": "9",
+            "height": 24,
+            "width": 106,
+            "top": 236,
+            "left": 394
+        }
+    },
+    {
+        "page": 408,
+        "heading": "A. Indicative List of the Travaux Pr\u00e9paratoires for the Financial Collateral Directive",
+        "content": " 1. European Commission, \u2018Financial Services: Implementing the Framework for Financial Markets: Action Plan\u2019, Communication of the Commission, COM(1999) 232, 11 May 1999.",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 483,
+            "top": 308,
+            "left": 205
+        }
+    },
+    {
+        "page": 408,
+        "heading": "(ii) A Mission Statement of the Forum Group on Collateral; and",
+        "content": " (iii) A list of its Members.  These following six papers were also included as annexes:",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 15,
+            "top": 531,
+            "left": 175
+        }
+    },
+    {
+        "page": 410,
+        "heading": "B. Indicative List of the Travaux Pr\u00e9paratoires 373",
+        "content": " B. Indicative List of the Travaux Pr\u00e9paratoires for Directive 2009/44/EC of 6 May 2009 ",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 297,
+            "top": 83,
+            "left": 295
+        }
+    },
+    {
+        "page": 410,
+        "heading": "B. Indicative List of the Travaux Pr\u00e9paratoires for Directive",
+        "content": "2009/44/EC of 6 May 2009  1. European Commission, \u2018Report from the Commission to the Council and the European Parliament: Evaluation Report on the Financial Collateral Arrangements Directive",
+        "features": {
+            "font_id": "15",
+            "height": 20,
+            "width": 537,
+            "top": 128,
+            "left": 178
+        }
+    },
+    {
+        "page": 411,
+        "heading": "English version",
+        "content": " Chapter I \u2014 Definitions and scope of appli- cation ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 102,
+            "top": 200,
+            "left": 185
+        }
+    },
+    {
+        "page": 414,
+        "heading": "Scope of the Uniform Act and of the appli- cable law9",
+        "content": " (1) This Uniform Act determines the law applicable to the following issues in respect of securities held with an intermediary \u2014",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 269,
+            "top": 564,
+            "left": 154
+        }
+    },
+    {
+        "page": 414,
+        "heading": "Article 2",
+        "content": " Scope of the Uniform Act and of the appli- cable law9 ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 64,
+            "top": 539,
+            "left": 154
+        }
+    },
+    {
+        "page": 414,
+        "heading": "Champ d\u2019application mat\u00e9riel de |\u2019Acte uniforme et domaine de la loi applicable",
+        "content": " 1. La pr\u00e9sente Convention d\u00e9termine la loi applicable aux questions suivantes concer- nant des titres d\u00e9tenus aupr\u00e9s d\u2019un interm\u00e9-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 261,
+            "top": 583,
+            "left": 453
+        }
+    },
+    {
+        "page": 416,
+        "heading": "Article 3",
+        "content": " Internationality  This Uniform Act applies in all cases in-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 64,
+            "top": 127,
+            "left": 154
+        }
+    },
+    {
+        "page": 417,
+        "heading": "Rattachements subsidiaires",
+        "content": " 1. Si la loi applicable n\u2019est pas d\u00e9termin\u00e9e en vertu de |\u2019Article 4, mais qu\u2019il ressort express\u00e9ment et sans ambiguit\u00e9 d\u2019une con-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 177,
+            "top": 829,
+            "left": 484
+        }
+    },
+    {
+        "page": 419,
+        "heading": "Article 6",
+        "content": " Factors to be disregarded  In determining the applicable law in ac-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 64,
+            "top": 482,
+            "left": 185
+        }
+    },
+    {
+        "page": 422,
+        "heading": "Determination of the applicable law for Multi-unit States",
+        "content": " (1) If the account holder and the relevant intermediary have agreed on the law of a specified territorial unit of a Multi-unit",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 26,
+            "top": 146,
+            "left": 453
+        }
+    },
+    {
+        "page": 422,
+        "heading": "Article 12",
+        "content": " Determination of the applicable law for Multi-unit States ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 71,
+            "top": 431,
+            "left": 154
+        }
+    },
+    {
+        "page": 422,
+        "heading": "D\u00e9termination de la loi applicable en relation avec un Etat a plusieurs unit\u00e9s",
+        "content": " 1. Si le titulaire de compte et I\u2019interm\u00e9- diaire pertinent ont convenu que la loi applicable est la loi d\u2019une unit\u00e9 territoriale",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 241,
+            "top": 461,
+            "left": 453
+        }
+    },
+    {
+        "page": 423,
+        "heading": "Article 13",
+        "content": " Uniform interpretation  In the interpretation of this Uniform Act,",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 71,
+            "top": 729,
+            "left": 185
+        }
+    },
+    {
+        "page": 424,
+        "heading": "Article 15",
+        "content": " (1) References in this Uniform Act to an account agreement include an account agreement entered into before this Uniform",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 68,
+            "top": 230,
+            "left": 154
+        }
+    },
+    {
+        "page": 425,
+        "heading": "Chapter V \u2014 Final clauses",
+        "content": " Article 16  Entry into force",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 170,
+            "top": 843,
+            "left": 185
+        }
+    },
+    {
+        "page": 429,
+        "heading": "Bank for International Settlements. Collateral in Wholesale Financial Markets (Basel",
+        "content": "2001).  Bariatti, Stefania. \u2018The Hague Securities Convention: Introductory Remarks\u2019 in Andrea Bonomi, Eleanor Cashin Ritaine & Bart Volders (eds), La loi applicable aux titres in-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 242,
+            "top": 165,
+            "left": 185
+        }
+    },
+    {
+        "page": 429,
+        "heading": "Basedow, Jiirgen & Kono, Toshiyuki (eds). Legal Aspects of Globalization: Conflict of",
+        "content": "Laws, Internet, Capital Markets and Insolvency in a Global Economy (Kluwer Law In- ternational, The Hague 2000).  Beauchard, Renaud & Mahutodji, Jimmy Vital Kodo. \u2018Can OHADA Increase Legal Cer-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 19,
+            "top": 450,
+            "left": 206
+        }
+    },
+    {
+        "page": 433,
+        "heading": "Douajni, Kenfack. \u2018OHBLA Arbitration\u2019 (2000) 17(1) Journal of International Arbitration",
+        "content": "127-132.  Drobnig, Ulrich. \u2018Eigentumsvorbehalte bei Importlieferungen nach Deutschland\u2019 (1968) 32 Rabels Zeitschrift fiir auslandisches und internationales Privatrecht 450-472.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 584,
+            "top": 203,
+            "left": 185
+        }
+    },
+    {
+        "page": 433,
+        "heading": "Drobnig, Ulrich & B\u00e9ger, Ole. Proprietary Security in Movable Assets (Sellier European",
+        "content": "Law Publishers, Munich 2015).  Du, Huanfang. \u2018The Choice of Law for Property Rights in mainland China: Progress and Imperfection\u2019 in Jiirgen Basedow & Knut B. PiBler, Private International Law in Main-",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 255,
+            "top": 279,
+            "left": 391
+        }
+    },
+    {
+        "page": 435,
+        "heading": "\u2018Die internationale Forderungsabtretung nach der Rom I-Verordnung\u2019 (2009) IPRax",
+        "content": "35-43.  \u2014 \u2018Rechtswahlfreiheit auf Probe \u2014 zur Uberpriifung von Art. 14 der Rom I-Verordnung\u2019 in Jiirgen F. Baur et al, Festschrift fiir Gunther Kiihne zum 70. Geburtstag (Recht und",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 582,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 435,
+        "heading": "G\u00e9rardin, Hubert. La Zone Franc: Tome 1, Histoire et Institutions (L\u2019 Harmattan, Paris",
+        "content": "2000).  Germain, Michel & Kessedjian, Catherine. \u2018La loi applicable a certains droits sur des titres d\u00e9tenus aupr\u00e9s d\u2019un interm\u00e9diaire: le projet de convention de la Hayes de D\u00e9cembre",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 122,
+            "top": 658,
+            "left": 185
+        }
+    },
+    {
+        "page": 435,
+        "heading": "\u2018The Commercial Doctrine of Good Faith Purchase\u2019 (1954) 63 Yale Law Journal 1057\u2014",
+        "content": "1122.  Girsberger, Daniel. \u2018Die Haager Prinzipien tiber die Rechtwahl in internationalen kommer- ziellen Vertragen\u2019 (2014) 24 Schweizerische Zeitschrift fiir internationales und europ4i-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 17,
+            "top": 298,
+            "left": 489
+        }
+    },
+    {
+        "page": 436,
+        "heading": "Goode, Roy. \u2018Are Intangible Assets Fungible?\u2019 (2003) Lloyd\u2019s Maritime and Commercial",
+        "content": "Law Quarterly 379-388.  \u2014 \u2018Security Entitlements as Collateral and the Conflict of Laws\u2019 (1998) Oxford Colloqui- um on Collateral and Conflict of Law, Special Supplement to Butterworths Journal of",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 582,
+            "top": 165,
+            "left": 154
+        }
+    },
+    {
+        "page": 437,
+        "heading": "Haubold, Jens. \u2018\u201cRIMA \u2014 Kollisionsregel mit materiellrechtlichem Kern\u2019 (2005) 9 RIW",
+        "content": "656-660.  Hausmann, Jens. \u2018The Value of Public-Notice Filing under Uniform Commercial Code Article 9: A Comparison with the German Legal System of Securities in Personal Prop-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 586,
+            "top": 127,
+            "left": 185
+        }
+    },
+    {
+        "page": 437,
+        "heading": "Johnson, Adam. \u2018Chapter 1: The Law Applicable to Shares\u2019 in Hans van Houtte (ed), The",
+        "content": "Law of Cross-Border Securities Transactions (London, Sweet & Maxwell 1999) 1.01\u2014 1.18.  Jouve, Edmond. \u2018La jurisfrancit\u00e9 et l\u2019\u00e9mergence d\u2019une francophonie politique\u2019 (1999)",
+        "features": {
+            "font_id": "17",
+            "height": 9,
+            "width": 8,
+            "top": 277,
+            "left": 663
+        }
+    },
+    {
+        "page": 438,
+        "heading": "\u2018Les innovations du Trait\u00e9 OHADA r\u00e9vis\u00e9\u2019 (2009) Revue uniforme de droit africain 5\u2014",
+        "content": "8.  \u2014 \u2018L\u2019abandon de souverainet\u00e9 dans le Trait\u00e9 OHADA\u2019 (1999) 830 Penant: revue trimes- trielle de droit africain 125-134.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 579,
+            "top": 582,
+            "left": 154
+        }
+    },
+    {
+        "page": 438,
+        "heading": "\u2018Die Zukunft des deutschen und europdischen Mobiliarkreditsicherungsrechts\u2019 (2008)",
+        "content": "208 Archiv fir die civilistische Praxis 182-226. ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 16,
+            "top": 601,
+            "left": 175
+        }
+    },
+    {
+        "page": 440,
+        "heading": "Lin, Tom C.W. \u2018Infinite Financial Intermediation\u2019 (2015) 50 Wake Forest Law Review",
+        "content": "643-669.  Linhart, Karin. Internationales Einheitsrecht und einheitliche Auslegung (Mohr Siebeck, Tiibingen 2005).",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 585,
+            "top": 336,
+            "left": 154
+        }
+    },
+    {
+        "page": 440,
+        "heading": "Magnier, V\u00e9ronique. \u2018Le nantissement d\u2019actions indisponibles\u2019 (2002) RTD com. 433\u2014",
+        "content": " 447.  Malaurie, Philippe & Ayn\u00e9s, Laurent. Droit civil. Les biens (4\u00b0 edition, D\u00e9fr\u00e9mois, Paris",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 579,
+            "top": 620,
+            "left": 154
+        }
+    },
+    {
+        "page": 440,
+        "heading": "Malaurie, Philippe & Ayn\u00e9s, Laurent. Droit civil. Les biens (4\u00b0 edition, D\u00e9fr\u00e9mois, Paris",
+        "content": " 2010).  Malcolm, Walker D. \u2018The Uniform Commercial Code in the United States\u2019 (1963) 12",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 142,
+            "top": 658,
+            "left": 404
+        }
+    },
+    {
+        "page": 440,
+        "heading": "Malcolm, Walker D. \u2018The Uniform Commercial Code in the United States\u2019 (1963) 12",
+        "content": " International & Comparative Law Quarterly 226-246.  Mankou-Nguila, Armand Charlebois. \u2018La notion de si\u00e9ge social en droit OHADA: br\u00e9ve",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 586,
+            "top": 696,
+            "left": 154
+        }
+    },
+    {
+        "page": 441,
+        "heading": "Business Law in Africa: OHADA and the Harmonisation Process (Eversheds, London",
+        "content": "2002).  Masamba, Roger. L\u2019OHADA en RDC: Manuel de vulgarisation (Commission nationale OHADA, Kinshasa 2012).",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 424,
+            "top": 165,
+            "left": 206
+        }
+    },
+    {
+        "page": 442,
+        "heading": "denmiiller & Eva-Maria Kieninger (eds), The Future of Secured Credit in Europe (De",
+        "content": " Gruyter Recht, Munich 2008) 364-372.  Moss, Gabriel. \u2018Intermediated Securities: Issues Arising on Insolvency\u2019 in Louise Gullifer",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 260,
+            "top": 507,
+            "left": 444
+        }
+    },
+    {
+        "page": 442,
+        "heading": "Moss, Gabriel. \u2018Intermediated Securities: Issues Arising on Insolvency\u2019 in Louise Gullifer",
+        "content": " & Jennifer Payne (eds), Intermediated Securities, Legal Problems and Practical Issues  (Hart Publishing, Oxford 2010) 61-68.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 583,
+            "top": 544,
+            "left": 154
+        }
+    },
+    {
+        "page": 442,
+        "heading": "& Jennifer Payne (eds), Intermediated Securities, Legal Problems and Practical Issues",
+        "content": " (Hart Publishing, Oxford 2010) 61-68.  Mouhouain, Salifou. \u2018Br\u00e9ves r\u00e9flexions a propos de l\u2019usage du terme \u00ab investisseur \u00bb dans",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 302,
+            "top": 203,
+            "left": 436
+        }
+    },
+    {
+        "page": 443,
+        "heading": "Ooi, Maisie. \u2018The Ramifications of Fragmentation in the Choice of Law for Shares\u2019 (2016)",
+        "content": "12 Journal of Private International Law 416-435.  \u2014 \u2018Intermediated Securities: The Choice of a Choice of Law Rule\u2019 in Louise Gullifer and Jennifer Payne (eds), Intermediated Securities: Legal Problems and Practical Issues",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 583,
+            "top": 260,
+            "left": 185
+        }
+    },
+    {
+        "page": 443,
+        "heading": "Shares and Other Securities in the Conflict of Laws (Oxford University Press, Oxford",
+        "content": "2003).  Oppong Frimpong, Richard. \u2018Globalization and Private International Law in Common- wealth Africa\u2019 (2014) 36 University of Arkansas at Little Rock Law Review 153-160.",
+        "features": {
+            "font_id": "13",
+            "height": 14,
+            "width": 336,
+            "top": 393,
+            "left": 206
+        }
+    },
+    {
+        "page": 443,
+        "heading": "Orlov, Vladimir. \u2018Updated International Private Law of Russia\u2019 (2017) 3 Athens Journal of",
+        "content": "Law 75-97.  Pacces, Alessio M. \u2018Financial Intermediation in the Securities Markets: Law and Econom- ics of Conduct of Business Regulation\u2019 (2000) 20 International Review of Law & Eco-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 583,
+            "top": 544,
+            "left": 185
+        }
+    },
+    {
+        "page": 443,
+        "heading": "Paech, Philipp. \u2018Market Needs a Paradigm \u2014 Breaking Up the Thinking on EU Securities",
+        "content": "Law\u2019 in Pierre-Henry Conac, Ulrich Segna & Luc Th\u00e9venoz (eds), Intermediated Secu- rities \u2014 The Impact of the Geneva Securities Convention and the Future European Leg- islation (Cambridge University Press, Cambridge 2013) 22-64. ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 584,
+            "top": 658,
+            "left": 185
+        }
+    },
+    {
+        "page": 444,
+        "heading": "Potok, Richard. \u2018The Hague Securities Convention \u2014 Closer and Closer to Reality\u2019 (2004)",
+        "content": "15 Journal of Banking and Finance Law and Practice 204.  \u2018Legal Certainty for Securities Held as Collateral\u2019 (1999) 18 International Financial Law Review 12-16.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 583,
+            "top": 184,
+            "left": 154
+        }
+    },
+    {
+        "page": 444,
+        "heading": "\u2018Legal Certainty for Securities Held as Collateral\u2019 (1999) 18 International Financial",
+        "content": "Law Review 12-16.  Potok, Richard, Morton, Guy & Maffei, Antoine. \u2018The Legal Regime of Securities: The Need for a New Deal in Securities Law\u2019 (2003) Business Law International 226-233.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 585,
+            "top": 222,
+            "left": 154
+        }
+    },
+    {
+        "page": 444,
+        "heading": "Reitz, John. \u2018How to do Comparative Law\u2019 (1998) 46 American Journal of Comparative",
+        "content": "Law 617-636.  Rentsch, Uli. Das Haager Wertpapieriibereinkommen (Verlag Dr. Kovac, Hamburg 2008). ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 584,
+            "top": 696,
+            "left": 154
+        }
+    },
+    {
+        "page": 445,
+        "heading": "\u2018Policy Perspectives on Revized U.C.C. Article 8\u2019 (1996) 43 UCLA Law Review 1431-\u2014",
+        "content": "1545.  R6\u00e9gner, Herbert. \u2018Inconsistencies Between the Hague Securities Convention and German Law\u2019 (2006) 2 Zeitschrift fiir Bankrecht und Bankwirtschaft 98-106.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 579,
+            "top": 184,
+            "left": 185
+        }
+    },
+    {
+        "page": 445,
+        "heading": "R6\u00e9gner, Herbert. \u2018Inconsistencies Between the Hague Securities Convention and German",
+        "content": "Law\u2019 (2006) 2 Zeitschrift fiir Bankrecht und Bankwirtschaft 98-106.  Rosas, Alan. \u2018The Status in EU Law of International Agreements Concluded by EU Mem- ber States\u2019 (2011) 34(5) Fordham International Law Journal 1304-1345.",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 584,
+            "top": 222,
+            "left": 185
+        }
+    },
+    {
+        "page": 446,
+        "heading": "Smith, Bradley Y. \u2018New Article 9 Transition Rules\u2019 (1999) 74 Chicago-Kent Law Review",
+        "content": "1339-1355.  Smith, Richard B. \u2018A Piece of Paper Revisited\u2019 (1971) 26 Business Lawyer 1769-1777. ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 583,
+            "top": 544,
+            "left": 154
+        }
+    },
+    {
+        "page": 447,
+        "heading": "Van Loon, Hans. \u2018News from The Hague, The Hague Conference on Private International",
+        "content": "Law, Work in Progress (2002\u20142003)\u2019 (2003) 5 Yearbook of Private International Law 169-176.  \u2018Globalisation and the Hague Conference on Private International Law\u2019 (2000) 2 Inter-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 583,
+            "top": 412,
+            "left": 185
+        }
+    },
+    {
+        "page": 447,
+        "heading": "Whinkop, Michael & Keyes, Mary. \u2018Putting the \u201cPrivate\u201d Back into Private International",
+        "content": "Law: Default Rules and the Proper Law of the Contract\u2019 (1997) 21 Melbourne Universi- ty Law Review 515-543.  von Wilmowsky, Peter. Europdisches Kreditsicherungsrecht: Sachenrecht und Insolvenz-",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 582,
+            "top": 810,
+            "left": 185
+        }
+    },
+    {
+        "page": 450,
+        "heading": "accession",
+        "content": " \u2014 to the Geneva Securities Convention 101 ",
+        "features": {
+            "font_id": "12",
+            "height": 14,
+            "width": 64,
+            "top": 308,
+            "left": 154
+        }
+    }
+]
