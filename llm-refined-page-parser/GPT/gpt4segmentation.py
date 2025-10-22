@@ -3,7 +3,6 @@
 """
 Created on Mon Feb 17 18:15:03 2025
 
-@author: sabine
 """
 
 import os
@@ -15,7 +14,6 @@ from collections import Counter
 import chardet
 import csv
 import io
-from fuzzywuzzy import fuzz
 import tiktoken
 from tqdm import tqdm
 
@@ -24,7 +22,7 @@ from tqdm import tqdm
 openai.api_key = "INSERT_OPENAI_API_KEY_HERE"  # Replace with your actual OpenAI API key
 
 # Ensure output directory exists
-os.makedirs("./title_candidates", exist_ok=True)
+os.makedirs("./outputs_gpt-4_xml/title_candidates", exist_ok=True)
 
 def count_tokens(text, model="gpt-4"):
     """Uses tiktoken to count tokens accurately."""
@@ -127,7 +125,7 @@ def extract_text_with_metadata(xml_path):
     
     return extracted_data, baseline_fonts, most_common_fonts, most_common_font_ids
 
-def save_text_as_csv(data, filename, folder="./title_candidates"):
+def save_text_as_csv(data, filename, folder="./outputs_gpt-4_xml/title_candidates"):
     os.makedirs(folder, exist_ok=True)
     path = os.path.join(folder, filename)
     
@@ -142,7 +140,7 @@ def save_text_as_csv(data, filename, folder="./title_candidates"):
         print(f"[ERROR] Failed to save CSV: {e}")
 
 # Save text output (for debugging and logs)
-def save_text(data, filename, folder="./title_candidates"):
+def save_text(data, filename, folder="./outputs_gpt-4_xml/title_candidates"):
     os.makedirs(folder, exist_ok=True)
     path = os.path.join(folder, filename)
     try:
@@ -233,7 +231,7 @@ def refine_titles_and_assign_hierarchy(title_candidates, xml_filename, max_conte
         
     
     
-    save_text_as_csv(refined_titles, f"titles_{xml_filename}.csv", folder="./title_candidates")
+    save_text_as_csv(refined_titles, f"titles_{xml_filename}.csv", folder="./outputs_gpt-4_xml/title_candidates")
     
     return refined_titles
 
@@ -265,11 +263,11 @@ def process_title_batch(batch, previous_titles, xml_filename, system_prompt, mod
             return extract_titles(response_text)
         except json.JSONDecodeError as e:
             print(f"[ERROR] JSON decoding failed: {e}")
-            save_text(f"JSON decoding failed: {e} Response: {response_text}", f"error_titles_{xml_filename}.txt", folder="./title_candidates")
+            save_text(f"JSON decoding failed: {e} Response: {response_text}", f"error_titles_{xml_filename}.txt", folder="./outputs_gpt-4_xml/title_candidates")
             return []
     except Exception as e:
         print(f"[ERROR] GPT-4 Invocation Failed: {e}")
-        save_text(f"GPT-4 invocation failed: {e}\n\n {prompt_content}", f"error_titles_{xml_filename}.txt", folder="./title_candidates")
+        save_text(f"GPT-4 invocation failed: {e}\n\n {prompt_content}", f"error_titles_{xml_filename}.txt", folder="/outputs_gpt-4_xml/title_candidates")
         return []
 
 
@@ -306,8 +304,8 @@ def process_textbook_structure(xml_path):
 
 
 # Process all XML files in the folder
-xml_folder = "./xml/"
-xml_files = sorted(glob.glob(os.path.join(xml_folder, "*.xml")))[19:23]
+xml_folder = "../../data/xml/"
+xml_files = sorted(glob.glob(os.path.join(xml_folder, "*.xml")))
 
 for xml_file in xml_files:
     print(f"[INFO] Processing: {xml_file}")
