@@ -19,11 +19,16 @@ You can find the dataset here:
     
 ## Steps for the Reproduction of the Experiments
 Note: We are currently updating this part of the code with the new LLM-Refined PageParser experiments, stay tuned!
-### TOC-based PageParser and LLM-Refined PageParser
+### TOC-Based PageParser and LLM-Refined PageParser
 1. Make sure you have poppler-utils installed, including [pdftohtml](https://manpages.debian.org/testing/poppler-utils/pdftohtml.1.en.html)
 2. [pdftoxml.py](./toc-based-page-parser/pdftoxml.py)
-3. [gpt4segmentation.py](./gpt4segmentation.py), make sure to enter your personal OpenAI Api key (running this script will cause costs). After this, a folder title_candidates will be created with LLM CSV output and error logs. There is minimal manual effort required to clean the resulting CSV files. Simply remove any output which is an explanation instead of a title candidate and store the corrected files in the title_candidates_clean folder. Since we assume reproducing the experiments with a proprietary LLM like GPT-4 may not be feasible, we included our output in the [title_candidates_clean](./title_candidates_clean) folder. You can therefore download the files and proceed with step 4 without querying the LLM again.
-4. [toc_processing_segmentation.ipynb](./toc-based-page-parser/toc_processing_segmentation.ipynb)
+3. [toc_processing_segmentation.ipynb](./toc-based-page-parser/toc_processing_segmentation.ipynb)
+
+### LLM-Refined PageParser
+1. Make sure you ran [pdftoxml.py](./toc-based-page-parser/pdftoxml.py) before starting the GPT experiments.
+2. To run the GPT4-XML experiment [gpt4segmentation.py](./llm-refined-page-parser/GPT/gpt4segmentation.py), make sure to enter your personal OpenAI Api key (running this script will cause costs). After this, a folder title_candidates will be created with LLM CSV output and error logs. There is minimal manual effort required to clean the resulting CSV files. Simply remove any output which is an explanation instead of a title candidate and store the corrected files in the title_candidates_clean folder. Since we assume reproducing the experiments with a proprietary LLM like GPT-4 may not be feasible, we included our output in the [title_candidates_clean](./llm-refined-page-parser/GPT/outputs_gpt-4_xml/title_candidates_clean/) folder. You can therefore download the files and proceed with the evaluation without querying the LLM again.
+3. To run the GPT4-XML_OCR experiment or the GPT5-XML_OCR experiment, simply run [gpt4segmentation_ocr_xml.py](./llm-refined-page-parser/GPT/gpt4segmentation_ocr_xml.py), after selecting the desired model and entering your api key.
+4. The code for Phi4 and Llama3 will be added soon!
 
 ### Pdfstructure
 1. Get the repo from here: [https://github.com/ChrizH/pdfstructure](https://github.com/ChrizH/pdfstructure)
