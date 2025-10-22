@@ -49,9 +49,8 @@ Note: We are currently updating this part of the code with the new LLM-Refined P
 3. Run python [./marker/convert_pdfs_with_structure.py](./marker/convert_pdfs_with_structure.py)
 
 ### Evaluation 
-1. [evaluate_hierarchies.ipynb](evaluate_hierarchies.ipynb) (it is important to run this evaluation before evaluate_toc.ipynb)
-2. [evaluate_toc.ipynb](evaluate_toc.ipynb)
-3. [evaluate_segments.ipynb](evaluate_segments.ipynb)
+1. [evaluate_toc.ipynb](evaluate_toc.ipynb)
+2. [evaluate_segments.ipynb](evaluate_segments.ipynb)
 
 ### Issue Tracker
 - Please report any inconsistencies or doubtful ground truth entries as a regular repository issue. 
