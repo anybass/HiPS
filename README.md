@@ -26,7 +26,7 @@ Two versions of the paper exist:
 For the complete description of HiPS and the experiments provided in this repository, please cite the extended arXiv preprint:
 
 ```bibtex
-@misc{wehnert2025hips,
+@misc{wehnert2026hips,
   title         = {{HiPS}: Hierarchical {PDF} Segmentation of Doctrinal Legal Books},
   author        = {Wehnert, Sabine and Changaramkulath, Harikrishnan and Habernal, Ivan},
   year          = {2026},
