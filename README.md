@@ -11,6 +11,34 @@ Here, you will find:
   <li> 📚 An issue tracker for the dataset</li>
 </ul>
 
+## Publication
+
+This repository accompanies the following paper:
+
+**Sabine Wehnert, Harikrishnan Changaramkulath, and Ivan Habernal.
+“HiPS: Hierarchical PDF Segmentation of Doctrinal Legal Books.”**
+
+Two versions of the paper exist:
+
+* **[Extended arXiv preprint](https://arxiv.org/abs/2509.00909):** This is the complete version of the paper and contains all experiments, additional results, appendices, bug fixes, and methodological details.
+* **ICAIL 2026 demo paper:** A shorter version of the paper was accepted and presented as a demo paper at the International Conference on Artificial Intelligence and Law (ICAIL 2026). The official proceedings citation and BibTeX entry will be added once they become available.
+
+For the complete description of HiPS and the experiments provided in this repository, please cite the extended arXiv preprint:
+
+```bibtex
+@misc{wehnert2025hips,
+  title         = {{HiPS}: Hierarchical {PDF} Segmentation of Doctrinal Legal Books},
+  author        = {Wehnert, Sabine and Changaramkulath, Harikrishnan and Habernal, Ivan},
+  year          = {2026},
+  eprint        = {2509.00909},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.IR},
+  doi           = {10.48550/arXiv.2509.00909},
+  url           = {https://arxiv.org/abs/2509.00909}
+}
+```
+
+
 ## Dataset
 You can find the dataset here:
 - The [Original PDF files](./data/PDFs/) (see [attribution](./data/data_sources.csv) ) and [license information](LICENSE_DATA.md) 
